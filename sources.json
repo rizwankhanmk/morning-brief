@@ -1,0 +1,99 @@
+{
+  "_note": "RSS/Atom feeds to try first. If a feed fails or returns nothing fresh, fall back to web search for that section. Edit freely.",
+  "weather": {
+    "api": "https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone={tz}&forecast_days=1",
+    "cities": [
+      {
+        "city": "Singapore",
+        "lat": 1.3521,
+        "lon": 103.8198,
+        "tz": "Asia/Singapore"
+      },
+      {
+        "city": "Navi Mumbai",
+        "lat": 19.033,
+        "lon": 73.0297,
+        "tz": "Asia/Kolkata"
+      }
+    ],
+    "icon_map": {
+      "0-1": "sun",
+      "2": "partly-cloudy",
+      "3": "cloudy",
+      "45-48": "haze",
+      "51-67": "rain",
+      "80-82": "rain",
+      "95-99": "thunder"
+    },
+    "fallback": "web search '{city} weather today' and read today's high, low and sky"
+  },
+  "stocks": {
+    "tickers": [
+      {
+        "display": "AAPL",
+        "yahoo": "AAPL",
+        "name": "Apple",
+        "currency": "US$"
+      },
+      {
+        "display": "GOOGL",
+        "yahoo": "GOOGL",
+        "name": "Alphabet",
+        "currency": "US$"
+      },
+      {
+        "display": "DBS",
+        "yahoo": "D05.SI",
+        "name": "DBS Group",
+        "currency": "S$"
+      }
+    ],
+    "yahoo_chart": "https://query1.finance.yahoo.com/v8/finance/chart/{yahoo}?range=5d&interval=1d",
+    "fallback": "web search '{name} stock close' and read the latest regular-session close"
+  },
+  "apple_official": [
+    "https://www.apple.com/newsroom/rss-feed.rss"
+  ],
+  "apple_other": [
+    "https://feeds.macrumors.com/MacRumors-All",
+    "https://appleinsider.com/rss/news",
+    "https://www.theverge.com/apple/rss/index.xml"
+  ],
+  "apple_9to5mac": [
+    "https://9to5mac.com/feed/"
+  ],
+  "singapore": [
+    "https://www.straitstimes.com/news/singapore/rss.xml",
+    "https://mothership.sg/feed/"
+  ],
+  "india": [
+    "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "https://www.thehindu.com/news/national/feeder/default.rss",
+    "https://feeds.feedburner.com/ndtvnews-top-stories"
+  ],
+  "world": [
+    "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://feeds.npr.org/1004/rss.xml",
+    "https://www.aljazeera.com/xml/rss/all.xml"
+  ],
+  "ai_singapore": [
+    "https://www.straitstimes.com/tech/rss.xml",
+    "web search: 'Singapore AI' past 2 days"
+  ],
+  "ai_singapore_startups": [
+    "https://www.techinasia.com/feed",
+    "https://e27.co/feed/",
+    "https://www.dealstreetasia.com/feed/",
+    "web search: 'Singapore AI startup raises' past 2 days",
+    "web search: 'Singapore AI startup hiring' past 2 days"
+  ],
+  "ai_usa": [
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "https://www.technologyreview.com/feed/"
+  ],
+  "ai_china_world": [
+    "https://www.scmp.com/rss/36/feed",
+    "web search: 'China AI' past 2 days"
+  ]
+}
