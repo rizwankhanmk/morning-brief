@@ -12,7 +12,6 @@ Do not restyle here. Change template.html if the design needs to change.
 """
 import html
 import json
-import os
 import pathlib
 import sys
 from datetime import date
@@ -29,11 +28,21 @@ DOWN = "#C8372D"
 HAIR = "#E5E5EA"
 FONT = "-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',Roboto,Helvetica,Arial,sans-serif"
 
-# Where the animated weather GIFs are served from. The repo must be public for
-# the GitHub raw URL to work; override with MB_ICON_BASE or "icon_base" in the JSON.
-ICON_BASE = "https://raw.githubusercontent.com/rizwankhanmk/morning-brief/main/assets/weather"
-ICON_ALT = {"sun": "\u2600\ufe0f", "partly-cloudy": "\u26c5", "cloudy": "\u2601\ufe0f",
-            "rain": "\U0001f327\ufe0f", "thunder": "\u26c8\ufe0f", "haze": "\U0001f32b\ufe0f"}
+# Weather shows as a plain emoji (renders natively in every mail app, no images).
+WEATHER_EMOJI = {"sun": "\u2600\ufe0f", "partly-cloudy": "\U0001f324\ufe0f", "cloudy": "\u2601\ufe0f",
+                 "showers": "\U0001f326\ufe0f", "rain": "\U0001f327\ufe0f", "thunder": "\u26c8\ufe0f", "haze": "\U0001f32b\ufe0f"}
+
+# One colour per section: used for the section title and its group labels.
+SECTION_COLOURS = {
+    "Apple": "#0071E3",
+    "Singapore": "#D23B2F",
+    "India": "#E0861B",
+    "World": "#1E8E5A",
+    "AI in Singapore": "#7B4FD9",
+    "Singapore AI startups": "#C2367F",
+    "AI in the United States": "#0E8C9E",
+    "AI in China and worldwide": "#B0821A",
+}
 
 # Expected item counts, checked after rendering (warnings only — never blocks sending).
 EXPECTED = {
@@ -57,33 +66,24 @@ def nice_date(iso: str) -> str:
     return d.strftime("%A, %-d %B %Y")
 
 
-def render_weather(weather, icon_base) -> str:
+def render_weather(weather) -> str:
     if not weather:
         return ""
-    cells = []
-    for w in weather:
-        icon = w.get("icon", "cloudy")
-        src = f"{icon_base.rstrip('/')}/{icon}.gif"
-        alt = ICON_ALT.get(icon, "")
-        cells.append(
-            f"""
-                    <td class="wx" valign="middle" style="padding:0 0 0 22px;">
-                      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
-                        <tr>
-                          <td class="wxc" valign="middle" style="padding:0 8px 0 0;"><img class="wxi" src="{esc(src)}" width="44" height="44" alt="{alt}" style="display:block;width:44px;height:44px;border:0;"></td>
-                          <td valign="middle">
-                            <p style="margin:0 0 2px 0;font-family:{FONT};font-size:12px;line-height:1.3;font-weight:500;color:{SOFT};">{esc(w['city'])}</p>
-                            <p style="margin:0;font-family:{FONT};font-size:16px;line-height:1.3;font-weight:600;color:{INK};">{int(round(float(w['high'])))}&deg; <span style="font-weight:400;color:{SOFT};">/ {int(round(float(w['low'])))}&deg;</span></p>
-                          </td>
-                        </tr>
-                      </table>
-                    </td>"""
+    blocks = []
+    for i, w in enumerate(weather):
+        emoji = WEATHER_EMOJI.get(w.get("icon", "cloudy"), WEATHER_EMOJI["cloudy"])
+        hi = int(round(float(w["high"])))
+        lo = int(round(float(w["low"])))
+        margin = "0" if i == 0 else "22px"
+        blocks.append(
+            f"""<span style="display:inline-block;vertical-align:middle;white-space:nowrap;margin-left:{margin};text-align:left;">"""
+            f"""<span style="display:inline-block;vertical-align:middle;font-size:26px;line-height:1;margin-right:7px;">{emoji}</span>"""
+            f"""<span style="display:inline-block;vertical-align:middle;line-height:1.25;">"""
+            f"""<span style="font-family:{FONT};font-size:11px;font-weight:500;color:{SOFT};">{esc(w['city'])}</span><br>"""
+            f"""<span style="font-family:{FONT};font-size:15px;font-weight:600;color:{INK};">{hi}&deg;<span style="font-weight:400;color:{SOFT};"> / {lo}&deg;</span></span>"""
+            f"""</span></span>"""
         )
-    return f"""
-                  <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="right">
-                    <tr>{''.join(cells)}
-                    </tr>
-                  </table>"""
+    return "            " + "".join(blocks)
 
 
 def render_stocks(stocks, note) -> str:
@@ -97,10 +97,10 @@ def render_stocks(stocks, note) -> str:
         change = f"{float(s['change']):+.2f}"
         cells.append(
             f"""
-            <td width="{width}" valign="top" style="padding:0 10px 0 0;">
-              <p style="margin:0 0 4px 0;font-family:{FONT};font-size:13px;line-height:1.4;font-weight:500;color:{SOFT};">{esc(s['ticker'])}<span class="nm"> &nbsp;{esc(s.get('name',''))}</span></p>
-              <p class="price" style="margin:0 0 4px 0;font-family:{FONT};font-size:28px;line-height:1.15;font-weight:600;letter-spacing:-0.01em;color:{INK};"><span style="font-size:15px;font-weight:500;color:{SOFT};">{esc(cur)}</span>{float(s['price']):,.2f}</p>
-              <p class="chg" style="margin:0;font-family:{FONT};font-size:14px;line-height:1.4;font-weight:500;white-space:nowrap;color:{colour};">{arrow} {change} &nbsp;({pct:+.2f}%)</p>
+            <td width="{width}" valign="top" style="padding:0 6px 0 0;">
+              <p style="margin:0 0 3px 0;font-family:{FONT};font-size:12px;line-height:1.4;font-weight:500;color:{SOFT};white-space:nowrap;">{esc(s['ticker'])}</p>
+              <p style="margin:0 0 3px 0;font-family:{FONT};font-size:23px;line-height:1.15;font-weight:600;letter-spacing:-0.01em;color:{INK};white-space:nowrap;"><span style="font-size:12px;font-weight:500;color:{SOFT};">{esc(cur)}</span>{float(s['price']):,.2f}</p>
+              <p style="margin:0;font-family:{FONT};font-size:12px;line-height:1.4;font-weight:500;white-space:nowrap;color:{colour};">{arrow} {change} ({pct:+.2f}%)</p>
             </td>"""
         )
     return f"""
@@ -108,7 +108,7 @@ def render_stocks(stocks, note) -> str:
               <tr>{''.join(cells)}
               </tr>
             </table>
-            <p style="margin:0 0 30px 0;font-family:{FONT};font-size:12px;line-height:1.5;color:#8E8E93;">{esc(note)}</p>"""
+            <p style="margin:0 0 26px 0;font-family:{FONT};font-size:12px;line-height:1.5;color:#8E8E93;">{esc(note)}</p>"""
 
 
 def render_item(item) -> str:
@@ -127,11 +127,12 @@ def render_item(item) -> str:
 
 def render_section(section) -> str:
     subtitle = section.get("subtitle", "")
+    colour = SECTION_COLOURS.get(section["title"], INK)
     out = [
         f"""
               <tr>
                 <td style="padding:24px 0 16px 0;border-top:1px solid {HAIR};">
-                  <p style="margin:0;font-family:{FONT};font-size:20px;line-height:1.3;font-weight:600;letter-spacing:-0.01em;color:{INK};">{esc(section['title'])}</p>"""
+                  <p style="margin:0;font-family:{FONT};font-size:20px;line-height:1.3;font-weight:600;letter-spacing:-0.01em;color:{colour};">{esc(section['title'])}</p>"""
         + (f"""
                   <p style="margin:4px 0 0 0;font-family:{FONT};font-size:13px;line-height:1.4;color:{SOFT};">{esc(subtitle)}</p>""" if subtitle else "")
         + """
@@ -152,7 +153,7 @@ def render_section(section) -> str:
               <tr>
                 <td style="padding:0 0 26px 0;">"""
             + (f"""
-                  <p style="margin:0 0 6px 0;font-family:{FONT};font-size:13px;line-height:1.4;font-weight:600;color:{SOFT};">{esc(label)}</p>""" if label else "")
+                  <p style="margin:0 0 6px 0;font-family:{FONT};font-size:13px;line-height:1.4;font-weight:600;color:{colour};">{esc(label)}</p>""" if label else "")
             + f"""
                   <p style="margin:0 0 7px 0;font-family:{FONT};font-size:15px;line-height:1.55;color:{INK};">{esc(brief['summary'])}</p>
                   <p style="margin:0;font-family:{FONT};font-size:13px;line-height:1.5;font-weight:500;color:{SOFT};">{prefix}{links}</p>
@@ -165,7 +166,7 @@ def render_section(section) -> str:
                 f"""
               <tr>
                 <td style="padding:2px 0 12px 0;">
-                  <p style="margin:0;font-family:{FONT};font-size:13px;line-height:1.4;font-weight:600;color:{SOFT};">{esc(group['label'])}</p>
+                  <p style="margin:0;font-family:{FONT};font-size:13px;line-height:1.4;font-weight:600;color:{colour};">{esc(group['label'])}</p>
                 </td>
               </tr>"""
             )
@@ -176,9 +177,9 @@ def render_section(section) -> str:
 
 
 def render_text(data) -> str:
-    lines = [f"MORNING BRIEF — {nice_date(data['date'])}", ""]
+    lines = [f"MORNING BRIEF, {nice_date(data['date'])}", ""]
     for w in data.get("weather", []):
-        lines.append(f"{w['city']}: {int(round(float(w['high'])))}° / {int(round(float(w['low'])))}°, {w.get('icon','')}")
+        lines.append(f"{WEATHER_EMOJI.get(w.get('icon',''),'')} {w['city']}: {int(round(float(w['high'])))}° / {int(round(float(w['low'])))}°")
     lines += ["", data.get("lede", ""), ""]
     for s in data["stocks"]:
         lines.append(f"{s['ticker']}  {s.get('currency','')}{float(s['price']):,.2f}  {float(s['change']):+.2f} ({float(s['change_pct']):+.2f}%)")
@@ -234,7 +235,7 @@ def main(path: str):
     html_out = (
         TEMPLATE.replace("{{TITLE}}", esc(f"Morning brief, {nice_date(data['date'])}"))
         .replace("{{DATE_LINE}}", esc(nice_date(data["date"])))
-        .replace("{{WEATHER}}", render_weather(data.get("weather", []), os.environ.get("MB_ICON_BASE") or data.get("icon_base") or ICON_BASE))
+        .replace("{{WEATHER}}", render_weather(data.get("weather", [])))
         .replace("{{LEDE}}", esc(data.get("lede", "")))
         .replace("{{STOCKS}}", render_stocks(data["stocks"], data.get("stocks_note", "")))
         .replace("{{SECTIONS}}", "".join(render_section(s) for s in data["sections"]))

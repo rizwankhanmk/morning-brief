@@ -21,11 +21,21 @@
       "2": "partly-cloudy",
       "3": "cloudy",
       "45-48": "haze",
-      "51-67": "rain",
-      "80-82": "rain",
+      "51-57": "showers",
+      "61-67": "rain",
+      "80-82": "showers",
       "95-99": "thunder"
     },
-    "fallback": "web search '{city} weather today' and read today's high, low and sky"
+    "fallback": "web search '{city} weather today' and read today's high, low and sky",
+    "emoji": {
+      "sun": "☀️",
+      "partly-cloudy": "🌤️",
+      "cloudy": "☁️",
+      "showers": "🌦️",
+      "rain": "🌧️",
+      "thunder": "⛈️",
+      "haze": "🌫️"
+    }
   },
   "stocks": {
     "tickers": [

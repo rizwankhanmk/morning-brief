@@ -2,7 +2,7 @@
 
 A Claude scheduled task that emails me a morning brief every day and archives each issue in this repo.
 
-Each issue has: AAPL, GOOGL and DBS closing prices, nine Apple stories (official, wider coverage, 9to5Mac), five Singapore stories, five from India, five from the rest of the world, and five each on AI in Singapore, the US, and China/worldwide. Every story is a 3 to 5 line summary with the source name as a link.
+Each issue has: today's weather for Singapore and Navi Mumbai, AAPL, GOOGL and DBS closing prices, nine Apple stories (official, wider coverage, 9to5Mac), five Singapore stories, five from India, five from the rest of the world, and five each on AI in Singapore, the US, and China/worldwide. Every story is a 3 to 5 line summary with the source name as a link.
 
 The design never changes between issues: it lives in `template.html`, and `build.py` only fills in the content.
 
@@ -38,11 +38,9 @@ Open the run from the task page and read the transcript. A green tick only means
 
 Then check your inbox, and look for the `briefs` branch on GitHub.
 
-## Weather icons
+## Weather
 
-The header shows today's high and low for Singapore and Navi Mumbai with small animated icons. The icons are GIFs in `assets/weather/` (drawn by `make_icons.py`, so you can regenerate or restyle them). The email loads them from this repo's raw GitHub URL, which only works if the repository is **public**. If you want to keep it private, put the six GIFs on any public web host and set `"icon_base"` in the day's JSON (the prompt can carry it) or the `MB_ICON_BASE` environment variable in the cloud environment.
-
-If you use a custom network allowlist instead of Full access, add `api.open-meteo.com` (weather) and `raw.githubusercontent.com` (icons).
+The top line shows today's high and low for Singapore and Navi Mumbai with a weather emoji, fetched from Open-Meteo (free, no key). If you use a custom network allowlist instead of Full access, add `api.open-meteo.com`.
 
 ## Changing the design
 

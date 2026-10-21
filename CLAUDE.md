@@ -6,6 +6,7 @@ A daily email brief for Rizwan: today's weather for Singapore and Navi Mumbai, t
 
 - `template.html` holds the entire design. Never change it in a scheduled run.
 - `build.py` turns `briefs/YYYY-MM-DD.json` into `briefs/YYYY-MM-DD.html` (the email) and `.txt` (plain-text twin). Standard library only. Never change it in a scheduled run.
+- The email must stay fluid and self-contained: the Gmail connector strips `<head>`, `<style>` and remote images, so every style is inline and the weather uses emoji, not images. No heading in the body; the subject line carries the date.
 - `briefs/2026-10-21.json` is the reference shape. Every day's JSON must use the same keys, section titles, group labels and order.
 - `sources.json` lists feeds to try first; web search is the fallback.
 - `PROMPT.md` is the scheduled task prompt.
