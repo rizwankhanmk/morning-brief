@@ -3,48 +3,28 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light">
-<meta name="supported-color-schemes" content="light">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark">
 <title>{{TITLE}}</title>
 <style>
-  /* Email clients that honour <style> get these refinements; everything essential is inline. */
-  body { margin: 0; padding: 0; background: #F3F3F1; -webkit-text-size-adjust: 100%; }
+  /* Some clients drop this block entirely, so nothing below is relied on. */
+  body { margin: 0; padding: 0; -webkit-text-size-adjust: 100%; }
   a { color: #0071E3; text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  @media only screen and (max-width: 640px) {
-    .wrap { padding: 16px 0 !important; }
-    .card { padding: 28px 22px 24px 22px !important; }
-    .date { font-size: 26px !important; }
-    .price { font-size: 23px !important; }
-    .chg { font-size: 12px !important; }
-    .nm { display: none !important; }
-    .wx { padding-left: 14px !important; }
-    .wxi { width: 36px !important; height: 36px !important; }
-    .wxc { padding-right: 6px !important; }
-  }
 </style>
 </head>
 <body style="margin:0;padding:0;background:#F3F3F1;">
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background:#F3F3F1;">
   <tr>
-    <td class="wrap" align="center" style="padding:32px 12px;">
+    <td align="center" style="padding:20px 0;">
       <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="width:100%;max-width:600px;">
         <tr>
-          <td class="card" style="background:#FFFFFF;padding:40px 40px 32px 40px;font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#1D1D1F;">
+          <td style="background:#FFFFFF;padding:28px 6% 26px 6%;font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#1D1D1F;">
 
-            <!-- Header -->
-            <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
-              <tr>
-                <td valign="middle" style="padding:0 12px 0 0;">
-                  <p style="margin:0;font-size:13px;line-height:1.4;font-weight:500;color:#6E6E73;">Morning brief</p>
-                </td>
-                <td valign="middle" align="right" style="white-space:nowrap;">
+            <!-- Weather -->
+            <p style="margin:0 0 18px 0;line-height:1.2;">
 {{WEATHER}}
-                </td>
-              </tr>
-            </table>
-            <p class="date" style="margin:10px 0 0 0;font-size:30px;line-height:1.2;font-weight:600;letter-spacing:-0.01em;color:#1D1D1F;">{{DATE_LINE}}</p>
-            <p style="margin:14px 0 28px 0;font-size:16px;line-height:1.5;color:#6E6E73;">{{LEDE}}</p>
+            </p>
+            <p style="margin:0 0 26px 0;font-size:16px;line-height:1.5;color:#6E6E73;">{{LEDE}}</p>
 
             <!-- Stocks -->
 {{STOCKS}}
@@ -55,7 +35,7 @@
             </table>
 
             <!-- Footer -->
-            <p style="margin:28px 0 0 0;padding-top:16px;border-top:1px solid #E5E5EA;font-size:12px;line-height:1.5;color:#8E8E93;">{{FOOTER}}</p>
+            <p style="margin:26px 0 0 0;padding-top:14px;border-top:1px solid #E5E5EA;font-size:12px;line-height:1.5;color:#8E8E93;">{{FOOTER}}</p>
 
           </td>
         </tr>
