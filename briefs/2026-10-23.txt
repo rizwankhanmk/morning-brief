@@ -1,0 +1,170 @@
+MORNING BRIEF, Friday, 23 October 2026
+
+🌦️ Singapore: 31° / 25°
+🌦️ Navi Mumbai: 36° / 26°
+
+iPhone Duo reaches its first customers today, Alphabet fell more than 3 percent while Apple rose, and a magnitude 7 earthquake in Tibet has killed at least 16 people; the Singapore AI startups section has only three fresh stories today.
+
+AAPL  US$348.22  +4.23 (+1.23%)
+GOOGL  US$324.22  -10.54 (-3.15%)
+DBS  S$74.57  -0.08 (-0.11%)
+Latest closes: New York, Thursday 22 October (AAPL, GOOGL) and SGX, Thursday 22 October (DBS), via Yahoo Finance. No earnings dates turned up in today's sources.
+
+APPLE
+
+From Apple
+Apple highlighted developers who have built new app experiences for iPhone Duo, which goes on sale today, and said Formula 1's United States Grand Prix will stream live on Apple TV this weekend. Earlier in the week it named its American Manufacturing Program partners for the latest iPhone lineup and the 2026 Designers of Tomorrow.
+Sources: Apple Newsroom https://www.apple.com/newsroom/archive/
+
+9to5Mac
+
+MacBook Neo helps Apple ride out a weak PC market
+Counterpoint Research's report on global PC shipments for the third quarter shows Apple doing better than the wider market, which is shrinking. The report credits the MacBook Neo with cushioning the impact of falling demand.
+Source: 9to5Mac — https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report/
+
+iOS 27's Call Context is the Phone app feature one writer didn't expect to love
+iOS 27 updates Notes, Wallet, Maps, Messages and more, but 9to5Mac's writer singles out a new Phone feature called Call Context as the instant favourite among them. The piece walks through how it works in everyday use.
+Source: 9to5Mac — https://9to5mac.com/2026/10/22/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/
+
+MacRumors
+
+Keynote, Pages and Numbers get an Intelligent Assistant after a brief App Store disappearance
+Apple added an Intelligent Assistant to its three iWork apps, in beta for Apple Creator Studio subscribers, along with iPhone Duo support. The apps vanished from the App Store soon after the update, and it was unclear whether that was deliberate, but they are available again.
+Source: MacRumors — https://www.macrumors.com/2026/10/22/iwork-apps-intelligent-assistant/
+
+Apple is reportedly weighing a slightly larger iPhone Duo
+Bloomberg's Mark Gurman said on his Power On podcast that Apple is looking at a future iPhone Duo whose inner display is roughly half an inch bigger than the current 7.6-inch panel. It is an idea under consideration rather than a confirmed product.
+Source: MacRumors — https://www.macrumors.com/2026/10/22/slightly-larger-iphone-duo-rumor/
+
+SINGAPORE
+
+Haze eases as residents wake up to better air quality
+Air quality readings across all regions of Singapore were in the good to moderate range this morning, a relief after several days of regional smoke haze.
+Source: Straits Times — https://www.straitstimes.com/singapore/haze-eases-in-singapore-as-residents-wake-up-to-improved-air-quality
+
+Singapore and UAE to negotiate a comprehensive economic partnership
+The two countries are moving towards launching talks on a Comprehensive Economic Partnership Agreement, with the aim of deepening economic and energy ties.
+Source: Mothership — https://mothership.sg/2026/10/spore-uae-to-launch-negotiations-comprehensive-economic-partnership-agreement/
+
+Lao Ban Soya Beancurd criticised over 10 cent deposit, says its drinks fall under the return scheme
+The chain drew complaints about the 10 cent deposit on its drinks under the beverage container return scheme, and replied that its drinks are covered by the scheme, so the deposit applies.
+Source: Mothership — https://mothership.sg/2026/10/lao-ban-soya-bcrs/
+
+Chinese couple, both 68, lived in Singapore illegally for about 19 years before turning themselves in
+The couple stayed on without permission for nearly two decades and handed themselves in after struggling to make ends meet, according to Mothership's report.
+Source: Mothership — https://mothership.sg/2026/10/chinese-couple-stayed-illegally-singapore/
+
+Law Society council gains four new members after election
+The vote comes while police investigations continue into matters raised in a report by the Law Society's audit committee.
+Source: Straits Times — https://www.straitstimes.com/singapore/courts-crime/lawsoc-council-gets-4-new-members-after-election
+
+INDIA
+
+CERT-In flags PHP flaws as websites scramble to patch
+India's cyber agency warned about two critical PHP vulnerabilities that allow remote code execution. Google Cloud and Wiz Research said AI models helped find the flaws, and companies worldwide are rushing out emergency fixes.
+Source: Times of India — https://timesofindia.indiatimes.com/business/international-business/php-security-flaws-trigger-global-scramble/articleshow/135127762.cms
+
+Government tells Supreme Court hospital overcharging is malpractice
+In an affidavit on capping prices of medicines and medical consumables, the chemicals and fertilisers ministry said patients have very little bargaining power against hospitals, which leads to malpractice.
+Source: Times of India — https://timesofindia.indiatimes.com/india/hospitals-overcharging-is-a-malpractice-govt-to-supreme-court/articleshow/135127060.cms
+
+Sonam Wangchuk says the Centre betrayed Ladakh, now wants full statehood
+After talks in Delhi on 22 October, the climate activist said Leh and Kargil representatives had arrived expecting to follow up on the May understanding but felt the Centre backtracked, and demanded full statehood.
+Source: Times of India — https://timesofindia.indiatimes.com/india/sonam-wangchuk-accuses-centre-of-betraying-ladakh-groups-alleges-backtracking-on-may-understanding/articleshow/135125435.cms
+
+Modi tells Poland's Tusk India will back meaningful efforts for peace in Ukraine
+The two leaders voiced deep concern over the war in Ukraine and its humanitarian cost, including its effect on the Global South, in a joint statement.
+Source: Times of India — https://timesofindia.indiatimes.com/india/will-back-all-meaningful-efforts-for-ukraine-peace-pm-modi-assures-polands-tusk/articleshow/135127542.cms
+
+Gurugram and Faridabad plunge into darkness as power workers strike
+Employees of the DHBVN power distribution company are striking against the decision to privatise power distribution in Gurugram and Nuh, and outages have hit the two cities.
+Source: NDTV — https://www.ndtv.com/india-news/gurugram-faridabad-plunge-into-darkness-as-power-workers-strike-against-privatisation-12222486
+
+WORLD
+
+Magnitude 7 earthquake kills 16 in Tibet
+Xinhua reports 16 dead and 32 injured after the quake in China's Tibet region. Rescue teams are searching for survivors and putting up tents for people who lost their homes.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports
+
+US-sanctioned International Criminal Court wins the EU's Sakharov Prize
+The European Union's top human rights award goes to the court less than two weeks after President Trump announced sanctions against it.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award
+
+Judge orders Trump to answer questions under oath in BBC lawsuit
+Trump is suing the BBC over a Panorama episode that spliced two parts of a 2021 speech. The judge says he must sit for questioning by a BBC lawyer by 11 December or risk dismissal of the case.
+Source: BBC — https://www.bbc.co.uk/news/articles/cmy0ryjx7741o
+
+Trump says Musk has restored Ukraine's Starlink access
+Ukraine relies on Starlink for several military uses. Trump said Musk had restored access, though Musk has repeatedly denied restricting it and Zelenskiy said earlier that speeds had not recovered.
+Source: BBC — https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o
+
+Paris extends curfew as Marseille and Lyon ban protests after riots
+Protests will be allowed in some towns and cities only if unions organise them, and top museums in Paris will close on Saturday.
+Source: BBC — https://www.bbc.co.uk/news/articles/cvde8g40xx42o
+
+AI IN SINGAPORE
+
+Newsweek's World's Best Smart Hospitals 2027 ranking put four Singapore hospitals in the top 50, with CGH, SGH and NUH praised as AI innovation leaders. A Lalamove survey found 48 percent of Singapore firms use AI, and data centre operator DayOne said it is backing Nvidia's AI design to speed up construction.
+Sources: Straits Times https://www.straitstimes.com/singapore/cgh-sgh-nuh-lauded-as-ai-innovation-leaders-in-ranking-of-worlds-best-smart-hospitals; Tech in Asia https://www.techinasia.com/news/lalamove-survey-finds-48-of-singapore-firms-use-ai; Tech in Asia https://www.techinasia.com/news/singapore-data-center-firm-dayone-backs-nvidias-ai-design
+
+SINGAPORE AI STARTUPS
+
+What they're building
+
+Qashier adds AI tools for merchants
+The Singapore merchant platform is launching two AI products for merchants and plans to roll them out in Malaysia, Thailand and the Philippines in November.
+Source: Tech in Asia — https://www.techinasia.com/news/singapore-fintech-firm-qashier-launches-ai-tools-merchants
+
+Groundup.ai launches a machine diagnostics tool
+CEO Leon Lim said the aim is to go beyond anomaly alerts and tell maintenance teams what is actually wrong with a machine.
+Source: Tech in Asia — https://www.techinasia.com/news/sg-ai-startup-groundupai-launches-machine-diagnostics-tool
+
+AI security robotics firm Kabam to shut down
+The Singapore company is closing. It is unclear how many employees are affected or what happens to its existing customers and robot deployments.
+Source: Tech in Asia — https://www.techinasia.com/news/singapore-ai-security-robotics-firm-kabam-shut
+
+AI IN THE UNITED STATES
+
+OpenAI is working on a new US$30 billion raise at a US$1.25 trillion valuation
+The round ahead of a planned IPO would make OpenAI the most highly valued private company ever, if it reaches a valuation above US$1 trillion.
+Source: TechCrunch — https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
+
+Uber puts all 30,000 employees on ChatGPT Work
+The ride-hailing company had run a much smaller pilot of the enterprise agent product and is now rolling it out company-wide.
+Source: TechCrunch — https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/
+
+Microsoft says its AI beats generalist doctors on hard cases
+A study in Science found Microsoft's diagnostic system outperformed generalist doctors on difficult cases, though TechCrunch notes most of the gain seems to come from the underlying models rather than Microsoft's own system.
+Source: TechCrunch — https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/
+
+Canva releases its first image generation model
+The model is available to all Canva users, with the company promising better and more customisable results at lower cost.
+Source: TechCrunch — https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/
+
+1Password lets AI agents log in without seeing your passwords
+1Password for Agents gives AI agents access to a customer's personal accounts while keeping the underlying credentials hidden from the agent.
+Source: TechCrunch — https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
+
+AI IN CHINA AND WORLDWIDE
+
+Unitree is building a self-improving loop for humanoid robots
+Founder Wang Xingxing said the company is developing a feedback system that lets robots write code, run simulations and improve their real-world performance on their own.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves
+
+Huawei and DeepSeek are narrowing the gap with Nvidia, a report says
+A closer working relationship with DeepSeek is helping Huawei catch up on both chip hardware and software ecosystem, which the report frames as a possible nightmare scenario for Nvidia's Jensen Huang.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-war/article/3371806/jensens-nightmare-huawei-deepseek-narrow-ai-chip-ecosystem-gap-nvidia-report
+
+China moves to set global standards for brain-computer interfaces
+China now chairs the secretariat of a subcommittee overseen by two international standards bodies, a step towards shaping how the technology is standardised worldwide.
+Source: South China Morning Post — https://www.scmp.com/business/china-business/article/3371742/china-moves-set-global-standards-brain-computer-interface-technology
+
+Unitree unveils a guardian robot that can disarm attackers and lift cars
+A promotional clip shows the robot confronting a knife-wielding intruder, lifting a car off a trapped victim and pulling a pedestrian out of an oncoming vehicle's path.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-trends/article/3371683/chinese-firm-unveils-guardian-robot-can-disarm-attackers-lift-cars
+
+DeepSeek raises US$15 billion from Tencent and CATL ahead of IPO
+The company is increasing spending on AI data centres and open-source models as it prepares for an initial public offering.
+Source: Tech in Asia — https://www.techinasia.com/news/deepseek-raises-15b-from-tencent-catl-ahead-of-ipo
+
+Built by your morning-brief agent at 7:25am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
