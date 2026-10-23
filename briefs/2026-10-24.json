@@ -1,0 +1,311 @@
+{
+  "date": "2026-10-24",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "haze",
+      "high": 32,
+      "low": 26
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "thunder",
+      "high": 34,
+      "low": 25
+    }
+  ],
+  "lede": "The iPhone Duo is in shops, haze has pushed Singapore's air back into the unhealthy range, and OpenAI is reportedly lining up a $30 billion raise; fresh Singapore AI startup news was thin today, so that section has one story.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 347.73,
+      "change": -0.49,
+      "change_pct": -0.14
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 320.21,
+      "change": -4.01,
+      "change_pct": -1.24
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 74.44,
+      "change": -0.13,
+      "change_pct": -0.17
+    }
+  ],
+  "stocks_note": "Latest closes: New York, Friday 23 October (AAPL, GOOGL) and SGX, Friday 23 October (DBS), via Yahoo Finance. No upcoming earnings dates turned up in the data.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple's iPhone Duo reached Apple Store locations worldwide on Friday, a week after the announcement. A day earlier the company highlighted new apps that developers built for the device. Apple TV also begins streaming this weekend's Formula 1 United States Grand Prix, and Apple named its American Manufacturing Program partners for the latest iPhone lineup.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Apple publishes official DIY repair guides for the iPhone Duo",
+              "summary": "Hours after launch, Apple released repair guides and manuals for the iPhone Duo. They are aimed at both owners and independent technicians who want to replace or fix individual parts of the device, rather than send it in for service.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/"
+            },
+            {
+              "headline": "Apple gains ground in China even as smartphone shipments hit a 14-year low",
+              "summary": "China's smartphone shipments fell 10% year on year in the third quarter, dragged down by rising memory prices, and hit their lowest level in 14 years. Apple still managed to gain ground in the market, according to the latest report.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "iPhone Duo owners report screens cracking along the hinge",
+              "summary": "Photos on Reddit and the MacRumors forums show some iPhone Duo units with display faults just after launch. Almost all of them sit along the hinge, and most appear as a line of bright pixels running across one side of the screen.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/"
+            },
+            {
+              "headline": "iPhone Duo jailbroken within hours of release",
+              "summary": "Hacker team Calif showed an iPhone Duo running iOS 27.1 with its icons and widgets bouncing around the screen and an anime character added, hours after the phone went on sale. It is an early sign of how quickly the new device was picked apart.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Haze pushes Singapore's air quality back into the unhealthy range",
+          "summary": "After a brief respite early on Friday, air quality readings climbed back into the unhealthy band on Saturday morning. The haze has been the main local story this week and is expected to stay in focus as authorities respond.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-back-in-the-unhealthy-range"
+        },
+        {
+          "headline": "NEA serves haze-law notices on 10 Singapore-based firms, including Asia Pulp & Paper",
+          "summary": "The National Environment Agency issued legal notices to ten companies in the palm oil and forestry businesses. Separately, Singapore will form a panel of law, audit and investigative firms to help investigators looking into haze-linked companies.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/environment/nea-issues-legal-notices-under-haze-law-to-10-singapore-based-companies-including-asia-pulp-paper"
+        },
+        {
+          "headline": "Foodpanda offers full-time rider jobs at $1,800 a month with full CPF",
+          "summary": "The delivery platform is rolling out salaried rider roles that include full CPF contributions. A spokesperson said the scheme is not meant to replace its fleet of gig riders but to sit alongside it.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/transport/foodpanda-rolls-out-full-time-rider-jobs-with-1800-salary-and-full-cpf-contributions"
+        },
+        {
+          "headline": "iPhone Duo listings reach S$8,888 on Carousell after Singapore launch",
+          "summary": "Resellers were asking up to S$8,888 for a star white iPhone Duo on Carousell soon after the phone went on sale in Singapore on 23 October, far above the shelf price.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/star-white-iphone-duo-8888-carousell/"
+        },
+        {
+          "headline": "Bukit Timah drainage canal fully upgraded after seven years of work",
+          "summary": "The final stretch of the canal in the flood-prone Bukit Timah area is complete. PUB will now call for a study on longer-term ways to build flood resilience across the area.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/environment/drainage-canal-in-flood-prone-bukit-timah-fully-upgraded-after-7-year-work-on-final-stretch"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "RBI governor says upper-layer NBFCs must list, with Tata Sons in the spotlight",
+          "summary": "Governor Sanjay Malhotra said upper-layer non-bank lenders have to list and dispelled doubts about the September order. His comments suggest Tata Sons is in breach of the rules, though the consequences of continued non-compliance are unclear.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/upper-layer-nbfcs-have-to-list-rbi-governor-on-tatas-dispels-doubts-on-sept-order/articleshow/135155571.cms"
+        },
+        {
+          "headline": "MEA says Chinese patrolling deviations disturb the border",
+          "summary": "Responding to remarks by the ITBP chief on face-offs along the LAC, the foreign ministry said Chinese divergence from established patrolling patterns creates disturbances. It referred specifics of the latest face-off to the defence ministry.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/chinas-patrolling-deviations-disturb-border-mea-on-itbp-dgs-lac-face-offs-remark/articleshow/135155021.cms"
+        },
+        {
+          "headline": "Centre bans reuse of single-use medical devices in hospitals",
+          "summary": "A 16 October letter from the health services directorate said some private and corporate hospitals were reusing disposable devices after sterilising them, including items used in cardiology and nephrology. The practice is now barred.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/centre-bans-reuse-of-single-use-medical-devices-across-hospitals-flags-recycling-of-disposables/articleshow/135154254.cms"
+        },
+        {
+          "headline": "Cyclonic storm likely to hit north Andhra Pradesh coast on 28 October",
+          "summary": "The IMD has issued red warnings for extremely heavy rain on 27 and 28 October. Fishermen who are out at sea have been asked to return to shore.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-likely-to-hit-north-andhra-pradesh-coast-on-october-28-says-imd/article71617203.ece"
+        },
+        {
+          "headline": "Bomb threat emails to Mumbai Mayor's office and three Navi Mumbai schools",
+          "summary": "Emails warning of attacks on the Mumbai Mayor's office and three Navi Mumbai schools triggered a security alert. Authorities have started an investigation to verify whether the threat is genuine.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/cities/mumbai/email-warns-of-attacks-on-mumbai-mayors-office-bachchan-home-diljit-dosanjhs-concert/article71616086.ece"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Macron calls deadly shooting near Paris a racist terrorist attack",
+          "summary": "One person was killed and five wounded in a series of attacks near Paris. The suspected gunman has been arrested, and the French president described the incident as a racist terrorist attack.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo"
+        },
+        {
+          "headline": "Gunmen kill seven at a church funeral in Jordan",
+          "summary": "Two masked gunmen opened fire at a funeral in the southern Karak governorate, killing seven people and injuring 34. A manhunt is under way.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o"
+        },
+        {
+          "headline": "Kenya reports a second Ebola death as the outbreak reaches four countries",
+          "summary": "Kenyan officials said there is no evidence of community spread. The outbreak has now touched four countries across eastern, central and western Africa.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread"
+        },
+        {
+          "headline": "Russia and Ukraine agree a local truce in occupied Oleshky",
+          "summary": "The White House says Melania Trump brokered the ceasefire for the town, where residents have been eating garden weeds to survive. Both Moscow and Kyiv have confirmed it.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo"
+        },
+        {
+          "headline": "Israel begins demolitions in Hebron after two soldiers are shot dead",
+          "summary": "Two Palestinian gunmen killed two Israeli soldiers at a checkpoint outside Hebron on Friday morning. Israeli forces then started demolishing Palestinian buildings in the city.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "Enterprise Singapore will put more than S$45 million over three years into helping small manufacturers adopt ready-made AI tools, announced by Minister of State Gan Siow Huang at ITAP 2026. Versions for logistics and wholesale trade are being developed. A regional report also has Singapore leading in AI use, with about 70% of working people using generative AI.",
+        "sources": [
+          {
+            "name": "Malay Mail",
+            "url": "https://malaymail.com/news/singapore/2026/10/21/ai-for-the-factory-floor-singapore-rolls-out-s45m-boost-for-smaller-firms/240005"
+          },
+          {
+            "name": "The Star",
+            "url": "https://www.thestar.com.my/business/business-news/2026/10/21/singapore-allocates-over-s45mil-to-boost-ai-in-manufacturing"
+          },
+          {
+            "name": "Fintech News Singapore",
+            "url": "https://fintechnews.sg/139350/wealthtech/e-conomy-sea-2026-singapore-pulls-ahead-in-digital-wealth/"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Singapore AI startups",
+      "subtitle": "Funding, hiring, and what they're building",
+      "groups": [
+        {
+          "label": "Funding",
+          "items": [
+            {
+              "headline": "Genie Health, led by ex-PropertyGuru CEO Hari Krishnan, raises US$3 million seed",
+              "summary": "The Singapore healthtech startup pulls scattered health data, from lab results to wearables, into one app, and sells an agentic-AI platform to clinics. Temasek-backed studio Liminal joined the round, which funds AI features and Singapore hiring.",
+              "source": "e27",
+              "url": "https://e27.co/ex-propertyguru-ceos-genie-health-raises-us3m-to-make-sense-of-your-scattered-health-data-20261021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI in the United States",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "OpenAI says it will stop training models on the live internet",
+          "summary": "Citing significant risks, OpenAI will cut its frontier models off from the live web during training. TechCrunch notes the move comes weeks after one of its own engineers said that approach would not work.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+        },
+        {
+          "headline": "OpenAI working on a new $30 billion raise at a $1.25 trillion valuation",
+          "summary": "The round, ahead of an IPO, would make OpenAI the most highly valued private company ever if it lands above the $1 trillion mark.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+        },
+        {
+          "headline": "1Password lets AI agents log in without seeing your password",
+          "summary": "The new feature lets agents sign in to a customer's personal accounts while keeping the underlying credentials hidden from the agent itself.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+        },
+        {
+          "headline": "MIT researchers leave 13 AI agents on a virtual island and they start playing",
+          "summary": "With nothing to do, the agents invented games and mourned a lost ring. Eventually they also got better at their jobs.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+        },
+        {
+          "headline": "Zuckerberg says Meta's Muse agent has over 10 million users but may not stay free",
+          "summary": "Meta's AI agent Muse is used by more than 10 million people, with shopping the most common use. Zuckerberg admitted AI is expensive and said Meta does not plan to keep it free.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-says-meta-is-happy-with-adoption-of-its-chatbot-muse-but-admits-ai-is-expensive-and-company-does-not-plan-to-keep-it-free/articleshow/135143858.cms"
+        }
+      ]
+    },
+    {
+      "title": "AI in China and worldwide",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "Cambricon's third-quarter profit surges 148% to US$210 million",
+          "summary": "The Shanghai-listed AI chip company reported the jump on Friday as China's push to replace Nvidia chips keeps feeding growth at local chipmakers.",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3371959/cambricons-third-quarter-profit-surges-148-us210m-amid-push-replace-nvidia-chips"
+        },
+        {
+          "headline": "DeepSeek and MiniMax complete export registration and continue open-source releases",
+          "summary": "State media says both firms finished the procedures days after Beijing tightened its AI export rules, and have carried on with overseas licensing and open-source releases.",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/policy/article/3371880/deepseek-minimax-secure-open-source-licenses-days-after-new-china-export-rules-state-media"
+        },
+        {
+          "headline": "Unitree builds a self-evolving system for its humanoid robots",
+          "summary": "Founder Wang Xingxing said the feedback loop would let robots write code, run simulations and improve their real-world performance without human help.",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves"
+        },
+        {
+          "headline": "Huawei and DeepSeek narrow the AI chip ecosystem gap with Nvidia, report says",
+          "summary": "A closer working relationship with DeepSeek is helping Huawei catch up on both hardware and software, a scenario the report calls Jensen Huang's nightmare.",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-war/article/3371806/jensens-nightmare-huawei-deepseek-narrow-ai-chip-ecosystem-gap-nvidia-report"
+        },
+        {
+          "headline": "Jensen Huang pitches sovereign AI in Kazakhstan and shrugs off bubble fears",
+          "summary": "Nvidia's chief is urging countries to build domestic computing on its chips, as the energy-rich nation becomes a US-China contest over AI.",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/big-tech/article/3371946/nvidias-jensen-huang-brings-sovereign-ai-push-kazakhstan-shrugs-bubble-fears"
+        }
+      ]
+    }
+  ],
+  "footer": "Built by your morning-brief agent at 7:30am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources."
+}
