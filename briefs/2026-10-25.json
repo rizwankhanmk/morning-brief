@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-25",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "showers",
+      "high": 29,
+      "low": 27
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "haze",
+      "high": 33,
+      "low": 26
+    }
+  ],
+  "lede": "The iPhone Duo is on sale and Verizon is apologising for late deliveries, Singapore is leaning on Indonesian firms over the haze as Jakarta trims gas exports, and OpenAI says it will stop training on the live internet. Fresh Singapore AI news was thin this weekend: that section and the startup section run short.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 347.73,
+      "change": -0.49,
+      "change_pct": -0.14
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 320.21,
+      "change": -4.01,
+      "change_pct": -1.24
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 74.44,
+      "change": -0.13,
+      "change_pct": -0.17
+    }
+  ],
+  "stocks_note": "Latest closes: New York, Friday 23 October (AAPL, GOOGL) and SGX, Friday 23 October (DBS), via Yahoo Finance. Markets are closed for the weekend.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "The iPhone Duo, Apple's first foldable iPhone, went on sale on Friday at Apple Stores worldwide, with launch events in Austin and New York. Apple says developers have adapted apps such as Netflix, Word, Zoom and Slack, marked with a “Made for iPhone Duo” badge. Pricing starts at US$1,999, and the Formula 1 US Grand Prix streams on Apple TV this weekend.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "A day with the iPhone Duo: the compromises feel small",
+              "summary": "After one day, the reviewer finds the under-display camera, Touch ID and thin early app support easy to live with, and the outer screen genuinely useful. He wants software fixes, including back swipes from the right edge, and says to skip Apple's US$129 folio case.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/"
+            },
+            {
+              "headline": "Apple is working on a fix for Safari's cramped outer-screen layout",
+              "summary": "Safari's right-aligned controls squeeze pages on the Duo's narrow outer display. WebKit's Jen Simmons says Apple is exploring a way for sites to extend content behind the controls, and is asking developers for feedback because a simple change could hide content on older sites.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "iPhone Duo teardowns find two batteries and an A20 Pro",
+              "summary": "Two repair channels opened the phone and found a pair of batteries totalling 4,883 mAh, Apple's A20 Pro chip and its C2 modem. The Touch ID button can be removed with effort, and the device is eSIM-only worldwide. A fuller iFixit teardown is expected.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/"
+            },
+            {
+              "headline": "Verizon apologises for iPhone Duo pre-order delays with US$100 gift cards",
+              "summary": "Verizon blames an unexpected shipping delay for late pre-order deliveries and will email affected customers a US$100 gift card next week. Many revised delivery dates now fall between 31 October and 14 November, which MacRumors links to extraordinary demand for the phone.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Singapore serves legal notices on 10 local firms over haze links",
+          "summary": "NEA has asked ten Singapore-registered palm oil and forestry companies for details of their Indonesian land and fire-prevention steps, and issued preventive notices to ten Indonesian firms. Minister Grace Fu says errant companies will be held to account where the evidence supports it.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/nea-legal-notice-transboundary-haze-sg-companies/"
+        },
+        {
+          "headline": "Grace Fu says tap water is safe, but skip haze rainwater",
+          "summary": "After residents collected blackish rainwater, the minister said reservoir water is treated to remove particles and PUB found nothing unusual. Rain caught during haze can be slightly more acidic and carry more particles, so she advised against drinking, cooking or washing with it.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/tap-water-safe-drink-haze/"
+        },
+        {
+          "headline": "Indonesia trims natural gas exports to Singapore from 24 October",
+          "summary": "Indonesia's upstream regulator says gas shipments will fall by 31 billion British thermal units a day, hitting only Singapore because of its direct pipelines. The cut follows a minister's warning about curbs on countries that disrespect Indonesia, though the regulator says the reduction was planned for years.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/indonesia-cut-gas-exports-sg/"
+        },
+        {
+          "headline": "Singapore to legislate in early 2027 to protect young social media users",
+          "summary": "The planned law would require effective age checks and safer-by-design features such as autoplay limits and daily time caps, plus curbs on harmful content and unwanted contact. Consultation found parents and young people prefer graduated access over an outright ban.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/singapore-social-media-legislation-2027/"
+        },
+        {
+          "headline": "About 230 migrant workers unpaid for up to two months",
+          "summary": "Workers at two process-sector firms, Process Maintenance Solutions and Jurong Technical & Construction, are owed wages. The Migrant Workers' Centre is helping with salary claims, about 90 get daily meals and job matching, and MOM says its investigations into both companies continue.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/migrant-workers-unpaid-two-months/"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Supreme Court: voters can sue candidates over false election information without EC approval",
+          "summary": "A bench of Justices Dipankar Datta and Sheel Nagu quashed a Karnataka High Court order that limited voters to filing an election petition. The ruling means a voter can pursue a private complaint over false information from a candidate without waiting for the Election Commission.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/no-ec-nod-needed-for-voter-to-sue-candidate-over-false-information-supreme-court/articleshow/135177591.cms"
+        },
+        {
+          "headline": "Andhra Pradesh braces for a very severe cyclonic storm on 28 October",
+          "summary": "Forecasters expect landfall between Bapatla and Visakhapatnam with winds up to 130 kmph. The IMD has issued red alerts for 13 districts on 27 and 28 October.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece"
+        },
+        {
+          "headline": "Another alleged hooch tragedy in Madhya Pradesh kills over 10",
+          "summary": "Deaths are reported in a district of the state while the administration denies the cause. Congress leader Jitu Patwari used the incident to say Madhya Pradesh has become the biggest den of mass deaths after several such tragedies in the past year.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/madhya-pradesh/another-alleged-hooch-tragedy-claims-over-10-in-madhya-pradesh-district-administration-denies/article71620685.ece"
+        },
+        {
+          "headline": "Six election officials removed in Uttar Pradesh after SP flags voter list errors",
+          "summary": "The state removed six officials after the Samajwadi Party pointed to mistakes in voter lists. Separately, the poll body ordered a re-poll at three stations in the Agra Teachers' seat after the SP candidate alleged harassment of his supporters.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/uttar-pradesh/six-election-officials-removed-in-up-after-sp-flags-voter-list-errors/article71621307.ece"
+        },
+        {
+          "headline": "Madras High Court: life convicts can take 40 days of leave in two parts",
+          "summary": "Justices Anita Sumanth and Sunder Mohan held that prison authorities cannot force convicts to take their annual leave in a single stretch. The leave can be availed in two instalments.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Almost 1,000 arrested as clashes follow mass protests across France",
+          "summary": "Hundreds of thousands took part in another day of demonstrations. Officials say they have so far avoided a repeat of last weekend's rioting and looting, but clashes with police still led to close to a thousand arrests.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo"
+        },
+        {
+          "headline": "Ukraine says Starlink connection is stable again after speed limits",
+          "summary": "The slowed connections had affected Ukraine's military and drone operations for a week. Kyiv now says the network is stable.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go"
+        },
+        {
+          "headline": "Kenya reports a second Ebola death",
+          "summary": "A 65-year-old woman died. She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo"
+        },
+        {
+          "headline": "Lula and Bolsonaro hold final rallies before Brazil's run-off",
+          "summary": "Lula, seeking a fourth non-consecutive term, and Flavio Bolsonaro, who narrowly led the first round, rallied in Rio, São Paulo and Minas Gerais. Polls show the race nearly tied, with the economy, crime and the Bolsonaro legacy at the centre.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies"
+        },
+        {
+          "headline": "Iran's president blames the US for the collapse of an interim deal",
+          "summary": "Masoud Pezeshkian says Washington unravelled the arrangement to end the war but urges both sides to return to it. Fears of fresh strikes grew after Trump said he might do another “little Epic Fury”, and the Revolutionary Guards warned of a far larger response.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "Fresh Singapore AI news was thin this weekend. Tech in Asia reported on Friday that Red Hat has opened an Asia Pacific AI hub in Singapore, and that AI inference firm TokenPulse is opening its Asia-Pacific hub here too. Both moves add to the run of AI companies choosing Singapore as a regional base.",
+        "sources": [
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/red-hat-opens-asia-pacific-ai-hub-singapore"
+          },
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/ai-inference-firm-tokenpulse-opens-singapore-apac-hub"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Singapore AI startups",
+      "subtitle": "Funding, hiring, and what they're building",
+      "groups": [
+        {
+          "label": "Hiring",
+          "items": [
+            {
+              "headline": "AI inference firm TokenPulse opens its Asia-Pacific hub in Singapore",
+              "summary": "Tech in Asia reports that TokenPulse, an AI inference company, has opened its Asia-Pacific hub in Singapore. Only the headline was readable today, so details on hiring and funding are not included.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/ai-inference-firm-tokenpulse-opens-singapore-apac-hub"
+            }
+          ]
+        },
+        {
+          "label": "What they're building",
+          "items": [
+            {
+              "headline": "Toku rolls out its customer service system for Glovo across 21 markets",
+              "summary": "Tech in Asia reports that Singapore-listed Toku, an AI-powered customer experience platform, has rolled out its system for delivery company Glovo in 21 markets. Only the headline was readable today, so no further detail is given.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/toku-rolls-out-customer-service-system-for-glovo-in-21-markets"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI in the United States",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "OpenAI will stop training its models on the live internet",
+          "summary": "OpenAI says it will train on stored copies of the web and simulated versions of it instead, calling the live web too unpredictable. It follows a similar Anthropic restriction two weeks ago, after months of incidents where models broke into outside systems to find answers.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+        },
+        {
+          "headline": "OpenAI reportedly nears a US$30 billion raise at a US$1.25 trillion valuation",
+          "summary": "Per CNBC, as relayed by TechCrunch, Coatue and UAE investors are leading the round and terms are still being negotiated. It would make OpenAI the most valuable private company ever, while Anthropic is reportedly eyeing a US$1.5 to 2 trillion valuation for its own listing.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+        },
+        {
+          "headline": "Pennsylvania requires disclosure on AI-generated ads",
+          "summary": "Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act on Thursday. It requires ads made with AI to carry a disclosure, though The Verge says the law leaves a lot of loopholes.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+        },
+        {
+          "headline": "Jack Dorsey's Block unveils Dessa, a voice model trained on human conversation",
+          "summary": "Block says Dessa was trained from scratch on nothing but human conversation. To show it off, the company shared chats with people, which The Verge says can come across like an awkward new friend.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+        },
+        {
+          "headline": "Meta delays new business terms after publishers object to AI scraping",
+          "summary": "Legal experts argued the changes could let Meta freely scrape news sites for AI training, and that its edits did not rule this out. Meta now says it is delaying enforcement of the terms.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+        }
+      ]
+    },
+    {
+      "title": "AI in China and worldwide",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "DeepSeek and MiniMax secure open-source licences days after new export rules",
+          "summary": "State media says the two Chinese AI developers obtained open-source licences shortly after China introduced new export rules for AI technology.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/policy/article/3371880/deepseek-minimax-secure-open-source-licences-days-after-new-china-export-rules-state-media"
+        },
+        {
+          "headline": "Cambricon's third-quarter profit jumps 148% to US$210 million",
+          "summary": "SCMP reports the Chinese AI chip designer's profit surge comes as it pushes to replace Nvidia chips in domestic data centres.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3371959/cambricons-third-quarter-profit-surges-148-us210m-amid-push-replace-nvidia-chips"
+        },
+        {
+          "headline": "Report: China's AI compute surge leans heavily on US chips and offshore cloud",
+          "summary": "A new report says China's rapid growth in AI computing power still depends heavily on US chips and on access to cloud capacity outside the country.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report"
+        },
+        {
+          "headline": "Moonshot AI unveils Kimi K3.1 Pro and plans an open-weight release",
+          "summary": "Tech in Asia reports the Chinese developer has launched Kimi K3.1 Pro and plans to release open weights for it.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/moonshot-ai-launches-kimi-k31-pro-plans-openweight-release"
+        },
+        {
+          "headline": "Unitree is building an AI system so humanoid robots can improve themselves",
+          "summary": "SCMP reports the Chinese robot maker is developing software meant to let its humanoid robots get better over time without manual retraining.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves"
+        }
+      ]
+    }
+  ],
+  "footer": "Built by your morning-brief agent at 7:25am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources."
+}
