@@ -1,0 +1,170 @@
+MORNING BRIEF, Saturday, 31 October 2026
+
+🌦️ Singapore: 30° / 27°
+🌫️ Navi Mumbai: 31° / 25°
+
+A tech sell-off over AI spending has dragged Alphabet and Apple lower, Apple has confirmed Apple Intelligence is coming to China, and Singapore's foreign minister is in Pakistan. Only three fresh Singapore AI startup stories turned up, so that section is short.
+
+AAPL  US$344.63  -4.28 (-1.23%)
+GOOGL  US$279.84  -3.98 (-1.40%)
+DBS  S$73.13  -0.67 (-0.91%)
+Previous closes: New York, Friday 30 October (AAPL, GOOGL) and SGX, Friday 30 October (DBS), via Yahoo Finance. Alphabet fell about 12% on 29 October after reporting on 28 October; I did not see upcoming earnings dates for Apple or DBS.
+
+APPLE
+
+From Apple
+Apple closed out a busy week with a new MacBook Pro that has a touch-enabled OLED display, plus an M6 iMac, a 14-inch M6 MacBook Pro and an iPad mini it calls its biggest update ever. Creator Studio gained new AI features, Siri AI reached more languages, and Apple said iOS 27.3 will bring Apple Intelligence to China.
+Sources: Apple Newsroom https://www.apple.com/newsroom/archive/
+
+9to5Mac
+
+Apple says the iOS 27.3 beta lands next week, with Apple Intelligence for China
+Apple took the unusual step of naming a date for its next developer beta, which arrives next Wednesday and switches on several Apple Intelligence features for users in China. Apple's China site lists Writing Tools, Genmoji, Clean Up, Visual Intelligence and Live Translation with AirPods among them.
+Source: 9to5Mac — https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/
+
+Rian Johnson releases an iPhone camera app that mimics his film look
+The Knives Out director has launched a camera app for iPhone that applies the same image-processing techniques used on his films. It aims to give phone footage the look of his movies.
+Source: 9to5Mac — https://9to5mac.com/2026/10/30/knives-out-director-launches-iphone-camera-app-that-shoots-like-his-movies/
+
+MacRumors
+
+Apple briefs its stores on iPhone Duo inner-display cracks
+An internal memo sent to Apple Stores and authorised service providers this week gives technicians steps for diagnosing and handling cracks in the iPhone Duo's inner display. MacRumors obtained it. Samsung has separately started a mocking ad campaign over the same problem.
+Source: MacRumors — https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/
+
+Apple quietly bought data-automation company Ascend.io
+Apple acquired Ascend.io earlier this year, a California company whose software helps businesses automate how they collect and analyse data and which recently added AI agents to help data engineers. The purchase only became public now, with no price or plans disclosed.
+Source: MacRumors — https://www.macrumors.com/2026/10/30/apple-acquires-ascend-io/
+
+SINGAPORE
+
+Balakrishnan makes first Pakistan visit by a Singapore leader in two decades
+Foreign Minister Vivian Balakrishnan called the trip 'better late than never' as he urged much higher trade between the two countries. The last high-level visits were by Goh Chok Tong in 2004 and George Yeo in 2005.
+Source: Straits Times — https://www.straitstimes.com/singapore/better-late-than-never-says-balakrishnan-on-first-pakistan-visit-by-spore-leader-in-two-decades
+
+Loan curbs on private-hire cars may not cool COE prices quickly
+Motor dealers say extending loan restrictions to private-hire car buyers is meant to dampen demand for certificates of entitlement, but they do not expect prices to ease right away.
+Source: Straits Times — https://www.straitstimes.com/singapore/transport/private-hire-car-loan-curbs-unlikely-to-bring-down-coe-prices-immediately-motor-dealers
+
+PM Wong tells Chinese business leaders to make room for the next generation
+Speaking to Chinese business leaders, Lawrence Wong said firms should tap the experience of older leaders while giving younger ones space. He also urged companies to transform before circumstances force them to, and to widen their overseas networks.
+Source: Straits Times — https://www.straitstimes.com/singapore/politics/make-room-for-next-generation-while-tapping-elders-experience-pm-wong-to-chinese-business-leaders
+
+Seven firms to assess 10 Singapore companies served haze legal notices
+A panel of seven firms will review the ten Singapore-based companies that received legal notices over the haze. It is the latest step in the government's action on the transboundary pollution that has hung over the country this season.
+Source: Mothership — https://mothership.sg/2026/10/panel-haze-singapore/
+
+Driver and passenger arrested after Tampines crash that killed two
+Police arrested a 30-year-old man near West Coast Road on Thursday and he will be charged today. The crash killed a motorcyclist and his pregnant wife, and a driver and passenger from one of the cars had fled the scene.
+Source: Straits Times — https://www.straitstimes.com/singapore/courts-crime/police-arrest-driver-passenger-who-fled-from-tampines-crash-that-killed-motorcyclist-pregnant-wife
+
+INDIA
+
+GSLV puts navigation satellite NVS-03 into orbit
+Isro's GSLV placed the NVS-03 satellite in orbit, with a 12-year mission life. It is meant to restore the working of NavIC, India's regional navigation system, and carries an indigenous atomic clock that supports military independence.
+Source: The Hindu — https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece
+
+Supreme Court: a failed relationship does not turn consensual sex into rape
+The court distinguished between consent obtained by deception and a consensual relationship that later turns sour, saying the latter cannot be branded rape. It urged caution against misuse of the law in such cases.
+Source: The Hindu — https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece
+
+Census 2027 enumeration to run a record 50 days with 11 extra questions
+The population count phase of Census 2027 will take 50 days, the longest yet, because enumerators will ask 11 more questions than before.
+Source: Times of India — https://timesofindia.indiatimes.com/india/census-2027-population-enumeration-phase-to-be-of-record-50-days/articleshow/135377987.cms
+
+Questions raised over Election Commission appeals against 16 lakh cleared Bengal voters
+Officials have filed appeals against the inclusion of about 16.10 lakh names cleared in West Bengal's special intensive revision of the rolls. Legal experts are questioning whether those officials have the authority to do so.
+Source: The Hindu — https://www.thehindu.com/news/national/west-bengal/authority-of-officials-who-appealed-against-inclusion-of-names-in-bengal-sir-under-lens/article71645404.ece
+
+Heavy turnout in second phase of Rajasthan panchayat elections
+Voters turned out strongly for sarpanch and ward panch seats in the second phase of Rajasthan's panchayat polls, with the highest turnout recorded at 84.3 per cent in one area.
+Source: The Hindu — https://www.thehindu.com/news/national/rajasthan/heavy-polling-in-second-phase-panchayat-elections-for-sarpanch-ward-panch-in-rajasthan/article71645952.ece
+
+WORLD
+
+US approves sale of 500 Patriot missiles to Ukraine
+Washington cleared the sale of 500 Patriot interceptors to Ukraine. BBC describes them as the only effective weapon for shooting down Russia's ballistic missiles.
+Source: BBC — https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo
+
+Binance tries to recover $6.3 billion stolen in hack linked to North Korea
+The exchange says the attack was complex and is believed to be the largest crypto theft ever. Binance has said it will cover the losses from its user-protection fund and company money.
+Source: BBC — https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo
+
+G20 drops its group photo as Europeans refuse to stand with Lavrov
+At the G20 talks in Atlanta, hosted by Marco Rubio, European ministers would not pose beside sanctioned Russian foreign minister Sergei Lavrov, so the photo was cancelled. Divisions over the Iran war, Hormuz disruption and Ukraine hung over the meeting.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov
+
+Police deployed in stand-off over control of Poland's top court
+The government suspended two senior justices and moved to bring criminal charges against them, escalating a clash with the president. The court has called the move a coup.
+Source: BBC — https://www.bbc.co.uk/news/articles/crz9824d5e88o
+
+Spain's transport minister refuses to resign after fatal rail collision
+Óscar Puente faces calls to quit after two high-speed trains collided this week, killing at least 69 people. He says he will stay on.
+Source: BBC — https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo
+
+AI IN SINGAPORE
+
+Google and NTU signed a pact to widen AI use in teaching and research, and Google is also adding a healthcare AI research hub in Singapore with NUS and NTU. Singtel's NCS opened a centre to push AI beyond pilots, planning to triple its forward-deployed AI engineers to over 300 within two years.
+Sources: Tech in Asia https://www.techinasia.com/news/ntu-google-sign-pact-expand-ai-teaching-research; Tech in Asia https://www.techinasia.com/news/google-expands-healthcare-ai-push-with-singapore-research-hub; Tech in Asia https://www.techinasia.com/news/singtels-ncs-launches-center-ai-pilots
+
+SINGAPORE AI STARTUPS
+
+What they're building
+
+Git hosting rival Entire opens code hosting in Singapore
+Entire, which competes with GitHub, now lets customers keep repository data in Singapore. It is a regional data-residency option for teams that must store their source code locally.
+Source: Tech in Asia — https://www.techinasia.com/github-rival-entire-launches-code-hosting-singapore
+
+Foodpanda deploys Toku's AI contact centre in Cambodia and Laos
+Singapore-linked Toku's AI-driven contact centre is now handling inbound and outbound calls for foodpanda in Cambodia and Laos, run by agents at foodpanda's agency in those countries.
+Source: Tech in Asia — https://www.techinasia.com/news/foodpanda-deploys-tokus-ai-contact-center-in-cambodia-laos
+
+Chinese AI drug firm XtalPi expands its Singapore partnership
+Under the MARVEL-AI programme, XtalPi and its Singapore partners will develop new materials using computational tools and automated lab experiments, widening a collaboration that began in drug discovery.
+Source: Tech in Asia — https://www.techinasia.com/news/chinese-ai-drug-firm-xtalpi-expands-singapore-partnership
+
+AI IN THE UNITED STATES
+
+Cracks appear in the AI spending boom
+Big Tech keeps pouring billions into AI infrastructure, but rising debt, negative cash flow and growing investor doubt are raising questions about how long the spending can continue.
+Source: TechCrunch — https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/
+
+Intel's shares crash, wiping $12 billion off the government's stake
+Intel is being hurt by weak PC sales, as the AI industry's appetite for memory and other components pushes PC prices up. The slide cut about $12 billion from the value of the US government's holding.
+Source: TechCrunch — https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/
+
+Anthropic expected to get a high 'junk' credit rating after its IPO
+The Financial Times reports that credit agencies are expected to rate Anthropic as high-yield debt once it lists, a sign of how heavily AI labs are leaning on borrowing.
+Source: TechCrunch — https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+
+OpenAI, Google and Microsoft back a new way to opt out of AI scraping
+Some of the biggest AI companies are supporting a new standard that lets website owners signal that their content should not be scraped for AI training.
+Source: The Verge — https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
+
+Google's first data-centre satellite is online and writing poetry
+The first TPU in space is running a Google DeepMind Gemma 4 model and has sent its first response back to Earth, with verse as the test output.
+Source: TechCrunch — https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
+
+AI IN CHINA AND WORLDWIDE
+
+Iluvatar CoreX says its new GPU matches Nvidia's H200
+The Chinese chipmaker claims its latest AI GPU performs on par with Nvidia's H200, a sign that China's homegrown push is narrowing the chip gap.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates
+
+Tencent picks Southeast Asia to launch its WorkBuddy AI agent
+Facing a tough home market, Tencent is using Southeast Asia as the launch pad for its WorkBuddy AI agent, while also expanding data centres overseas to serve rising AI demand.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market
+
+Nvidia says Megaspeed dealings were normal after probe report
+Jensen Huang said Nvidia reviewed Megaspeed's GPU deployments and found no illegal diversion of its AI chips to China, responding to a report on an investigation.
+Source: Tech in Asia — https://www.techinasia.com/news/nvidia-megaspeed-dealings-normal-probe-report
+
+Chinese optical suppliers extend sell-off on AI growth fears
+Shares of major Chinese optical-component makers kept falling, as worries about slower AI growth outweighed upbeat earnings.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings
+
+Korean chipmaker FuriosaAI raises $620 million at a $2.9 billion valuation
+FuriosaAI says its RNGD chip beat Nvidia's RTX Pro 6000 in its own efficiency benchmark, and the new round gives it a valuation of $2.9 billion.
+Source: Tech in Asia — https://www.techinasia.com/news/korean-chipmaker-furiosaai-raises-620m-at-2-9b-valuation
+
+Built by your morning-brief agent at 7:30am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources. Weather from wttr.in.

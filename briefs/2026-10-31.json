@@ -1,0 +1,323 @@
+{
+  "date": "2026-10-31",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "showers",
+      "high": 30,
+      "low": 27
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "haze",
+      "high": 31,
+      "low": 25
+    }
+  ],
+  "lede": "A tech sell-off over AI spending has dragged Alphabet and Apple lower, Apple has confirmed Apple Intelligence is coming to China, and Singapore's foreign minister is in Pakistan. Only three fresh Singapore AI startup stories turned up, so that section is short.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 344.63,
+      "change": -4.28,
+      "change_pct": -1.23
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 279.84,
+      "change": -3.98,
+      "change_pct": -1.4
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 73.13,
+      "change": -0.67,
+      "change_pct": -0.91
+    }
+  ],
+  "stocks_note": "Previous closes: New York, Friday 30 October (AAPL, GOOGL) and SGX, Friday 30 October (DBS), via Yahoo Finance. Alphabet fell about 12% on 29 October after reporting on 28 October; I did not see upcoming earnings dates for Apple or DBS.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple closed out a busy week with a new MacBook Pro that has a touch-enabled OLED display, plus an M6 iMac, a 14-inch M6 MacBook Pro and an iPad mini it calls its biggest update ever. Creator Studio gained new AI features, Siri AI reached more languages, and Apple said iOS 27.3 will bring Apple Intelligence to China.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/archive/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Apple says the iOS 27.3 beta lands next week, with Apple Intelligence for China",
+              "summary": "Apple took the unusual step of naming a date for its next developer beta, which arrives next Wednesday and switches on several Apple Intelligence features for users in China. Apple's China site lists Writing Tools, Genmoji, Clean Up, Visual Intelligence and Live Translation with AirPods among them.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/"
+            },
+            {
+              "headline": "Rian Johnson releases an iPhone camera app that mimics his film look",
+              "summary": "The Knives Out director has launched a camera app for iPhone that applies the same image-processing techniques used on his films. It aims to give phone footage the look of his movies.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/30/knives-out-director-launches-iphone-camera-app-that-shoots-like-his-movies/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "Apple briefs its stores on iPhone Duo inner-display cracks",
+              "summary": "An internal memo sent to Apple Stores and authorised service providers this week gives technicians steps for diagnosing and handling cracks in the iPhone Duo's inner display. MacRumors obtained it. Samsung has separately started a mocking ad campaign over the same problem.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/"
+            },
+            {
+              "headline": "Apple quietly bought data-automation company Ascend.io",
+              "summary": "Apple acquired Ascend.io earlier this year, a California company whose software helps businesses automate how they collect and analyse data and which recently added AI agents to help data engineers. The purchase only became public now, with no price or plans disclosed.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/30/apple-acquires-ascend-io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Balakrishnan makes first Pakistan visit by a Singapore leader in two decades",
+          "summary": "Foreign Minister Vivian Balakrishnan called the trip 'better late than never' as he urged much higher trade between the two countries. The last high-level visits were by Goh Chok Tong in 2004 and George Yeo in 2005.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/better-late-than-never-says-balakrishnan-on-first-pakistan-visit-by-spore-leader-in-two-decades"
+        },
+        {
+          "headline": "Loan curbs on private-hire cars may not cool COE prices quickly",
+          "summary": "Motor dealers say extending loan restrictions to private-hire car buyers is meant to dampen demand for certificates of entitlement, but they do not expect prices to ease right away.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/transport/private-hire-car-loan-curbs-unlikely-to-bring-down-coe-prices-immediately-motor-dealers"
+        },
+        {
+          "headline": "PM Wong tells Chinese business leaders to make room for the next generation",
+          "summary": "Speaking to Chinese business leaders, Lawrence Wong said firms should tap the experience of older leaders while giving younger ones space. He also urged companies to transform before circumstances force them to, and to widen their overseas networks.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/politics/make-room-for-next-generation-while-tapping-elders-experience-pm-wong-to-chinese-business-leaders"
+        },
+        {
+          "headline": "Seven firms to assess 10 Singapore companies served haze legal notices",
+          "summary": "A panel of seven firms will review the ten Singapore-based companies that received legal notices over the haze. It is the latest step in the government's action on the transboundary pollution that has hung over the country this season.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/panel-haze-singapore/"
+        },
+        {
+          "headline": "Driver and passenger arrested after Tampines crash that killed two",
+          "summary": "Police arrested a 30-year-old man near West Coast Road on Thursday and he will be charged today. The crash killed a motorcyclist and his pregnant wife, and a driver and passenger from one of the cars had fled the scene.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/courts-crime/police-arrest-driver-passenger-who-fled-from-tampines-crash-that-killed-motorcyclist-pregnant-wife"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "GSLV puts navigation satellite NVS-03 into orbit",
+          "summary": "Isro's GSLV placed the NVS-03 satellite in orbit, with a 12-year mission life. It is meant to restore the working of NavIC, India's regional navigation system, and carries an indigenous atomic clock that supports military independence.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece"
+        },
+        {
+          "headline": "Supreme Court: a failed relationship does not turn consensual sex into rape",
+          "summary": "The court distinguished between consent obtained by deception and a consensual relationship that later turns sour, saying the latter cannot be branded rape. It urged caution against misuse of the law in such cases.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece"
+        },
+        {
+          "headline": "Census 2027 enumeration to run a record 50 days with 11 extra questions",
+          "summary": "The population count phase of Census 2027 will take 50 days, the longest yet, because enumerators will ask 11 more questions than before.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/census-2027-population-enumeration-phase-to-be-of-record-50-days/articleshow/135377987.cms"
+        },
+        {
+          "headline": "Questions raised over Election Commission appeals against 16 lakh cleared Bengal voters",
+          "summary": "Officials have filed appeals against the inclusion of about 16.10 lakh names cleared in West Bengal's special intensive revision of the rolls. Legal experts are questioning whether those officials have the authority to do so.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/west-bengal/authority-of-officials-who-appealed-against-inclusion-of-names-in-bengal-sir-under-lens/article71645404.ece"
+        },
+        {
+          "headline": "Heavy turnout in second phase of Rajasthan panchayat elections",
+          "summary": "Voters turned out strongly for sarpanch and ward panch seats in the second phase of Rajasthan's panchayat polls, with the highest turnout recorded at 84.3 per cent in one area.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/rajasthan/heavy-polling-in-second-phase-panchayat-elections-for-sarpanch-ward-panch-in-rajasthan/article71645952.ece"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "US approves sale of 500 Patriot missiles to Ukraine",
+          "summary": "Washington cleared the sale of 500 Patriot interceptors to Ukraine. BBC describes them as the only effective weapon for shooting down Russia's ballistic missiles.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo"
+        },
+        {
+          "headline": "Binance tries to recover $6.3 billion stolen in hack linked to North Korea",
+          "summary": "The exchange says the attack was complex and is believed to be the largest crypto theft ever. Binance has said it will cover the losses from its user-protection fund and company money.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo"
+        },
+        {
+          "headline": "G20 drops its group photo as Europeans refuse to stand with Lavrov",
+          "summary": "At the G20 talks in Atlanta, hosted by Marco Rubio, European ministers would not pose beside sanctioned Russian foreign minister Sergei Lavrov, so the photo was cancelled. Divisions over the Iran war, Hormuz disruption and Ukraine hung over the meeting.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov"
+        },
+        {
+          "headline": "Police deployed in stand-off over control of Poland's top court",
+          "summary": "The government suspended two senior justices and moved to bring criminal charges against them, escalating a clash with the president. The court has called the move a coup.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o"
+        },
+        {
+          "headline": "Spain's transport minister refuses to resign after fatal rail collision",
+          "summary": "Óscar Puente faces calls to quit after two high-speed trains collided this week, killing at least 69 people. He says he will stay on.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "Google and NTU signed a pact to widen AI use in teaching and research, and Google is also adding a healthcare AI research hub in Singapore with NUS and NTU. Singtel's NCS opened a centre to push AI beyond pilots, planning to triple its forward-deployed AI engineers to over 300 within two years.",
+        "sources": [
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/ntu-google-sign-pact-expand-ai-teaching-research"
+          },
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/google-expands-healthcare-ai-push-with-singapore-research-hub"
+          },
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/singtels-ncs-launches-center-ai-pilots"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Singapore AI startups",
+      "subtitle": "Funding, hiring, and what they're building",
+      "groups": [
+        {
+          "label": "What they're building",
+          "items": [
+            {
+              "headline": "Git hosting rival Entire opens code hosting in Singapore",
+              "summary": "Entire, which competes with GitHub, now lets customers keep repository data in Singapore. It is a regional data-residency option for teams that must store their source code locally.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/github-rival-entire-launches-code-hosting-singapore"
+            },
+            {
+              "headline": "Foodpanda deploys Toku's AI contact centre in Cambodia and Laos",
+              "summary": "Singapore-linked Toku's AI-driven contact centre is now handling inbound and outbound calls for foodpanda in Cambodia and Laos, run by agents at foodpanda's agency in those countries.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/foodpanda-deploys-tokus-ai-contact-center-in-cambodia-laos"
+            },
+            {
+              "headline": "Chinese AI drug firm XtalPi expands its Singapore partnership",
+              "summary": "Under the MARVEL-AI programme, XtalPi and its Singapore partners will develop new materials using computational tools and automated lab experiments, widening a collaboration that began in drug discovery.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/chinese-ai-drug-firm-xtalpi-expands-singapore-partnership"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI in the United States",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "Cracks appear in the AI spending boom",
+          "summary": "Big Tech keeps pouring billions into AI infrastructure, but rising debt, negative cash flow and growing investor doubt are raising questions about how long the spending can continue.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+        },
+        {
+          "headline": "Intel's shares crash, wiping $12 billion off the government's stake",
+          "summary": "Intel is being hurt by weak PC sales, as the AI industry's appetite for memory and other components pushes PC prices up. The slide cut about $12 billion from the value of the US government's holding.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+        },
+        {
+          "headline": "Anthropic expected to get a high 'junk' credit rating after its IPO",
+          "summary": "The Financial Times reports that credit agencies are expected to rate Anthropic as high-yield debt once it lists, a sign of how heavily AI labs are leaning on borrowing.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+        },
+        {
+          "headline": "OpenAI, Google and Microsoft back a new way to opt out of AI scraping",
+          "summary": "Some of the biggest AI companies are supporting a new standard that lets website owners signal that their content should not be scraped for AI training.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+        },
+        {
+          "headline": "Google's first data-centre satellite is online and writing poetry",
+          "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and has sent its first response back to Earth, with verse as the test output.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+        }
+      ]
+    },
+    {
+      "title": "AI in China and worldwide",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "Iluvatar CoreX says its new GPU matches Nvidia's H200",
+          "summary": "The Chinese chipmaker claims its latest AI GPU performs on par with Nvidia's H200, a sign that China's homegrown push is narrowing the chip gap.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates"
+        },
+        {
+          "headline": "Tencent picks Southeast Asia to launch its WorkBuddy AI agent",
+          "summary": "Facing a tough home market, Tencent is using Southeast Asia as the launch pad for its WorkBuddy AI agent, while also expanding data centres overseas to serve rising AI demand.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market"
+        },
+        {
+          "headline": "Nvidia says Megaspeed dealings were normal after probe report",
+          "summary": "Jensen Huang said Nvidia reviewed Megaspeed's GPU deployments and found no illegal diversion of its AI chips to China, responding to a report on an investigation.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/nvidia-megaspeed-dealings-normal-probe-report"
+        },
+        {
+          "headline": "Chinese optical suppliers extend sell-off on AI growth fears",
+          "summary": "Shares of major Chinese optical-component makers kept falling, as worries about slower AI growth outweighed upbeat earnings.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3372672/chinas-optical-suppliers-extend-sell-fears-slower-ai-growth-trump-upbeat-earnings"
+        },
+        {
+          "headline": "Korean chipmaker FuriosaAI raises $620 million at a $2.9 billion valuation",
+          "summary": "FuriosaAI says its RNGD chip beat Nvidia's RTX Pro 6000 in its own efficiency benchmark, and the new round gives it a valuation of $2.9 billion.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/korean-chipmaker-furiosaai-raises-620m-at-2-9b-valuation"
+        }
+      ]
+    }
+  ],
+  "footer": "Built by your morning-brief agent at 7:30am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources. Weather from wttr.in."
+}
