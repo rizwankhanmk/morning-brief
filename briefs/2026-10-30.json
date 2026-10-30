@@ -1,0 +1,317 @@
+{
+  "date": "2026-10-30",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "thunder",
+      "high": 32,
+      "low": 23
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "showers",
+      "high": 32,
+      "low": 25
+    }
+  ],
+  "lede": "Apple's new touchscreen MacBook Pro is the talk of the week, Alphabet shares fell almost 13% after its results, and Cyclone Arnab has forced more than 55,000 people out of their homes in Odisha. Fresh Singapore AI startup news was thin today, so that section has two stories instead of five.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 348.91,
+      "change": 5.08,
+      "change_pct": 1.48
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 283.82,
+      "change": -41.07,
+      "change_pct": -12.64
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 73.8,
+      "change": -0.19,
+      "change_pct": -0.26
+    }
+  ],
+  "stocks_note": "Latest closes: New York, Thursday 29 October (AAPL, GOOGL) and SGX, Thursday 29 October (DBS), via Yahoo Finance. Alphabet's drop followed its third-quarter results on 28 October.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple used the past few days to launch a touchscreen MacBook Pro with its new PROLED XDR display, plus a 14-inch MacBook Pro with M6 and an M6 iMac. It also gave the iPad mini what it calls its biggest update ever, added new AI features to Creator Studio, and brought Siri AI to more languages.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Apple hardware chief explains why the new iPad mini skips 120Hz",
+              "summary": "Apple's VP of Hardware Engineering, Dave Pakula, gave two interviews about the redesigned iPad mini. He covered the OLED screen that stays at 60Hz instead of ProMotion, and the new Acoustic Display, in a thinner and lighter body.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/29/apple-vp-talks-new-ipad-mini-oled-without-promotion-acoustic-display-more/"
+            },
+            {
+              "headline": "TrendForce sees up to 1.5 million OLED MacBook Pros shipping in 2027",
+              "summary": "A new TrendForce report looks at what Apple's first touchscreen MacBook Pro means for the OLED notebook market. It estimates Apple could ship as many as 1.5 million of the machines in 2027.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/29/report-apple-expected-to-ship-up-to-1-5-million-oled-touchscreen-macbook-pros-in-2027/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "Xcode 27.2 reveals RAM in the new Apple TV 4K and iPad mini",
+              "summary": "Apple's Xcode 27.2 release gives away how much memory sits in two new devices. The fourth-generation Apple TV 4K with an A19 chip carries 8GB, and the OLED iPad mini's amount is listed alongside it.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts/"
+            },
+            {
+              "headline": "Apple cuts its Taiwan App Store commission to 26 percent",
+              "summary": "From 31 October, Apple will charge 26 percent instead of 30 on in-app purchases and paid apps on the Taiwan iOS and iPadOS storefront. The change follows talks with the country's regulators.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/29/app-store-fees-taiwan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Laos power import plan would bring in 500MW of renewable electricity",
+          "summary": "A proposal to import 500 megawatts of renewable electricity from Laos into Singapore was signed on the sidelines of Singapore International Energy Week, as the country looks to widen its energy sources.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/environment/proposal-to-import-500mw-renewable-electricity-from-laos-to-spore-mooted-boosting-energy-security"
+        },
+        {
+          "headline": "SIA keeps Dubai flights off the schedule until February 2027",
+          "summary": "Singapore Airlines has extended its cancellations of flights to and from Dubai, which now run through 28 February 2027.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/sia-extends-dubai-flight-cancellations-to-february-2027"
+        },
+        {
+          "headline": "New SGH emergency and neuroscience building speeds up stroke care",
+          "summary": "The new Singapore General Hospital emergency and National Neuroscience Institute building has cut stroke treatment times, with workflows redesigned around the patient rather than the department.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/health/new-sgh-emergency-and-national-neuroscience-building-slashes-stroke-treatment-times"
+        },
+        {
+          "headline": "MSF counts about 6,700 new child abuse cases in 2025",
+          "summary": "Singapore recorded around 6,700 new child abuse cases last year, according to the Ministry of Social and Family Development's domestic violence trends report, and the figure remains elevated.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/domestic-violence-trends-report-2026/"
+        },
+        {
+          "headline": "Haze work with Indonesia is only just beginning",
+          "summary": "Skies over Singapore are clearing, but Singapore and Indonesia say the longer job of tackling the haze at its source has barely started.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/spore-indonesias-work-on-haze-just-beginning/"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Cyclone Arnab forces over 55,000 out of their homes in Odisha",
+          "summary": "The very severe cyclone has hit Odisha, with more than 55,000 people moved from nine districts. Andhra Pradesh's chief minister puts the damage there at no less than ₹4,600 crore.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece"
+        },
+        {
+          "headline": "Telangana sends 2,000 staff to restore Andhra Pradesh power",
+          "summary": "Telangana's two power utilities have dispatched nearly 2,000 workers and emergency material to Andhra Pradesh to restore supply after the cyclone.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-sends-2k-staff-material-to-ap-for-power-supply-restoration-work/article71641620.ece"
+        },
+        {
+          "headline": "Bhutan glacial lake burst triggers flood alert in Assam and Bengal",
+          "summary": "Flash floods in the upper reaches of the Sankosh river have prompted an advisory, since water levels could rise suddenly in Dhubri in Assam and Alipurduar in West Bengal.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/shintaphu-glacial-lake-bursting-gasa-tshachu-hot-springs/article71643533.ece"
+        },
+        {
+          "headline": "Rahul Gandhi questions IDBI Bank stake sale to Fairfax",
+          "summary": "The Congress leader said he stands with the bank's employees as he challenged the Centre's decision to sell its IDBI Bank stake to Fairfax.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-questions-centres-decision-to-sell-idbi-bank-stake-to-fairfax-says-i-stand-with-employees/articleshow/135343125.cms"
+        },
+        {
+          "headline": "Ten overground workers arrested in a Shopian terror financing case",
+          "summary": "Police in Jammu and Kashmir's Shopian district arrested ten overground workers in a case about funding for militants.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/10-terror-overground-workers-arrested-in-terror-financing-case-in-jks-shopian/articleshow/135344545.cms"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Netanyahu's bloc falls short of a majority and Likud alleges fraud",
+          "summary": "Israel's opposition accuses the prime minister of trying to undermine the election after his coalition lost its majority. Likud claims foreign interference and says Arab-led parties stole the vote.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo"
+        },
+        {
+          "headline": "Russian drone strike on Dnipro train station kills at least 14",
+          "summary": "Officials say at least 14 people died and as many were wounded, including an 11-year-old boy, when a Russian drone hit a station in the central Ukrainian city.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko"
+        },
+        {
+          "headline": "Leaked audio shows Spanish rail exchanges before deadly crash",
+          "summary": "Recordings appear to show one high-speed train was cleared to travel at normal speed even though another ahead had stalled.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o"
+        },
+        {
+          "headline": "Xi stresses party discipline as purges hit a record",
+          "summary": "At a major Chinese political gathering, Xi Jinping pressed for discipline while the number of officials purged reached a record. Observers say the campaign helps consolidate his authority.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo"
+        },
+        {
+          "headline": "Machado returns to Venezuela and urges elections in 2027",
+          "summary": "The Nobel-winning opposition figure came back from exile, praised Trump for 'freedom' and criticised a controversial US oil deal with Caracas.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "NTU and Google signed a pact to expand AI in teaching and research, with undergraduates already using Gemini Enterprise and Vertex AI since August. Separately, Nvidia says Singapore-based Megaspeed's chip dealings were normal after a probe report, while Entire now offers code hosting with data kept in Singapore.",
+        "sources": [
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/ntu-google-sign-pact-expand-ai-teaching-research"
+          },
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/nvidia-megaspeed-dealings-normal-probe-report"
+          },
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/github-rival-entire-launches-code-hosting-singapore"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Singapore AI startups",
+      "subtitle": "Funding, hiring, and what they're building",
+      "groups": [
+        {
+          "label": "What they're building",
+          "items": [
+            {
+              "headline": "Entire launches Git code hosting with data kept in Singapore",
+              "summary": "The GitHub rival now lets teams store repository data in Singapore, a draw for companies with data-residency needs.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/github-rival-entire-launches-code-hosting-singapore"
+            },
+            {
+              "headline": "Nvidia defends its dealings with Singapore AI cloud firm Megaspeed",
+              "summary": "Jensen Huang said Nvidia reviewed Megaspeed's GPU deployments and found no illegal diversion of AI chips to China, after a report on a probe. A separate New York Times report says a top Megaspeed executive may have been a Chinese spy.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/nvidia-megaspeed-dealings-normal-probe-report"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI in the United States",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "OpenAI-backed Thrive Holdings agrees to buy ADT",
+          "summary": "Thrive Holdings is buying the home security company for $10 a share, a $15.3 billion deal including debt, and plans to bring AI to the business.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+        },
+        {
+          "headline": "Google releases Gemini 4 Carbon with a focus on cybersecurity",
+          "summary": "Google's newest frontier model claims significant gains in coding, agentic tasks and cybersecurity.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+        },
+        {
+          "headline": "Anthropic's IPO filing sets out a compute-first business plan",
+          "summary": "Analysts reading the S-1 say it justifies spending as much as possible on compute, and Wall Street is being asked to buy into the AGI story.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"
+        },
+        {
+          "headline": "Jassy says AWS can reach $1 trillion, but spending comes first",
+          "summary": "Amazon's CEO said AWS could become the first $1 trillion revenue business, while capital spending on AI cloud capacity keeps climbing.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+        },
+        {
+          "headline": "Gemini can now generate and edit documents inside chats",
+          "summary": "Google's assistant can create, preview and edit PDFs, Docs, Sheets, slide decks, Markdown, text files and code within a conversation.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
+        }
+      ]
+    },
+    {
+      "title": "AI in China and worldwide",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "Iluvatar CoreX says its Tiangai 300 GPU matches Nvidia's H200",
+          "summary": "The Chinese chipmaker claims its new GPU matches and even surpasses the H200 on real workloads, a sign of the domestic push to close the gap.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates"
+        },
+        {
+          "headline": "Tencent makes Southeast Asia the launch pad for its WorkBuddy agent",
+          "summary": "Facing fierce competition at home, Tencent is taking its low-cost workplace AI assistant abroad, starting with Southeast Asia.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market"
+        },
+        {
+          "headline": "Huawei's Tau Scaling Law reaches its base stations",
+          "summary": "Huawei is already putting elements of the chip design principle into its wireless network, as it works around US export controls.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3372454/huaweis-tau-scaling-law-roll-out-reaches-base-stations-blow-us-chip-curbs"
+        },
+        {
+          "headline": "Unitree's quarterly revenue jumps 70 percent",
+          "summary": "The robotics maker reported 665 million yuan, up 69.93 percent, but profit excluding one-offs fell 17.42 percent as AI spending rose.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/article/3372474/unitree-reports-70-surge-quarterly-revenue-though-ai-investment-weighs-net-profit"
+        },
+        {
+          "headline": "Mistral releases weights for its trillion-parameter cyber model",
+          "summary": "The French lab says an open-weight model gives organisations control over their cyber defences that closed models cannot.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+        }
+      ]
+    }
+  ],
+  "footer": "Built by your morning-brief agent at 1:50pm Singapore time. Prices from Yahoo Finance; summaries written from the linked sources."
+}

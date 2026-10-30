@@ -1,0 +1,166 @@
+MORNING BRIEF, Friday, 30 October 2026
+
+⛈️ Singapore: 32° / 23°
+🌦️ Navi Mumbai: 32° / 25°
+
+Apple's new touchscreen MacBook Pro is the talk of the week, Alphabet shares fell almost 13% after its results, and Cyclone Arnab has forced more than 55,000 people out of their homes in Odisha. Fresh Singapore AI startup news was thin today, so that section has two stories instead of five.
+
+AAPL  US$348.91  +5.08 (+1.48%)
+GOOGL  US$283.82  -41.07 (-12.64%)
+DBS  S$73.80  -0.19 (-0.26%)
+Latest closes: New York, Thursday 29 October (AAPL, GOOGL) and SGX, Thursday 29 October (DBS), via Yahoo Finance. Alphabet's drop followed its third-quarter results on 28 October.
+
+APPLE
+
+From Apple
+Apple used the past few days to launch a touchscreen MacBook Pro with its new PROLED XDR display, plus a 14-inch MacBook Pro with M6 and an M6 iMac. It also gave the iPad mini what it calls its biggest update ever, added new AI features to Creator Studio, and brought Siri AI to more languages.
+Sources: Apple Newsroom https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/
+
+9to5Mac
+
+Apple hardware chief explains why the new iPad mini skips 120Hz
+Apple's VP of Hardware Engineering, Dave Pakula, gave two interviews about the redesigned iPad mini. He covered the OLED screen that stays at 60Hz instead of ProMotion, and the new Acoustic Display, in a thinner and lighter body.
+Source: 9to5Mac — https://9to5mac.com/2026/10/29/apple-vp-talks-new-ipad-mini-oled-without-promotion-acoustic-display-more/
+
+TrendForce sees up to 1.5 million OLED MacBook Pros shipping in 2027
+A new TrendForce report looks at what Apple's first touchscreen MacBook Pro means for the OLED notebook market. It estimates Apple could ship as many as 1.5 million of the machines in 2027.
+Source: 9to5Mac — https://9to5mac.com/2026/10/29/report-apple-expected-to-ship-up-to-1-5-million-oled-touchscreen-macbook-pros-in-2027/
+
+MacRumors
+
+Xcode 27.2 reveals RAM in the new Apple TV 4K and iPad mini
+Apple's Xcode 27.2 release gives away how much memory sits in two new devices. The fourth-generation Apple TV 4K with an A19 chip carries 8GB, and the OLED iPad mini's amount is listed alongside it.
+Source: MacRumors — https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts/
+
+Apple cuts its Taiwan App Store commission to 26 percent
+From 31 October, Apple will charge 26 percent instead of 30 on in-app purchases and paid apps on the Taiwan iOS and iPadOS storefront. The change follows talks with the country's regulators.
+Source: MacRumors — https://www.macrumors.com/2026/10/29/app-store-fees-taiwan/
+
+SINGAPORE
+
+Laos power import plan would bring in 500MW of renewable electricity
+A proposal to import 500 megawatts of renewable electricity from Laos into Singapore was signed on the sidelines of Singapore International Energy Week, as the country looks to widen its energy sources.
+Source: Straits Times — https://www.straitstimes.com/singapore/environment/proposal-to-import-500mw-renewable-electricity-from-laos-to-spore-mooted-boosting-energy-security
+
+SIA keeps Dubai flights off the schedule until February 2027
+Singapore Airlines has extended its cancellations of flights to and from Dubai, which now run through 28 February 2027.
+Source: Straits Times — https://www.straitstimes.com/singapore/sia-extends-dubai-flight-cancellations-to-february-2027
+
+New SGH emergency and neuroscience building speeds up stroke care
+The new Singapore General Hospital emergency and National Neuroscience Institute building has cut stroke treatment times, with workflows redesigned around the patient rather than the department.
+Source: Straits Times — https://www.straitstimes.com/singapore/health/new-sgh-emergency-and-national-neuroscience-building-slashes-stroke-treatment-times
+
+MSF counts about 6,700 new child abuse cases in 2025
+Singapore recorded around 6,700 new child abuse cases last year, according to the Ministry of Social and Family Development's domestic violence trends report, and the figure remains elevated.
+Source: Mothership — https://mothership.sg/2026/10/domestic-violence-trends-report-2026/
+
+Haze work with Indonesia is only just beginning
+Skies over Singapore are clearing, but Singapore and Indonesia say the longer job of tackling the haze at its source has barely started.
+Source: Mothership — https://mothership.sg/2026/10/spore-indonesias-work-on-haze-just-beginning/
+
+INDIA
+
+Cyclone Arnab forces over 55,000 out of their homes in Odisha
+The very severe cyclone has hit Odisha, with more than 55,000 people moved from nine districts. Andhra Pradesh's chief minister puts the damage there at no less than ₹4,600 crore.
+Source: The Hindu — https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece
+
+Telangana sends 2,000 staff to restore Andhra Pradesh power
+Telangana's two power utilities have dispatched nearly 2,000 workers and emergency material to Andhra Pradesh to restore supply after the cyclone.
+Source: The Hindu — https://www.thehindu.com/news/national/telangana/telangana-sends-2k-staff-material-to-ap-for-power-supply-restoration-work/article71641620.ece
+
+Bhutan glacial lake burst triggers flood alert in Assam and Bengal
+Flash floods in the upper reaches of the Sankosh river have prompted an advisory, since water levels could rise suddenly in Dhubri in Assam and Alipurduar in West Bengal.
+Source: The Hindu — https://www.thehindu.com/news/international/shintaphu-glacial-lake-bursting-gasa-tshachu-hot-springs/article71643533.ece
+
+Rahul Gandhi questions IDBI Bank stake sale to Fairfax
+The Congress leader said he stands with the bank's employees as he challenged the Centre's decision to sell its IDBI Bank stake to Fairfax.
+Source: Times of India — https://timesofindia.indiatimes.com/india/rahul-gandhi-questions-centres-decision-to-sell-idbi-bank-stake-to-fairfax-says-i-stand-with-employees/articleshow/135343125.cms
+
+Ten overground workers arrested in a Shopian terror financing case
+Police in Jammu and Kashmir's Shopian district arrested ten overground workers in a case about funding for militants.
+Source: Times of India — https://timesofindia.indiatimes.com/india/10-terror-overground-workers-arrested-in-terror-financing-case-in-jks-shopian/articleshow/135344545.cms
+
+WORLD
+
+Netanyahu's bloc falls short of a majority and Likud alleges fraud
+Israel's opposition accuses the prime minister of trying to undermine the election after his coalition lost its majority. Likud claims foreign interference and says Arab-led parties stole the vote.
+Source: BBC News — https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo
+
+Russian drone strike on Dnipro train station kills at least 14
+Officials say at least 14 people died and as many were wounded, including an 11-year-old boy, when a Russian drone hit a station in the central Ukrainian city.
+Source: BBC News — https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko
+
+Leaked audio shows Spanish rail exchanges before deadly crash
+Recordings appear to show one high-speed train was cleared to travel at normal speed even though another ahead had stalled.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cmqxnl312v34o
+
+Xi stresses party discipline as purges hit a record
+At a major Chinese political gathering, Xi Jinping pressed for discipline while the number of officials purged reached a record. Observers say the campaign helps consolidate his authority.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo
+
+Machado returns to Venezuela and urges elections in 2027
+The Nobel-winning opposition figure came back from exile, praised Trump for 'freedom' and criticised a controversial US oil deal with Caracas.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections
+
+AI IN SINGAPORE
+
+NTU and Google signed a pact to expand AI in teaching and research, with undergraduates already using Gemini Enterprise and Vertex AI since August. Separately, Nvidia says Singapore-based Megaspeed's chip dealings were normal after a probe report, while Entire now offers code hosting with data kept in Singapore.
+Sources: Tech in Asia https://www.techinasia.com/news/ntu-google-sign-pact-expand-ai-teaching-research; Tech in Asia https://www.techinasia.com/news/nvidia-megaspeed-dealings-normal-probe-report; Tech in Asia https://www.techinasia.com/github-rival-entire-launches-code-hosting-singapore
+
+SINGAPORE AI STARTUPS
+
+What they're building
+
+Entire launches Git code hosting with data kept in Singapore
+The GitHub rival now lets teams store repository data in Singapore, a draw for companies with data-residency needs.
+Source: Tech in Asia — https://www.techinasia.com/github-rival-entire-launches-code-hosting-singapore
+
+Nvidia defends its dealings with Singapore AI cloud firm Megaspeed
+Jensen Huang said Nvidia reviewed Megaspeed's GPU deployments and found no illegal diversion of AI chips to China, after a report on a probe. A separate New York Times report says a top Megaspeed executive may have been a Chinese spy.
+Source: Tech in Asia — https://www.techinasia.com/news/nvidia-megaspeed-dealings-normal-probe-report
+
+AI IN THE UNITED STATES
+
+OpenAI-backed Thrive Holdings agrees to buy ADT
+Thrive Holdings is buying the home security company for $10 a share, a $15.3 billion deal including debt, and plans to bring AI to the business.
+Source: TechCrunch — https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
+
+Google releases Gemini 4 Carbon with a focus on cybersecurity
+Google's newest frontier model claims significant gains in coding, agentic tasks and cybersecurity.
+Source: The Verge — https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier
+
+Anthropic's IPO filing sets out a compute-first business plan
+Analysts reading the S-1 say it justifies spending as much as possible on compute, and Wall Street is being asked to buy into the AGI story.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive
+
+Jassy says AWS can reach $1 trillion, but spending comes first
+Amazon's CEO said AWS could become the first $1 trillion revenue business, while capital spending on AI cloud capacity keeps climbing.
+Source: TechCrunch — https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/
+
+Gemini can now generate and edit documents inside chats
+Google's assistant can create, preview and edit PDFs, Docs, Sheets, slide decks, Markdown, text files and code within a conversation.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs
+
+AI IN CHINA AND WORLDWIDE
+
+Iluvatar CoreX says its Tiangai 300 GPU matches Nvidia's H200
+The Chinese chipmaker claims its new GPU matches and even surpasses the H200 on real workloads, a sign of the domestic push to close the gap.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates
+
+Tencent makes Southeast Asia the launch pad for its WorkBuddy agent
+Facing fierce competition at home, Tencent is taking its low-cost workplace AI assistant abroad, starting with Southeast Asia.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market
+
+Huawei's Tau Scaling Law reaches its base stations
+Huawei is already putting elements of the chip design principle into its wireless network, as it works around US export controls.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3372454/huaweis-tau-scaling-law-roll-out-reaches-base-stations-blow-us-chip-curbs
+
+Unitree's quarterly revenue jumps 70 percent
+The robotics maker reported 665 million yuan, up 69.93 percent, but profit excluding one-offs fell 17.42 percent as AI spending rose.
+Source: South China Morning Post — https://www.scmp.com/tech/article/3372474/unitree-reports-70-surge-quarterly-revenue-though-ai-investment-weighs-net-profit
+
+Mistral releases weights for its trillion-parameter cyber model
+The French lab says an open-weight model gives organisations control over their cyber defences that closed models cannot.
+Source: TechCrunch — https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/
+
+Built by your morning-brief agent at 1:50pm Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
