@@ -1,0 +1,162 @@
+MORNING BRIEF, Sunday, 1 November 2026
+
+🌦️ Singapore: 31° / 27°
+🌤️ Navi Mumbai: 33° / 25°
+
+Apple's new touchscreen MacBook Pro is the talk of the Mac world, Singapore's haze probe has five companies agreeing to outside assessors, and Alphabet's shares are still sliding after earnings. Fresh Singapore AI startup news was thin over the past 72 hours, so that section has one story, and the weather figures come from wttr.in because the usual source was unavailable.
+
+AAPL  US$344.63  -4.28 (-1.23%)
+GOOGL  US$279.84  -3.98 (-1.40%)
+DBS  S$73.13  -0.67 (-0.91%)
+Previous closes: New York, Friday 30 October (AAPL, GOOGL) and SGX, Friday 30 October (DBS), via Yahoo Finance. No upcoming earnings dates were seen this run; Alphabet has already reported.
+
+APPLE
+
+From Apple
+Apple's newsroom posts this week centred on the all-new MacBook Pro with a PROLED XDR display, announced on Wednesday, alongside the 14-inch M6 MacBook Pro, a new M6 iMac and the OLED iPad mini. Siri AI also reached French, Japanese, Korean, Portuguese and Spanish with the 27.2 updates, and HomeView software 27.2 went out ahead of the 13 November launch.
+Sources: Apple Newsroom https://www.apple.com/newsroom/archive/
+
+9to5Mac
+
+How the new MacBook Pro and macOS 27 handle touch
+Apple's first touchscreen MacBook already had a few touch tweaks in macOS 27 Golden Gate, and 9to5Mac walks through the further optimisations that arrive with the new PROLED XDR model.
+Source: 9to5Mac — https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate/
+
+All 20 HomeView wallpapers are available to download
+Apple's HomeView 27.2 update rolled out late on Thursday, ahead of the device's 13 November launch. It includes 20 default wallpapers, each in light and dark versions, which 9to5Mac has collected for download.
+Source: 9to5Mac — https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/
+
+MacRumors
+
+iPad mini 8 battery is slightly smaller than last year's
+An EU energy label Apple published shows the new iPad mini has a 4,900 mAh battery. That is a little below the 5,034 mAh cell in the previous model, though the label alone does not say how real-world battery life compares.
+Source: MacRumors — https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/
+
+China lifts iPhone 18 Pro sales as the US and Japan slip
+Counterpoint Research says iPhone 18 Pro sales in China rose 29%, helping to offset declines in the United States and Japan. China is doing much of the heavy lifting for the launch so far.
+Source: MacRumors — https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/
+
+SINGAPORE
+
+Five Singapore-registered firms agree to haze assessors
+Five Singapore-registered companies have agreed to engage independent assessors in the haze probe. A sixth, Kencana Agri, has said it is willing to do so voluntarily.
+Source: Straits Times — https://www.straitstimes.com/singapore/haze-probe-five-singapore-registered-companies-agree-to-engage-assessors
+
+Wolbachia mosquito project now covers over half of households
+The programme to curb dengue by releasing Wolbachia mosquitoes now reaches more than 840,000 households, which is over half of all homes in Singapore.
+Source: Straits Times — https://www.straitstimes.com/singapore/environment/project-wolbachia-now-covers-more-than-half-of-all-households-in-singapore
+
+35 community health posts upgraded for seniors
+Singapore's three public health clusters have upgraded services at 35 enhanced community health posts, with the aim of bringing health services closer to seniors where they live.
+Source: Straits Times — https://www.straitstimes.com/singapore/health/more-enhanced-community-health-posts-across-the-island-to-bring-health-services-closer-to-seniors
+
+Queenstown 5-room HDB flat sells for record S$1.818 million
+A five-room flat in Queenstown with 94 years left on its lease has sold for S$1.818 million, which Mothership reports as a new record for an HDB resale flat.
+Source: Mothership — https://mothership.sg/2026/10/skyparc-dawson-5-room-hdb-sell-record/
+
+Man charged over fatal Tampines Avenue 12 crash
+A 30-year-old man has been charged with dangerous driving causing death after the crash on Tampines Avenue 12 that killed a couple. Eyewitnesses said bystanders helped free the pair from their car.
+Source: Mothership — https://mothership.sg/2026/10/tampines-ave-12-fatal-crash-man-charged/
+
+INDIA
+
+Three Kuki-Zo men killed in Manipur gunfight with Nagas
+Three Kuki-Zo people died in a gunfight with Naga groups in Manipur, and a mass rally brought Imphal to a halt in response.
+Source: Times of India — https://timesofindia.indiatimes.com/city/guwahati/3-kuki-zos-killed-in-manipur-gunfight-with-nagas-mass-rally-halts-imphal/articleshow/135408794.cms
+
+Delhi prepares for INDIA bloc's Ramlila Maidan rally
+Police plan around 4,000 personnel and 200 CCTV cameras as the opposition INDIA bloc aims for a turnout of about ten lakh at its rally against the chief election commissioner.
+Source: Times of India — https://timesofindia.indiatimes.com/india/10-lakh-turnout-target-4000-cops-200-cctv-delhi-braces-for-india-blocs-anti-cec-rally-at-ramlila-maidan/articleshow/135411804.cms
+
+UP orders ECINET logins shut after Pilibhit voter roll row
+Uttar Pradesh's chief electoral officer has deactivated the login IDs of voter registration centre operators statewide after an inquiry found irregularities in Pilibhit.
+Source: Times of India — https://timesofindia.indiatimes.com/city/lucknow/pilibhit-voter-roll-row-up-ceo-orders-statewide-ecinet-login-shutdown/articleshow/135398877.cms
+
+IIM Bangalore reports full summer placements
+IIM Bangalore placed every student in summer internships, with a median stipend of ₹2 lakh a month. Consulting made up 50.7% of offers, and 40% of recruiters were first-timers.
+Source: The Hindu — https://www.thehindu.com/news/national/karnataka/iim-bangalore-records-100-summer-placements-with-median-stipend-at-2-lakh-per-month/article71650178.ece
+
+L-G Sinha says peace in J&K was established, not bought
+Speaking on Union Territory Foundation Day, Lieutenant Governor Manoj Sinha said terror, separatism and stone-pelting have given way to democracy and development since Article 370 was removed.
+Source: The Hindu — https://www.thehindu.com/news/national/jammu-and-kashmir/we-did-not-buy-peace-we-established-peace-in-jk-l-g-manoj-sinha-on-ut-foundation-day/article71650210.ece
+
+WORLD
+
+Ukrainians describe leaving occupied Oleshky
+Evacuees from the Russia-occupied city of Oleshky say they crossed minefields in search of food. Many had gone years without reliable water or electricity and cooked garden weeds to survive.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cqx2818elrnzo
+
+More than 320,000 march across France over living costs
+Protests over rising living costs and weak public services drew over 320,000 people across France, including thousands in Paris, with some clashes with police. Demonstrations are spreading across Europe.
+Source: BBC News — https://www.bbc.co.uk/news/videos/ck0j0y87j303o
+
+Binance to cover 90% of losses from $6.3bn hack
+Binance says it will cover 90% of customer losses after a $6.3bn hack. The FBI says North Korea was responsible for the theft.
+Source: BBC News — https://www.bbc.co.uk/news/articles/ckpdg3ql4169o
+
+Ebola deaths in DR Congo pass 5,000
+Government data show more than 5,000 deaths and over 10,000 infections, making this the deadliest outbreak in the country's history.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cj5ynryyep2yo
+
+Global nature talks reach a deal, but funding is unresolved
+Countries have agreed a text to bring the global effort to halt nature decline back on track, though how to pay for it remains a sticking point.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo
+
+AI IN SINGAPORE
+
+Singapore is tightening rules on live video apps: Hong Kong-based Chamet is expanding AI checks to comply. Entire, a GitHub rival, now lets customers keep code in Singapore. The Straits Times reports that fresh graduates are being urged to use and critique AI to land jobs, as schools expand longer internships.
+Sources: Tech in Asia https://www.techinasia.com/news/hk-chat-app-chamet-expands-ai-checks-singapore-tightens-rules; Tech in Asia https://www.techinasia.com/github-rival-entire-launches-code-hosting-singapore; Straits Times https://www.straitstimes.com/tech/fixing-the-bottom-rung-fresh-grads-urged-to-use-critique-ai-to-get-a-leg-up-in-employment
+
+SINGAPORE AI STARTUPS
+
+What they're building
+
+GitHub rival Entire opens Singapore code hosting
+Entire, which competes with GitHub on hosting Git repositories, now lets customers keep their repository data in Singapore, a data residency option aimed at regional teams.
+Source: Tech in Asia — https://www.techinasia.com/github-rival-entire-launches-code-hosting-singapore
+
+AI IN THE UNITED STATES
+
+Apple's CEO says it won't ship AI for AI's sake
+Apple's new chief executive defended the company's position in AI, saying it does not want to ship AI features just for the sake of it.
+Source: TechCrunch — https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/
+
+OpenAI reportedly lowers its funding target
+OpenAI's latest round is not living up to expectations, with reports putting the target at about $20 billion at a lower valuation. The deal would let OpenAI lease new computing capacity in the UAE.
+Source: TechCrunch — https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
+
+Anthropic may get a high-yield rating after its IPO
+The Financial Times reports Blackstone expects credit agencies to give Anthropic a high junk rating after listing. That is only a forecast, but it would make raising money costlier.
+Source: TechCrunch — https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+
+Nvidia weighs cosigning Nscale's West Virginia data center
+With investors nervous about AI spending, Nvidia is considering backing the loan for Nscale's planned data center in West Virginia, a sign of how the chipmaker is propping up its customers.
+Source: TechCrunch — https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/
+
+OpenAI, Google, Microsoft and Anthropic back an AI scraping opt-out
+The four companies say they will adopt a new standard that lets publishers state their AI training preferences and opt out of scraping.
+Source: The Verge — https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
+
+AI IN CHINA AND WORLDWIDE
+
+Apple and Alibaba to bring Qwen-powered AI features to China
+Testing of the Qianwen-powered features begins on 4 November in the latest iOS developer beta, with a formal launch in China planned for December.
+Source: Tech in Asia — https://www.techinasia.com/news/apple-alibaba-roll-qwenpowered-ai-features-china
+
+China dismisses report of a spy targeting Jensen Huang
+Beijing called US intelligence allegations that a suspected Chinese spy targeted Nvidia's chief executive groundless.
+Source: SCMP — https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless
+
+Cambricon co-founder urges shared AI ethics standards with the US
+A co-founder of Chinese chipmaker Cambricon called for universal ethical requirements for leading Chinese and American AI models as AI cyber risks grow.
+Source: SCMP — https://www.scmp.com/tech/article/3372807/ai-cyber-risks-grow-chinese-chip-expert-urges-shared-ethics-standards-us-rivals
+
+CXMT reports $8.17 billion profit as memory demand cools
+China's memory chipmaker spent 11 billion yuan on R&D in nine months and plans a buyback of up to 2 billion yuan.
+Source: Tech in Asia — https://www.techinasia.com/news/chinas-cxmt-reports-817b-profit-memory-demand-cools
+
+Tencent Cloud and Morningstar plan AI wealth tools for Asia
+The first products are planned for Hong Kong, before expanding to other Southeast Asian markets.
+Source: Tech in Asia — https://www.techinasia.com/news/tencent-cloud-morningstar-plan-ai-wealth-tools-asia
+
+Built by your morning-brief agent at 7:20am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.

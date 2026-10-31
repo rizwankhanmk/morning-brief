@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-01",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "showers",
+      "high": 31,
+      "low": 27
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "partly-cloudy",
+      "high": 33,
+      "low": 25
+    }
+  ],
+  "lede": "Apple's new touchscreen MacBook Pro is the talk of the Mac world, Singapore's haze probe has five companies agreeing to outside assessors, and Alphabet's shares are still sliding after earnings. Fresh Singapore AI startup news was thin over the past 72 hours, so that section has one story, and the weather figures come from wttr.in because the usual source was unavailable.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 344.63,
+      "change": -4.28,
+      "change_pct": -1.23
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 279.84,
+      "change": -3.98,
+      "change_pct": -1.4
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 73.13,
+      "change": -0.67,
+      "change_pct": -0.91
+    }
+  ],
+  "stocks_note": "Previous closes: New York, Friday 30 October (AAPL, GOOGL) and SGX, Friday 30 October (DBS), via Yahoo Finance. No upcoming earnings dates were seen this run; Alphabet has already reported.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple's newsroom posts this week centred on the all-new MacBook Pro with a PROLED XDR display, announced on Wednesday, alongside the 14-inch M6 MacBook Pro, a new M6 iMac and the OLED iPad mini. Siri AI also reached French, Japanese, Korean, Portuguese and Spanish with the 27.2 updates, and HomeView software 27.2 went out ahead of the 13 November launch.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/archive/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "How the new MacBook Pro and macOS 27 handle touch",
+              "summary": "Apple's first touchscreen MacBook already had a few touch tweaks in macOS 27 Golden Gate, and 9to5Mac walks through the further optimisations that arrive with the new PROLED XDR model.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate/"
+            },
+            {
+              "headline": "All 20 HomeView wallpapers are available to download",
+              "summary": "Apple's HomeView 27.2 update rolled out late on Thursday, ahead of the device's 13 November launch. It includes 20 default wallpapers, each in light and dark versions, which 9to5Mac has collected for download.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "iPad mini 8 battery is slightly smaller than last year's",
+              "summary": "An EU energy label Apple published shows the new iPad mini has a 4,900 mAh battery. That is a little below the 5,034 mAh cell in the previous model, though the label alone does not say how real-world battery life compares.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/"
+            },
+            {
+              "headline": "China lifts iPhone 18 Pro sales as the US and Japan slip",
+              "summary": "Counterpoint Research says iPhone 18 Pro sales in China rose 29%, helping to offset declines in the United States and Japan. China is doing much of the heavy lifting for the launch so far.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Five Singapore-registered firms agree to haze assessors",
+          "summary": "Five Singapore-registered companies have agreed to engage independent assessors in the haze probe. A sixth, Kencana Agri, has said it is willing to do so voluntarily.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/haze-probe-five-singapore-registered-companies-agree-to-engage-assessors"
+        },
+        {
+          "headline": "Wolbachia mosquito project now covers over half of households",
+          "summary": "The programme to curb dengue by releasing Wolbachia mosquitoes now reaches more than 840,000 households, which is over half of all homes in Singapore.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/environment/project-wolbachia-now-covers-more-than-half-of-all-households-in-singapore"
+        },
+        {
+          "headline": "35 community health posts upgraded for seniors",
+          "summary": "Singapore's three public health clusters have upgraded services at 35 enhanced community health posts, with the aim of bringing health services closer to seniors where they live.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/health/more-enhanced-community-health-posts-across-the-island-to-bring-health-services-closer-to-seniors"
+        },
+        {
+          "headline": "Queenstown 5-room HDB flat sells for record S$1.818 million",
+          "summary": "A five-room flat in Queenstown with 94 years left on its lease has sold for S$1.818 million, which Mothership reports as a new record for an HDB resale flat.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/skyparc-dawson-5-room-hdb-sell-record/"
+        },
+        {
+          "headline": "Man charged over fatal Tampines Avenue 12 crash",
+          "summary": "A 30-year-old man has been charged with dangerous driving causing death after the crash on Tampines Avenue 12 that killed a couple. Eyewitnesses said bystanders helped free the pair from their car.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/tampines-ave-12-fatal-crash-man-charged/"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Three Kuki-Zo men killed in Manipur gunfight with Nagas",
+          "summary": "Three Kuki-Zo people died in a gunfight with Naga groups in Manipur, and a mass rally brought Imphal to a halt in response.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/guwahati/3-kuki-zos-killed-in-manipur-gunfight-with-nagas-mass-rally-halts-imphal/articleshow/135408794.cms"
+        },
+        {
+          "headline": "Delhi prepares for INDIA bloc's Ramlila Maidan rally",
+          "summary": "Police plan around 4,000 personnel and 200 CCTV cameras as the opposition INDIA bloc aims for a turnout of about ten lakh at its rally against the chief election commissioner.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/10-lakh-turnout-target-4000-cops-200-cctv-delhi-braces-for-india-blocs-anti-cec-rally-at-ramlila-maidan/articleshow/135411804.cms"
+        },
+        {
+          "headline": "UP orders ECINET logins shut after Pilibhit voter roll row",
+          "summary": "Uttar Pradesh's chief electoral officer has deactivated the login IDs of voter registration centre operators statewide after an inquiry found irregularities in Pilibhit.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/lucknow/pilibhit-voter-roll-row-up-ceo-orders-statewide-ecinet-login-shutdown/articleshow/135398877.cms"
+        },
+        {
+          "headline": "IIM Bangalore reports full summer placements",
+          "summary": "IIM Bangalore placed every student in summer internships, with a median stipend of ₹2 lakh a month. Consulting made up 50.7% of offers, and 40% of recruiters were first-timers.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/iim-bangalore-records-100-summer-placements-with-median-stipend-at-2-lakh-per-month/article71650178.ece"
+        },
+        {
+          "headline": "L-G Sinha says peace in J&K was established, not bought",
+          "summary": "Speaking on Union Territory Foundation Day, Lieutenant Governor Manoj Sinha said terror, separatism and stone-pelting have given way to democracy and development since Article 370 was removed.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/we-did-not-buy-peace-we-established-peace-in-jk-l-g-manoj-sinha-on-ut-foundation-day/article71650210.ece"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Ukrainians describe leaving occupied Oleshky",
+          "summary": "Evacuees from the Russia-occupied city of Oleshky say they crossed minefields in search of food. Many had gone years without reliable water or electricity and cooked garden weeds to survive.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo"
+        },
+        {
+          "headline": "More than 320,000 march across France over living costs",
+          "summary": "Protests over rising living costs and weak public services drew over 320,000 people across France, including thousands in Paris, with some clashes with police. Demonstrations are spreading across Europe.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o"
+        },
+        {
+          "headline": "Binance to cover 90% of losses from $6.3bn hack",
+          "summary": "Binance says it will cover 90% of customer losses after a $6.3bn hack. The FBI says North Korea was responsible for the theft.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o"
+        },
+        {
+          "headline": "Ebola deaths in DR Congo pass 5,000",
+          "summary": "Government data show more than 5,000 deaths and over 10,000 infections, making this the deadliest outbreak in the country's history.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo"
+        },
+        {
+          "headline": "Global nature talks reach a deal, but funding is unresolved",
+          "summary": "Countries have agreed a text to bring the global effort to halt nature decline back on track, though how to pay for it remains a sticking point.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "Singapore is tightening rules on live video apps: Hong Kong-based Chamet is expanding AI checks to comply. Entire, a GitHub rival, now lets customers keep code in Singapore. The Straits Times reports that fresh graduates are being urged to use and critique AI to land jobs, as schools expand longer internships.",
+        "sources": [
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/hk-chat-app-chamet-expands-ai-checks-singapore-tightens-rules"
+          },
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/github-rival-entire-launches-code-hosting-singapore"
+          },
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/tech/fixing-the-bottom-rung-fresh-grads-urged-to-use-critique-ai-to-get-a-leg-up-in-employment"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Singapore AI startups",
+      "subtitle": "Funding, hiring, and what they're building",
+      "groups": [
+        {
+          "label": "What they're building",
+          "items": [
+            {
+              "headline": "GitHub rival Entire opens Singapore code hosting",
+              "summary": "Entire, which competes with GitHub on hosting Git repositories, now lets customers keep their repository data in Singapore, a data residency option aimed at regional teams.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/github-rival-entire-launches-code-hosting-singapore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI in the United States",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "Apple's CEO says it won't ship AI for AI's sake",
+          "summary": "Apple's new chief executive defended the company's position in AI, saying it does not want to ship AI features just for the sake of it.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+        },
+        {
+          "headline": "OpenAI reportedly lowers its funding target",
+          "summary": "OpenAI's latest round is not living up to expectations, with reports putting the target at about $20 billion at a lower valuation. The deal would let OpenAI lease new computing capacity in the UAE.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+        },
+        {
+          "headline": "Anthropic may get a high-yield rating after its IPO",
+          "summary": "The Financial Times reports Blackstone expects credit agencies to give Anthropic a high junk rating after listing. That is only a forecast, but it would make raising money costlier.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+        },
+        {
+          "headline": "Nvidia weighs cosigning Nscale's West Virginia data center",
+          "summary": "With investors nervous about AI spending, Nvidia is considering backing the loan for Nscale's planned data center in West Virginia, a sign of how the chipmaker is propping up its customers.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+        },
+        {
+          "headline": "OpenAI, Google, Microsoft and Anthropic back an AI scraping opt-out",
+          "summary": "The four companies say they will adopt a new standard that lets publishers state their AI training preferences and opt out of scraping.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+        }
+      ]
+    },
+    {
+      "title": "AI in China and worldwide",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "Apple and Alibaba to bring Qwen-powered AI features to China",
+          "summary": "Testing of the Qianwen-powered features begins on 4 November in the latest iOS developer beta, with a formal launch in China planned for December.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/apple-alibaba-roll-qwenpowered-ai-features-china"
+        },
+        {
+          "headline": "China dismisses report of a spy targeting Jensen Huang",
+          "summary": "Beijing called US intelligence allegations that a suspected Chinese spy targeted Nvidia's chief executive groundless.",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless"
+        },
+        {
+          "headline": "Cambricon co-founder urges shared AI ethics standards with the US",
+          "summary": "A co-founder of Chinese chipmaker Cambricon called for universal ethical requirements for leading Chinese and American AI models as AI cyber risks grow.",
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/article/3372807/ai-cyber-risks-grow-chinese-chip-expert-urges-shared-ethics-standards-us-rivals"
+        },
+        {
+          "headline": "CXMT reports $8.17 billion profit as memory demand cools",
+          "summary": "China's memory chipmaker spent 11 billion yuan on R&D in nine months and plans a buyback of up to 2 billion yuan.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/chinas-cxmt-reports-817b-profit-memory-demand-cools"
+        },
+        {
+          "headline": "Tencent Cloud and Morningstar plan AI wealth tools for Asia",
+          "summary": "The first products are planned for Hong Kong, before expanding to other Southeast Asian markets.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/tencent-cloud-morningstar-plan-ai-wealth-tools-asia"
+        }
+      ]
+    }
+  ],
+  "footer": "Built by your morning-brief agent at 7:20am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources."
+}
