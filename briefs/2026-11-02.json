@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-02",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "sun",
+      "high": 30,
+      "low": 27
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "cloudy",
+      "high": 31,
+      "low": 25
+    }
+  ],
+  "lede": "Apple's touchscreen MacBook Pro and OLED iPad mini are out and Apple reports earnings today, Alphabet is still licking its wounds after last week's drop, and Cyclone Murasu is closing schools along India's east coast; there were no Singapore AI startup stories fresh enough to include, and weather came from wttr.in because Open-Meteo was rate-limited.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 344.63,
+      "change": -4.28,
+      "change_pct": -1.23
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 279.84,
+      "change": -3.98,
+      "change_pct": -1.4
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 73.13,
+      "change": -0.67,
+      "change_pct": -0.91
+    }
+  ],
+  "stocks_note": "Latest closes: New York, Friday 30 October (AAPL, GOOGL) and SGX, Friday 30 October (DBS), via Yahoo Finance. Apple reports fiscal fourth-quarter results today, Monday 2 November, at 2pm Pacific. Alphabet fell sharply on 29 October after its own results.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple's Newsroom could not be fetched today, so this is drawn from coverage of its releases. Apple has unveiled its first touchscreen MacBook Pro, with an OLED display it calls PROLED XDR, alongside an OLED iPad mini 8 and updated iMac. It also pushed HomeView software 27.2 ahead of the hub's 13 November launch, and reports quarterly earnings today.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/archive/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "How macOS 27 and the new MacBook Pro handle touch",
+              "summary": "Apple's new MacBook Pro is the first Mac with a touch display, and macOS 27 Golden Gate already carried some touch tweaks from earlier this year. 9to5Mac walks through how the software has been tuned so fingers and trackpad can share the screen.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate/"
+            },
+            {
+              "headline": "HomeView 27.2 lands early, with 20 new wallpapers",
+              "summary": "Apple released HomeView software 27.2 before the device's official 13 November launch. The update includes the default wallpapers, each in light and dark versions, which 9to5Mac has collected for download.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "iPad mini 8 battery is slightly smaller, EU label shows",
+              "summary": "An EU energy label published by Apple lists the new OLED iPad mini's battery at 4,900 mAh. That is a little below the 5,034 mAh in the model it replaces, though Apple's usage claims are what will matter in practice.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/"
+            },
+            {
+              "headline": "Three more iPads rumoured for the first half of 2027",
+              "summary": "After this month's iPad mini, a new report says Apple plans fresh iPad Air, iPad Pro and entry-level iPad models in the first half of 2027. No details on the specs were given in the summary, so treat the timing as a rumour.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Government studies build-to-rent homes as a step towards ownership",
+          "summary": "Singapore is exploring build-to-rent housing, partly because people's housing needs are changing. A companion piece asks whether the model could suit younger Singaporeans and whether rents can be held under $2,000 a month.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/housing/bridge-to-home-ownership-why-singapore-is-exploring-build-to-rent"
+        },
+        {
+          "headline": "More people dropped their Integrated Shield riders in 2025",
+          "summary": "The number of policyholders who dropped or downgraded their Integrated Shield Plan riders jumped 72 per cent in 2025, to 181,800. The article looks at what is behind the shift away from this extra cover.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/health/72-spike-in-number-of-people-who-dropped-their-ip-riders-in-2025"
+        },
+        {
+          "headline": "Oil patches seen in waters off Pulau Sebarok and Semakau",
+          "summary": "The Maritime and Port Authority says oil patches were spotted in the southern waters near Pulau Sebarok, Pulau Semakau and Selat Pauh, and that it has called in its oil spill response contractors.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/oil-patches-spotted-off-pulau-sebarok-pulau-semakau-and-selat-pauh-mpa"
+        },
+        {
+          "headline": "Singapore urges maritime nations to keep waterways open",
+          "summary": "Speaking at the Manama Dialogue, Zaqy Mohamad warned that insecurity at sea must not become the new normal. He said key maritime nations are still searching for ways to keep shipping lanes open beyond the immediate conflict.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/beyond-war-key-maritime-nations-grope-for-solutions-to-keep-waterways-open"
+        },
+        {
+          "headline": "Chipotle is coming to Jewel Changi Airport in 2027",
+          "summary": "Mothership reports that the Mexican fast-food chain will open an outlet at Jewel Changi Airport in 2027, adding to the mall's growing dining line-up.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/chipotle-changi-jewel/"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Opposition rallies in Delhi demanding the election chief quit",
+          "summary": "Thousands gathered in central Delhi as opposition parties called for Chief Election Commissioner Gyanesh Kumar to resign. Rahul Gandhi told the rally Kumar has to go, with the prime minister and home minister next, while Sikh groups questioned the rally's 1 November timing.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/gyanesh-has-to-go-pm-shah-next-says-rahul-gandhi-at-anti-cec-rally/articleshow/135437683.cms"
+        },
+        {
+          "headline": "Cyclone Murasu brings alerts to southern and eastern coast",
+          "summary": "The cyclonic storm sits roughly 350 km east of Chennai. Orange alerts are out for six Telangana districts and yellow for five more, and schools and colleges in some Tamil Nadu and Andhra Pradesh districts have been given a holiday.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece"
+        },
+        {
+          "headline": "Bengaluru-Mumbai Vande Bharat sleeper flagged off",
+          "summary": "The Railway Minister launched an overnight Vande Bharat Sleeper Express linking Bengaluru and Mumbai through Anantapur, Raichur, Kalaburagi, Solapur and Pune, improving rail links across three states.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-mumbai-vande-bharat-sleeper-express-flagged-off-by-railway-minister/article71653630.ece"
+        },
+        {
+          "headline": "New airfare rules from next year limit government intervention",
+          "summary": "Under rules due from next year, the government will step in on airfares only in extraordinary situations, with the aim of preventing price spikes while leaving routine pricing to airlines.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/new-airfare-rules-from-next-year-no-govt-intervention-except-in-extraordinary-situations-to-prevent-spikes/articleshow/135430750.cms"
+        },
+        {
+          "headline": "Chief Justice asks courts to look at their own responsiveness",
+          "summary": "CJI Surya Kant urged the judiciary to reflect on the need to respond better to the people it serves, in remarks reported on Monday.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/introspect-on-need-to-improve-judiciary-responsiveness-cji/articleshow/135437999.cms"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Russian strikes hit Ukraine's power as Kherson truce ends",
+          "summary": "A rare humanitarian ceasefire let civilians leave the Russian-occupied city of Oleshky. It has now ended, and Russian strikes have cut electricity to thousands of people in Ukraine.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo"
+        },
+        {
+          "headline": "Israeli strikes in Gaza kill eight, hospitals say",
+          "summary": "Hospitals say five Hamas-run police officers died in Khan Younis and three people, one of them a child, were killed in Gaza City.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo"
+        },
+        {
+          "headline": "Cost-of-living protests turn violent in Germany",
+          "summary": "Shops were looted as protests spread through Berlin, Hamburg and Frankfurt. Hundreds of thousands also demonstrated in France on the same day.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o"
+        },
+        {
+          "headline": "Binance to cover 90% of losses from $6.3bn hack",
+          "summary": "The FBI says North Korea was behind the theft. Binance says it has replaced most of the stolen assets for affected users.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o"
+        },
+        {
+          "headline": "Ebola deaths pass 5,000 in DR Congo",
+          "summary": "Government data shows more than 10,000 people have caught the virus, making this the country's deadliest outbreak.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "A Straits Times report on cyber research says AI models fell for decoy systems 78.5 per cent of the time, against 37 per cent for human hackers. The finding points to decoys and safe AI-assisted hacking as tools for defenders facing AI-powered attacks. Only this one fresh Singapore AI story could be confirmed today.",
+        "sources": [
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/tech/decoys-safe-ai-hacking-help-cyberdefenders-counter-ai-powered-attacks"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Singapore AI startups",
+      "subtitle": "Funding, hiring, and what they're building",
+      "groups": []
+    },
+    {
+      "title": "AI in the United States",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "OpenAI trims its funding target as valuation slips",
+          "summary": "Reports say OpenAI has lowered the size of its new round, which appears to be falling short of expectations. Tech in Asia puts the new target at $20 billion.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+        },
+        {
+          "headline": "Apple's CEO says no AI for AI's sake",
+          "summary": "Apple's new chief executive defended the company's position in AI, saying Apple does not want to ship AI features just for the sake of it.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+        },
+        {
+          "headline": "Anthropic may get a high-yield credit rating after IPO",
+          "summary": "The FT reports Blackstone expects credit agencies to give Anthropic a high junk rating following its IPO. It is only a forecast, but a poor rating would make borrowing for its heavy spending costlier.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+        },
+        {
+          "headline": "Nvidia weighs cosigning Nscale's West Virginia data centre",
+          "summary": "With investors jittery about AI spending, Nvidia is considering backing the loan for Nscale's planned West Virginia site, a sign of how chip makers are propping up the build-out.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+        },
+        {
+          "headline": "Judge lets NAACP suit over xAI data centre pollution proceed",
+          "summary": "A federal judge allowed a lawsuit accusing the SpaceX-owned AI company of breaching the Clean Air Act at its data centre to move forward.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+        }
+      ]
+    },
+    {
+      "title": "AI in China and worldwide",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "DeepSeek previews an autonomous coding 'super agent'",
+          "summary": "The start-up plans an agent that handles multiple tasks with little supervision, stepping up competition with OpenAI and Anthropic. Tech in Asia adds it can try to fix bugs raised in group chats without being tagged.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic"
+        },
+        {
+          "headline": "Apple Intelligence to reach China in December with Alibaba",
+          "summary": "After two years of regulatory uncertainty, Apple's AI features will launch officially on iPhones in China in December, with Alibaba backing the rollout.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing"
+        },
+        {
+          "headline": "Z.ai founder calls self-improving AI the key step to AGI",
+          "summary": "The Chinese computer scientist argues that using AI to build smarter systems makes artificial general intelligence more achievable, but says it has to be done safely.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder"
+        },
+        {
+          "headline": "Cambricon co-founder urges shared AI ethics standards",
+          "summary": "With AI cyber risks growing, the chip company's co-founder called for universal ethical requirements covering leading Chinese and American AI models.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/article/3372807/ai-cyber-risks-grow-chinese-chip-expert-urges-shared-ethics-standards-us-rivals"
+        },
+        {
+          "headline": "India issues guide to train AI without sharing data",
+          "summary": "MeitY has released a handbook, developed with the iSPIRT Foundation, on training AI models without pooling or sharing the underlying data.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/indias-meity-unveils-guide-train-ai-sharing-data"
+        }
+      ]
+    }
+  ],
+  "footer": "Built by your morning-brief agent at 7:30am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources."
+}
