@@ -1,0 +1,162 @@
+MORNING BRIEF, Wednesday, 4 November 2026
+
+🌦️ Singapore: 31° / 24°
+🌦️ Navi Mumbai: 35° / 25°
+
+Apple has put Siri AI into third-party apps with the iOS 27.3 beta, Singapore's haze and a healthcare IT outage are still in the headlines, and US voters are heading to the polls; Singapore AI startup news was thin today, so that section has one story.
+
+AAPL  US$331.90  -6.42 (-1.90%)
+GOOGL  US$280.03  +1.04 (+0.37%)
+DBS  S$70.88  -0.83 (-1.16%)
+Latest closes: New York, Tuesday 3 November (AAPL, GOOGL) and SGX, Tuesday 3 November (DBS), via Yahoo Finance. No upcoming earnings dates were seen in the sources checked.
+
+APPLE
+
+From Apple
+Apple has reported fourth quarter results, with record revenue of $114.5 billion, up 12 percent, and a record September quarter for iPhone. Full fiscal 2026 revenue came to $479 billion. Apple also expanded language support for its redesigned Health app, and the iOS 27.3 beta opened Siri AI to apps from all developers.
+Sources: Apple Newsroom https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/
+
+9to5Mac
+
+Xcode 27.3 beta adds GitHub Copilot to Apple's built-in coding assistant
+The first beta of Xcode 27.3 widens the built-in coding assistant so developers can use GitHub Copilot inside Apple's own tools. It is the headline change in a beta that arrived alongside the new iOS and macOS test builds.
+Source: 9to5Mac — https://9to5mac.com/2026/11/03/xcode-27-3-adds-github-copilot-to-its-built-in-coding-assistant/
+
+Apple now explicitly bans staff from using confidential information on prediction markets
+Apple has updated its insider trading policy so employees cannot use inside knowledge to place bets on prediction markets. The wording makes explicit what was previously left to the general rules.
+Source: 9to5Mac — https://9to5mac.com/2026/11/03/apple-now-explicitly-bans-employees-from-using-confidential-information-in-prediction-markets/
+
+MacRumors
+
+iPhone jailbreak gets past Lockdown Mode and survives an update
+Security team Calif, which jailbroke an iPhone Duo on launch day just over a week ago, has shown a new demonstration. This time the jailbreak works on a phone in Lockdown Mode and appears to persist across an iOS update.
+Source: MacRumors — https://www.macrumors.com/2026/11/03/iphone-jailbreak-lockdown-mode/
+
+iOS 27.3 brings vertical tabs and adaptive dark mode to Safari
+Safari gets a vertical tabs layout as an alternative to the usual tab bar, which suits the larger iPhone Duo display but is available across devices. Apple is also adding an adaptive dark mode to the browser in iOS 27.3, iPadOS 27.3 and macOS 27.3.
+Source: MacRumors — https://www.macrumors.com/2026/11/03/ios-27-3-safari/
+
+SINGAPORE
+
+Rena Lee becomes the first Singaporean elected as a judge of the International Court of Justice
+Singapore's Rena Lee has won a seat on the world court in The Hague, the first Singaporean to do so. She is also only the second candidate from South-east Asia elected to the ICJ since it was founded in 1945.
+Source: Straits Times — https://www.straitstimes.com/singapore/politics/rena-lee-becomes-first-sporean-elected-as-icj-judge
+
+Missed security update behind 9.5-hour public healthcare outage
+The health ministry has apologised in Parliament for a preventable lapse: a security update that was never applied took down public healthcare IT systems for nine and a half hours on 13 October. Around 4,000 outpatient appointments were rescheduled, and some patients waited up to two hours.
+Source: Mothership — https://mothership.sg/2026/11/public-healthcare-clusters-service-disruption-parliament/
+
+46,000 SIA booking records accessed in breach at software provider Amadeus
+Booking records for about 46,000 Singapore Airlines customers were accessed illegally after a data breach at travel software supplier Amadeus. SIA says no bank account or credit card details were exposed.
+Source: Straits Times — https://www.straitstimes.com/singapore/46000-sia-booking-records-accessed-illegally-in-data-breach-affecting-software-provider-amadeus
+
+COE review: most respondents back merging car categories and a five-band rebate
+Public feedback on the COE review leans towards combining car categories and moving to a five-band rebate system. The transport minister told Parliament that the car population cannot keep growing much further, and that no decision has been made yet.
+Source: Straits Times — https://www.straitstimes.com/singapore/politics/coe-review-most-people-support-merging-car-categories-and-five-band-rebate-system
+
+Almost 30% of eligible Singaporeans have collected free N95 masks as haze continues
+Close to three in ten eligible residents have picked up the free N95 masks. Minister Grace Fu said the government will keep prioritising vulnerable groups in the distribution, and she cautioned that too many air quality indicators could muddy public messaging on haze.
+Source: Mothership — https://mothership.sg/2026/11/haze-spore-mask-distribution/
+
+INDIA
+
+Supreme Court: the right to protest does not justify occupying a site indefinitely
+The Supreme Court observed that the right to protest cannot be stretched into an endless occupation of a public place. The remark adds to the court's long-running line on balancing demonstrations with other people's use of shared spaces.
+Source: Times of India — https://timesofindia.indiatimes.com/india/right-to-protest-cant-justify-endless-occupation-of-a-site-sc/articleshow/135512694.cms
+
+Ladakh administration asks Sonam Wangchuk's wife to halt activity at their Leh school
+Officials in Leh have told Gitanjali Angmo to stop what they call unauthorised activities at the school she runs with the activist Sonam Wangchuk. The administration says she had asked for a no-objection certificate and clearance for a managing committee, and the matter is tied to a pending High Court case.
+Source: The Hindu — https://www.thehindu.com/news/national/ladakh/ladakh-administration-asks-activist-sonam-wangchuks-wife-to-stop-unauthorised-activities-at-their-leh-school/article71661914.ece
+
+Election Commission says Form 6 can be used to return to rolls after SIR deletions
+People whose names were dropped from the draft rolls in the special intensive revision can apply for re-inclusion using Form 6, the Election Commission has said. The clarification matters to voters checking draft lists in states where the revision is under way.
+Source: Times of India — https://timesofindia.indiatimes.com/india/ec-okay-to-use-form-6-for-re-inclusion-in-rolls/articleshow/135512519.cms
+
+Tamil Nadu releases a three-year battery storage policy
+The state has published a policy to deploy 2.5 GW, or 10 GWh, of battery energy storage over three years. It is aimed at storing more renewable power and easing pressure on the grid.
+Source: The Hindu — https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-releases-three-year-bess-policy/article71662564.ece
+
+Andhra Pradesh makes 360-hour internships mandatory for undergraduates
+Undergraduate students in Andhra Pradesh will now have to complete semester internships totalling 360 hours, built into the final stretch of the degree. The change is meant to bring more workplace experience into college courses.
+Source: The Hindu — https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece
+
+WORLD
+
+Spain's transport minister resigns days after the deadly train crash
+Oscar Puente stepped down after an hours-long appearance in parliament. At least 69 people died when two trains collided south of Madrid, and his departure follows days of pressure over the crash.
+Source: BBC News — https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo
+
+Supermarket freezers hit by cyber-attacks in ten European countries
+Retailers from Estonia and Sweden to Portugal and Italy have reported problems with their refrigeration systems. Many shops have had to throw away food, and Europe is on alert for more attacks.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo
+
+First polls close in the US midterm elections
+Voting ended in the earliest states, with control of Congress at stake. Early results are expected to say a lot about the political direction for the final two years of Donald Trump's term.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections
+
+Ukraine says 38 killed in 24 hours after Russian strikes on aid centre, hospice and hospital
+Volodymyr Zelensky warned that dozens more people could still be trapped under rubble. The death toll has risen after the overnight attacks on civilian sites.
+Source: BBC News — https://www.bbc.co.uk/news/articles/c65ynez5y599o
+
+US carries out strikes on Iran's Qeshm Island ahead of the midterms
+US officials described the strikes as limited and defensive, according to CBS, the BBC's US partner. The action adds to uncertainty about the direction of the confrontation with Iran as Americans vote.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cx240mrm3g8vo
+
+AI IN SINGAPORE
+
+Two US infrastructure names added to Singapore's AI build-out on Tuesday. Vertiv opened a Singapore AI hub that customers, channel partners and consultants can visit, and Ingram Micro, NetApp and Cisco updated their AI test hub in the city, combining NetApp storage and data tools with Cisco's data centre, security and monitoring systems.
+Sources: Tech in Asia https://www.techinasia.com/news/data-center-firm-vertiv-opens-singapore-ai-hub; Tech in Asia https://www.techinasia.com/news/ingram-micro-netapp-cisco-update-ai-test-hub-singapore
+
+SINGAPORE AI STARTUPS
+
+What they're building
+
+Cohere launches a defence AI accelerator in Singapore
+The Toronto-based, Nvidia-backed AI company has opened a defence-focused accelerator programme in Singapore. It says it aims to quadruple its Asia Pacific presence by the end of 2027.
+Source: Tech in Asia — https://www.techinasia.com/news/canadian-ai-firm-cohere-launches-defense-ai-accelerator-sg
+
+AI IN THE UNITED STATES
+
+Anthropic is building a system to prove which AI model produced a response
+Called FlashProve, the system is meant to let anyone confirm that an AI answer really came from the model it claims to come from. It speaks to a growing worry about fake or swapped models behind chat interfaces.
+Source: TechCrunch — https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/
+
+Fal doubles its valuation to $16 billion with a $1.3 billion round
+The five-year-old AI inference startup raised the round led by Bessemer as demand for running models keeps growing. The valuation is twice what it was at its last raise.
+Source: TechCrunch — https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
+
+Palantir's US commercial revenue overtakes government revenue for the first time
+In a strong quarter, Palantir's US business customers spent more than US government agencies for the first time. TechCrunch reads that shift as a warning sign hidden inside the headline numbers.
+Source: TechCrunch — https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/
+
+OpenAI says ChatGPT search volume is now about 20% of Google's
+OpenAI's consumer product lead announced at a press event that queries run through ChatGPT now equal one-fifth of the volume run through Google. The company is pitching ChatGPT as a real rival to the search habit.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search
+
+Google will let schools switch off its AI tools, but only by giving up Search
+Schools that choose to restrict AI altogether will lose access to Google Search, because AI features are now built into it. Access to Gemini and Gemini in Classroom is covered by the same switch.
+Source: TechCrunch — https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/
+
+AI IN CHINA AND WORLDWIDE
+
+Alibaba's Joe Tsai calls open source the only sustainable path for AI
+Speaking at the Wuzhen Summit, the Alibaba chairman made the case for open-source models even as pushback from the US grows. He argued that openness is what lets the field keep going over the long run.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-trends/article/3373155/alibabas-joe-tsai-champions-open-source-ai-wuzhen-summit-amid-us-pushback
+
+China's 'Lipstick King' sells AI subscriptions in a Singles' Day push
+Top live-streamer Li Jiaqi teamed up with an Alibaba executive and sold nearly 100,000 monthly AI packages in about 30 minutes. It is a sign of AI being marketed to ordinary shoppers like any other consumer product.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3373090/chinas-lipstick-king-hawks-tokens-ai-gets-mass-market-singles-day-push
+
+Why Z.ai and MiniMax struggle to match Anthropic's margins
+Anthropic's listing prospectus gives a rare look at the economics of a leading AI lab, and SCMP uses it to compare the Chinese start-ups Z.ai and MiniMax. The gap in profit margins is the focus.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3373124/why-chinese-ai-stars-zai-minimax-struggle-match-anthropics-profit-margin
+
+China's top chip-design software maker buys a start-up to close a gap
+Empyrean Technology plans to take a majority stake in a domestic start-up, targeting a weak spot in electronic design automation. The deal supports Beijing's drive for self-sufficiency and Huawei's chip work.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3373005/chinas-eda-champion-buys-start-address-weak-link-support-huaweis-tau-scaling-law
+
+CXMT defends its bet on a risky new DRAM design to get round US curbs
+The Chinese memory chipmaker is pressing on with an alternative architecture that US rival Micron has chosen to avoid. The split shows how differently the industry is trying to pack more data onto silicon at a lower cost.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-war/article/3372997/chinas-cxmt-defends-bet-risky-new-dram-architecture-circumvent-us-chip-curbs
+
+Built by your morning-brief agent at 7:20am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
