@@ -1,172 +1,168 @@
 MORNING BRIEF, Thursday, 5 November 2026
 
-🌦️ Singapore: 31° / 23°
-🌦️ Navi Mumbai: 36° / 25°
+🌦️ Singapore: 30° / 26°
+☁️ Navi Mumbai: 36° / 24°
 
-Democrats have swept the US midterms and AI stocks and data-centre plans are reacting, Singapore has passed tougher haze-law fines, and Apple's iOS 27.3 beta brings link checks to iCloud; only three fresh Singapore AI startup stories turned up and Mothership's feed was unreachable.
+Apple's record September quarter and a rebound in its shares lead the day, Singapore's Parliament has passed a tougher haze law, and the US midterm result is already rippling through AI and data-centre news. Singapore's AI startup section is short today, with only two stories in the last 72 hours that I could confirm.
 
-AAPL  US$353.66  +21.76 (+6.56%)
-GOOGL  US$292.43  +12.40 (+4.43%)
+AAPL  US$349.51  +17.61 (+5.31%)
+GOOGL  US$288.93  +8.90 (+3.18%)
 DBS  S$70.78  -0.10 (-0.14%)
-Latest closes: New York, Wednesday 4 November (AAPL, GOOGL) and SGX, Wednesday 4 November (DBS), via Yahoo Finance. No upcoming earnings dates came up in today's sources.
+Latest closes: New York, Wednesday 4 November (AAPL, GOOGL) and SGX, Wednesday 4 November (DBS), via Yahoo Finance. Apple reported its fiscal fourth quarter on 2 November; no upcoming earnings dates seen for the three.
 
 APPLE
 
 From Apple
-Apple reported its fiscal fourth-quarter results for the quarter ended 26 September, and said its redesigned Health app is widening language support to Chinese, French, Japanese, Korean, Spanish and more. The Health update adds Insights, For You and Longevity tabs plus at-home movement checks, and is in the iOS 27.3 developer beta now, with a free release later this year.
-Sources: Apple Newsroom https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/
+Apple posted fiscal fourth-quarter revenue of $114.5 billion, up 12 percent and a September-quarter record, with iPhone and Services both at highs. It declared a 27-cent dividend. Separately, the redesigned Health app, now in the iOS 27.3 beta, adds Insights and Longevity tabs and more languages, and reaches everyone later this year.
+Sources: Apple Newsroom https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/
 
 9to5Mac
 
-iOS 27.3 will start scanning public iCloud links for harmful content
-A new Apple support document says that from iOS 27.3 and the matching macOS and other updates, links shared with the “Anyone with the link” setting will be checked for harmful content. Sharing with “People you choose” is unaffected. The change arrives with the first 27.3 beta.
-Source: 9to5Mac — https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/
+Siri AI no longer needs a waitlist, except at busy times
+An updated Apple support page says the waitlist used to gate Siri AI when it launched in iOS 27 this autumn has been dropped. The one exception is periods of unusually high demand, when Apple may still hold some people back.
+Source: 9to5Mac — https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/
 
-Apple reportedly forecasts a much bigger year for MacBook Neo in 2027
-Supply-chain sources say Apple has told suppliers to plan for 16 million MacBook Neo units in 2027, about double the nearly 8 million expected this year. A MacBook Neo 2 is rumoured for early 2027, and Apple recently posted its best week ever for first-time Mac buyers.
-Source: 9to5Mac — https://9to5mac.com/2026/11/04/macbook-neo-2-is-coming-and-apple-reportedly-expects-a-massive-hit/
+Apple Music gets two upgrades in the iOS 27.3 beta
+The first iOS 27.3 beta arrived this week, and 9to5Mac has found two changes to Apple Music inside it. The update is still in testing, so details may shift before it reaches the public later on.
+Source: 9to5Mac — https://9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new/
 
 MacRumors
 
-macOS 27.3 beta blocks eMudhra's compromised certificates in command-line tools
-The first macOS 27.3 developer beta stops Terminal tools from trusting eMudhra web certificates, after a researcher found weak private keys. Apple has blocked them in Safari and Mail since 19 October. A macOS 27.2.1 fix is likely before 27.3 arrives in December.
-Source: MacRumors — https://www.macrumors.com/2026/11/04/macos-27-3-important-security-fix/
+Apple is trimming employee AI spending
+Bloomberg reports Apple cut some engineers' daily AI allowance from $300 to $200 in October, with $100 possible next. Some teams may be capped at $25 and asked to use cheaper or on-device models. Staff can request more from executives.
+Source: MacRumors — https://www.macrumors.com/2026/11/04/apple-reducing-employee-ai-spending/
 
-Does the HomePod mini 2 sound better? Early reviews say yes
-Apple did not say the HomePod mini 2 sounds better, and its speaker hardware looks unchanged, but the new S10 chip handles the audio processing. Reviewers at CNET and elsewhere report louder, clearer sound and stronger bass than the original, plus faster Siri for basic requests.
-Source: MacRumors — https://www.macrumors.com/2026/11/04/homepod-mini-2-sound-quality/
+Apple will scan public iCloud links for harmful content from iOS 27.3
+Photos and files shared with an Anyone-with-the-link setting will be made available to Apple for a check. Apple does not define harmful content, and says it may remove it and act against the account of anyone uploading it.
+Source: MacRumors — https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/
 
 SINGAPORE
 
-Parliament passes tougher haze law with fines of up to S$20 million
-After a six-hour debate in which all 24 speaking MPs backed the changes, firms linked to fires in the region face fines of up to S$20 million. Minister Grace Fu said probes into four firms named in 2015 remain open, and three of them are also implicated in this year's haze.
+Parliament passes tougher haze law after six-hour debate
+MPs backed amendments that raise the maximum fine to S$20 million and give authorities more tools against firms tied to overseas fires. Grace Fu said investigations into four 2015 notices stay open, and three of those firms are implicated in this year's haze.
 Source: Straits Times — https://www.straitstimes.com/singapore/politics/mps-raise-questions-on-20m-fine-delay-in-strengthening-haze-law-in-six-hour-debate
 
-Category A COE premium hits a record S$139,001
-The certificate of entitlement for smaller cars and EVs rose 5.3% to an all-time high, passing the S$133,009 record set on 9 September. It is the first time Category A has cost more than Category E, while Category B edged up 0.3% to S$132,334.
-Source: Straits Times — https://www.straitstimes.com/singapore/transport/cat-a-coe-premiums-hit-all-time-high-of-139001-while-cat-b-premiums-inch-upwards-to-132334
-
-Rena Lee elected as Singapore's first judge on the International Court of Justice
-She won in the first round on 3 November, with 151 of 191 votes in the General Assembly and 13 of 15 in the Security Council. Observers say it reflects support for Singapore's rules-based foreign policy. She is only the second judge from South-east Asia on the bench.
+Rena Lee elected to the International Court of Justice
+Singapore's Ambassador for International Law won in the first round, with 151 of 191 General Assembly votes and 13 of 15 in the Security Council. She is the first Singaporean on the court and only the second from South-east Asia. Her nine-year term starts in 2027.
 Source: Straits Times — https://www.straitstimes.com/singapore/politics/rena-lees-historic-election-to-worlds-top-court-a-milestone-for-singapore-say-observers
 
-UOB's third-quarter profit jumps 182% but misses forecasts and shares fall 5%
-Net profit reached S$1.25 billion, up from S$443 million a year earlier because credit-loss provisions fell 81%. It was 15% lower than the previous quarter and short of the S$1.38 billion analysts expected. Shares closed down 5% at S$38.44.
-Source: Straits Times — https://www.straitstimes.com/business/companies-markets/uobs-q3-net-profit-jumps-182-to-1-25b-as-bank-sets-aside-less-for-bad-loans
+Islamic college funding will not squeeze other community needs
+Zaqy Mohamad told Parliament that Muis will keep balancing support for the Singapore College of Islamic Studies against mosques, madrasahs and aid for low-income families, even if zakat is used. The college takes its first students in 2028.
+Source: Straits Times — https://www.straitstimes.com/singapore/politics/funding-for-singapores-first-islamic-college-will-not-come-at-expense-of-other-needs-zaqy
 
-More graduates find jobs within a year of leaving school
-Government data shows about seven in ten university graduates who were jobless at six months had paid work by the one-year mark. The figure is about eight in ten for polytechnic graduates (including those in further study) and nine in ten for ITE graduates, despite weaker hiring.
-Source: Straits Times — https://www.straitstimes.com/singapore/politics/more-spore-university-polytechnic-graduates-land-jobs-by-the-one-year-mark-after-leaving-school
+Bin rummagers may get an advisory, not a fine
+Grace Fu said in a written reply that officers may simply advise people found going through public bins for containers when no litter is left behind. Enforcement is case by case, with a focus on education, and those in need can be referred to social agencies.
+Source: Mothership — https://mothership.sg/2026/11/rummage-rubbish-advisories/
+
+British man to be charged over hidden camera on Japan-Singapore flight
+Police say the 52-year-old planted a camera in a plane toilet and started it from his phone. A crew member found it, and he allegedly deleted the app and photos afterwards. He faces voyeurism and obstruction charges on 5 November.
+Source: Straits Times — https://www.straitstimes.com/singapore/man-to-be-charged-over-camera-hidden-in-toilet-during-flight-from-japan-to-spore
 
 INDIA
 
-Cabinet extends Agniveers' service by two years, with higher pay
-With Diwali days away, the Union Cabinet has revised the Agnipath scheme so nearly 20,000 Agniveers can serve for another two years, taking the term to six years. The change is being read as a significant shift in the scheme's design.
-Source: Times of India — https://timesofindia.indiatimes.com/defence/news/agniveers-get-2-year-service-extension-higher-pay-key-changes-under-revised-agnipath-scheme-explained/articleshow/135542384.cms
+Cabinet backs Rs 2,814 crore push for critical mineral processing
+The Union Cabinet approved a scheme to build domestic processing of minerals such as lithium and nickel, aiming to cut import dependence. It is part of India's wider effort to secure supplies for batteries and clean energy.
+Source: Times of India — https://timesofindia.indiatimes.com/business/india-business/cab-nod-for-rs-2814-cr-plan-to-support-critical-mineral-processing/articleshow/135553957.cms
 
-Sharad Pawar is admitted to hospital again, hours after discharge
-The NCP (SP) chief was taken to Breach Candy Hospital in Mumbai on Wednesday, only hours after he had been discharged earlier in the day. The report gives no further detail on his condition.
-Source: Times of India — https://timesofindia.indiatimes.com/india/sharad-pawar-hospitalised-again-hours-after-discharge/articleshow/135543958.cms
+Cyclone Murasu drenches Telangana's Bhadradri and Khammam
+One mandal each in Khammam and Bhadradri Kothagudem got 204 to 235 mm of rain overnight into 4 November, after red alerts the day before. An orange alert stayed for Bhadradri that day, with yellow for Khammam and Mulugu.
+Source: The Hindu — https://www.thehindu.com/news/national/telangana/cyclone-murasu-impact-on-telangana-extremely-heavy-overnight-rain-in-bhadradri-and-khammam/article71664340.ece
 
-India thrash South Korea 8-1 to reach the Asian Champions Trophy final
-The hosts produced a dominant attacking display in the semi-final, with Harmanpreet Singh among those leading the goal spree. They now meet Japan in the final.
-Source: Times of India — https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreet-shilanand-lead-indias-goal-fest-as-hosts-thrash-south-korea-8-1-set-act-final-against-japan/articleshow/135544008.cms
+Blast damages railway line in Rajasthan, sabotage probed
+A powerful explosion on Tuesday night damaged the Anupgarh-Suratgarh track near 50 GB village in Sriganganagar, shattering sleepers and pillars. A passenger train had passed shortly before. Multi-agency teams are investigating and four trains were cancelled.
+Source: The Hindu — https://www.thehindu.com/news/national/rajasthan/explosion-damages-railway-track-in-northern-rajasthan-district/article71666135.ece
 
-Election Commission splits online Form 6 from the declaration in SIR states
-In states running the special intensive revision of electoral rolls, new voters will now handle the online Form 6 and the accompanying declaration as separate steps, each with its own OTP and e-sign process. The Commission had already withdrawn part of the earlier requirement in September.
-Source: The Hindu — https://www.thehindu.com/news/national/eci-separates-online-form-6-accompanying-declaration-for-states-undergoing-sir/article71665706.ece
+Bihar to fill more than 11,000 health department posts
+The state health society says the formal notification should come by the last week of November, with a recruitment calendar to follow. The roles are administrative, technical and medical support, and the process is expected to take six to seven months.
+Source: The Hindu — https://www.thehindu.com/news/national/bihar/recruitment-for-more-than-11000-posts-in-bihars-health-department-to-begin-soon/article71666903.ece
 
-Chandrababu Naidu surveys rain-hit areas by air and orders drainage work
-The Andhra Pradesh chief minister flew over the affected districts and told collectors to speed up drainage and keep traffic moving. He also asked officials to act on relief measures in the areas hit by the heavy rain.
-Source: The Hindu — https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cm-chandrababu-naidu-conducts-aerial-survey-of-rain-hit-areas/article71666349.ece
+High Court tells schools to tackle bullying over gender identity
+The Punjab and Haryana High Court issued directions while hearing a petition from the mother of a 16-year-old Faridabad student who died. It said schools must address bullying based on gender identity and sexual orientation.
+Source: The Hindu — https://www.thehindu.com/news/national/haryana/schools-must-address-bullying-based-on-gender-identity-sexual-orientation-high-court/article71666482.ece
 
 WORLD
 
-Angry Republicans blame Trump for the midterm rout
-Democrats took both the House and the Senate, and some Republicans told the BBC the president's focus on his legacy and indifference to voter worries cost the party. One called the result a disaster. Analysts described the night as a bloodbath for the party.
-Source: BBC — https://www.bbc.co.uk/news/articles/c6x29rr8djy3o
+Republicans blame Trump after midterm defeat
+Some Republicans told the BBC the president's focus on his legacy and indifference to voter worries cost the party dearly. One called the result a disaster, after a Democratic wave in Tuesday's midterm elections.
+Source: BBC News — https://www.bbc.co.uk/news/articles/c6x29rr8djy3o
 
-US stocks rise as Democrats sweep the midterms
-Nasdaq, the Dow and the S&P 500 opened higher after Democrats took control of Congress and Trump accepted the results. Investors appear to have looked past the political shift, though a Democratic Congress could mean tougher oversight of AI and business.
-Source: Al Jazeera — https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections
+Canada sees midterm result as a lever for tariff relief
+With US-Canada trade talks back on, Tuesday's Democratic wave puts pressure on the White House to strike a deal. Canadians hoping for relief from tariffs are reading the outcome as a win.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo
 
-Trump says the Iran war was justified despite the election drubbing
-He acknowledged the conflict played a part in the Republican losses but said he has no regrets and would do it again. Iran's chief negotiator said Americans had voted no to war, and Tehran says it welcomes the result, though Trump may still strike.
-Source: Al Jazeera — https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing
+Ukraine releases bodycam footage of deadly double-tap strike
+Kyiv says the video shows a Russian bombing that hit rescuers after an initial strike on a village on Monday. At least 40 people were killed and about 30 more may still be under the rubble.
+Source: BBC News — https://www.bbc.co.uk/news/articles/c98rz6penv86o
 
-Israel's president starts talks to break the post-election deadlock
-Isaac Herzog began consultations with party leaders after an election that left no clear majority. He warned politicians that not every promise or commitment can be kept if they want to avoid sending the country back to the polls.
-Source: BBC — https://www.bbc.co.uk/news/articles/c6z98z5z91ppo
+Hackers hit freezers used to store blood in France
+The French Blood Establishment says cold rooms holding blood were affected by the attacks. Theories about who is responsible are circulating, and the incident has raised questions about the security of health infrastructure.
+Source: BBC News — https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro
 
-Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire
-The honour follows a ceasefire around the town of Oleshky. Russian and Ukrainian delegations are due to meet the US first lady at the White House on Thursday.
-Source: BBC — https://www.bbc.co.uk/news/articles/cm87zvpzwq0no
+Israel's president opens talks after election deadlock
+Isaac Herzog began consultations with party leaders and warned that not every promise can be kept if they want to avoid another election. The vote left no clear route to a governing coalition.
+Source: BBC News — https://www.bbc.co.uk/news/articles/c6z98z5z91ppo
 
 AI IN SINGAPORE
 
-Singapore is exploring whether the internet's domain name system can be used to identify and verify AI agents, as it weighs a national registry; IMDA is working with GoDaddy, Infoblox, Cloudflare and Google. Databricks has opened its larger Singapore office under its US$350 million plan, and Tencent Cloud showed new AI tools at Singapore Cloud Day.
+IMDA is working with GoDaddy, Infoblox, Cloudflare and Google to test whether the domain name system can identify and verify AI agents, while GovTech builds an internal agent registry for public agencies. Separately, Databricks has opened a bigger Singapore office tied to a US$350 million investment, and Tencent Cloud showed new AI tools at its Singapore event.
 Sources: Straits Times https://www.straitstimes.com/singapore/politics/singapore-explores-adapting-web-domain-name-system-to-track-ai-agents-assesses-need-for-national; Tech in Asia https://www.techinasia.com/news/databricks-opens-office-plans-350m-singapore-investment; Tech in Asia https://www.techinasia.com/news/tencent-cloud-unveils-ai-tools-singapore-cloud-day
 
 SINGAPORE AI STARTUPS
 
 Hiring
 
-Profound makes Singapore its Asia-Pacific headquarters
-The US AI marketing platform will open a Central Business District office this quarter and hire more than 15 people over 12 months, starting with a regional general manager. New York staff will relocate for a year to help build the team. The move follows its US$180 million Series D in September.
-Source: TNGlobal — https://technode.global/2026/11/02/ai-marketing-platform-profound-establishes-singapore-as-asia-pacific-headquarters/
+Databricks opens bigger Singapore office and a startup accelerator
+The data and AI firm opened its new regional office and plans to invest US$350 million in Singapore over three years, taking its local team from about 250 to more than 500. A startup accelerator aims to back over 100 early-stage companies over three years.
+Source: Tech in Asia — https://www.techinasia.com/news/databricks-opens-office-plans-350m-singapore-investment
 
 What they're building
 
-Featherless to offer MiniMax's M3.1 Flash model for coding
-The Singapore AI startup will add the model to its open-model platform. Featherless says it has 428 billion parameters, with 23 billion active for each token, which keeps running costs lower than a dense model of the same size.
+Featherless to offer MiniMax M3.1 Flash for coding
+Singapore-based Featherless, which hosts open-weight models behind a single API, says it will add MiniMax's M3.1 Flash. The model has 428 billion parameters in total, with 23 billion active for each token, and is aimed at coding work.
 Source: Tech in Asia — https://www.techinasia.com/news/sg-ai-startup-featherless-adds-minimax-m31-flash-coding
-
-OpenAI loses its bid to block a Singapore startup's “GemGPT” trademark
-Singapore's IP office ruled that sharing the letters GPT was not enough, rejecting all five of OpenAI's objections and awarding S$10,000 in costs. Porolis Technologies, part of the BP de Silva group, uses AI to authenticate gemstones and can now register the name.
-Source: Business Times — https://www.businesstimes.com.sg/companies-markets/chatgpt-creator-openai-loses-bid-block-singapore-startups-gemgpt-trademark
 
 AI IN THE UNITED STATES
 
-Anthropic's loss narrows and revenue jumps in its amended IPO filing
-The filing shows third-quarter revenue of US$16.96 billion, up from US$11.56 billion, and a net loss of US$23.29 billion, down from US$66.3 billion. Some investors now value the company near US$1.5 trillion, below the roughly US$2 trillion floated earlier.
-Source: Business Times — https://www.businesstimes.com.sg/startups-tech/technology/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo
+Meta buys AI coding startup Conductor
+Conductor lets software engineers run teams of AI agents on different parts of a project at the same time. Meta's purchase adds a multi-agent coding tool to its developer-focused AI push. Terms were not given in the report.
+Source: TechCrunch — https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/
 
-Anthropic researchers propose FlashProve to verify which AI model answered
-The system would let labs publish a fingerprint of each model so anyone can cryptographically check a response came from the model claimed. It could catch a provider quietly swapping in a cheaper model, without revealing the model's weights.
-Source: TechCrunch — https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/
+Only four people booked an Uber through an AI agent in its busiest week
+Uber told investors that agent-made bookings were tiny last quarter, a reality check for the idea that chatbots will take over how people hail rides. The company is watching for risks of being squeezed out as middleman.
+Source: TechCrunch — https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/
 
-Palantir's US commercial revenue overtakes government revenue for the first time
-Revenue rose 96% to US$2.31 billion, beating forecasts, with US commercial sales of US$984 million against US$953 million from government. Even so, the stock slipped because enterprise sales showed signs of slowing.
-Source: TechCrunch — https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/
+AI industry PACs spent millions on the midterms, with mixed results
+Political groups funded by the AI industry tried to shape who sits in Congress this cycle and had a mixed scorecard. They are already looking ahead to the next election.
+Source: TechCrunch — https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/
 
-Google draws backlash over cutting Search for schools that restrict AI
-Google says students whose schools do not opt in to Gemini will lose access to Search, because the two are now closely integrated. Senators Bernie Sanders and Richard Blumenthal, NYC mayor Zohran Mamdani and Lina Khan criticised the plan as coercive.
-Source: TechCrunch — https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/
+Data-centre backlash was a theme of the midterms
+Opposition to new data centres drove many battleground races and dozens of local ballot measures. The result suggests that building AI infrastructure may face tougher local politics from here.
+Source: The Verge — https://www.theverge.com/policy/1026365/data-centers-midterms-results
 
-Texas data-centre boom faces a moratorium after Democratic win
-Gina Hinojosa, elected Texas governor on 3 November, campaigned for an immediate pause on data-centre approvals, citing higher utility bills and water use. Developers planning dozens of AI campuses already faced a suspension of approvals under the outgoing governor.
-Source: Business Times — https://www.businesstimes.com.sg/international/ai-data-centre-boom-set-upheaval-after-us-election-rout
+Qualcomm bets on data centres as phone sales sink
+Qualcomm expects data-centre chips to eventually make up about 30 percent of its business, as its smartphone sales weaken. The earnings update shows another chipmaker leaning on AI demand.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers
 
 AI IN CHINA AND WORLDWIDE
 
-Tencent releases Hy4, its flagship open-weight model with image understanding
-Launched on Wednesday, Hy4 adds visual understanding for the first time, handling images, charts and visual maths reasoning. Tencent built it with agentic abilities to power its enterprise software, joining a crowded open-weight race with DeepSeek, Z.ai and Alibaba.
+Tencent releases Hy4, its flagship open-weight model
+Hy4 is aimed at agent tasks inside Tencent's enterprise software, and handles images for the first time, reading charts and doing visual maths. It enters a crowded open-weight field with DeepSeek, Z.ai and Alibaba.
 Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats
 
-Oracle reportedly scraps a US$7 billion chip-leasing deal with Tencent
-The Financial Times reports Oracle cancelled the contract after US officials raised concerns. Tencent was also visited by Guangdong officials urging it to back domestic Chinese chips. Reuters could not verify the report and none of the companies responded.
-Source: Business Times — https://www.businesstimes.com.sg/companies-markets/oracle-scraps-us7-billion-deal-lease-chips-tencent-under-trump-pressure-ft-reports
-
-DeepSeek engineer defends open-source AGI despite higher risks
-Speaking at the World Internet Conference in Wuzhen, Gao Xi said DeepSeek will stay open-source to bring artificial general intelligence sooner, even if it raises safety risks. He was responding to concern in the US and scrutiny in China over national security.
+DeepSeek engineer defends open-source push toward AGI
+Speaking at the World Internet Conference in Wuzhen, DeepSeek's Gao Xi said openness speeds shared progress even if it raises safety risks. He was responding to concern in the US and some scrutiny in China about national security.
 Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3373262/deepseek-engineer-defends-push-open-source-ai-smarter-humans-despite-higher-risks
 
+Joe Tsai calls open source the only sustainable path for AI
+Alibaba's chairman told the Wuzhen Summit that open ecosystems are the way to build a lasting AI industry, as Alibaba doubles down on open-source models despite US pushback.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-trends/article/3373155/alibabas-joe-tsai-champions-open-source-ai-wuzhen-summit-amid-us-pushback
+
 Baidu builds an AI simulator to train robotaxis on rare hazards
-The tool recreates unusual, high-stakes situations such as a cyclist running a red light or an animal darting out from behind a corner. Baidu wants it to give its Apollo robotaxis an edge in the fast-growing autonomous driving market.
+The tool recreates unusual road events, such as a cyclist running a red light or an animal darting out, to prepare Apollo robotaxis for them. Baidu hopes it gives an edge in the fast-growing self-driving taxi market.
 Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3373173/baidus-new-ai-simulator-gives-robotaxis-crash-course-rare-road-hazards
 
-Anthropic's filing exposes a profit gap with China's Z.ai and MiniMax
-The IPO prospectus revealed a far stronger financial position than its closest Chinese rivals, highlighting how hard it is for Chinese model makers to turn technical progress into sustainable businesses.
+Anthropic's IPO filing exposes a profit gap with Z.ai and MiniMax
+The prospectus Anthropic filed with the SEC last week shows a far bigger financial cushion than its closest Chinese rivals, whose models keep improving. It highlights how hard it is for them to turn technical gains into a sustainable business.
 Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3373124/why-chinese-ai-stars-zai-minimax-struggle-match-anthropics-profit-margin
 
-Built by your morning-brief agent at 1:30am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
+Built by your morning-brief agent at 7:30am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
