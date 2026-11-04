@@ -1,0 +1,328 @@
+{
+  "date": "2026-11-05",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "showers",
+      "high": 31,
+      "low": 23
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "showers",
+      "high": 36,
+      "low": 25
+    }
+  ],
+  "lede": "Democrats have swept the US midterms and AI stocks and data-centre plans are reacting, Singapore has passed tougher haze-law fines, and Apple's iOS 27.3 beta brings link checks to iCloud; only three fresh Singapore AI startup stories turned up and Mothership's feed was unreachable.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 353.66,
+      "change": 21.76,
+      "change_pct": 6.56
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 292.43,
+      "change": 12.4,
+      "change_pct": 4.43
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 70.78,
+      "change": -0.1,
+      "change_pct": -0.14
+    }
+  ],
+  "stocks_note": "Latest closes: New York, Wednesday 4 November (AAPL, GOOGL) and SGX, Wednesday 4 November (DBS), via Yahoo Finance. No upcoming earnings dates came up in today's sources.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple reported its fiscal fourth-quarter results for the quarter ended 26 September, and said its redesigned Health app is widening language support to Chinese, French, Japanese, Korean, Spanish and more. The Health update adds Insights, For You and Longevity tabs plus at-home movement checks, and is in the iOS 27.3 developer beta now, with a free release later this year.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "iOS 27.3 will start scanning public iCloud links for harmful content",
+              "summary": "A new Apple support document says that from iOS 27.3 and the matching macOS and other updates, links shared with the “Anyone with the link” setting will be checked for harmful content. Sharing with “People you choose” is unaffected. The change arrives with the first 27.3 beta.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/"
+            },
+            {
+              "headline": "Apple reportedly forecasts a much bigger year for MacBook Neo in 2027",
+              "summary": "Supply-chain sources say Apple has told suppliers to plan for 16 million MacBook Neo units in 2027, about double the nearly 8 million expected this year. A MacBook Neo 2 is rumoured for early 2027, and Apple recently posted its best week ever for first-time Mac buyers.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/04/macbook-neo-2-is-coming-and-apple-reportedly-expects-a-massive-hit/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "macOS 27.3 beta blocks eMudhra's compromised certificates in command-line tools",
+              "summary": "The first macOS 27.3 developer beta stops Terminal tools from trusting eMudhra web certificates, after a researcher found weak private keys. Apple has blocked them in Safari and Mail since 19 October. A macOS 27.2.1 fix is likely before 27.3 arrives in December.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/04/macos-27-3-important-security-fix/"
+            },
+            {
+              "headline": "Does the HomePod mini 2 sound better? Early reviews say yes",
+              "summary": "Apple did not say the HomePod mini 2 sounds better, and its speaker hardware looks unchanged, but the new S10 chip handles the audio processing. Reviewers at CNET and elsewhere report louder, clearer sound and stronger bass than the original, plus faster Siri for basic requests.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/04/homepod-mini-2-sound-quality/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Parliament passes tougher haze law with fines of up to S$20 million",
+          "summary": "After a six-hour debate in which all 24 speaking MPs backed the changes, firms linked to fires in the region face fines of up to S$20 million. Minister Grace Fu said probes into four firms named in 2015 remain open, and three of them are also implicated in this year's haze.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/politics/mps-raise-questions-on-20m-fine-delay-in-strengthening-haze-law-in-six-hour-debate"
+        },
+        {
+          "headline": "Category A COE premium hits a record S$139,001",
+          "summary": "The certificate of entitlement for smaller cars and EVs rose 5.3% to an all-time high, passing the S$133,009 record set on 9 September. It is the first time Category A has cost more than Category E, while Category B edged up 0.3% to S$132,334.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/transport/cat-a-coe-premiums-hit-all-time-high-of-139001-while-cat-b-premiums-inch-upwards-to-132334"
+        },
+        {
+          "headline": "Rena Lee elected as Singapore's first judge on the International Court of Justice",
+          "summary": "She won in the first round on 3 November, with 151 of 191 votes in the General Assembly and 13 of 15 in the Security Council. Observers say it reflects support for Singapore's rules-based foreign policy. She is only the second judge from South-east Asia on the bench.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/politics/rena-lees-historic-election-to-worlds-top-court-a-milestone-for-singapore-say-observers"
+        },
+        {
+          "headline": "UOB's third-quarter profit jumps 182% but misses forecasts and shares fall 5%",
+          "summary": "Net profit reached S$1.25 billion, up from S$443 million a year earlier because credit-loss provisions fell 81%. It was 15% lower than the previous quarter and short of the S$1.38 billion analysts expected. Shares closed down 5% at S$38.44.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/business/companies-markets/uobs-q3-net-profit-jumps-182-to-1-25b-as-bank-sets-aside-less-for-bad-loans"
+        },
+        {
+          "headline": "More graduates find jobs within a year of leaving school",
+          "summary": "Government data shows about seven in ten university graduates who were jobless at six months had paid work by the one-year mark. The figure is about eight in ten for polytechnic graduates (including those in further study) and nine in ten for ITE graduates, despite weaker hiring.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/politics/more-spore-university-polytechnic-graduates-land-jobs-by-the-one-year-mark-after-leaving-school"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Cabinet extends Agniveers' service by two years, with higher pay",
+          "summary": "With Diwali days away, the Union Cabinet has revised the Agnipath scheme so nearly 20,000 Agniveers can serve for another two years, taking the term to six years. The change is being read as a significant shift in the scheme's design.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/news/agniveers-get-2-year-service-extension-higher-pay-key-changes-under-revised-agnipath-scheme-explained/articleshow/135542384.cms"
+        },
+        {
+          "headline": "Sharad Pawar is admitted to hospital again, hours after discharge",
+          "summary": "The NCP (SP) chief was taken to Breach Candy Hospital in Mumbai on Wednesday, only hours after he had been discharged earlier in the day. The report gives no further detail on his condition.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sharad-pawar-hospitalised-again-hours-after-discharge/articleshow/135543958.cms"
+        },
+        {
+          "headline": "India thrash South Korea 8-1 to reach the Asian Champions Trophy final",
+          "summary": "The hosts produced a dominant attacking display in the semi-final, with Harmanpreet Singh among those leading the goal spree. They now meet Japan in the final.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreet-shilanand-lead-indias-goal-fest-as-hosts-thrash-south-korea-8-1-set-act-final-against-japan/articleshow/135544008.cms"
+        },
+        {
+          "headline": "Election Commission splits online Form 6 from the declaration in SIR states",
+          "summary": "In states running the special intensive revision of electoral rolls, new voters will now handle the online Form 6 and the accompanying declaration as separate steps, each with its own OTP and e-sign process. The Commission had already withdrawn part of the earlier requirement in September.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/eci-separates-online-form-6-accompanying-declaration-for-states-undergoing-sir/article71665706.ece"
+        },
+        {
+          "headline": "Chandrababu Naidu surveys rain-hit areas by air and orders drainage work",
+          "summary": "The Andhra Pradesh chief minister flew over the affected districts and told collectors to speed up drainage and keep traffic moving. He also asked officials to act on relief measures in the areas hit by the heavy rain.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cm-chandrababu-naidu-conducts-aerial-survey-of-rain-hit-areas/article71666349.ece"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Angry Republicans blame Trump for the midterm rout",
+          "summary": "Democrats took both the House and the Senate, and some Republicans told the BBC the president's focus on his legacy and indifference to voter worries cost the party. One called the result a disaster. Analysts described the night as a bloodbath for the party.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o"
+        },
+        {
+          "headline": "US stocks rise as Democrats sweep the midterms",
+          "summary": "Nasdaq, the Dow and the S&P 500 opened higher after Democrats took control of Congress and Trump accepted the results. Investors appear to have looked past the political shift, though a Democratic Congress could mean tougher oversight of AI and business.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections"
+        },
+        {
+          "headline": "Trump says the Iran war was justified despite the election drubbing",
+          "summary": "He acknowledged the conflict played a part in the Republican losses but said he has no regrets and would do it again. Iran's chief negotiator said Americans had voted no to war, and Tehran says it welcomes the result, though Trump may still strike.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing"
+        },
+        {
+          "headline": "Israel's president starts talks to break the post-election deadlock",
+          "summary": "Isaac Herzog began consultations with party leaders after an election that left no clear majority. He warned politicians that not every promise or commitment can be kept if they want to avoid sending the country back to the polls.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo"
+        },
+        {
+          "headline": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+          "summary": "The honour follows a ceasefire around the town of Oleshky. Russian and Ukrainian delegations are due to meet the US first lady at the White House on Thursday.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "Singapore is exploring whether the internet's domain name system can be used to identify and verify AI agents, as it weighs a national registry; IMDA is working with GoDaddy, Infoblox, Cloudflare and Google. Databricks has opened its larger Singapore office under its US$350 million plan, and Tencent Cloud showed new AI tools at Singapore Cloud Day.",
+        "sources": [
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/singapore/politics/singapore-explores-adapting-web-domain-name-system-to-track-ai-agents-assesses-need-for-national"
+          },
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/databricks-opens-office-plans-350m-singapore-investment"
+          },
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/tencent-cloud-unveils-ai-tools-singapore-cloud-day"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Singapore AI startups",
+      "subtitle": "Funding, hiring, and what they're building",
+      "groups": [
+        {
+          "label": "Hiring",
+          "items": [
+            {
+              "headline": "Profound makes Singapore its Asia-Pacific headquarters",
+              "summary": "The US AI marketing platform will open a Central Business District office this quarter and hire more than 15 people over 12 months, starting with a regional general manager. New York staff will relocate for a year to help build the team. The move follows its US$180 million Series D in September.",
+              "source": "TNGlobal",
+              "url": "https://technode.global/2026/11/02/ai-marketing-platform-profound-establishes-singapore-as-asia-pacific-headquarters/"
+            }
+          ]
+        },
+        {
+          "label": "What they're building",
+          "items": [
+            {
+              "headline": "Featherless to offer MiniMax's M3.1 Flash model for coding",
+              "summary": "The Singapore AI startup will add the model to its open-model platform. Featherless says it has 428 billion parameters, with 23 billion active for each token, which keeps running costs lower than a dense model of the same size.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/sg-ai-startup-featherless-adds-minimax-m31-flash-coding"
+            },
+            {
+              "headline": "OpenAI loses its bid to block a Singapore startup's “GemGPT” trademark",
+              "summary": "Singapore's IP office ruled that sharing the letters GPT was not enough, rejecting all five of OpenAI's objections and awarding S$10,000 in costs. Porolis Technologies, part of the BP de Silva group, uses AI to authenticate gemstones and can now register the name.",
+              "source": "Business Times",
+              "url": "https://www.businesstimes.com.sg/companies-markets/chatgpt-creator-openai-loses-bid-block-singapore-startups-gemgpt-trademark"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI in the United States",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "Anthropic's loss narrows and revenue jumps in its amended IPO filing",
+          "summary": "The filing shows third-quarter revenue of US$16.96 billion, up from US$11.56 billion, and a net loss of US$23.29 billion, down from US$66.3 billion. Some investors now value the company near US$1.5 trillion, below the roughly US$2 trillion floated earlier.",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/startups-tech/technology/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo"
+        },
+        {
+          "headline": "Anthropic researchers propose FlashProve to verify which AI model answered",
+          "summary": "The system would let labs publish a fingerprint of each model so anyone can cryptographically check a response came from the model claimed. It could catch a provider quietly swapping in a cheaper model, without revealing the model's weights.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+        },
+        {
+          "headline": "Palantir's US commercial revenue overtakes government revenue for the first time",
+          "summary": "Revenue rose 96% to US$2.31 billion, beating forecasts, with US commercial sales of US$984 million against US$953 million from government. Even so, the stock slipped because enterprise sales showed signs of slowing.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"
+        },
+        {
+          "headline": "Google draws backlash over cutting Search for schools that restrict AI",
+          "summary": "Google says students whose schools do not opt in to Gemini will lose access to Search, because the two are now closely integrated. Senators Bernie Sanders and Richard Blumenthal, NYC mayor Zohran Mamdani and Lina Khan criticised the plan as coercive.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"
+        },
+        {
+          "headline": "Texas data-centre boom faces a moratorium after Democratic win",
+          "summary": "Gina Hinojosa, elected Texas governor on 3 November, campaigned for an immediate pause on data-centre approvals, citing higher utility bills and water use. Developers planning dozens of AI campuses already faced a suspension of approvals under the outgoing governor.",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/international/ai-data-centre-boom-set-upheaval-after-us-election-rout"
+        }
+      ]
+    },
+    {
+      "title": "AI in China and worldwide",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "Tencent releases Hy4, its flagship open-weight model with image understanding",
+          "summary": "Launched on Wednesday, Hy4 adds visual understanding for the first time, handling images, charts and visual maths reasoning. Tencent built it with agentic abilities to power its enterprise software, joining a crowded open-weight race with DeepSeek, Z.ai and Alibaba.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats"
+        },
+        {
+          "headline": "Oracle reportedly scraps a US$7 billion chip-leasing deal with Tencent",
+          "summary": "The Financial Times reports Oracle cancelled the contract after US officials raised concerns. Tencent was also visited by Guangdong officials urging it to back domestic Chinese chips. Reuters could not verify the report and none of the companies responded.",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/oracle-scraps-us7-billion-deal-lease-chips-tencent-under-trump-pressure-ft-reports"
+        },
+        {
+          "headline": "DeepSeek engineer defends open-source AGI despite higher risks",
+          "summary": "Speaking at the World Internet Conference in Wuzhen, Gao Xi said DeepSeek will stay open-source to bring artificial general intelligence sooner, even if it raises safety risks. He was responding to concern in the US and scrutiny in China over national security.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3373262/deepseek-engineer-defends-push-open-source-ai-smarter-humans-despite-higher-risks"
+        },
+        {
+          "headline": "Baidu builds an AI simulator to train robotaxis on rare hazards",
+          "summary": "The tool recreates unusual, high-stakes situations such as a cyclist running a red light or an animal darting out from behind a corner. Baidu wants it to give its Apollo robotaxis an edge in the fast-growing autonomous driving market.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3373173/baidus-new-ai-simulator-gives-robotaxis-crash-course-rare-road-hazards"
+        },
+        {
+          "headline": "Anthropic's filing exposes a profit gap with China's Z.ai and MiniMax",
+          "summary": "The IPO prospectus revealed a far stronger financial position than its closest Chinese rivals, highlighting how hard it is for Chinese model makers to turn technical progress into sustainable businesses.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3373124/why-chinese-ai-stars-zai-minimax-struggle-match-anthropics-profit-margin"
+        }
+      ]
+    }
+  ],
+  "footer": "Built by your morning-brief agent at 1:30am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources."
+}
