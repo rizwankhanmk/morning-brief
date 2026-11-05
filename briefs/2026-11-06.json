@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-06",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "showers",
+      "high": 31,
+      "low": 25
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "cloudy",
+      "high": 36,
+      "low": 24
+    }
+  ],
+  "lede": "Wall Street's tech stocks slid on fears that the US midterms will slow the AI buildout, Apple's touchscreen Mac starts reaching customers, and Singapore winds down its haze measures. Singapore AI startup news was thin today, so that section has only two stories.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 344.17,
+      "change": -5.34,
+      "change_pct": -1.53
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 282.57,
+      "change": -6.36,
+      "change_pct": -2.2
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 71.2,
+      "change": 0.42,
+      "change_pct": 0.59
+    }
+  ],
+  "stocks_note": "Latest closes: New York, Thursday 5 November (AAPL, GOOGL) and SGX, Thursday 5 November (DBS), via Yahoo Finance. No upcoming earnings dates seen; Apple reported on 2 November. Singapore's high and low come from a web search because the weather feed was down.",
+  "footer": "Built by your morning-brief agent at 7:30am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple reported its fourth-quarter results on 2 November, and on 3 November said its redesigned Health app now supports more languages. The new MacBook Pro with the PROLED display, the M6 MacBook Pro, the M6 iMac and the iPad mini, all announced last week, are now reaching customers.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/archive/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Apple took half of global smartphone revenue in the third quarter",
+              "summary": "Counterpoint Research reports that Apple booked its highest-ever global smartphone revenue for a third calendar quarter. The figure puts the iPhone maker at roughly half of all revenue the industry earned in the period, ahead of every Android rival.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/05/report-apple-captured-half-of-global-smartphone-revenue-in-q3/"
+            },
+            {
+              "headline": "Apple's planned $7 billion bond sale draws four times the demand",
+              "summary": "Apple has filed a preliminary prospectus with the SEC for seven series of bonds worth about $7 billion in total. Reports say investors have already bid roughly four times the amount on offer, a sign of strong appetite for the company's debt.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/05/report-apples-planned-7-billion-bond-sale-attracts-four-times-as-much-demand/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "First touchscreen Mac starts arriving at customers' doors",
+              "summary": "Preorders of the touchscreen MacBook Pro, the OLED iPad mini, the M6 MacBook Pro and the M6 iMac began arriving on Friday in Australia and New Zealand, which are ahead of Singapore's date. Deliveries elsewhere should follow through the day.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers/"
+            },
+            {
+              "headline": "Apple's HomeView smart home hub has 8GB of RAM",
+              "summary": "MacRumors has confirmed that the A18 chip in the new HomeView hub is paired with 8GB of memory, the same amount found in every iPhone 16 and in the MacBook Neo. That is a healthy amount for a device built to run Apple's on-device AI features.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/05/apple-homeview-how-much-ram/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Haze mask handouts and shelters end by 7 November; subsidy scheme closes 12 November",
+          "summary": "NEA will stop distributing masks and close haze shelters by 7 November, and its daily 24-hour PSI forecast ends the same day. The haze subsidy scheme runs until 12 November, marking an end to the extra measures put in place during this season's haze.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/environment/mask-distribution-haze-shelters-to-cease-by-nov-7-haze-subsidy-scheme-to-end-from-nov-12"
+        },
+        {
+          "headline": "IHH Healthcare to cut close to 400 jobs in Singapore, Hong Kong and Malaysia",
+          "summary": "The hospital group told affected staff on 4 November that it is consolidating operations, with close to 400 roles going across the three markets. The report did not break the numbers down by country in the summary available this morning.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/ihh-healthcare-to-cut-close-to-400-jobs-across-spore-hong-kong-and-malaysia"
+        },
+        {
+          "headline": "Woman tied to Cambodia scam group Prince Holding to be charged",
+          "summary": "Chen Xiuling, also known as Karen Chen, was arrested at Changi Airport on 5 November and is linked to the Cambodia-based Prince Holding Group scam syndicate. She is due to be charged in court, according to the Straits Times.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/woman-linked-to-cambodia-based-scam-syndicate-prince-holding-group-to-be-charged"
+        },
+        {
+          "headline": "Jeffrey Siow and Ng Chee Meng join the PAP's top committee",
+          "summary": "The PAP has co-opted Jeffrey Siow, Ng Chee Meng, Sim Ann and Chan Hui Yuh into its 39th Central Executive Committee. Top positions are unchanged, and the four join 14 members chosen at the party's internal election on 25 October.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/pap-39th-cec-positions/"
+        },
+        {
+          "headline": "Janil Puthucheary says most failed bottle-deposit refunds come down to user unfamiliarity",
+          "summary": "The minister says over 95 per cent of BCRS machine refunds go through on the spot, and that some failures happen because people are new to the machines. Failed refunds can now be processed within 10 working days, down from 13.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/bcrs-machine-refund/"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Supreme Court: right to a speedy trial outranks special laws",
+          "summary": "The Supreme Court has said the Constitution has primacy over special statutes when it comes to a speedy trial, calling it a fundamental right. The observation matters for stringent laws that restrict bail and often leave accused people waiting years for trial.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sc-constitution-has-primacy-over-special-laws/articleshow/135586399.cms"
+        },
+        {
+          "headline": "Maharashtra gives one-year age relaxation for recruitment exams",
+          "summary": "The state government has approved a one-year age relaxation for recruitment exams, while a panel proposes over 16,000 MPSC Group C vacancies. Around 12 lakh candidates have applied for the Group C preliminary exam, which has more than 5,000 posts advertised.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-approves-one-year-age-relaxation-for-recruitment-exams-panel-proposes-over-16000-mpsc-group-c-vacancies/article71670508.ece"
+        },
+        {
+          "headline": "Maharashtra FDA seizes ₹63.45 crore of food stock in festive crackdown",
+          "summary": "Officials inspected 9,667 food establishments across Maharashtra and issued 4,603 improvement notices. Action to cancel 25 licences and registrations has begun, and the seized stock is worth ₹63.45 crore, the FDA said in a press note.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/maharashtra/festive-season-crackdown-maharashtra-fda-seizes-food-stock-worth-6345-crore/article71671201.ece"
+        },
+        {
+          "headline": "Seven killed as speeding truck runs over people in Jharkhand",
+          "summary": "A speeding truck killed seven people, including four women and three children, near the Jone-Ludru turn on the Karra-Torpa road in Karra police station area. Police have begun an investigation into the accident.",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/7-killed-after-being-run-over-by-speeding-truck-in-jharkhand-cops-12290265"
+        },
+        {
+          "headline": "Foreign Secretary Misri prepares ground for Nepal PM's India visit",
+          "summary": "After talks, a joint press release said Nepal's leaders expressed gratitude for India's swift humanitarian and technical help after the Bhotekoshi floods. Foreign Secretary Vikram Misri's meetings set the stage for the Nepali prime minister's upcoming visit to India.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Democrats take control of Congress after midterm sweep",
+          "summary": "Democrats won the House and secured a Senate majority by flipping at least four seats, including long-held Republican states such as Texas, Kansas and South Carolina. Stocks rose and oil fell as results came in, according to NDTV's live coverage.",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/world-news/us-midterm-elections-2026-live-updates-donald-trump-jd-vance-democrats-republicans-senate-house-12276905"
+        },
+        {
+          "headline": "Paraguay's president Santiago Peña resigns after bank collapse",
+          "summary": "Peña stepped down following the collapse of a bank and after the lower house of congress voted to pursue an impeachment trial against him. The BBC reports the resignation came on 5 November.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo"
+        },
+        {
+          "headline": "California governor commutes sentences of all 548 death row inmates",
+          "summary": "The governor has commuted the sentences of every person on California's death row. The state has historically had the largest death row population in the US, so the decision affects more prisoners than any comparable order.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo"
+        },
+        {
+          "headline": "French protest numbers surge as unions join cost-of-living strikes",
+          "summary": "The interior ministry estimates 600,000 people took part in protests across France, while unions say the real number was far higher. Unions joined the strikes over the high cost of living, widening a movement that had been building.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+        },
+        {
+          "headline": "Hoax bomb threats hit European airlines and airports for the second time in a week",
+          "summary": "At least 21 flights across Europe were affected, according to the BBC, and Al Jazeera counted at least 27. The UK government calls it a malicious hoax, and there is no hard evidence yet linking it to Russia, Iran or any proxy group.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "PM Lawrence Wong told an audience that policymakers and technologists should design public services together, and much earlier than they do now. Visa said it is opening six global hubs in Singapore for AI and stablecoins and will expand research and engineering roles. Tencent Cloud launched three AI products at its Singapore event on 3 November.",
+        "sources": [
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/tech/policymakers-and-technologists-must-design-public-services-together-pm-wong"
+          },
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/visa-opens-global-hubs-singapore-ai-stablecoins"
+          },
+          {
+            "name": "Dataconomy",
+            "url": "https://dataconomy.com/2026/11/04/tencent-cloud-unveils-ai-tools-and-partnerships-in-singapore"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Singapore AI startups",
+      "subtitle": "Funding, hiring, and what they're building",
+      "groups": [
+        {
+          "label": "Hiring",
+          "items": [
+            {
+              "headline": "Tech in Asia tracks which AI firms are really hiring in Singapore",
+              "summary": "A Tech in Asia data story on AI hiring names Databricks and OpenAI among firms recruiting in the city-state. It argues that job postings show who is actually expanding in Southeast Asia, rather than just talking about it.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/visual-story/openai-anthropic-hiring-singapore"
+            }
+          ]
+        },
+        {
+          "label": "What they're building",
+          "items": [
+            {
+              "headline": "Cohere opens a Defence AI Accelerator in Singapore",
+              "summary": "The Canadian AI company announced on 3 November a programme to help defence and other sovereign customers move AI projects into live use, with secure test environments and on-premises or air-gapped deployment. It already has regulated customers here and plans to quadruple its APAC presence by the end of 2027.",
+              "source": "Cohere (PR Newswire)",
+              "url": "https://www.prnewswire.com/apac/news-releases/cohere-launches-defence-ai-accelerator-in-singapore-to-advance-secure-enterprise-grade-ai-deployment-for-sovereign-customers-302927241.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI in the United States",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "Big tech stocks fall as midterms feed fears of an AI slowdown",
+          "summary": "Major tech shares dropped on 5 November as investors worried that the midterm results will bring tougher scrutiny of data centre construction and of the AI industry. The BBC says markets were reacting to that possibility.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo"
+        },
+        {
+          "headline": "OpenAI's Brockman says the company could be IPO-ready in 2027",
+          "summary": "Speaking at a Wall Street Journal tech conference, OpenAI president Greg Brockman said the company is gaining ground in enterprise sales, where rival Anthropic has already made inroads. He said OpenAI could be ready to list in 2027.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+        },
+        {
+          "headline": "Meta warns election backlash against data centres could slow AI expansion",
+          "summary": "Meta says growing political opposition to data centres, as communities push back against huge infrastructure projects, could threaten future AI investment. The warning arrives as the midterm results raise the political stakes of the buildout.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+        },
+        {
+          "headline": "Claude adds a Personal Finance tool that links bank accounts",
+          "summary": "Anthropic's new Personal Finance feature lets users connect bank and card accounts through Plaid and ask questions about spending. Claude has read-only access and cannot move money, manage accounts or invest on a user's behalf.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+        },
+        {
+          "headline": "Dropbox buys Tigris Data for $350 million",
+          "summary": "Dropbox is acquiring Tigris Data to support DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The $350 million deal deepens Dropbox's push into AI infrastructure.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+        }
+      ]
+    },
+    {
+      "title": "AI in China and worldwide",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "Moonshot AI launches a hosted agent service for enterprises",
+          "summary": "The Chinese startup behind Kimi has begun offering hosted AI agents to business customers. Tech in Asia notes the launch comes as China's rules for public-facing generative AI require security assessments and regulatory filings in some cases.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/moonshot-ai-launches-hosted-ai-agent-service-for-enterprise"
+        },
+        {
+          "headline": "Baidu unveils an AI world model to train and test robotaxis",
+          "summary": "Baidu's new world model is meant to train and test its autonomous driving software in simulation. Its Apollo Go robotaxi service operates in 28 cities and had given more than 23 million rides as of June 2026.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/baidu-unveils-ai-world-model-train-test-robotaxis"
+        },
+        {
+          "headline": "China blocks SoftBank's $5.4 billion ABB robotics deal",
+          "summary": "Chinese regulators have blocked SoftBank's planned $5.4 billion purchase of ABB's robotics business. SoftBank said the deal would have widened its industrial automation capabilities, and its robotics unit builds humanoid and service robots.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/china-blocks-softbanks-5-4b-abb-robotics-deal"
+        },
+        {
+          "headline": "Google plans a $15 billion data centre push in Malaysia",
+          "summary": "Google is planning around $15 billion of data centre investment in Malaysia to meet AI demand. Earlier this week it announced $160 million for shared water infrastructure in Negeri Sembilan, south of Kuala Lumpur.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/google-plans-15b-malaysia-data-center-push-meet-ai-demand"
+        },
+        {
+          "headline": "Australian AI scribe unicorn Heidi Health to cut 18% of staff",
+          "summary": "Heidi Health plans to cut 18 per cent of its staff. The restructuring comes about two months after the company raised $140 million and became a unicorn, according to Tech in Asia.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/australian-ai-scribe-unicorn-heidi-health-cut-18-staff"
+        }
+      ]
+    }
+  ]
+}
