@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-08",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "showers",
+      "high": 31,
+      "low": 24
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "sun",
+      "high": 35,
+      "low": 23
+    }
+  ],
+  "lede": "Apple's new OLED MacBook Pro is in customers' hands, OpenAI has reportedly raised another $11 billion, and Israel's president has asked Netanyahu's rival to form the next government; Singapore AI startup news was thin, so that section has one story.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 342.37,
+      "change": -1.8,
+      "change_pct": -0.52
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 284.78,
+      "change": 2.21,
+      "change_pct": 0.78
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 69.72,
+      "change": -1.48,
+      "change_pct": -2.08
+    }
+  ],
+  "stocks_note": "Latest closes: New York, Friday 6 November (AAPL, GOOGL) and SGX, Friday 6 November (DBS), via Yahoo Finance. No upcoming earnings dates turned up.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple said more than 100,000 apps are now optimised for the iPhone Duo, two weeks after it went on sale. It also announced that its Carlsbad, California store will reopen in its original spot on 20 November after more than a year of renovation. Earlier this week it expanded language support in the redesigned Health app.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/archive/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "iPhone Air 2 is due next spring, and it has a point to prove",
+              "summary": "Apple is expected to unveil the second-generation iPhone Air in spring after going back to the drawing board and adding a second camera. The piece argues the slimmer phone has more to prove than ever after a lukewarm first outing.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/07/iphone-air-2-launching-early-next-year/"
+            },
+            {
+              "headline": "Apple Music Classical gets the new black-and-white icon",
+              "summary": "Apple has updated Apple Music Classical so its icon matches the monochrome look recently given to the main Apple Music app. The change follows the redesign that replaced the familiar white note on a red background.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "First hands-on with Apple's OLED touchscreen MacBook Pro",
+              "summary": "MacRumors picked up one of the new machines on the day it reached customers and spent time with the OLED touch display. The site calls it Apple's PROLED MacBook Pro and shares first impressions of using a touchscreen on a Mac.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/"
+            },
+            {
+              "headline": "Free Backglow app lets you customise the MacBook Pro's glowing Apple logo",
+              "summary": "Designer Juan Buis has made an app that controls the illuminated Apple logo on the lid of the new 14-inch and 16-inch MacBook Pro. The free version lets you adjust the brightness by hand, with extra options behind a paid tier.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "SM Lee tells Australia to deepen ties with Asia",
+          "summary": "Senior Minister Lee Hsien Loong said Australia should build closer links with Asia to give itself more room to pursue its own interests. He pointed to cooperation that would let countries see each other as development partners, not only through the lens of US-China rivalry.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/australia-should-deepen-ties-with-asia-to-give-itself-more-room-to-pursue-its-interests-sm-lee"
+        },
+        {
+          "headline": "Illegal gambling site GemBet recruited money mules in Singapore",
+          "summary": "The site hired people here to issue fake invoices that disguised illegal bets as ordinary business payments. Nine people were arrested earlier in connection with the operation, and the latest details show how the scheme tried to keep its payments looking legitimate.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/courts-crime/gambling-site-gembet-hires-money-mules-in-spore-to-issue-fake-invoices-as-cover-for-illegal-bets"
+        },
+        {
+          "headline": "NUS creates a breast cancer genomics professorship named for a late patient",
+          "summary": "The university has launched a professorship in breast cancer genomics, named after a patient who has died. Surgical oncologist Mikael Hartman is the first holder, and the chair is meant to support research into how genetic differences shape breast cancer.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/health/nus-launches-professorship-in-breast-cancer-genomics-named-after-late-patient"
+        },
+        {
+          "headline": "Union condemns abuse of public transport workers after bus driver allegedly threatened",
+          "summary": "A passenger allegedly threatened the driver of service 136 along Ang Mo Kio Avenue 6 on 4 November. The union representing transport workers condemned the incident and called for abuse against frontline staff to stop.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/union-condemns-abuse-towards-public-transport-workers-after-commuter-allegedly-threatened-bus-driver"
+        },
+        {
+          "headline": "Bishan marketplace draws crowds for near-expiry and imperfect food",
+          "summary": "Residents are queuing at Project Zero Waste Marketplace at Bishan Community Club, where near-expiry and cosmetically imperfect food is sold at a discount. The initiative has run since 2023 and is aimed at cutting food waste.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/community/residents-flock-to-bishan-marketplace-for-near-expiry-and-imperfect-food-at-discounted-prices"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Congress donations fall 75% to Rs 131 crore, a three-year low",
+          "summary": "Donations to the Congress party dropped sharply to Rs 131 crore, the lowest in three years. The fall of about three-quarters marks a steep decline in the party's funding.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/congress-donations-plunge-75-to-rs-131-cr-lowest-in-3years/articleshow/135648682.cms"
+        },
+        {
+          "headline": "Rajnath Singh urges top military readiness from an eastern airbase",
+          "summary": "Speaking to personnel at a key airbase near the China frontier, the Defence Minister warned of evolving threats and of adversaries exploiting vulnerabilities. He also reviewed Army infrastructure along the Line of Actual Control.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/from-strategic-eastern-airbase-rajnath-calls-for-highest-military-preparedness/article71678566.ece"
+        },
+        {
+          "headline": "NDA sweeps Andhra Pradesh local body polls",
+          "summary": "Counting in the ZPTC and MPTC elections showed the TDP winning 229 ZPTCs and 4,823 MPTCs by 9 p.m. Its allies Jana Sena and the BJP also won seats, while the YSRCP trailed far behind.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece"
+        },
+        {
+          "headline": "Mamata Banerjee and BJP trade charges over attack on Abhishek Banerjee's home",
+          "summary": "The alleged attack on the residence of the Trinamool Congress national general secretary has set off a sharp exchange between the TMC and the BJP. Each side blames the other for the incident.",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/mamata-banerjee-bjp-trade-charges-over-attack-on-abhishek-banerjees-home-12298293"
+        },
+        {
+          "headline": "Why the week after Diwali is Delhi's biggest pollution test",
+          "summary": "While attention centres on firecrackers, the article says the real health hazard comes from a mix of other factors building up in the background. It looks at why the days after the festival are the hardest for Delhi's air.",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india-news/why-week-after-diwali-will-be-delhis-biggest-pollution-test-12298287"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Six killed in random shooting in Krakow's main square",
+          "summary": "Police say six people died in the attack, and three more bodies were later found at the suspect's home. Poland's prime minister has pointed to far-right influence as investigators piece together what happened.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo"
+        },
+        {
+          "headline": "Israel's president asks Gadi Eisenkot to form the next government",
+          "summary": "Isaac Herzog gave the opposition leader 28 days to secure 61 Knesset seats. Neither Benjamin Netanyahu's bloc nor Eisenkot's won a majority in last week's election.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+        },
+        {
+          "headline": "New Zealand election leaves no clear winner",
+          "summary": "Preliminary results point to a highly divided parliament. Weeks of coalition talks could follow before a government is formed.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+        },
+        {
+          "headline": "More than 140,000 rally in France over rising costs",
+          "summary": "New protests swept the country, with tear gas fired in Paris and Lyon. The interior minister warned that authorities were ready for rioters and looters.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france"
+        },
+        {
+          "headline": "US offers $20 million for information on Iran's nuclear programme",
+          "summary": "The reward comes as Donald Trump has repeatedly raised the possibility of renewing strikes on Iran's nuclear sites.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "Cohere and Singapore's Centre for Strategic Infocomm Technologies announced a partnership to run secure, enterprise-grade AI for national security work, following a pilot on on-premises systems. The Monetary Authority of Singapore opened its Future of Finance Institute, starting with AI in finance. A survey ranked Singapore first among Commonwealth countries for youth AI readiness.",
+        "sources": [
+          {
+            "name": "Cohere announcement via Manila Times",
+            "url": "https://www.manilatimes.net/2026/11/05/tmt-newswire/pr-newswire/cohere-and-singapores-centre-for-strategic-infocomm-technologies-partner-to-advance-secure-enterprise-grade-ai-for-national-security-operations/2462573"
+          },
+          {
+            "name": "Monetary Authority of Singapore",
+            "url": "https://www.mas.gov.sg/news/media-releases/2026/future-of-finance-institute-commences-operations-starting-with-ai-in-finance"
+          },
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/survey-singapore-ranks-first-in-commonwealth-youth-ai-readiness"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Singapore AI startups",
+      "subtitle": "Funding, hiring, and what they're building",
+      "groups": [
+        {
+          "label": "What they're building",
+          "items": [
+            {
+              "headline": "Singapore chip startup Symatics unveils an AI architecture",
+              "summary": "Tech in Asia reports that Symatics, a Singapore chip startup, has unveiled a new AI computing architecture. The outlet's feed gave only the headline and I could not confirm further details elsewhere, so specifics are not included here.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/singapore-chip-startup-symatics-unveils-ai-architecture"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI in the United States",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "OpenAI reportedly raises another $11 billion at a $1.25 trillion valuation",
+          "summary": "The money is part of a round that has not formally closed but is expected to within weeks. The reported valuation would put OpenAI well above any other private AI company.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+        },
+        {
+          "headline": "OpenAI changes its data centre approach after post-midterm backlash",
+          "summary": "The company says it will make sure local residents do not pay for the electricity that powers its projects. The move follows voter anger over data centres in this week's US elections.",
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/openai-announces-changes-how-it-handles-data-centres-amid-outcry-after-us-midterms"
+        },
+        {
+          "headline": "Crusoe sells troubled Wyoming data centre project to Google",
+          "summary": "Crusoe has handed its Wyoming site to Google. TechCrunch says the sale highlights how hard it is to develop very large AI data centres.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+        },
+        {
+          "headline": "Meta adds Spaces to its Muse AI agents",
+          "summary": "Spaces gives users a place to organise projects and collaborate with their Muse agent. Mark Zuckerberg said Muse had 10 million users in the US and Canada less than two months after launch.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+        },
+        {
+          "headline": "What the midterms mean for the AI industry",
+          "summary": "Democratic wins, plus 41 data-centre ballot measures decided on Tuesday, have the tech industry bracing for tougher scrutiny. TechCrunch's Equity podcast asks what that means for Elon Musk and for data centre builders.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+        }
+      ]
+    },
+    {
+      "title": "AI in China and worldwide",
+      "subtitle": "Five developments",
+      "items": [
+        {
+          "headline": "Chinese models led by Kimi dominate open-source enterprise AI spending",
+          "summary": "Moonshot AI's Kimi family and other Chinese models account for nearly nine-tenths of estimated global enterprise spending on open-source models, according to SCMP's report.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending"
+        },
+        {
+          "headline": "China's AI chipmakers report their first profits",
+          "summary": "Several pure-play AI chipmakers swung into profit in the third quarter, a milestone for the sector. SCMP asks whether it can last given severe supply constraints.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3373532/chinas-ai-chipmakers-report-first-profits-will-trend-continue"
+        },
+        {
+          "headline": "Robotaxis are taking over China's cities",
+          "summary": "An SCMP reporter rode a Pony.ai robotaxi in Shenzhen, with an empty driver's seat and a steering wheel turning on its own. The piece describes how quickly the unease faded once the car joined traffic.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3373603/robotaxis-are-taking-over-chinas-cities-what-are-they-actually-ride"
+        },
+        {
+          "headline": "US memo says a Chinese executive was recruited to spy on Nvidia's CEO",
+          "summary": "A US intelligence memo circulated earlier this year reportedly claims China's Ministry of State Security recruited a female technology executive at Megaspeed for the task. The claim comes from the memo as reported, not from a public finding.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+        },
+        {
+          "headline": "Qiming-backed Nature Select raises $100 million for an AI social app",
+          "summary": "The startup has raised $100 million to build an AI-driven social app, with backing from venture firm Qiming.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/qiming-backed-nature-select-raises-100m-for-ai-social-app"
+        }
+      ]
+    }
+  ],
+  "footer": "Built by your morning-brief agent at 7:40am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources."
+}
