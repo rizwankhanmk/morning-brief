@@ -1,0 +1,158 @@
+MORNING BRIEF, Monday, 9 November 2026
+
+🌧️ Singapore: 30° / 23°
+☀️ Navi Mumbai: 35° / 23°
+
+Experts put Singapore's haze bill this year at S$2.32 billion, pollution in parts of Delhi passed 50 times the WHO limit on Diwali night, and Apple is reported to be pushing Siri towards acting like a proper agent.
+
+AAPL  US$342.37  -1.80 (-0.52%)
+GOOGL  US$284.78  +2.21 (+0.78%)
+DBS  S$69.72  -1.48 (-2.08%)
+Latest completed closes: New York, Friday 6 November (AAPL, GOOGL) and SGX, Friday 6 November (DBS), via Yahoo Finance. No upcoming earnings dates turned up in today's sources.
+
+APPLE
+
+From Apple
+Apple's last newsroom post, on 3 November, said its redesigned Health app now works in more languages, including Chinese, French, Japanese, Korean, Spanish and Vietnamese. The app uses Apple Intelligence for daily insights, a Longevity tab, a Health Age score from Apple Watch data and camera-based movement checks. It is in the iOS 27.3 beta now and reaches everyone later this year.
+Sources: Apple Newsroom https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/
+
+9to5Mac
+
+macOS 27.3 may make it harder for AI agents to grab Full Disk Access
+Code found by a researcher suggests macOS 27.3 will stop listing denied apps in the Full Disk Access settings, closing a shortcut developers use to get users to flip the switch. Dragging an app into Settings will still work, so 9to5Mac doubts this is the very explicit user action Apple promised last month.
+Source: 9to5Mac — https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/
+
+Chromagraph Camera gives iPhone photos a film look without the fiddling
+The new camera app, announced by director Rian Johnson, aims to make iPhone shots look less processed and more like film, with a simple point-and-shoot approach. 9to5Mac's reviewer prefers it to Adobe's Project Indigo because it needs no editing afterwards. It costs US$12.99 and has no free trial.
+Source: 9to5Mac — https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/
+
+MacRumors
+
+Siri could start acting like an agent as early as next year
+Bloomberg's Mark Gurman reports that Apple wants Siri to keep track of goals and work out next steps on its own, closer to OpenAI's Dots and Meta's Muse. He also says chief executive John Ternus told software head Craig Federighi in a closed-door meeting that Apple must speed up its software roadmap.
+Source: MacRumors — https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/
+
+Apple changes how engineers build iOS 28 and macOS 28
+Each yearly software cycle normally runs in three stages of four weeks of coding and four weeks of integration. According to Gurman, the first stage of iOS 28 work instead gave engineers six weeks to explore and build features and just two to bring them together, and staff reportedly like it. No iOS 28 features were named.
+Source: MacRumors — https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/
+
+SINGAPORE
+
+This year's haze has cost Singapore an estimated S$2.32 billion
+A preliminary estimate by NTU's Euston Quah and SUSS's Eugene Or puts the economic cost of the 2026 haze, the worst in over a decade, at S$2.32 billion as at 31 October. That is about 4 per cent more than 2015 in today's prices, despite fewer hazy days, and the authors argue it strengthens the case for funding prevention.
+Source: Straits Times — https://www.straitstimes.com/singapore/haze-in-2026-estimated-to-cost-singapore-2-32-billion-up-4-from-2015-experts
+
+IMH's new name, National Centre for Mental Health, comes with a bigger job
+The Institute of Mental Health becomes the National Centre for Mental Health in April 2027. Chief executive Jamie Mervyn Lim says it is not cosmetic: the hospital will coordinate a tiered system linking GPs, polyclinics, social agencies and hospitals, and expand in phases to 2040 while focusing on the most complex cases.
+Source: Straits Times — https://www.straitstimes.com/singapore/health/from-imh-to-the-national-centre-for-mental-health-and-what-the-new-name-means-for-singapore
+
+Grace Fu says climate talks at COP31 matter more, not less
+Ahead of the UN climate conference, the sustainability minister said moving away from fossil fuels will be as hard as before or harder, with energy security biting and rich countries spending more on defence. She said it is still important to keep world leaders' attention on climate action despite these competing priorities.
+Source: Straits Times — https://www.straitstimes.com/singapore/environment/engagement-at-un-climate-conference-remains-urgent-despite-countries-competing-priorities-grace-fu
+
+Biscuit King, an old-school snack shop on Casuarina Road, will close in January
+One of the last shops in Singapore selling traditional biscuits and sweets will shut on 31 January 2027. It thanked customers for years of loyalty but gave no reason, though its website says orders are paused because of a manpower shortage. The news drew a wave of nostalgia online.
+Source: Straits Times — https://www.straitstimes.com/singapore/old-school-snacks-shop-biscuit-king-in-casuarina-road-to-close-by-end-of-january
+
+195 people arrested in islandwide raids against vice activities
+Police raided 61 locations between 14 September and 30 October, arresting eight men and 187 women aged 18 to 63 under laws including the Women's Charter and the Gambling Control Act. Sixteen were alleged vice abettors, and a 41-year-old Singaporean man has been charged with facilitating vice activities.
+Source: Mothership — https://mothership.sg/2026/11/sporean-man-charged-alleged-vice-195-arrested/
+
+INDIA
+
+Delhi's air hits more than 50 times the WHO limit on Deepavali night
+Firecrackers went on well past the Supreme Court's 10 pm cut-off, and PM2.5 readings reached about 761 micrograms per cubic metre at Akshardham and 767 at Anand Vihar by 11 pm on Sunday, according to the Delhi Pollution Control Committee. The city's overall air quality stayed in the very poor range.
+Source: The Hindu — https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece
+
+Modi says armed Maoists are gone but 'dimagi Naxals' remain
+Celebrating Deepavali with CRPF personnel in Bastar, Chhattisgarh, the Prime Minister said ideological supporters of the Maoists had infiltrated political parties and groups and were turning people against the Constitution. He spoke while continuing his tradition of marking the festival with security forces; the government declared India free of Naxalism at the end of March.
+Source: The Hindu — https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece
+
+Assam oil facility fire toll rises to four as Oil India suspends site managers
+A fourth worker died on Sunday after Friday's blaze at an Oil India facility in Dibrugarh district, and three more remain critical. All the victims worked for a Mumbai contractor. The company has suspended the four staff in charge of the site, and a high-level inquiry and compensation have been announced.
+Source: The Hindu — https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-four-as-another-injured-dies-four-suspended/article71681016.ece
+
+Sensex and Nifty end their Diwali winning run in the Muhurat session
+Markets slipped slightly in the symbolic trading hour that opens Samvat 2083, ending the indices' run of Diwali-session gains that began in 2018. The Nifty fell 0.18 per cent to 24,986.40, just under 25,000, after a seven-session rally of more than 10 per cent in both benchmarks.
+Source: Times of India — https://timesofindia.indiatimes.com/business/india-business/sensex-nifty-start-samvat-2083-in-red-whats-the-outlook-till-next-diwali-what-should-investors-do/articleshow/135660628.cms
+
+19 Indian seafarers stranded in Yemen for two weeks are on their way home
+The Indian Embassy in Yemen said on Sunday that the sailors, who had been stuck in Hodeidah and Sanaa, were evacuated safely and are in good health. The mission thanked everyone who helped with the operation in a post on X but gave no details of why the crew members had been stranded.
+Source: The Hindu — https://www.thehindu.com/news/national/indian-seafarers-stranded-in-yemen-evacuated/article71681203.ece
+
+WORLD
+
+Seven killed and more than 100 hurt as two trains collide near Giza
+Two southbound trains from Giza and Cairo crashed in Egypt, sending carriages down an embankment. President Abdul Fattah al-Sisi ordered an investigation and said anyone found negligent would be held to account, while prosecutors warned the death toll could rise and hospitals in the area were put on high alert.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cwvgr20mmmevo
+
+Houthis say Saudi air strikes killed at least 33 near Sanaa
+Houthi-run media showed rescuers pulling bodies, including young children, from collapsed buildings in al-Shariyah, east of Yemen's capital, and reported 39 people injured in Saturday's strikes. The Saudi-led coalition, which has fought the Houthis for over a decade on behalf of Yemen's recognised government, has not commented.
+Source: BBC News — https://www.bbc.co.uk/news/articles/c65yn1v99ypmo
+
+Over 200,000 march through Amsterdam in 'Red Line' protest over Gaza
+Demonstrators filled the Dutch capital on Sunday to press the government to go further against Israel, demanding tighter trade restrictions and an end to all arms sales. The size of the crowd brought much of the city centre to a standstill, adding to pressure on Dutch ministers over their response to the war.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam
+
+Pope Leo arrives in Argentina, the first papal visit in nearly 40 years
+President Javier Milei greeted Pope Leo XIV at a Buenos Aires airport ceremony on Sunday, after the pontiff's stop in Uruguay. The visit is closely watched because of tensions between the Church and Milei's free-market government, and it follows a homily to thousands of people in Uruguay.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina
+
+Iran executes three men over January's protest unrest
+State media said Hassan Dioband, Hamid Kazemi and Reza Zanganeh were accused of using firebombs, grenades and weapons and setting public buildings alight in Karaj. Executions in Iran have risen since US and Israeli strikes began in February, and foreign-based groups dispute the official account of how the protests unfolded.
+Source: BBC News — https://www.bbc.co.uk/news/articles/ckly0ex633ydo
+
+AI IN SINGAPORE
+
+Regulators ordered ComfortDelGro to stop testing autonomous-vehicle U-turns at a Punggol junction after a near miss on 5 November, the same day a Grab AV nearly hit a girl nearby. Equinix opened a $290 million data centre using NEWater, solar and liquid cooling. And Singapore deep-tech startups such as Xnergy are turning to China to scale.
+Sources: Straits Times https://www.straitstimes.com/singapore/comfortdelgro-to-stop-u-turn-testing-for-avs-at-punggol-junction-after-near-miss-lta-investigating; Tech in Asia https://www.techinasia.com/news/equinix-opens-290m-data-center-singapore; Business Times https://www.businesstimes.com.sg/companies-markets/singapores-deep-tech-startups-tap-china-scale-set-sights-us-higher-margins
+
+AI STARTUPS IN SINGAPORE AND SOUTHEAST ASIA
+
+What they're building
+
+Singapore gem-grading startup keeps its GemGPT name after OpenAI challenge
+Singapore's IP office rejected all five of OpenAI's objections to Porolis Technologies registering GemGPT, finding the letters GPT alone did not point to OpenAI when the startup applied in 2023. Porolis, part of the BP de Silva group, uses AI and optical data to judge gemstone grade and authenticity, and was awarded S$10,000 in costs.
+Source: Business Times — https://www.businesstimes.com.sg/companies-markets/chatgpt-creator-openai-loses-bid-block-singapore-startups-gemgpt-trademark
+
+AI WORLDWIDE
+
+Models and products
+
+Pudu Robotics takes aim at Tesla with humanoid robots
+The Shenzhen service-robot maker, which earns about 80 per cent of its sales abroad, sees humanoids as its next frontier, founder Felix Zhang Tao told SCMP. He called Tesla a clear competitor and said Pudu is looking at manufacturing in Europe, its largest overseas market.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-trends/article/3373641/chinas-pudu-robotics-which-makes-80-its-sales-abroad-takes-tesla-humanoids
+
+Report finds AI is roughly doubling the pace of Anthropic's own research
+After 11 weeks inside Anthropic, safety group METR found the company's models are improving about twice as fast as a year ago, helped by using AI to build AI. Researchers say it is some of the clearest evidence yet of self-accelerating development, arriving as Anthropic prepares to list while urging labs to slow down.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development
+
+Elvis and Eminem rights holders sue AI music maker Suno
+Two new lawsuits say Suno generates songs and lyrics that imitate the artists without permission. The Presley case invokes Tennessee's ELVIS Act, which bars AI companies from cloning a singer's voice. The suits follow a similar claim filed by Jason Isbell and other musicians in September.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit
+
+Money
+
+AI sell-off sends investors back to Chinese and Indian stocks
+With the AI trade unwinding after the US midterms, funds are rotating into cheaper markets with less AI exposure, favouring healthcare, consumer, autos and finance. Mainland shares in Hong Kong rose 5.2 per cent last week and India's Nifty 50 gained 8.6 per cent as foreign investors put in US$1.9 billion.
+Source: Straits Times — https://www.straitstimes.com/business/ai-slump-revives-asias-forgotten-trades-from-china-to-india
+
+Policy and chips
+
+US cleared an empty shell company in China to handle Nvidia's H200 chips
+The New York Times found that New Matrix, one of the Chinese firms approved to receive Nvidia's H200 AI chips, has a bare office and little sign of real operations, and its owners are tied to a private equity firm blacklisted since 2024. Critics say neither Commerce nor Nvidia is vetting buyers properly.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
+
+Tencent's chief AI scientist warns AI will soon master biology
+Yao Shunyu, Tencent's chief AI scientist and a former OpenAI researcher, said in a rare public appearance on Saturday that AI models will soon be capable enough to master biology. He said that brings large benefits for medicine but also serious safety risks that need attention as frontier systems advance.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns
+
+Music industry body warns Australia against loosening copyright for AI
+The head of IFPI, the global recording industry group, told the Guardian that letting AI companies train on Australian content without permission would be a huge mistake and harm the country's reputation. Local creatives are also pushing back as the Albanese government weighs requests from big tech to change the law.
+Source: The Guardian — https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia
+
+AI data centres are replacing potato farms in Inner Mongolia
+In Ulanqab, once known as China's potato capital, farmland is giving way to sprawling AI computing centres. CNA visited the city and found the boom is changing local jobs and livelihoods, while raising concerns about water use in a region already prone to drought.
+Source: CNA — https://www.channelnewsasia.com/east-asia/china-ai-data-centre-boom-inner-mongolia-6526706
+
+Built by your morning-brief agent at 7:21am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
