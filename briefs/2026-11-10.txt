@@ -1,0 +1,152 @@
+MORNING BRIEF, Tuesday, 10 November 2026
+
+🌧️ Singapore: 32° / 24°
+☀️ Navi Mumbai: 35° / 23°
+
+Nvidia's spy scandal pulls a Singapore cloud firm into the spotlight, Trump says the Iran war is effectively over, and Apple Intelligence clears another hurdle in China; no new AI startup deals in Singapore or the region turned up this week.
+
+AAPL  US$350.69  +8.32 (+2.43%)
+GOOGL  US$288.15  +3.37 (+1.18%)
+DBS  S$69.72  -1.48 (-2.08%)
+Latest completed closes: New York, Monday 9 November (AAPL, GOOGL) and SGX, Friday 6 November (DBS; SGX was shut on Monday for the Deepavali holiday), via Yahoo Finance. No upcoming earnings dates turned up in today's sources.
+
+APPLE
+
+From Apple
+Apple named Olivia Dean as Apple Music's Artist of the Year for 2026, the first UK artist to get the title, citing her album The Art of Loving and the long chart run of Man I Need. Separately, with Tim Cook touring the country, Apple said it will open five Developer Academies, a Developer Center and a Manufacturing Academy in Türkiye.
+Sources: Apple Newsroom https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/
+
+9to5Mac
+
+Apple Intelligence gets China's approval for iPad and Mac
+Shanghai's cyberspace regulator says Apple Intelligence is now registered for tablets and laptops, a required step for generative AI services in China. iPhones were cleared in July, and Apple plans a December launch there with iOS 27.3, using Alibaba's Qwen model, but has not said whether iPad and Mac support arrives at the same time.
+Source: 9to5Mac — https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/
+
+Apple starts charging for extra AI use, beginning with Logic Pro
+The latest Logic Pro update offers a one-time US$49.99 'intelligence usage pack' for people who run past the included allowance of AI features. It is the first time Apple has charged for Apple Intelligence, and similar packs are expected in Final Cut Pro, Pixelmator Pro and iWork when the other Creator Studio updates arrive this month.
+Source: 9to5Mac — https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/
+
+MacRumors
+
+iOS 27.2.1 and macOS 27.2.1 close Messages and AirPlay holes
+Monday's updates fix a bug that could let a remote attacker join an iMessage group chat, plus several AirPlay and Bluetooth flaws, including one letting a malicious device pair without user action. The Mac update also finishes the eMudhra certificate fix for command-line tools. Apple has not reported any of these being exploited, but suggests updating promptly.
+Source: MacRumors — https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/
+
+Singapore cut Apple's tax bill by US$2.67 billion this year
+Apple's first country-by-country tax disclosure shows it paid US$4.96 billion in Ireland and US$3.25 billion in Singapore in fiscal 2026. Measured against the 21 per cent US rate, Singapore saved it slightly more than Ireland did, even after a new US$2.51 billion top-up tax that lifts big multinationals to a 15 per cent minimum.
+Source: MacRumors — https://www.macrumors.com/2026/11/09/singapore-saved-apple-2-7-billion-in-tax/
+
+SINGAPORE
+
+About 100 evacuated after a basement fire at Orchard Gateway
+An electrical equipment room two floors below the Orchard Road mall caught fire at about 5.40pm on Monday, and police cleared roughly 100 people as a precaution. SCDF put it out with foam and extinguishers, nobody was hurt, and the cause is being investigated. It follows a fire at Kinokuniya in Ngee Ann City a week earlier.
+Source: Straits Times — https://www.straitstimes.com/singapore/100-people-evacuated-after-fire-breaks-out-at-orchard-gateway
+
+Hidden wartime fuel tunnels in Marsiling will be properly studied
+SLA, the National Heritage Board and URA say the muddy tunnels in a 12.5ha forest hold the only known pre-war or wartime underground fuel tank left in Singapore and the region. A consultant will carry out heritage, archaeological, structural and unexploded-ordnance surveys to guide what happens to the site next.
+Source: Straits Times — https://www.straitstimes.com/singapore/rare-secluded-wartime-underground-fuel-storage-tanks-in-marsiling-to-undergo-extensive-study
+
+Three in four parents say primary school tuition is a must
+A survey of about 4,000 people for advocacy group EveryChild.SG found families spend a median S$600 a month per child on tuition. Most parents want less academic pressure but fear their children will fall behind at PSLE, and 77 per cent would ease off if an optional-PSLE system guaranteed a secondary school place.
+Source: Straits Times — https://www.straitstimes.com/singapore/parenting-education/most-spore-parents-see-tuition-as-necessary-despite-wanting-less-academic-pressure-survey
+
+Four men accused of using a stranger's home to chase S$6 million in loans
+Police say the men, aged 27 to 39, impersonated a homeowner with a forged NRIC, lured him out twice so valuers could inspect his property, and applied to two credit companies for more than S$6 million. The owner raised the alarm in April after finding a caveat on his home. They are due in court today.
+Source: Straits Times — https://www.straitstimes.com/singapore/four-men-set-to-be-charged-over-ruse-to-get-6m-in-home-loans-with-victims-home-as-collateral
+
+Hotel manager jailed for exposing himself to a 15-year-old staff member
+A 42-year-old assistant manager got 21 days' jail after pressing a part-time worker under him into a late-night video call in December 2024, after asking her to stay two extra hours on shift. He pleaded guilty to a single count under the Penal Code, and the court sentenced him on 6 November.
+Source: Mothership — https://mothership.sg/2026/11/man-exposes-girl-video-call-jail/
+
+INDIA
+
+Modi and Zelenskyy talk on the eve of Abu Dhabi peace talks
+Zelenskyy said India has offered to help set up food corridors between Russia and Ukraine, after a call in which Modi said India was ready to support any effort to end the war. Jaishankar then spoke to Lavrov, a sign of New Delhi's growing go-between role as US-led talks restart in the UAE today.
+Source: The Hindu — https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece
+
+Six of one family die in a house fire in Dharashiv on Lakshmi Puja night
+The blaze started around 2.30am on Monday in the family's home above their grocery shop in Yedshi village, Maharashtra. Cooking oil, ghee and stacks of leaf plates fed the flames. The parents carried their son to safety and went back for the others, but six died; police have not linked the fire to firecrackers.
+Source: The Hindu — https://www.thehindu.com/news/national/maharashtra/six-of-family-killed-in-fire-at-home-above-grocery-store-in-maharashtra/article71683897.ece
+
+Police recover all seven bodies in Bengaluru family murder case
+Two more bodies were found at Shiradi Ghat on Monday, completing a grim search that stretched to Salem, Chamundi Hills and Nandi Hills. Indushekhar and his 17-year-old daughter were detained on 5 November and police say they confessed to killing seven relatives, including his wife and a seven-year-old boy.
+Source: The Hindu — https://www.thehindu.com/news/cities/bangalore/bengaluru-family-murders-two-more-bodies-found-in-shiradi-ghat-all-seven-bodies-recovered/article71681705.ece
+
+Kerala starts testing petrol after Karnataka's excess ethanol claims
+Officials inspected nine fuel stations in four districts on Monday and took samples to check whether petrol contains more than the 20 per cent ethanol allowed. Civil Supplies Minister Anoop Jacob said no cases had been found yet, but complaints about vehicles developing faults led him to order the checks.
+Source: Indian Express — https://indianexpress.com/article/india/karnataka-excess-ethanol-claims-kerala-inspections-sample-testing-petrol-10956218/
+
+Bengaluru to Madgaon Vande Bharat likely to start on 13 November
+The new semi-high-speed train will run from Yesvantpur to Madgaon via Mangaluru in about 13 hours 20 minutes, stopping at 12 stations including Hassan, Udupi and Karwar. It will run six days a week, skipping Wednesdays, and the Railway Board approved the service on 30 October.
+Source: Indian Express — https://indianexpress.com/article/india/bengaluru-madgaon-vande-bharat-express-launch-november-13-route-stops-10956562/
+
+WORLD
+
+Trump calls the Iran war 'effectively over', but the blockade stays
+After meeting Qatar's prime minister, Trump said Iran was finished militarily and the US would keep the status quo at the request of Gulf neighbours, meaning the naval blockade and a new effort to cut land and Caspian trade continue. He declined to promise a lasting ceasefire, and Iranian officials dismissed his remarks.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm
+
+At least 17 killed in a blast at a Turkish steel plant near Izmir
+A crane carrying a replacement boiler collapsed into a furnace during maintenance at the Habas plant in Aliaga, the local governor said, causing an explosion and fire that also injured 12 workers. Some people may still be under rubble, and local media say at least five people have been arrested.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo
+
+France blames Iran's Revolutionary Guards for hacking supermarket fridges
+Foreign minister Jean-Noël Barrot said an IRGC-linked cyber unit took over digital thermostats in October, pushing temperatures above 50C and forcing shops to throw out stock. He promised Europe-wide sanctions and summoned Iran's ambassador, while prosecutors cited Farsi code and Iranian IP addresses as evidence.
+Source: The Guardian — https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges
+
+At least 39 dead as a migrant boat sinks off Senegal
+The wooden boat capsized between Dakar and Saint-Louis on its way to Spain's Canary Islands, with only one survivor rescued so far. Strong currents are hampering searchers along 25km of coast. President Bassirou Diomaye Faye urged Senegalese not to risk the crossing and pledged to go after the smuggling networks.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cv2d6dpge65go
+
+Cyprus leaders agree to open two new crossings on the divided island
+Meeting with a UN envoy in the buffer zone, Greek Cypriot leader Nikos Christodoulides and Turkish Cypriot leader Tufan Erhurman also agreed to coordinate emergency responses and share archives. It is the first concrete thaw in nearly a decade, and both aim to restart full peace talks before Antonio Guterres leaves office at year end.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line
+
+AI IN SINGAPORE
+
+Singapore-based AI cloud provider Megaspeed is at the centre of the Nvidia storm. Jensen Huang admitted an affair with Alice Huang, a former Megaspeed executive US officials believe was recruited by Chinese intelligence, and Nvidia's board has opened an inquiry. Megaspeed, an Nvidia customer, was earlier accused of diverting chips to China, which Nvidia says it investigated and found untrue.
+Sources: Mothership https://mothership.sg/2026/11/nvidia-ceo-jensen-huang-admits-affair/; TechCrunch https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/
+
+AI STARTUPS IN SINGAPORE AND SOUTHEAST ASIA
+
+AI WORLDWIDE
+
+Models and products
+
+Anthropic releases Claude Fable 5.2 and Mythos 5.2
+Anthropic says the new models are better at coding, reasoning and vision and respond faster than the 5.1 versions. Fable 5.2 is available now and aimed at hard engineering work and long-running agent projects, while Mythos 5.2 goes only to vetted organisations. The company says testing included solving two open black-hole physics problems.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2
+
+Meta's Muse Ember is a cheap model built for agent grunt work
+Meta Superintelligence Lab's lightest model costs 10 US cents per million input tokens and is meant for repetitive agent tasks such as tool calls, routing and document parsing. Meta pitches it as a partner to the larger Muse Wonder, which plans the work, and says it beats Anthropic's Haiku and OpenAI's Luna on cost per task.
+Source: TechCrunch — https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/
+
+DeepSeek's Harness agent tool passes 1.5 million daily users
+The Hangzhou start-up says its open-source agent framework reached 1.54 million daily active users less than three months after launch, up from about 271,000 at the end of September. API users were burning through roughly 92 trillion tokens a day, and DeepSeek plans a plug-in marketplace to take on OpenAI and Anthropic.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes
+
+Disney and Adobe will build custom AI models on Disney's characters
+Announced at Adobe MAX, the multiyear deal uses Adobe's Firefly Foundry to train proprietary models on Disney's characters, settings and visual styles, aimed at commercially safe output. Disney gets early access to Adobe's AI tools for its studios, theme parks, cruise line and ESPN graphics, and Imagineering already uses Firefly.
+Source: The Verge — https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership
+
+Money
+
+Anthropic spends US$3.4 billion on gas turbines to power its AI
+According to the Financial Times, Anthropic is buying Caterpillar generators that can produce up to 1.7 gigawatts, originally ordered by equipment supplier OnePWR. It marks a shift for a company that has mostly rented computing power, as turbine backlogs stretch into the 2030s and grid connections take years.
+Source: TechCrunch — https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/
+
+Mitsui Chemicals agrees to buy chipmaking materials firm JSR
+The roughly US$12 billion deal, including debt, buys JSR from state-backed Japan Investment Corp and is the biggest in Japan's chemicals industry. JSR's photoresists, used to print circuits on wafers, go to TSMC, Intel and Samsung, and Mitsui is betting on demand from AI chips. Closing is expected in fiscal 2027.
+Source: Tech in Asia — https://www.techinasia.com/news/japans-mitsui-chemicals-buy-chip-materials-maker-12b
+
+Policy and chips
+
+Scott Wiener heads to Congress promising to slow AI down
+The California senator behind the vetoed SB 1047 and the signed SB 53 won Nancy Pelosi's old San Francisco seat. He told MIT Technology Review that a recent METR report on Anthropic's fast progress worried him and that Congress is running out of time. His campaign received over US$3 million from a pro-regulation group funded by Anthropic.
+Source: MIT Technology Review — https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/
+
+Tsinghua researcher says China's AI future lies in industrial systems
+Cui Peng, an associate professor at Tsinghua University, argues that Chinese AI is moving beyond general chatbots towards specialised systems that read factory sensor data, financial records and other industrial information. He told SCMP that such specialist tools, rather than ever-bigger language models, could become a crucial part of the next phase of AI.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-trends/article/3373822/beyond-llms-china-forges-new-path-ai-focus-industrial-systems
+
+Built by your morning-brief agent at 7:21am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.

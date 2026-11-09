@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-10",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "rain",
+      "high": 32,
+      "low": 24
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "sun",
+      "high": 35,
+      "low": 23
+    }
+  ],
+  "lede": "Nvidia's spy scandal pulls a Singapore cloud firm into the spotlight, Trump says the Iran war is effectively over, and Apple Intelligence clears another hurdle in China; no new AI startup deals in Singapore or the region turned up this week.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 350.69,
+      "change": 8.32,
+      "change_pct": 2.43
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 288.15,
+      "change": 3.37,
+      "change_pct": 1.18
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 69.72,
+      "change": -1.48,
+      "change_pct": -2.08
+    }
+  ],
+  "stocks_note": "Latest completed closes: New York, Monday 9 November (AAPL, GOOGL) and SGX, Friday 6 November (DBS; SGX was shut on Monday for the Deepavali holiday), via Yahoo Finance. No upcoming earnings dates turned up in today's sources.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple named Olivia Dean as Apple Music's Artist of the Year for 2026, the first UK artist to get the title, citing her album The Art of Loving and the long chart run of Man I Need. Separately, with Tim Cook touring the country, Apple said it will open five Developer Academies, a Developer Center and a Manufacturing Academy in Türkiye.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Apple Intelligence gets China's approval for iPad and Mac",
+              "summary": "Shanghai's cyberspace regulator says Apple Intelligence is now registered for tablets and laptops, a required step for generative AI services in China. iPhones were cleared in July, and Apple plans a December launch there with iOS 27.3, using Alibaba's Qwen model, but has not said whether iPad and Mac support arrives at the same time.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/"
+            },
+            {
+              "headline": "Apple starts charging for extra AI use, beginning with Logic Pro",
+              "summary": "The latest Logic Pro update offers a one-time US$49.99 'intelligence usage pack' for people who run past the included allowance of AI features. It is the first time Apple has charged for Apple Intelligence, and similar packs are expected in Final Cut Pro, Pixelmator Pro and iWork when the other Creator Studio updates arrive this month.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "iOS 27.2.1 and macOS 27.2.1 close Messages and AirPlay holes",
+              "summary": "Monday's updates fix a bug that could let a remote attacker join an iMessage group chat, plus several AirPlay and Bluetooth flaws, including one letting a malicious device pair without user action. The Mac update also finishes the eMudhra certificate fix for command-line tools. Apple has not reported any of these being exploited, but suggests updating promptly.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/"
+            },
+            {
+              "headline": "Singapore cut Apple's tax bill by US$2.67 billion this year",
+              "summary": "Apple's first country-by-country tax disclosure shows it paid US$4.96 billion in Ireland and US$3.25 billion in Singapore in fiscal 2026. Measured against the 21 per cent US rate, Singapore saved it slightly more than Ireland did, even after a new US$2.51 billion top-up tax that lifts big multinationals to a 15 per cent minimum.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/09/singapore-saved-apple-2-7-billion-in-tax/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "About 100 evacuated after a basement fire at Orchard Gateway",
+          "summary": "An electrical equipment room two floors below the Orchard Road mall caught fire at about 5.40pm on Monday, and police cleared roughly 100 people as a precaution. SCDF put it out with foam and extinguishers, nobody was hurt, and the cause is being investigated. It follows a fire at Kinokuniya in Ngee Ann City a week earlier.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/100-people-evacuated-after-fire-breaks-out-at-orchard-gateway"
+        },
+        {
+          "headline": "Hidden wartime fuel tunnels in Marsiling will be properly studied",
+          "summary": "SLA, the National Heritage Board and URA say the muddy tunnels in a 12.5ha forest hold the only known pre-war or wartime underground fuel tank left in Singapore and the region. A consultant will carry out heritage, archaeological, structural and unexploded-ordnance surveys to guide what happens to the site next.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/rare-secluded-wartime-underground-fuel-storage-tanks-in-marsiling-to-undergo-extensive-study"
+        },
+        {
+          "headline": "Three in four parents say primary school tuition is a must",
+          "summary": "A survey of about 4,000 people for advocacy group EveryChild.SG found families spend a median S$600 a month per child on tuition. Most parents want less academic pressure but fear their children will fall behind at PSLE, and 77 per cent would ease off if an optional-PSLE system guaranteed a secondary school place.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/parenting-education/most-spore-parents-see-tuition-as-necessary-despite-wanting-less-academic-pressure-survey"
+        },
+        {
+          "headline": "Four men accused of using a stranger's home to chase S$6 million in loans",
+          "summary": "Police say the men, aged 27 to 39, impersonated a homeowner with a forged NRIC, lured him out twice so valuers could inspect his property, and applied to two credit companies for more than S$6 million. The owner raised the alarm in April after finding a caveat on his home. They are due in court today.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/four-men-set-to-be-charged-over-ruse-to-get-6m-in-home-loans-with-victims-home-as-collateral"
+        },
+        {
+          "headline": "Hotel manager jailed for exposing himself to a 15-year-old staff member",
+          "summary": "A 42-year-old assistant manager got 21 days' jail after pressing a part-time worker under him into a late-night video call in December 2024, after asking her to stay two extra hours on shift. He pleaded guilty to a single count under the Penal Code, and the court sentenced him on 6 November.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/man-exposes-girl-video-call-jail/"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Modi and Zelenskyy talk on the eve of Abu Dhabi peace talks",
+          "summary": "Zelenskyy said India has offered to help set up food corridors between Russia and Ukraine, after a call in which Modi said India was ready to support any effort to end the war. Jaishankar then spoke to Lavrov, a sign of New Delhi's growing go-between role as US-led talks restart in the UAE today.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece"
+        },
+        {
+          "headline": "Six of one family die in a house fire in Dharashiv on Lakshmi Puja night",
+          "summary": "The blaze started around 2.30am on Monday in the family's home above their grocery shop in Yedshi village, Maharashtra. Cooking oil, ghee and stacks of leaf plates fed the flames. The parents carried their son to safety and went back for the others, but six died; police have not linked the fire to firecrackers.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/maharashtra/six-of-family-killed-in-fire-at-home-above-grocery-store-in-maharashtra/article71683897.ece"
+        },
+        {
+          "headline": "Police recover all seven bodies in Bengaluru family murder case",
+          "summary": "Two more bodies were found at Shiradi Ghat on Monday, completing a grim search that stretched to Salem, Chamundi Hills and Nandi Hills. Indushekhar and his 17-year-old daughter were detained on 5 November and police say they confessed to killing seven relatives, including his wife and a seven-year-old boy.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-family-murders-two-more-bodies-found-in-shiradi-ghat-all-seven-bodies-recovered/article71681705.ece"
+        },
+        {
+          "headline": "Kerala starts testing petrol after Karnataka's excess ethanol claims",
+          "summary": "Officials inspected nine fuel stations in four districts on Monday and took samples to check whether petrol contains more than the 20 per cent ethanol allowed. Civil Supplies Minister Anoop Jacob said no cases had been found yet, but complaints about vehicles developing faults led him to order the checks.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/karnataka-excess-ethanol-claims-kerala-inspections-sample-testing-petrol-10956218/"
+        },
+        {
+          "headline": "Bengaluru to Madgaon Vande Bharat likely to start on 13 November",
+          "summary": "The new semi-high-speed train will run from Yesvantpur to Madgaon via Mangaluru in about 13 hours 20 minutes, stopping at 12 stations including Hassan, Udupi and Karwar. It will run six days a week, skipping Wednesdays, and the Railway Board approved the service on 30 October.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/bengaluru-madgaon-vande-bharat-express-launch-november-13-route-stops-10956562/"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Trump calls the Iran war 'effectively over', but the blockade stays",
+          "summary": "After meeting Qatar's prime minister, Trump said Iran was finished militarily and the US would keep the status quo at the request of Gulf neighbours, meaning the naval blockade and a new effort to cut land and Caspian trade continue. He declined to promise a lasting ceasefire, and Iranian officials dismissed his remarks.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+        },
+        {
+          "headline": "At least 17 killed in a blast at a Turkish steel plant near Izmir",
+          "summary": "A crane carrying a replacement boiler collapsed into a furnace during maintenance at the Habas plant in Aliaga, the local governor said, causing an explosion and fire that also injured 12 workers. Some people may still be under rubble, and local media say at least five people have been arrested.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+        },
+        {
+          "headline": "France blames Iran's Revolutionary Guards for hacking supermarket fridges",
+          "summary": "Foreign minister Jean-Noël Barrot said an IRGC-linked cyber unit took over digital thermostats in October, pushing temperatures above 50C and forcing shops to throw out stock. He promised Europe-wide sanctions and summoned Iran's ambassador, while prosecutors cited Farsi code and Iranian IP addresses as evidence.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+        },
+        {
+          "headline": "At least 39 dead as a migrant boat sinks off Senegal",
+          "summary": "The wooden boat capsized between Dakar and Saint-Louis on its way to Spain's Canary Islands, with only one survivor rescued so far. Strong currents are hampering searchers along 25km of coast. President Bassirou Diomaye Faye urged Senegalese not to risk the crossing and pledged to go after the smuggling networks.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go"
+        },
+        {
+          "headline": "Cyprus leaders agree to open two new crossings on the divided island",
+          "summary": "Meeting with a UN envoy in the buffer zone, Greek Cypriot leader Nikos Christodoulides and Turkish Cypriot leader Tufan Erhurman also agreed to coordinate emergency responses and share archives. It is the first concrete thaw in nearly a decade, and both aim to restart full peace talks before Antonio Guterres leaves office at year end.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "Singapore-based AI cloud provider Megaspeed is at the centre of the Nvidia storm. Jensen Huang admitted an affair with Alice Huang, a former Megaspeed executive US officials believe was recruited by Chinese intelligence, and Nvidia's board has opened an inquiry. Megaspeed, an Nvidia customer, was earlier accused of diverting chips to China, which Nvidia says it investigated and found untrue.",
+        "sources": [
+          {
+            "name": "Mothership",
+            "url": "https://mothership.sg/2026/11/nvidia-ceo-jensen-huang-admits-affair/"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI startups in Singapore and Southeast Asia",
+      "subtitle": "Up to three stories from the past week",
+      "groups": []
+    },
+    {
+      "title": "AI worldwide",
+      "subtitle": "Models and products, money, policy and chips",
+      "groups": [
+        {
+          "label": "Models and products",
+          "items": [
+            {
+              "headline": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
+              "summary": "Anthropic says the new models are better at coding, reasoning and vision and respond faster than the 5.1 versions. Fable 5.2 is available now and aimed at hard engineering work and long-running agent projects, while Mythos 5.2 goes only to vetted organisations. The company says testing included solving two open black-hole physics problems.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+            },
+            {
+              "headline": "Meta's Muse Ember is a cheap model built for agent grunt work",
+              "summary": "Meta Superintelligence Lab's lightest model costs 10 US cents per million input tokens and is meant for repetitive agent tasks such as tool calls, routing and document parsing. Meta pitches it as a partner to the larger Muse Wonder, which plans the work, and says it beats Anthropic's Haiku and OpenAI's Luna on cost per task.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+            },
+            {
+              "headline": "DeepSeek's Harness agent tool passes 1.5 million daily users",
+              "summary": "The Hangzhou start-up says its open-source agent framework reached 1.54 million daily active users less than three months after launch, up from about 271,000 at the end of September. API users were burning through roughly 92 trillion tokens a day, and DeepSeek plans a plug-in marketplace to take on OpenAI and Anthropic.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes"
+            },
+            {
+              "headline": "Disney and Adobe will build custom AI models on Disney's characters",
+              "summary": "Announced at Adobe MAX, the multiyear deal uses Adobe's Firefly Foundry to train proprietary models on Disney's characters, settings and visual styles, aimed at commercially safe output. Disney gets early access to Adobe's AI tools for its studios, theme parks, cruise line and ESPN graphics, and Imagineering already uses Firefly.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
+            }
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            {
+              "headline": "Anthropic spends US$3.4 billion on gas turbines to power its AI",
+              "summary": "According to the Financial Times, Anthropic is buying Caterpillar generators that can produce up to 1.7 gigawatts, originally ordered by equipment supplier OnePWR. It marks a shift for a company that has mostly rented computing power, as turbine backlogs stretch into the 2030s and grid connections take years.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+            },
+            {
+              "headline": "Mitsui Chemicals agrees to buy chipmaking materials firm JSR",
+              "summary": "The roughly US$12 billion deal, including debt, buys JSR from state-backed Japan Investment Corp and is the biggest in Japan's chemicals industry. JSR's photoresists, used to print circuits on wafers, go to TSMC, Intel and Samsung, and Mitsui is betting on demand from AI chips. Closing is expected in fiscal 2027.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/japans-mitsui-chemicals-buy-chip-materials-maker-12b"
+            }
+          ]
+        },
+        {
+          "label": "Policy and chips",
+          "items": [
+            {
+              "headline": "Scott Wiener heads to Congress promising to slow AI down",
+              "summary": "The California senator behind the vetoed SB 1047 and the signed SB 53 won Nancy Pelosi's old San Francisco seat. He told MIT Technology Review that a recent METR report on Anthropic's fast progress worried him and that Congress is running out of time. His campaign received over US$3 million from a pro-regulation group funded by Anthropic.",
+              "source": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+            },
+            {
+              "headline": "Tsinghua researcher says China's AI future lies in industrial systems",
+              "summary": "Cui Peng, an associate professor at Tsinghua University, argues that Chinese AI is moving beyond general chatbots towards specialised systems that read factory sensor data, financial records and other industrial information. He told SCMP that such specialist tools, rather than ever-bigger language models, could become a crucial part of the next phase of AI.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/tech-trends/article/3373822/beyond-llms-china-forges-new-path-ai-focus-industrial-systems"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
