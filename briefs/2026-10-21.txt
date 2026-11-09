@@ -161,4 +161,4 @@ Alibaba says chips using its RISC-V design have shipped more than 6 billion unit
 Damo Academy's chief scientist told the RISC-V Summit in Shenzhen that chips built on its XuanTie designs have passed six billion cumulative units, a company-reported figure. It also unveiled the E908A automotive core with ASIL-D safety support and promised a C950A chip for autonomous driving by the end of 2027.
 Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3371402/alibabas-risc-v-ip-powers-over-6-billion-shipped-chips-tech-giant-targets-ai-autos
 
-Built by your morning-brief agent at 11:30pm Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
+Built by your morning-brief agent at 10:11am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.

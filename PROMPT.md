@@ -14,7 +14,7 @@ DATE is today's date in Singapore: `TZ=Asia/Singapore date +%F`. The recipient i
 
 Do these steps in order.
 
-0. **Guard.** Run `git fetch origin briefs` (an error here only means the branch does not exist yet). If `git cat-file -e origin/briefs:briefs/DATE.json` succeeds, today's brief already exists: stop, send nothing, and report "already built today". Otherwise save the most recent earlier brief for the repeat check:
+0. **Guard.** Run `git fetch origin briefs` (an error here only means the branch does not exist yet). If `git cat-file -e origin/briefs:briefs/DATE.json` succeeds, today's brief already exists and you must not build another one. Instead, check whether it was emailed: if the Gmail connector's `search_threads` tool is available, search `in:sent subject:"Morning Brief, DAY D MONTH"` for today's subject (step 7 gives the format). If that finds nothing, send the archived brief exactly as step 7 describes, taking the bodies from `git show origin/briefs:briefs/DATE.html` and `git show origin/briefs:briefs/DATE.txt`, then stop and report "resent today's brief". If it finds a sent email, or the Gmail tools are not available, stop and report which case it was. Otherwise, save the most recent earlier brief for the repeat check:
    ```
    PREV=$(git ls-tree --name-only origin/briefs briefs/ | grep '\.json$' | sort | tail -1)
    git show "origin/briefs:$PREV" > /tmp/previous.json
