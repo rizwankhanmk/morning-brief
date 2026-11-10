@@ -1,0 +1,158 @@
+MORNING BRIEF, Wednesday, 11 November 2026
+
+🌧️ Singapore: 32° / 24°
+☀️ Navi Mumbai: 35° / 23°
+
+Anthropic sets a price range that could value it at US$1.4 trillion, SPH Media says AI may have helped hackers reach its subscriber data, and Ukraine, Russia and the US sit down together in Abu Dhabi.
+
+AAPL  US$348.51  -2.18 (-0.62%)
+GOOGL  US$287.38  -0.77 (-0.27%)
+DBS  S$70.37  +0.65 (+0.93%)
+Latest completed closes: New York, Tuesday 10 November (AAPL, GOOGL) and SGX, Tuesday 10 November (DBS, compared with Friday 6 November after Monday's Deepavali holiday), via Yahoo Finance. No upcoming earnings dates turned up in today's sources.
+
+APPLE
+
+From Apple
+Apple is adding a Sign Language option to the Apple TV app, showing American or British Sign Language interpreters alongside selected Apple Originals from 13 November, starting with the film Being Heumann and F1. It also brought Football Manager 27 Touch to Apple Arcade, with four more games, including Plants vs. Zombies: Replanted, arriving on 3 December.
+Sources: Apple Newsroom https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/
+
+9to5Mac
+
+Three workers die at a Tata iPhone parts plant in India, and Apple will investigate
+Three contract workers died after inhaling gas during maintenance on an effluent treatment plant at Tata Electronics' Hosur factory in Tamil Nadu, according to Reuters. Apple says it will look into the accident. The same site faced wastewater complaints from nearby farmers earlier this year.
+Source: 9to5Mac — https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/
+
+Leak points to Harbor, an Apple app for running AI models on your own Macs
+Leaker Aaron Perris found a private preview of Harbor, an app under Apple's Claris brand that turns a Mac into a private server for open-weight AI models. Several Macs could be linked over Thunderbolt 5 to pool memory for bigger models, with nothing sent to the cloud. Apple has not announced it.
+Source: 9to5Mac — https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/
+
+MacRumors
+
+iFixit opens the touchscreen MacBook Pro and finds a tricky glowing logo
+The teardown shows the lit Apple logo uses four LEDs, a reflector and a diffuser, and sits behind the OLED panel, so fixing it means removing the screen. Storage and memory are soldered, the hinge is a stiffer version of the M6 model's, and swapping logic boards caused no new parts-pairing problems.
+Source: MacRumors — https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/
+
+OLED iPad Air tipped for both sizes in the first half of 2027
+DigiTimes reports that Apple will move both iPad Air sizes from LCD to OLED in early 2027, with Samsung Display supplying most panels and BOE still trying to qualify. Industry estimates put 2027 shipments at four to five million units each for the iPad Air and iPad mini.
+Source: MacRumors — https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/
+
+SINGAPORE
+
+Singapore launches a fund at COP31 for climate-proofing farming in South-east Asia
+SPIRE Asia, unveiled at the climate talks in Antalya, will steer money into regional agri-food adaptation projects, such as climate-resilient crops, through a blended finance fund of up to US$500 million. Climate ambassador Ravi Menon said practical partnerships matter more now that global cooperation has become harder.
+Source: Straits Times — https://www.straitstimes.com/singapore/spore-launches-initiative-to-fund-agri-food-adaptation-projects-in-se-asia-at-cop31
+
+More help for employers who hire people with disabilities, including a S$30 million grant
+The Enabling Employment Credit, which offsets the salaries of workers with disabilities, will be raised and paid out quarterly. A new S$30 million grant tier will help firms that employ a meaningful number of people with moderate support needs cover the cost of redesigning jobs and workplaces.
+Source: Straits Times — https://www.straitstimes.com/singapore/community/employers-get-more-support-25m-grant-to-boost-hiring-of-persons-with-disabilities
+
+About three million Singaporeans get the last Assurance Package payout from 8 December
+Adults will receive S$100 to S$250 depending on their assessable income and how many properties they own, closing out a scheme announced in Budget 2023 that paid up to S$2,250 over five years. Linking PayNow to your NRIC by 24 November gets the money to you first.
+Source: Straits Times — https://www.straitstimes.com/singapore/about-3-million-sporeans-to-receive-100-250-assurance-package-cash-payouts-in-december
+
+Forested land beside Marsiling Park will make way for new Woodlands flats
+HDB says no part of the site will be kept for conservation after a study found nearly half of the wider 14.4ha area is secondary forest, but with few plants of high conservation value. The land, zoned for housing since 1998, sits beside the BKE and its planned extension.
+Source: Straits Times — https://www.straitstimes.com/singapore/housing/partially-forested-area-next-to-marsiling-park-slated-for-new-woodlands-housing-estate
+
+Heavy rain cools Scotts Road to 22.8 deg C and floods part of West Coast
+Afternoon downpours on Tuesday caused a brief flash flood at West Coast Road and West Coast Way, and PUB warned drivers away from several roads in town. The Met Service expects thundery showers on most afternoons in early November, with rainfall slightly above average.
+Source: Straits Times — https://www.straitstimes.com/singapore/motorists-advised-to-avoid-parts-of-central-western-singapore-over-risk-of-flash-floods
+
+INDIA
+
+Sonia Gandhi's memoir confirms her cancer treatment for the first time
+In Belonging: A Journey of Love, released on Tuesday, Sonia Gandhi writes that she had surgery for breast cancer in Milan in 2010, and a year later had a precancerous pancreatic growth removed in Rotterdam. She says she went abroad to avoid a media frenzy at home.
+Source: Times of India — https://timesofindia.indiatimes.com/india/for-the-first-time-sonia-confirms-battle-with-cancer-in-memoirs/articleshow/135719721.cms
+
+India dismisses US court summons naming Ajit Doval in Pannun's lawsuit
+The foreign ministry called Gurpatwant Singh Pannun's civil suit frivolous and said legal papers must go through India's law ministry. The summons, which also names former R&AW chief Samant Goel, was delivered to the embassy in Washington ahead of Nikhil Gupta's sentencing on 20 November.
+Source: Times of India — https://timesofindia.indiatimes.com/india/mea-slams-us-court-summons-to-doval-raw-ex-chief-goel/articleshow/135719702.cms
+
+More than 400 MBBS seats stay empty after a special counselling round
+Only 537 of 948 vacant seats were filled in the Medical Counselling Committee's extra round, leaving 411 unallotted, compared with 60 to 70 last year. A health ministry official blamed fees at some private colleges, which have climbed from about Rs 15 lakh to as much as Rs 30 lakh.
+Source: Times of India — https://timesofindia.indiatimes.com/india/400-mbbs-seats-find-no-takers-even-after-special-vacancy-round/articleshow/135719389.cms
+
+Andhra Pradesh approves a 512 MW green AI data centre near Visakhapatnam
+The state cabinet cleared a Rs 31,387 crore project by AM Intelligence, land for a Reliance AI data centre at Bhogapuram, and new policies on robotics, physical AI, animation and gaming. It also set up a road safety directorate under the police chief in Mangalagiri.
+Source: The Hindu — https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece
+
+Ladakh will elect eight hill councils on 4 December, a first since six new districts
+About 1.87 lakh voters will choose 100 councillors, with nominations closing on 17 November. Kargil shut down on Tuesday in protest at holding the polls in the harsh winter, a concern its MP has raised with the Lieutenant Governor, but officials say the timing is workable.
+Source: Indian Express — https://indianexpress.com/article/india/ladakh-hill-council-elections-december-4-2026-10957954/
+
+WORLD
+
+Ukraine, Russia and the US hold their first three-way talks since February
+Four hours of talks in Abu Dhabi ended with Zelensky calling them constructive and Rubio calling them very productive, and a second day follows on Wednesday. US officials said both sides showed a little flexibility over control of eastern Ukraine, and prisoner exchanges were discussed.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o
+
+Israel's new Knesset is sworn in as Eisenkot tries to unseat Netanyahu
+Former army chief Gadi Eisenkot has 28 days, plus a possible two-week extension, to build a coalition after more members backed him than Netanyahu. His four-party bloc won 48 seats in October against Netanyahu's 53, leaving both short of a majority in the 120-seat parliament.
+Source: BBC News — https://www.bbc.co.uk/news/articles/crd939lpzjp9o
+
+Malaysia's Najib leaves prison to serve the rest of his 1MDB sentence at home
+The former prime minister was driven to his Kuala Lumpur mansion, now declared a federal prison, under a conditional royal pardon covering the last two years of his term. Critics say Malaysian law has no provision for house arrest and that the move undercuts the fight against corruption.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cxnv0v4yln7do
+
+US soldier arrested in England on suspicion of spying for Russia
+Counter-terrorism police, working with the FBI and the US military, arrested a 41-year-old American service member near Gloucester under the National Security Act, on suspicion of helping a foreign intelligence service and passing on protected information. Police say it is unrelated to September's Iran-linked plot at RAF Fairford.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage
+
+Clashes in Bangladesh as Sheikh Hasina's supporters demand her return
+Police fired tear gas and rubber bullets at the banned student wing of the Awami League, and a bus driver died after his vehicle was set alight in Faridpur. The protests began a day after the ousted leader, in exile in India, said she had applied for a passport to go home.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko
+
+AI IN SINGAPORE
+
+The Cyber Security Agency will share about S$5.6 million among 13 projects building new security tools, including CloudsineAI's software for spotting AI agents that overstep their access, as Rahayu Mahzam warned that attackers already use AI. The warning landed the same day SPH Media said attacks on five of its systems may have been AI-enabled.
+Sources: Straits Times https://www.straitstimes.com/tech/csa-awards-5-6m-to-13-projects-developing-cybersecurity-tools; Mothership https://mothership.sg/2026/11/sph-media-hit-by-ai-enabled-cyberattacks-subscribers-names-phone-numbers-accessed/
+
+AI STARTUPS IN SINGAPORE AND SOUTHEAST ASIA
+
+What they're building
+
+Singapore chip startup Symatics shows its first AI processor design
+Symatics unveiled its Morphic Processing Unit, an architecture meant to speed up interactive AI and reasoning by cutting the data shuffled between memory and compute. Validation is still under way, and the company plans to license the open design and work with research and industry partners in Singapore.
+Source: Tech in Asia — https://www.techinasia.com/news/singapore-chip-startup-symatics-unveils-ai-architecture
+
+AI WORLDWIDE
+
+Models and products
+
+Google opens Gemini 4 Carbon to everyone, with an agent 'swarm' preview
+After two weeks with cybersecurity testers, Google's strongest model is rolling out to paying developers and businesses through the Gemini API. Google pitches it at hard, long-running tasks like complex coding and research, and is previewing a feature in Antigravity that turns one prompt into a team of agents.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout
+
+Anthropic puts Claude into video calls with Claude Meetings
+Claude can join a call as a visible participant, draft the plan being discussed, sketch timelines on a whiteboard, answer questions in chat and pull figures from connected work apps. Anthropic also unveiled Claude Whiteboards and Claude Sheets, edging closer to a full office suite.
+Source: TechCrunch — https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/
+
+ChatGPT will let you chat with verified agents that speak for a brand
+OpenAI is testing Business Agents with eligible US e-commerce and online service firms. If a company's agent shows up in an answer, you can quiz it about products in a separate, labelled chat. Firms set its instructions and get verified through a new Business Hub.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub
+
+Money
+
+Anthropic prices its IPO at US$70 to US$78 a share
+Anthropic plans to sell 825 million shares, raising up to about US$64 billion, for a fully diluted value of up to US$1.4 trillion, below the US$2 trillion once mooted. Seven chip and cloud partners, including Google and Nvidia at US$10 billion each, will buy US$26 billion of stock privately.
+Source: TechCrunch — https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/
+
+SoftBank and Grab put up nearly US$1.9 billion for AI data centres in Malaysia
+SoftBank, Grab and Sarawak's state energy firm Petros signed joint development deals covering Sarawak and Peninsular Malaysia, with US$1.85 billion in starting capital released in stages. The partners are aiming for five gigawatts or more of AI computing capacity over time.
+Source: Tech in Asia — https://www.techinasia.com/news/softbank-grab-plan-18b-ai-data-centers-malaysia
+
+Two Chinese chip suppliers have very different first days in Hong Kong
+The pair raised a combined HK$2.2 billion, but GPU maker Suzhou Denglin, the week's largest listing, closed 7.7 per cent below its HK$231 offer price while the other jumped. The split shows investors are picking carefully among chip stocks despite a rush of new listings.
+Source: South China Morning Post — https://www.scmp.com/business/companies/article/3373886/1-mainland-chinese-chip-ipo-soars-another-stumbles-busy-hong-kong-week
+
+Policy and chips
+
+New York starts enforcing its AI safety law on big labs
+Developers with more than US$500 million in revenue, such as OpenAI and Anthropic, must register on a new state portal by 1 January. The RAISE Act then requires published safety frameworks, incident reports within 72 hours and transparency reports, with fines of up to US$3 million for repeat violations.
+Source: TechCrunch — https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
+
+US lawmakers push tougher China chip controls into the defence bill
+With Democrats taking Congress and Nvidia under scrutiny over Jensen Huang's ties to an alleged Chinese spy, which Beijing denies, senior politicians are pressing to attach three export control bills aimed at China to the annual defence bill. Supporters say the moment gives the measures a real chance.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny
+
+Built by your morning-brief agent at 7:21am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
