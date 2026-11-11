@@ -1,0 +1,158 @@
+MORNING BRIEF, Thursday, 12 November 2026
+
+🌦️ Singapore: 30° / 24°
+☀️ Navi Mumbai: 36° / 23°
+
+Nvidia's board is reportedly ready to remove Jensen Huang, Navi Mumbai tops India's cleanliness league for past winners, and Singapore logs its third healthcare data breach in a week.
+
+AAPL  US$355.63  +7.12 (+2.04%)
+GOOGL  US$293.45  +6.07 (+2.11%)
+DBS  S$70.97  +0.60 (+0.85%)
+Latest completed closes: New York, Wednesday 11 November (AAPL, GOOGL) and SGX, Wednesday 11 November (DBS), via Yahoo Finance. No upcoming earnings dates turned up in today's sources.
+
+APPLE
+
+From Apple
+Apple's newsroom set out the Apple Arcade holiday lineup on 10 November: Football Manager 27 Touch is out now, and on 3 December Plants vs. Zombies: Replanted, Prince of Persia: The Lost Crown+, solitaire(ish) from Balatro's publisher and LEGO DUPLO Playtime arrive. Apple also said its Support Community forums are now read-only and will close for good on 20 November.
+Sources: Apple Newsroom https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/
+
+9to5Mac
+
+Binance warns iPhone users about an iOS flaw researchers say is still unpatched
+Crypto exchange Binance says a flaw researchers call worse_query lets a malicious app read files stored by other apps, putting seed phrases, private keys and passwords at risk. The researchers who published a proof of concept say neither iOS 27.2.1 nor the first iOS 27.3 beta fixes it, and Apple has not mentioned a patch.
+Source: 9to5Mac — https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/
+
+Thailand meets Apple after politicians receive spyware warnings
+Thailand's digital economy minister met Apple representatives after Thai politicians received Apple's 29 October alerts about mercenary spyware, Bloomberg reports. He said an alert does not prove a phone was hacked and there is no evidence yet that Pegasus was used. Thai officials plan to meet other tech companies on Thursday.
+Source: 9to5Mac — https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians/
+
+MacRumors
+
+Google's Gemini app starts rolling out on CarPlay
+Google is rolling out a dedicated Gemini app for CarPlay worldwide in several languages, so drivers can talk to the assistant from the dashboard. Conversations sync with the iPhone app, and Gemini can draw on Gmail and Google Calendar for a spoken daily briefing. Drivers need the latest version of the Gemini app on their iPhone.
+Source: MacRumors — https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/
+
+A Chinese supplier hints at work on Apple's smart glasses
+Equipment maker Quick Intelligent Equipment told investors on its quarterly call that it is involved in Apple's AI glasses and new smart earphones projects, Securities Times reports. Apple is said to be aiming for late 2027 for its first smart glasses, and AirPods with cameras are rumoured to arrive alongside the 20th-anniversary iPhone.
+Source: MacRumors — https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/
+
+SINGAPORE
+
+Minmed is the third healthcare provider hit by a cyber attack in a week
+Healthcare group Minmed says a system behind its teleconsultation and health screening services was hit by a malicious attack, following breaches at Fullerton Health and Doctor Anywhere. Separately, Dementia Singapore said names, email addresses and phone numbers of some users of its CARA app may have been exposed.
+Source: Straits Times — https://www.straitstimes.com/singapore/healthcare-group-minmed-reports-cybersecurity-incident-affecting-teleconsultation-screening-services
+
+HDB's yearly deficit shrinks to S$4.7 billion
+The Housing Board's net deficit for the year to March 2026 fell to S$4.7 billion from S$6.34 billion, driven mostly by expected losses on flats being built and sold below cost. It completed 15,417 flats, fewer than the year before, but had more than 100,000 under construction and handed keys to 19,254 households.
+Source: Straits Times — https://www.straitstimes.com/singapore/housing/hdb-deficit-narrows-to-4-7-billion-down-from-6-34-billion-a-year-ago
+
+Higher income ceilings bring the busiest BTO launch since 2022
+With new income ceilings of S$16,000 for families and S$8,000 for singles, November's BTO launch drew 35,603 applicants for 7,964 flats, or 4.5 per flat, the highest rate since August 2022. Four-room flats in Toa Payoh and Tengah were the most sought after by first-time buyers.
+Source: Straits Times — https://www.straitstimes.com/singapore/housing/toa-payoh-tengah-flats-most-popular-in-nov-bto-launch-highest-application-rates-since-aug-2022
+
+MOH proposes clearer consent rules for young people seeking mental health care
+The Ministry of Health has proposed guidelines that tie parental consent rules to the type of service, and would let young people get some care without a parent's approval when that is in their best interest. About one in three Singaporeans aged 10 to 18 report symptoms, and most do not seek help. Feedback closes on 8 December.
+Source: Straits Times — https://www.straitstimes.com/singapore/health/feedback-needed-on-moves-to-help-young-people-better-access-mental-health-support
+
+Joo Chiat gets a Shibuya-style scramble crossing for three months
+From 16 November, the junction of Joo Chiat Road and East Coast Road outside i12 Katong becomes a scramble crossing on trial. Pedestrians can cross diagonally while all traffic stops, the right turn from East Coast Road into Joo Chiat Road ends for good, and LTA warns that waits may be longer.
+Source: Mothership — https://mothership.sg/2026/11/katong-scramble-crossing/
+
+INDIA
+
+Navi Mumbai tops the league of past winners in India's cleanliness awards
+Visakhapatnam was named the cleanest city with over a million people in the Swachh Survekshan awards, ahead of Jabalpur and Lucknow. Navi Mumbai topped the Super Swachh League for previous winners, followed by Surat and Vijayawada. New categories named Puri the cleanest coastal town and Rewa the cleanest riverfront town.
+Source: Indian Express — https://indianexpress.com/article/india/navi-mumbai-cleanest-city-india-swachh-survekshan-awards-2025-26-surat-vijayawada-10959238/
+
+India trims its visa categories from 13 to nine
+The Home Ministry has cut the main visa categories from 13 to nine and sub-categories from 49 to 23, and removed 65 to 70 per cent of the questions on application forms. Visas under the new framework will be issued from the end of the year, and the old tourist visa becomes a Visitor Visa.
+Source: Indian Express — https://indianexpress.com/article/india/india-cuts-visa-categories-application-form-fields-rationalisation-foreign-nationals-10959379/
+
+Supreme Court says a foreign divorce cannot end an Indian marriage on unrecognised grounds
+The Supreme Court ruled that a divorce granted abroad on grounds Indian law does not accept, such as irretrievable breakdown, does not dissolve a marriage solemnised in India. A man who remarried after such a decree can face bigamy charges, even if he has since become a citizen of another country.
+Source: Times of India — https://timesofindia.indiatimes.com/india/sc-indians-married-here-cant-get-divorced-abroad/articleshow/135748558.cms
+
+Canada expects a trade deal in time for Modi's December visit
+Canada's high commissioner Christopher Cooter says Ottawa is confident of concluding a Comprehensive Economic Partnership Agreement before Narendra Modi visits Canada on 11 and 12 December, with a sixth round of talks this week. Ratification will take longer because provinces are involved, and agreements on business travel and space may follow.
+Source: Times of India — https://timesofindia.indiatimes.com/india/confident-of-trade-pact-ahead-of-pm-modis-trip-canada-envoy/articleshow/135747731.cms
+
+Renewables saved India over US$100 billion in fuel imports, IEA says
+An International Energy Agency report says solar, wind and bioenergy built over 15 years spared India more than US$100 billion in coal and gas imports. With about 300 GW installed and 530 GW expected by 2030, cumulative savings could reach US$240 billion by then, with yearly savings near US$35 billion.
+Source: Times of India — https://timesofindia.indiatimes.com/india/green-energy-push-helped-india-save-100bn-over-last-15-yrs-iea/articleshow/135747628.cms
+
+WORLD
+
+Millions join Spain's first general strike in 14 years over housing
+Tenants' groups called the 24-hour stoppage over soaring rents and house prices, and unions joined in. Participation reached 90 per cent in car plants and ports, police clashed with protesters in Barcelona, and the strike lands weeks before an election in which the far right could win power.
+Source: The Guardian — https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs
+
+Democrat Scott Colom wins Mississippi's Senate seat in an upset
+Colom narrowly beat Republican incumbent Cindy Hyde-Smith in a state Trump won by 22 points, after a count that took more than a week. He is the first Black senator elected from Mississippi in over 140 years, and Democrats now hold 55 Senate seats with Alaska still to be called.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cw7vppyr80eeo
+
+Indonesia's vice-president submits his resignation
+Gibran Rakabuming Raka has handed his resignation to President Prabowo Subianto, an aide says, after the Supreme Court ruled a school document from his 2024 campaign invalid. More than 100 lawmakers had backed a move that could have led to impeachment. It is not yet clear whether Prabowo has accepted it.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cmvgxgz87qqro
+
+Hoax bomb threats hit thousands of schools in Italy and the UK
+About 6,300 schools across Italy and more than 700 in Scotland and Northern Ireland received emailed bomb threats on Wednesday. Some buildings were evacuated, but authorities found no sign of real danger, and Giorgia Meloni called it an attempt to cause alarm. Cybercrime officers are tracing the source.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o
+
+Saudi oil output climbs back near pre-war levels, OPEC says
+Saudi Arabia pumped 10.56 million barrels a day in October, its most since the Iran war began in February, according to OPEC. Output across OPEC+ rose by about two million barrels a day to 41.23 million, helped by Russia after Washington lifted sanctions on its energy sector.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says
+
+AI IN SINGAPORE
+
+Sea, the Singapore parent of Shopee, said on 10 November it will start selling cloud services to ride demand for AI while keeping its own infrastructure spending light. And the Land Transport Authority is reviewing new dashcam clips of a Grab and WeRide autonomous shuttle braking hard at a green light in Punggol, and will publish quarterly reports on driverless trials from next month.
+Sources: Nikkei Asia https://asia.nikkei.com/business/technology/singapore-s-sea-targets-ai-boom-with-asset-light-cloud-services-push; Mothership https://mothership.sg/2026/11/av-punggol-brake/
+
+AI STARTUPS IN SINGAPORE AND SOUTHEAST ASIA
+
+What they're building
+
+Sapiens says it can train robot AI in 30 minutes instead of months
+Singapore start-up Sapiens Technology says its method of training only part of a model cuts robotics AI training from months to as little as 30 minutes. It is in talks with more than 30 robotics and medical firms in the US, China and Singapore, including TetraBOT and Shanghai Xinwei Medical Technology, about pilots.
+Source: Straits Times — https://www.straitstimes.com/tech/singapore-start-up-sapiens-cracks-ai-training-bottleneck-makes-waves-overseas
+
+AI WORLDWIDE
+
+Models and products
+
+DeepMind's AlphaGenome 2 links DNA changes to specific cells
+Google DeepMind's new model predicts how genetic variants change gene activity in particular cell types and states, after training on more than 100 million single-cell profiles across 68 tissues. DeepMind says it finds nearly twice as many such variants as its previous best model and can handle cell types it never saw.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model
+
+United Airlines will not let personal AI agents book flights
+Agents can still show United flights but cannot complete purchases, the airline says, citing privacy, unintended bookings and federal rules such as passengers confirming their bags hold no explosives. Chief executive Scott Kirby said he does not want another middleman. eBay and several banks have also restricted outside agents.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents
+
+Databricks' upgraded Genie agent takes on long jobs unsupervised
+Databricks has updated its Genie agent to carry out long, multistep tasks on its own, using a map of the data customers keep on its platform. Chief executive Ali Ghodsi showed how he uses it to dig through staff survey results and failed sales pitches, surfacing problems employees rarely raise with him.
+Source: TechCrunch — https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/
+
+Money
+
+OpenAI's quarterly revenue passes US$10 billion, Bloomberg reports
+OpenAI took in more than US$10 billion in the third quarter, up almost 50 per cent from US$6.7 billion in the second, according to Bloomberg's sources. Its adjusted operating margin improved from minus 150 to minus 109 per cent, though rival Anthropic recently reported US$17 billion for the same quarter.
+Source: TechCrunch — https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+
+British AI chipmaker Fractile raises US$720 million
+The Series C was led by Thrive Capital, Founders Fund, Lightspeed and Redpoint, with backing from Britain's Sovereign AI Fund, and the government puts the valuation above five billion pounds. Fractile stacks ordinary DRAM on its chips and writes its own compiler to run language models faster and more cheaply.
+Source: TechCrunch — https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
+
+Alibaba applies to list its T-Head chip unit in Hong Kong
+The exchange has approved the separation of T-Head, Alibaba's data-centre chip design arm, after a confidential filing in September. Analysts say the listing could unlock value hidden in Alibaba's share price and will test investor appetite for Chinese AI hardware as Hong Kong's run of big listings cools.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3374090/amid-nvidia-saga-t-head-ipo-crucial-test-alibaba-and-chinas-ai-ambitions
+
+TSMC will buy into both OpenAI and Anthropic
+The chipmaker's board approved up to US$500 million for Anthropic shares at its IPO price and up to US$500 million for OpenAI preferred shares, plus US$500 million for a separate vehicle to invest in chip businesses. The stakes tie TSMC directly to the two labs whose demand fills its most advanced plants.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3374037/what-taiwanese-chip-giant-tsmc-gains-taking-stakes-openai-and-anthropics-ai-race
+
+Policy and chips
+
+Nvidia's board is reportedly preparing to remove Jensen Huang
+The Wall Street Journal says the board could act soon after The New York Times reported a second alleged affair, this time with an executive who reports to him. It follows his admission of a relationship with Alice Huang, whom US officials suspect of spying for China. Nvidia shares fell more than 7 per cent after hours.
+Source: The Verge — https://www.theverge.com/tech/1031652/jensen-huang-rumor
+
+Built by your morning-brief agent at 7:20am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
