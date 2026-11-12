@@ -1,0 +1,307 @@
+{
+  "date": "2026-11-13",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "rain",
+      "high": 31,
+      "low": 24
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "partly-cloudy",
+      "high": 35,
+      "low": 23
+    }
+  ],
+  "lede": "Jensen Huang has resigned as Nvidia's chief executive, Singapore bars Alice Huang from returning after its Megaspeed probe, and India's retail inflation breaks the RBI's 6 per cent ceiling for the first time in two years.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 354.88,
+      "change": -0.75,
+      "change_pct": -0.21
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 298.7,
+      "change": 5.25,
+      "change_pct": 1.79
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 71.0,
+      "change": 0.03,
+      "change_pct": 0.04
+    }
+  ],
+  "stocks_note": "Latest completed closes: New York, Thursday 12 November (AAPL, GOOGL) and SGX, Thursday 12 November (DBS), via Yahoo Finance. No upcoming earnings dates turned up in today's sources.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple's newsroom has been quiet since 10 November, but the company said, as reported by MacRumors, that select Apple Home Collection accessories made with LG and Schneider Electric can be ordered from Friday 13 November, the day HomeView reaches buyers, with deliveries in December. Apple also released its holiday film, The Dreamer, built around a MacBook Neo gift.",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/11/12/apple-home-collection-orders/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Brad Pitt returns to Apple for a 1970s ironworker drama called Connector",
+              "summary": "Apple Original Films is making Connector, starring Brad Pitt and directed by Darius Marder of Sound of Metal. Set in 1970s New York, it follows a working-class ironworker who walks the high beams and takes on powerful opponents. Apple TV confirmed the project after Deadline broke the news.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/12/apple-tv-announces-new-film-connector-starring-brad-pitt/"
+            },
+            {
+              "headline": "Foxconn sales jump 46 per cent as Bloomberg sees 16 million iPhone Duo sales",
+              "summary": "Apple's main assembler reported revenue up 46 per cent from a year earlier, helped by AI server demand as well as consumer electronics, where Apple is its biggest customer. Separately, Bloomberg Intelligence expects the foldable iPhone Duo to sell about 16 million units in its first twelve months.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/12/foxconn-revenue-climbs-46-bloomberg-forecasts-16m-iphone-duo-sales/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "Some iPhone Duo buyers get their phones a month sooner than promised",
+              "summary": "Customers who were quoted a 25 January delivery for the iPhone Duo are seeing new estimates of 14 to 21 December, and a few as early as 12 December, according to forum and social media posts. New orders on Apple's online store still show the late January date.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/12/iphone-duo-delivery-dates-continue-to-move-up/"
+            },
+            {
+              "headline": "Nintendo will drop Sign in with Apple from 26 January",
+              "summary": "Nintendo accounts will no longer accept Apple or Google logins from 26 January 2027, and new accounts cannot be created that way either. Users should check they know their Nintendo email and password, or set up a passkey, before then. Anyone using Apple's hidden relay address may need to reset their password.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/12/nintendo-to-end-sign-in-with-apple-support/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Alice Huang barred from Singapore, but not charged, after Megaspeed probe",
+          "summary": "Police found too little evidence that the former Megaspeed director made false declarations about server purchases, partly because the US has shared little information. She received a stern warning and an entry ban for downplaying her role. Investigations into Megaspeed and six other people are still going on, the Ministry of Home Affairs said.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/police-probe-into-alice-huang-found-insufficient-evidence-of-offences-relating-to-megaspeed-mha"
+        },
+        {
+          "headline": "AIC breach may expose data of 4,000 healthcare staff as MOH says patients were not affected",
+          "summary": "The Agency for Integrated Care found an intruder in its Advance Care Planning system on 10 November, possibly exposing names, phone numbers, emails and NRIC numbers of up to 4,064 staff. The Health Ministry says recent attacks on six healthcare bodies have not disrupted care or reached patient records.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/data-of-4000-healthcare-staff-may-have-been-compromised-after-cyberbreach-of-system-used-by-aic"
+        },
+        {
+          "headline": "DBS PayLah now works at over 100 million merchants in China",
+          "summary": "More than three million PayLah users can now scan QR codes at Alipay and Weixin Pay merchants across China without extra fees. The app shows the price in yuan, the exchange rate and the Singapore dollar amount before you confirm. You need to update to the latest version to use it.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/travellers-can-now-use-dbs-paylah-at-over-100-million-merchants-in-china/"
+        },
+        {
+          "headline": "Wheelock Place becomes Landmark Orchard after its sale to Hongkong Land",
+          "summary": "The 21-storey Orchard Road tower, bought in August for about S$1.28 billion by a Hongkong Land fund, took its new name on 12 November. It is the first time the Landmark brand has been used outside Hong Kong, and the owner plans upgrades to the offices and shops above Orchard MRT.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/wheelock-place-renamed-landmark-orchard/"
+        },
+        {
+          "headline": "Climate change made this year's Indonesian fires and haze far worse, study finds",
+          "summary": "World Weather Attribution scientists say warming made the hot, dry conditions behind Indonesia's 2026 fires about three times more likely, on top of a strong El Nino. Nearly 2.9 million hectares burned. They argue that predictable El Nino years leave room to act early by rewetting drained peatland.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/environment/climate-changes-heat-and-el-ninos-drought-worsened-indonesia-haze-study"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Retail inflation hits 6.09 per cent, above the RBI's ceiling for the first time in two years",
+          "summary": "Consumer prices rose 6.09 per cent in October, up from 5.5 per cent, driven by food inflation of 8.9 per cent as onion prices more than doubled. Six states, led by Tamil Nadu and Telangana, passed 7 per cent. Economists now expect another rate rise at the RBI's December meeting.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/at-6-09-retail-inflation-breaches-rbis-upper-tolerance-limit-after-two-years/articleshow/135782584.cms"
+        },
+        {
+          "headline": "Sonam Wangchuk calls Ladakh's restrictions on him arbitrary as police guard his home",
+          "summary": "Ladakh's administration moved the activist from a protest site to his home in Leh on Wednesday evening under a preventive order, and about 20 armed police have been posted outside. In a letter to officials, Wangchuk called the order vague and disproportionate, saying it gave no reasons. Local groups are protesting winter council polls.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/ladakh/restrictions-on-me-arbitrary-vague-sonam-wangchuk/article71695290.ece"
+        },
+        {
+          "headline": "Modi heads to Manila next week, where a Quad leaders' meeting is expected",
+          "summary": "The Prime Minister will attend the ASEAN-India and East Asia summits in Manila, and a Quad summit with Donald Trump, Sanae Takaichi and Anthony Albanese is expected on the sidelines. It would be the first Quad leaders' meeting since 2024, after strains over tariffs and visas kept Trump from visiting India.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/quad-asean-summit-manila-narendra-modi-donald-trump-2026-10960698/"
+        },
+        {
+          "headline": "Draft voter rolls grow by up to 3 per cent in nine states and territories",
+          "summary": "The first draft rolls published after the special intensive revision show more electors everywhere they were released, from 0.1 per cent in Lakshadweep to 2.2 per cent in Rajasthan and 3 per cent in Goa. Other states have delayed publication, and ten that are still in the revision will get dates later.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/draft-electoral-voter-rolls-2026-ssr-nine-states-elector-increase-10960798/"
+        },
+        {
+          "headline": "Indians among 14 killed in a 23-vehicle crash and fire in the UAE",
+          "summary": "A truck driver lost control on a road in Fujairah, setting off a pile-up of 23 vehicles and a fire that spread between them, police said on Thursday. Fourteen people died and 30 were hurt. India's consulate confirmed Indian nationals were among the dead, including three members of a family from Malappuram.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/indian-nationals-among-14-killed-in-deadly-multi-vehicle-crash-in-uaes-fujairah/articleshow/135780631.cms"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "US envoys meet Zelensky in Dublin as Putin agrees to Europeans joining talks",
+          "summary": "Steve Witkoff and Jared Kushner flew from Moscow, where they met Vladimir Putin, to Dublin to see Volodymyr Zelensky. Witkoff says Putin has agreed to European negotiators joining the next round. Zelensky says Ukraine's military again faces restrictions on Starlink's military service, making it harder to stop Russian drones.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo"
+        },
+        {
+          "headline": "Ukrainian drones hit a Russian warship in the Gulf of Finland",
+          "summary": "Finland confirmed a Russian warship was struck on Wednesday, and Ukraine's SBU said it targeted the Naro-Fominsk during a wider drone attack on the Ust-Luga oil port. It is thought to be the first such strike in open Baltic waters used by civilian ships. Helsinki says the area remains safe.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo"
+        },
+        {
+          "headline": "Israeli strike on Gaza's Nasser hospital kills a surgeon and five others",
+          "summary": "The attack on one of the last working hospitals in southern Gaza killed six people and wounded 28, its director said. The Israeli military said it was targeting a Hamas commander and fighters inside the Khan Younis hospital, but offered no evidence. The strike hit wards used for surgery and intensive care.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
+        },
+        {
+          "headline": "China decides not to host the Cop33 climate summit in 2028",
+          "summary": "After months of deliberation, Beijing has ruled out hosting the UN climate talks, leaving the job open for another Asian country. The choice disappoints diplomats who hoped the world's largest emitter would take a leading role while the US under Donald Trump has stepped away from climate cooperation.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028"
+        },
+        {
+          "headline": "Global Microsoft outage takes down Outlook, Teams and Office apps",
+          "summary": "Nearly 130,000 users reported trouble reaching Outlook, Teams, Word, Excel, SharePoint, OneDrive and Copilot. Microsoft blamed a server problem and said its first fixes had not brought the relief it expected, adding that it was pursuing every option to reduce the impact. The disruption was still going overnight.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "Mastercard opened its first Asia-Pacific innovation centre in Singapore, with over 55 staff on AI, fraud and payments tools, and plans 250 more hires by 2029. The Cyber Security Agency is splitting about S$5.6 million among 13 firms building defences for AI agents and quantum threats. A Kyndryl survey finds 72 per cent of local firms struggle to scale AI pilots.",
+        "sources": [
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/tech/mastercard-to-hire-250-more-staff-in-singapore-by-end-2029"
+          },
+          {
+            "name": "e27",
+            "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/"
+          },
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/kyndryl-72-singapore-firms-struggle-scale-ai-pilots"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI startups in Singapore and Southeast Asia",
+      "subtitle": "Up to three stories from the past week",
+      "groups": [
+        {
+          "label": "Funding",
+          "items": [
+            {
+              "headline": "Staera Semiconductor raises US$4.6 million to move AI data with light",
+              "summary": "The Singapore deeptech start-up, spun out of the Singapore-MIT Alliance for Research and Technology, left stealth with a pre-seed round led by Openspace Capital, with SGInnovate joining. Its Lightwire interconnect generates light inside the silicon chip itself, aiming to replace power-hungry copper links between AI processors and memory.",
+              "source": "e27",
+              "url": "https://e27.co/copper-is-choking-ai-staera-secures-us4-6m-to-swap-it-for-light-20261111/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI worldwide",
+      "subtitle": "Models and products, money, policy and chips",
+      "groups": [
+        {
+          "label": "Models and products",
+          "items": [
+            {
+              "headline": "Google's Gemini 4 Hydrogen brings faster answers to Search",
+              "summary": "Google's new fast model is built for multi-step agent work and, the company says, runs 2.5 times faster than its previous fast model while beating the larger Gemini 4 Argon on one broad benchmark. In Search's AI Mode it is meant to handle long, messy questions better and return more useful links.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+            },
+            {
+              "headline": "Ex-ByteDance scientist's start-up says its drug-discovery model leads a key benchmark",
+              "summary": "Geodesic Intelligence, founded by former ByteDance AI researcher Quanquan Gu, released NovaAtom-Lite, which predicts how proteins and other biomolecules fold and interact. Gu says it topped the third-party FoldBench test on several drug-discovery tasks, adding to a crowded Chinese race in AI for life sciences.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/business/companies/article/3374201/former-bytedance-ai-scientist-touts-drug-discovery-model-tops-world-leaders"
+            }
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            {
+              "headline": "Nebius plans US$40 billion of AI spending next year, funded by customers",
+              "summary": "The Amsterdam-based cloud provider told investors it will lean on customer prepayments and contract-backed loans to pay for the build-out. The plan is under strain: a New Jersey data centre for Microsoft, a contract worth up to US$19.4 billion, is months late, and CEO Arkady Volozh admits delays.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+            },
+            {
+              "headline": "SoftBank's turbine bet behind much of a US$7.1 billion quarterly loss",
+              "summary": "SoftBank put down deposits on more than 13 gigawatts of gas turbines to power AI data centres, nearly half more than it needed, and losses on that equipment made up over half its latest quarterly loss. Analysts say it could cool the rush to build gas plants for AI.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+            },
+            {
+              "headline": "Norwest raises a record US$4 billion fund aimed mainly at AI",
+              "summary": "The Wells Fargo-backed investor's 18th fund is its largest. It will back AI start-ups in the US, India and Israel, with a focus on physical AI, voice AI, agent security and domain-specific models, as well as consumer and healthcare companies, at stages from early to late.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+            }
+          ]
+        },
+        {
+          "label": "Policy and chips",
+          "items": [
+            {
+              "headline": "Jensen Huang resigns as Nvidia's CEO and leaves the board",
+              "summary": "Nvidia's co-founder quit with immediate effect after reports of affairs with an alleged Chinese spy and with a direct report. Finance chief Colette Kress is interim CEO while the board searches inside and outside the company. Huang has agreed to testify to Congress, and Democrats have opened an inquiry.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns"
+            },
+            {
+              "headline": "Chinese AI firms rush to rent Nvidia chips abroad before Washington closes the gap",
+              "summary": "A major Chinese cloud provider and several smaller labs are trying to lock in Nvidia computing capacity at overseas data centres, including in Southeast Asia, people familiar said. They fear the Huang scandal will speed a US bill letting the Commerce Department restrict remote access to advanced chips.",
+              "source": "Business Times",
+              "url": "https://www.businesstimes.com.sg/international/global/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-curbs"
+            },
+            {
+              "headline": "Nexperia's China arm says it no longer needs its Dutch parent's wafers",
+              "summary": "Speaking at a chip expo in Beijing, Nexperia China's chief John Chang said its domestic 12-inch wafer platform now covers every product category, built with local foundries and contractors. It marks a deeper split, more than a year after the Dutch parent stopped shipping European wafers to the unit.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/tech-war/article/3374170/nexperias-china-unit-claims-supply-chain-localisation-rift-dutch-parent-deepens"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
