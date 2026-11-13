@@ -1,0 +1,307 @@
+{
+  "date": "2026-11-14",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "rain",
+      "high": 31,
+      "low": 24
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "cloudy",
+      "high": 35,
+      "low": 22
+    }
+  ],
+  "lede": "A communications fault halted every departing flight in the US, Apple's HomeView smart display went on sale, and a fifth person has been charged in Singapore's Nvidia server case.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 356.27,
+      "change": 1.39,
+      "change_pct": 0.39
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 295.77,
+      "change": -2.93,
+      "change_pct": -0.98
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 69.9,
+      "change": -1.1,
+      "change_pct": -1.55
+    }
+  ],
+  "stocks_note": "Latest completed closes: New York, Friday 13 November (AAPL, GOOGL) and SGX, Friday 13 November (DBS), via Yahoo Finance. No upcoming earnings dates turned up in today's sources.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple HomeView went on sale on 13 November at Apple Stores, online and in the Apple Store app in selected countries. The 7-inch home display runs Siri AI, the new conversational Siri, and can recognise up to six people by face to show each their own messages, calendar and reminders. It also handles FaceTime, music, home cameras and hands-free automations.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Epic asks the Supreme Court to keep Apple's contempt ruling in place",
+              "summary": "Epic Games has filed its formal reply to Apple's Supreme Court appeal over App Store payment links. A lower court found Apple broke an earlier order by charging a 27 per cent fee on outside purchases and limiting link buttons. Epic says Apple deliberately worked around the order; the justices agreed in June to hear the case.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/13/epic-formally-asks-scotus-to-uphold-contempt-ruling-against-apple/"
+            },
+            {
+              "headline": "Apple explains Secure Exclaves, its walled-off system for always-on sensing",
+              "summary": "Apple published security research on Secure Exclaves, small separate operating systems that process camera and microphone data for features like HomeView's person recognition and Siri Recap. Rather than passing that constant stream to the main operating system, the exclaves handle it in isolation, much as the Secure Enclave already does for passwords and biometrics.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/13/security-bite-apple-details-secure-exclaves-a-glimpse-at-its-ambient-computing-future/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "Apple meets Thai officials after spyware warnings reached politicians",
+              "summary": "Apple representatives met Thai officials this week about the threat notifications it sent on 29 October to users in 99 countries, including Thai political figures. Thailand's digital economy minister said the alerts alone do not prove devices were breached, and there is no evidence yet linking the attempts to NSO Group's Pegasus.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/13/apple-thailand-spyware-warnings/"
+            },
+            {
+              "headline": "tvOS 27.2.1 brings Siri AI to older Apple TV 4K boxes",
+              "summary": "The update adds Siri AI to the second and third-generation Apple TV 4K, which until now lacked the smarter assistant that ships on the new model. It needs a paired iPhone 15 Pro or later. Apple also released HomePod Software 27.2.1, though the HomePod mini 2 still does not have Siri AI.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Cyber agency tells every organisation to tighten defences as incidents triple",
+          "summary": "The Cyber Security Agency says reported incidents have tripled since September, with at least 12 hitting Singapore organisations or their suppliers between 24 October and 13 November, six of them in healthcare. Attackers are using AI to move faster. It urged patching, multi-factor logins and monitoring, and offered small firms outsourced security chiefs.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/tech/beef-up-cyberdefences-now-csa-urges-all-organisations-as-reported-incidents-triple"
+        },
+        {
+          "headline": "Longer traineeships for graduates as retrenchments reach a post-pandemic high",
+          "summary": "Acting Manpower Minister Jasmin Lau says retrenchments rose to about 4,800 in the third quarter, the most since the pandemic, and hiring is slowing. The ministry plans longer, structured traineeships for fresh graduates and wants to widen support for mid-career workers and protections for professionals, without waiting for the trend to settle.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/politics/mom-plans-to-increase-worker-support-ahead-of-job-market-shifts-jasmin-lau"
+        },
+        {
+          "headline": "LTA plans road cameras that spot crashes, wrong-way drivers and illegal parking",
+          "summary": "A new intelligent video platform will watch at least 960 traffic camera feeds and automatically flag stalled vehicles, debris, fires, floods and people on expressways. It will also help work out what caused an accident and predict hotspots. The Land Transport Authority is testing a similar system for illegal parking and roadwork safety.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/transport/new-smart-video-system-on-roads-can-help-identify-cause-of-traffic-accidents-detect-illegal-parking"
+        },
+        {
+          "headline": "SIA's stake in Air India loses a third of its book value in six months",
+          "summary": "Singapore Airlines wrote its Air India holding down by S$334.7 million between March and September, to S$799.9 million, as it absorbed its share of the airline's losses. The reported loss share fell to S$361.7 million, but only because old provisions were reversed. Chief executive Goh Choon Phong remains upbeat about India.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/sia-loss-million/"
+        },
+        {
+          "headline": "Woman who filmed Megan Khung's abuse jailed for 13 years",
+          "summary": "Nouvelle Chua, 36, was sentenced on 13 November for conspiring to abuse four-year-old Megan Khung, helping dispose of her body and drug offences. Prosecutors had asked for 13.5 years and the defence for just over six. Megan's mother and the mother's boyfriend were jailed for 19 and 30 years last year.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/nouvelle-chua-sentencing-megan-khung-abuse/"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Students among 24 killed as minibus hits truck near Kaziranga",
+          "summary": "A minibus carrying 39 people collided head-on with a container truck on National Highway 715 in Assam's Golaghat district on Friday afternoon, killing 24, including college students. Chief Minister Himanta Biswa Sarma said several of the 15 injured are critical and being treated in Jorhat and Golaghat. Police are investigating the cause.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/assam/12-people-die-in-bus-truck-collision-in-assams-kaziranga/article71697795.ece"
+        },
+        {
+          "headline": "Delhi's air reaches 'hazardous' as AQI touches 494",
+          "summary": "With 16 monitoring stations in the severe range, Stage III of the pollution action plan is in force and the air quality commission has told Delhi and nearby states to consider sending half of office staff home. Delhi's environment and transport ministers have already ordered half their departments' staff to work from home.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/delhi/delhis-air-turns-hazardous-as-aqi-hits-494-16-stations-record-severe-pollution-50-workforce-told-to-work-from-home/articleshow/135810317.cms"
+        },
+        {
+          "headline": "Four Naga civilians shot dead in a highway ambush in Manipur",
+          "summary": "Gunmen opened fire on two vehicles on NH-202 in Ukhrul district on Friday, killing an elderly woman, her son and two brothers from the Tangkhul Naga community. It came a day after a Kuki woman was killed in crossfire near the Senapati-Kangpokpi border, and as a Kuki group's 48-hour shutdown continued.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/guwahati/4-nagas-killed-in-sniper-attack-on-manipur-nh/articleshow/135818876.cms"
+        },
+        {
+          "headline": "Government says visas are 'sovereign' after foreign guests miss Congress summit",
+          "summary": "Congress says more than 100 foreign speakers invited to its Bharat Summit in Hyderabad on 13 and 14 November were refused entry or had visas cancelled, some after earlier clearance, and blames the Home Ministry. The External Affairs Ministry's spokesperson replied only that visa decisions are a sovereign function of any government.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/visa-matters-are-sovereign-mea-responds-after-115-foreign-speakers-denied-nod-for-congress-event/articleshow/135811416.cms"
+        },
+        {
+          "headline": "World Bank data shows extreme poverty fell from 27.1 to 2.6 per cent",
+          "summary": "India recorded one of the world's fastest declines in extreme poverty between 2011 and 2023, according to the latest World Bank figures, and the bank puts the 2024 rate near 2 per cent, under the 3 per cent mark often used for elimination. Many people remain just above the line, however, under higher thresholds.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/27-1-to-2-6-india-records-one-of-worlds-fastest-poverty-declines-its-significant-but-theres-a-catch/articleshow/135805972.cms"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "US grounds every departing flight after an air traffic communications failure",
+          "summary": "The FAA ordered a nationwide ground stop on Friday after what Transportation Secretary Sean Duffy called a communication problem affecting all en-route control centres. More than 11,000 flights were delayed or cancelled. Homeland security officials said there was no sign of an attack, and the priority was landing planes already in the air.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+        },
+        {
+          "headline": "Tanker strikes a docked river cruise ship in New Orleans",
+          "summary": "The Atlantic Asphalt tanker hit American Cruise Lines' American Heritage on the Mississippi on Friday afternoon while about 129 passengers were disembarking, leaving the vessel on its side and people in the water. After a large rescue effort, officials later said all passengers and crew had been accounted for alive.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+        },
+        {
+          "headline": "Iran says it destroyed a US radar in Bahrain in retaliation",
+          "summary": "The Revolutionary Guards said they hit an American early-warning radar after a US strike on a communications tower at Sirik overlooking the Strait of Hormuz, Iran's first direct attack on a US base in months. US Central Command denied the radar was destroyed and said two Iranian drones were intercepted.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        },
+        {
+          "headline": "Turkiye and Qatar sign a mutual defence pact",
+          "summary": "Presidents Tayyip Erdogan and Emir Sheikh Tamim bin Hamad Al Thani signed the agreement in Istanbul on Friday, alongside deals on mediation and conflict resolution. Ankara said the two would work to stop war returning to the Gulf, and analysts described the pact as a deterrent signal as the region feels the Iran war's effects.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement"
+        },
+        {
+          "headline": "Hungary finds US$19.5 million in cash buried in forests in a graft case",
+          "summary": "Investigators searching properties linked to Miklos Seszták, a development minister under Viktor Orbán, found money buried in woods and hidden in farm buildings and safes. He is accused of taking bribes over overpriced second-hand buses. Prime Minister Péter Magyar's government has detained several Orbán-era figures since winning power in April.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "A fifth person, Superphi director Shi Bingzhe, faces 41 charges in Singapore's Nvidia server case over 917 servers allegedly obtained from crime. Singtel says Jensen Huang's exit will not delay its Nvidia chips, most of which have arrived for its sovereign AI business. The BBC notes the scandal puts Singapore's reputation as an open chip hub under strain.",
+        "sources": [
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/singapore/courts-crime/man-handed-41-charges-in-relation-to-nvidia-chips-case"
+          },
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/tech/no-impact-on-chip-supply-partnerships-amid-resignation-of-nvidia-ceo-singtel"
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI startups in Singapore and Southeast Asia",
+      "subtitle": "Up to three stories from the past week",
+      "groups": [
+        {
+          "label": "What they're building",
+          "items": [
+            {
+              "headline": "Ropedia widens the real-world training data it sells to robot makers",
+              "summary": "The Singapore physical AI start-up, founded in 2025, has launched an expansion of its robotics training data, as robot builders look for cheaper ways to collect reusable data. Ropedia records human activity with wearable capture gear, has raised US$30 million in pre-A funding and says it serves more than 20 robotics and model companies.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/sg-physical-ai-startup-ropedia-expands-robotics-training-data"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI worldwide",
+      "subtitle": "Models and products, money, policy and chips",
+      "groups": [
+        {
+          "label": "Models and products",
+          "items": [
+            {
+              "headline": "ChatGPT Wallet lets OpenAI's agents pay for things, with your approval",
+              "summary": "US ChatGPT Pro subscribers can add American Express, Chase, Mastercard or Visa cards so their Dots agents can make purchases. Each checkout needs a Face ID or fingerprint check, and the card is swapped for a payment token so neither the agent nor the shop sees it. OpenAI hopes eventually to allow fully delegated buying.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+            },
+            {
+              "headline": "Baidu previews Ernie 5.5 Flash and promises open weights",
+              "summary": "Baidu released a preview of Ernie 5.5 Flash, a 280 billion parameter model with a one million token context window, available through its Qianfan cloud. It is the first post-trained version of the base model Baidu published last week, and the company says the weights will be open-sourced before 25 November.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/baidu-unveils-ernie-55-flash-preview-open-weights"
+            },
+            {
+              "headline": "ElevenLabs moves into meeting notes and dictation with ElevenAI",
+              "summary": "The voice AI company, valued at US$22 billion, unveiled ElevenAI at its New York summit. Still in early-access preview, the app records meetings, answers questions across past conversations, offers live help during calls and turns speech into text, and can hand tasks such as follow-up emails to ElevenLabs' agents. It targets teams rather than individuals.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"
+            }
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            {
+              "headline": "LangChain raises US$300 million at a US$3 billion valuation",
+              "summary": "The agent-management start-up's Series C was led by Alphabet's CapitalG, with Singapore's GIC, DFJ Growth, IVP and Sapphire joining. Its valuation has more than doubled in about a year. LangChain says 7,000 customers use LangSmith, which it pitches as a way to run agents without being tied to one model or cloud.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+            },
+            {
+              "headline": "Samsung in talks to buy data centre cooling maker Modine",
+              "summary": "Samsung Electronics is discussing a takeover of Modine, which makes cooling systems for data centres, people familiar with the talks said, and a deal could come within weeks. Modine shares jumped about 28 per cent in late trading from a US$5.6 billion market value. Analysts say it would cut Samsung's reliance on memory chips.",
+              "source": "Business Times",
+              "url": "https://www.businesstimes.com.sg/companies-markets/samsung-talks-acquire-data-centre-cooling-firm-modine"
+            },
+            {
+              "headline": "Zhipu's chairman proposes a US$510 million share buyback",
+              "summary": "Chairman Liu Debing has proposed that the Chinese AI developer, listed in Hong Kong, buy back up to about HK$4 billion of its H-shares, capped at 1 per cent of issued stock. Buybacks are popular in Hong Kong this year: 372 listed companies had repurchased over HK$130 billion of shares by 11 November.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/zhipu-chair-proposes-510m-share-buyback"
+            }
+          ]
+        },
+        {
+          "label": "Policy and chips",
+          "items": [
+            {
+              "headline": "Research says China's top open models were trained on banned Nvidia chips",
+              "summary": "A new research effort claims the leading open-weight models from Chinese labs were trained on Nvidia Blackwell GPUs, which are barred from export to China, while only the weaker H200 is allowed. The finding sharpens questions about Nvidia's liability for smuggling, which likely weighed on the board's decision to part ways with Jensen Huang.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+            },
+            {
+              "headline": "SMIC expects AI computing to stay scarce for two more years",
+              "summary": "China's biggest chipmaker is betting that the rush to build data centres will keep AI computing power in short supply until 2028. The upbeat outlook arrives as the scrutiny surrounding Jensen Huang's exit from Nvidia raises the risk that Washington tightens chip export curbs further, which could push more demand to domestic foundries.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
