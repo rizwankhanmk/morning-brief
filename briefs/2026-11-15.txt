@@ -1,0 +1,158 @@
+MORNING BRIEF, Sunday, 15 November 2026
+
+🌧️ Singapore: 30° / 24°
+☀️ Navi Mumbai: 33° / 23°
+
+Trump, Putin and Xi plan to meet in China next week, Jaishankar says the India-US trade deal is near the finishing line, and Fullerton Health confirms a breach touching 140,000 migrant worker records.
+
+AAPL  US$356.27  +1.39 (+0.39%)
+GOOGL  US$295.77  -2.93 (-0.98%)
+DBS  S$69.90  -1.10 (-1.55%)
+Latest completed closes: New York, Friday 13 November (AAPL, GOOGL) and SGX, Friday 13 November (DBS), via Yahoo Finance; markets were shut for the weekend. No upcoming earnings dates turned up in today's sources.
+
+APPLE
+
+From Apple
+Apple's newsroom has posted nothing new since HomeView went on sale, but hardware engineering VP Matthew Costello told TechRadar, as reported by MacRumors, that HomeView's screen can dim to 0.3 nits, the lowest of any Apple product, and was built around Siri. Apple also said Canadian French support for HomeView will come in a later software update, with no date.
+Sources: MacRumors https://www.macrumors.com/2026/11/13/apple-says-homeview-sets-new-record/
+
+9to5Mac
+
+Perplexity's always-on Teammates agents arrive in its Mac app
+Perplexity has brought Teammates, its agents that keep working on a task without constant prompting, from iOS and the web to the Mac. They can plan work, call in extra agents and hand back finished results, for jobs like research, bug triage or tracking metrics. It needs a paid Perplexity Max plan.
+Source: 9to5Mac — https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/
+
+iOS 27.3 beta: three features worth waiting for next month
+9to5Mac's Ryan Christoffel picks three iOS 27.3 additions he uses daily in the beta: Siri AI actions in Calendar, Mail, Maps, Messages and Notes; a redesigned Health app with daily insights and tailored tips; and Siri Recap, which summarises conversations on newer Apple Watches. The update is expected in December.
+Source: 9to5Mac — https://9to5mac.com/2026/11/13/ios-27-3-adds-three-new-features-ive-used-almost-every-day/
+
+MacRumors
+
+iPhone Duo hinge loosens after 450,000 folds but keeps working
+CNET has been folding an iPhone Duo on a machine for three weeks. The hinge felt looser from about 390,000 folds and by 440,000 no longer opened fully on its own, stopping 5 to 10 degrees short. The phone still works with no cracks, and testing continues until it actually fails.
+Source: MacRumors — https://www.macrumors.com/2026/11/13/iphone-duo-fold-testing/
+
+Gurman repeats that iPhone 18 and 18e will arrive in spring 2027
+Bloomberg's Mark Gurman said again on his Power On podcast that the standard iPhone 18 and the cheaper iPhone 18e will launch in spring 2027 with Apple's A20 chip, alongside a second iPhone Air. It fits his earlier reporting that Apple is splitting its iPhone launches across two seasons.
+Source: MacRumors — https://www.macrumors.com/2026/11/13/iphone-18-and-18e-coming-in-spring-2027/
+
+SINGAPORE
+
+Fullerton Health breach exposes 140,000 migrant worker records
+A standalone server behind Fullerton Health's primary care plan for migrant workers was accessed without authorisation, exposing names, ID numbers, birth dates and addresses. No medical or financial data was taken. The company has isolated the server and is building a new one, and MOM says workers should watch for scams.
+Source: Straits Times — https://www.straitstimes.com/singapore/records-of-140000-migrant-workers-hit-by-fullerton-health-portal-breach-new-server-planned
+
+Real police calls now come from one number: 6000 0999
+Since 2 November, every outgoing call from the Singapore Police Force to the public uses the single number 6000 0999, so people can tell genuine officers from impersonators. Scams posing as government officials cost victims at least S$142.5 million across more than 3,200 cases between January and September this year.
+Source: Straits Times — https://www.straitstimes.com/singapore/was-it-really-the-police-calls-from-spf-now-come-from-one-number
+
+iMessage scams posing as couriers and polyclinics take S$31,000
+Police say at least S$31,000 has been lost since 31 October to Apple iMessage texts pretending to be courier firms or SingHealth polyclinics. The messages claim failed deliveries or unpaid bills and link to fake sites that harvest bank and card details. Police advise checking links with ScamShield and keeping devices updated.
+Source: Straits Times — https://www.straitstimes.com/singapore/at-least-31000-lost-in-past-two-weeks-to-phishing-scams-via-apple-imessage
+
+PM Wong in Manila as ASEAN signs its first regional digital economy pact
+Lawrence Wong is in Manila for the 49th ASEAN Summit, which runs from 15 to 17 November. Ministers signed the ASEAN Digital Economy Framework Agreement on 14 November after three years of talks, setting shared rules on digital trade, data flows and e-payments that aim to double the region's digital economy by 2030.
+Source: Straits Times — https://www.straitstimes.com/singapore/politics/pm-lawrence-wong-in-manila-for-asean-summit
+
+Family stranded at Changi after Trip.com booking vanishes
+A Singapore family arrived at Changi for a China Southern flight to Chengdu booked through Trip.com, only to find the airline had no record of it. They paid an extra S$1,805 for a 3am flight, then learned their return tickets were also invalid. Trip.com says it is still checking with the airline.
+Source: Mothership — https://mothership.sg/2026/11/trip-booking-not-found/
+
+INDIA
+
+Jaishankar says India-US trade deal is near the finishing line
+External affairs minister S Jaishankar told the HT Leadership Summit that most issues in the trade talks are settled and the remaining ones lie largely on the American side. He spoke days before Modi is expected to meet Trump in Manila, and said the China border now needs a bigger, sustained troop presence.
+Source: Indian Express — https://indianexpress.com/article/india/india-us-trade-deal-issues-sorted-jaishankar-donald-trump-tariff-china-10963432/
+
+Nikhil Gupta tells US judge he acted alone in Pannun plot
+In a remorseful letter to judge Victor Marrero ahead of his 20 November sentencing, Nikhil Gupta suggests he planned the plot against Gurpatwant Singh Pannun alone. He blames heavy drinking and personal turmoil, describes suicidal thoughts and solitary confinement in custody, and says he wishes he could undo his mistakes.
+Source: Times of India — https://timesofindia.indiatimes.com/world/us/in-letter-to-us-judge-nikhil-gupta-says-he-planned-pannun-op-alone/articleshow/135842250.cms
+
+Closed brake valve likely caused Kolkata-Sairang Express derailment
+A Northeast Frontier Railway inquiry found a brake-pipe valve on the locomotive was in the closed position, so the brakes may not have worked when the driver applied them before the 11 November derailment at Digaru in Assam. The Railway Board has ordered brake tests on locomotives nationwide until 18 November.
+Source: Indian Express — https://indianexpress.com/article/india/kolkata-sairang-express-train-derailment-brake-fault-assam-10962966/
+
+Pakistan will send a minister to an SCO meeting in Delhi
+Islamabad has nominated climate minister Musadik Malik for the SCO Civilisational Dialogue in Delhi from 20 to 22 November. It would be the first visit by a Pakistani minister since the 2025 hostilities after Operation Sindoor, and the first since Bilawal Bhutto Zardari attended an SCO meeting in Goa in 2023.
+Source: Indian Express — https://indianexpress.com/article/india/pakistan-minister-attend-delhi-sco-meet-islamabad-announces-10963150/
+
+Noel Tata warns a Tata Sons listing would put profit above charity
+Tata Trusts chairman Noel Tata said listing Tata Sons, which RBI rules for large finance companies would require, could let tens of thousands of shareholders push profit ahead of philanthropy. Two trust vice-chairmen disagree and argue a listing would not dilute the trusts' control of the group.
+Source: Times of India — https://timesofindia.indiatimes.com/business/india-business/listing-will-change-tata-way-put-profit-above-philanthropy-noel/articleshow/135842200.cms
+
+WORLD
+
+Trump, Putin and Xi plan a joint meeting in China next week
+The White House says the three leaders will meet on the sidelines of the Apec summit in Shenzhen, with Trump wanting to discuss cutting nuclear arsenals. Iran may come up, but Ukraine is not expected to be on the agenda. It would be the first such meeting of the three powers' leaders.
+Source: BBC News — https://www.bbc.co.uk/news/articles/ckz74jzpy18do
+
+Zelensky says the US floated Donbas for Nato membership
+President Zelensky says US negotiators raised the idea of Ukraine pulling its remaining troops out of the eastern Donbas in exchange for joining Nato. Washington has not confirmed it, with an official saying many ideas are being discussed and any final deal must be agreed by both sides.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cwvg2l312ylqo
+
+Italy fines Meta 805 million euros over Facebook photo access
+Italy's data protection authority says Facebook's Android app reached into about 20 million users' photo galleries without specific consent, through a feature suggesting pictures to post. Meta has 60 days to switch the feature off by default and ask permission separately. It is among the largest fines Italy has imposed on a tech firm.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cwn83gxemk35o
+
+More than 100,000 join Yellow Vest cost-of-living protests in France
+The interior ministry counted 106,000 protesters nationwide, 24,000 of them in Paris, down from 146,000 a week earlier. The marches, organised by the Yellow Vests and youth groups, targeted living costs, the Macron government, police violence and school conditions, and stayed mostly calm despite some tear gas.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests
+
+Philippines wins the first Eurovision Song Contest Asia
+Nineteen-year-old Carmelle took the inaugural Asian edition in Bangkok with her empowerment anthem Sobra-Sobra, scoring 211 points from juries and viewers combined. Thailand's MANG x DAOU came second with 170 points, out of 11 countries competing at the One Bangkok Arena.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo
+
+AI IN SINGAPORE
+
+Fallout from the Nvidia scandal is now landing on Singapore's AI and chip scene. Officials say 22 per cent of Nvidia's sales were billed to firms here while only 1 per cent of the chips arrived, and analysts warn tighter scrutiny could squeeze the country's role and slow local firms. Lianhe Zaobao also debunked a fake report that Jensen Huang had joined HKUST.
+Sources: Tech in Asia https://www.techinasia.com/news/nvidia-fallout-raises-scrutiny-southeast-asias-ai-sector; CNA https://www.channelnewsasia.com/singapore/nvidia-megaspeed-ai-chips-semiconductor-6549036; Straits Times https://www.straitstimes.com/singapore/fake-lianhe-zaobao-report-claims-ex-nvidia-ceo-jensen-huang-joins-hong-kong-university
+
+AI STARTUPS IN SINGAPORE AND SOUTHEAST ASIA
+
+What they're building
+
+Singapore grants back local startups securing AI agents
+The Cyber Security Agency is sharing about S$5.6 million among 13 firms. Startups among them are building tools to protect AI agents: CloudsineAI maps attacks on multi-agent systems, IdentityPlane governs staff and agents under one identity, and StrongKeep is building an agentic virtual security chief for small firms with A*STAR.
+Source: e27 — https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/
+
+AI WORLDWIDE
+
+Models and products
+
+Hands-on: Anthropic's Duet agent is useful, if a little naggy
+The Verge spent a week with Claude Duet, Anthropic's consumer agent for professionals and small business owners. Connected to work and chat apps, it surfaces swipeable cards suggesting what needs attention. The reviewer found it truly helpful at times and a nag at others. It is a research preview for US paid subscribers.
+Source: The Verge — https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on
+
+Amazon plans a 'World Product Graph' of everything sold online
+Reuters reports Amazon wants to index products across the web, including ones it does not sell, so shoppers and AI agents start their research on Amazon. An internal document says many answers from its shopping assistant are wrong or incomplete, and more data should make it more accurate and cheaper to run.
+Source: The Verge — https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search
+
+Huang's exit clouds Nvidia's open-source AI push and Chinese developers
+Jensen Huang's sudden resignation puts Nvidia's multibillion-dollar investments in open-source AI in doubt, the South China Morning Post reports. The paper notes the shake-up could also cost Chinese developers, who build heavily on open models, one of their most important supporters in the US industry.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai
+
+Money
+
+ByteDance plans a US$6 billion buyback at a US$400 billion valuation
+TikTok's owner will buy back up to US$6 billion of shares at US$241.35 each, about 20 per cent above last year's price. It also plans to give staff in its AI division 300 million tracking shares tied to that unit's value, as Chinese tech firms compete hard for AI talent.
+Source: Tech in Asia — https://www.techinasia.com/news/bytedance-plans-6b-share-buyback-400b-valuation
+
+Founders brace for smaller cheques after Huang's departure
+Nvidia joined 105 startup rounds this year, often as the biggest investor, according to PitchBook. Founders and VCs told TechCrunch they expect less money, lower valuations and slower deals if the company pulls back without Huang, with one neocloud founder comparing the news to a bomb going off.
+Source: TechCrunch — https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+
+Israeli investors see an opening for chip challengers in Nvidia's turmoil
+Israel, home to Nvidia's largest research base outside the US since it bought Mellanox for US$6.9 billion, is worried about the leadership crisis. But local venture investors told TechCrunch the upheaval could give rival chip and AI infrastructure startups a better shot at customers and funding.
+Source: TechCrunch — https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/
+
+Policy and chips
+
+China may tighten rare earth exports if the US adds chip curbs
+Chinese analysts say Beijing could hit back with stricter rare earth export controls if Washington uses the Nvidia scandal to restrict chip sales further. They still expect wider US-China trade talks to stay on track, with Trump and Xi due to meet at Apec in Shenzhen next week.
+Source: South China Morning Post — https://www.scmp.com/economy/global-economy/article/3374328/china-could-tighten-rare-earths-exports-if-us-escalates-chip-curbs-over-nvidia-analysts
+
+Nexperia's administrators will sound out buyers for a stake
+The court-appointed administrators running the Dutch chipmaker say they will test investor interest in a majority or minority stake. It comes a week after its Chinese owner Wingtech rejected their earlier proposal, deepening a fight over control of a key supplier of chips to European carmakers.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-war/article/3374320/court-appointed-administrators-sound-out-investors-nexperia-stake-amid-wingtech-feud
+
+Built by your morning-brief agent at 7:20am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
