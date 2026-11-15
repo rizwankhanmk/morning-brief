@@ -1,0 +1,307 @@
+{
+  "date": "2026-11-16",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "rain",
+      "high": 31,
+      "low": 24
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "sun",
+      "high": 33,
+      "low": 22
+    }
+  ],
+  "lede": "Iran sends drones at a US base in Bahrain for the second time in three days, Estonia will shut its whole border with Russia, and Washington's Treasury chief says Nvidia should look outside for its next boss.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 356.27,
+      "change": 1.39,
+      "change_pct": 0.39
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 295.77,
+      "change": -2.93,
+      "change_pct": -0.98
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 69.9,
+      "change": -1.1,
+      "change_pct": -1.55
+    }
+  ],
+  "stocks_note": "Latest completed closes: New York, Friday 13 November (AAPL, GOOGL) and SGX, Friday 13 November (DBS), via Yahoo Finance; SGX opens again at 9am today. No upcoming earnings dates turned up in today's sources.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple's last newsroom post, on 13 November, marked HomeView going on sale in select regions. Apple stresses privacy: the hub recognises up to six people by face, but personal Messages, Calendar and Find My content appears only when that person is recognised and their paired iPhone or iPad is nearby and recently unlocked. It comes in tabletop and wall-mounted models.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "The new Apple TV doubles its memory, but apps still can't use it",
+              "summary": "The US$299 Apple TV 4K has an A19 chip, 128GB of storage and 8GB of RAM, twice the previous model. But tvOS still caps each app at 2GB and force-quits any that go over, which 9to5Mac confirmed in its own tests. That matters most for demanding games, and it is unclear whether the limit is deliberate.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/15/new-apple-tv-ram-limit/"
+            },
+            {
+              "headline": "Next MacBook Neo expected to get an A19 Pro chip and 12GB of RAM",
+              "summary": "9to5Mac rounds up what is known about the follow-up to Apple's cheapest laptop. Bloomberg reports it will move from the A18 Pro to the A19 Pro, which benchmarks show is 10 to 15 per cent faster on the processor and up to 40 per cent on graphics, while memory should rise from 8GB to 12GB.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/15/macbook-neo-2-features-release-date/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "Apple's first smart glasses will lean on Siri, with no display",
+              "summary": "Bloomberg's Mark Gurman says Apple plans to unveil the glasses, code-named N50, at WWDC in June 2027 and ship them by the end of that year. Prototypes are slightly thinner than Meta's Ray-Bans and show no AR imagery. Siri uses the cameras to answer questions, while paired iPhone apps handle tasks like booking tables or rides.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/"
+            },
+            {
+              "headline": "Face ID on the outer screen tops Apple's wish list for iPhone Duo",
+              "summary": "Gurman says Apple wants four things for future iPhone Duo models: Face ID, an Action button, a telephoto camera and a thinner, lighter body. Prototypes of the second model already have Face ID on the outer display, but Apple is running out of time to finish it, so it could slip to the iPhone Duo 3.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "PM Wong asks ASEAN for a shared platform on companies behind haze fires",
+          "summary": "At the ASEAN Summit retreat in Manila, Lawrence Wong proposed a regional platform to coordinate and share information on companies whose fires cause cross-border haze, building on an existing Singapore-Indonesia task force. He also named Thailand-Cambodia border tensions and Myanmar as flashpoints the bloc must handle without breaking its consensus.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/politics/regional-platform-to-tackle-haze-among-ways-for-asean-to-manage-differences-amicably-pm-wong"
+        },
+        {
+          "headline": "Simba's deadline to answer IMDA over spectrum use falls today",
+          "summary": "Singapore's fourth telco must explain by 16 November why it used radio frequencies it had not been assigned, at about 133 sites in 2022 and 2023. IMDA alleges senior management approved this. Simba could be fined or lose its licence, which would affect more than 1.4 million mobile subscribers. The probe already derailed its S$1.4 billion M1 deal.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/tech/singapore-has-suspended-a-telco-licence-in-the-past-but-will-simba-be-next"
+        },
+        {
+          "headline": "Churches that are national monuments can now get 60-year leases",
+          "summary": "St Joseph's Church in Victoria Street, restored for about S$25 million, has had its lease renewed for 60 years, double the usual term for religious sites. A recent policy change lets gazetted places of worship get longer tenures to support upkeep, and at least two other monuments have been offered the same deal.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/some-religious-national-monuments-offered-longer-lease-renewals-to-support-long-term-upkeep"
+        },
+        {
+          "headline": "A cinema returns to Chinatown after a decade",
+          "summary": "Oriental Plaza on New Bridge Road, on the site of the old Oriental Theatre, will reopen as Shaw Oriental with Chinatown's only cineplex once refurbishment ends in early 2027. The area has had no cinema since 2016. A short walk away, the Lucky Chinatown mall by the MRT station may make way for a hotel.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/chinatown-to-get-new-cinema-while-mall-near-mrt-station-may-soon-make-way-for-hotel"
+        },
+        {
+          "headline": "Singapore-registered bulk carrier hits a bridge in New Jersey",
+          "summary": "The Strategic Alliance struck the Tacony-Palmyra Bridge early on 13 November, Singapore time. The Maritime and Port Authority says nobody was hurt, the ship was not badly damaged and there was no pollution. It is now moored in Pennsylvania, and MPA is investigating with US authorities. The bridge walkway is still shut for repairs.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/singapore-cargo-ship-hits-bridge-in-us/"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Lalit Modi becomes a British citizen, complicating extradition",
+          "summary": "The IPL founder, who left India in 2010 and faces money-laundering and financial irregularity cases, revealed at the Oxford Union that he took UK citizenship in September. The India-UK treaty still allows extradition of British nationals, but officials say his new legal protections make returning him far harder in practice.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/lalit-modi-british-citizenship-india-extradition-10964507/"
+        },
+        {
+          "headline": "Government health spending has tripled in a decade",
+          "summary": "National Health Accounts figures show Union government health spending rose from ₹1.30 lakh crore in 2013-14 to ₹4.14 lakh crore in 2023-24. Over the same period, the share paid out of pocket by households fell from 64.2 to 42.7 per cent of total health spending, which the ministry credits to wider free and subsidised care.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/indias-health-spending-triples-to-414-lakh-crore-but-out-of-pocket-share-drops-to-427-nha/article71705136.ece"
+        },
+        {
+          "headline": "Rajasthan police link a railway track blast to Pakistan's ISI",
+          "summary": "The state's anti-terror squad arrested Mahakdeep Kaur, 21, and Davinder Singh, 23, in Punjab's Gurdaspur over the 3 November blast on a track in Sri Ganganagar near the Pakistan border. Police say Kaur was in contact with two Pakistani handlers and that the pair had tried similar attacks before.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/isi-backed-sri-ganganagar-railway-blast-rajasthan-ats-arrests-punjab-woman-gurdaspur-10964357/"
+        },
+        {
+          "headline": "William and Catherine arrive in Mumbai for the Earthshot Prize",
+          "summary": "The Prince and Princess of Wales begin a three-day visit to Mumbai today, built around the Earthshot Prize ceremony on Tuesday evening, with a gully cricket event and a meeting with the film industry. Their plans were changed so the trip ends with a meeting with Narendra Modi in Delhi after he returns from Manila.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece"
+        },
+        {
+          "headline": "Cyclone Akvan expected to strengthen and head for Andhra Pradesh",
+          "summary": "The weather department says a depression over the Bay of Bengal should become a cyclonic storm today and a severe one by 17 November. It is expected to bring rain to north coastal Tamil Nadu and Puducherry before nearing the Andhra Pradesh coast around 19 November. Several Tamil Nadu districts were already under rain alerts on Sunday.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Iran fires drones at a US base in Bahrain for the second time in three days",
+          "summary": "The Revolutionary Guards said six drones targeted a US air defence radar at the Al-Rifaa base in retaliation for American strikes, and Bahrain says all were intercepted. Iran also claims a mine sank an oil supertanker in the Strait of Hormuz, further dimming hopes for talks with Washington.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+        },
+        {
+          "headline": "Estonia will close its whole border with Russia from 1 December",
+          "summary": "Eight people were detained on Saturday over an attempted arson and bomb attack on Threod Systems, which makes military drones. Estonia's security service says Russia's GRU ordered it. Prime Minister Kristen Michal said the closure is meant to prevent further attacks and tied the sabotage to Estonia's support for Ukraine.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+        },
+        {
+          "headline": "A single router caused the US nationwide flight stoppage",
+          "summary": "Transport Secretary Sean Duffy says Friday's four-hour ground stop, the longest since 9/11, began when contractor L3Harris installed a router while swapping old copper lines for fibre. It flooded the air traffic network with connection attempts, and 17 of 22 control centres lost stable voice links. Flights are still disrupted.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo"
+        },
+        {
+          "headline": "More than 350,000 rally in Prague to protect public broadcasters",
+          "summary": "Organisers say Sunday's protest on Letná Plain was one of the largest in Czech history. Crowds oppose Andrej Babiš's plan to scrap licence fees and fund Czech TV and Czech Radio from the state budget, which critics say would give ministers leverage over newsrooms, as happened in Hungary and Slovakia.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+        },
+        {
+          "headline": "Four Western allies press Israel to let 150,000 tents into Gaza",
+          "summary": "Australia, Canada, Italy and the UK said in a joint statement that tents and other supplies are held at the border while recent floods swept away tens of thousands of shelters. They urged immediate, unimpeded access, saying there is still time to act before winter sets in. More than 1.9 million Gazans are displaced.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "Megaspeed, the Singapore-based firm that is South-east Asia's biggest buyer of Nvidia chips, said on Sunday that it runs a lawful business, has hired outside lawyers for an internal investigation, and that Alice Huang left her executive role in August 2025. Singapore's Ministry of Home Affairs says its own probe into Megaspeed and six other people is still ongoing.",
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+          },
+          {
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com/tech/article/3374493/megaspeed-rejects-claims-over-supply-chain-distances-itself-alice-huang"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI startups in Singapore and Southeast Asia",
+      "subtitle": "Up to three stories from the past week",
+      "groups": [
+        {
+          "label": "What they're building",
+          "items": [
+            {
+              "headline": "Agnes AI tests ways for its agents to learn without retraining",
+              "summary": "Singapore's Agnes AI, from SapiensAI, is testing methods that let its systems pick up new skills without fully retraining the model. They feed into Agnes Harness, its open-source agent runtime now in early developer preview, which turns each customer's quirks into reusable plugins, asks before running commands and records every step for review.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/singapores-agnes-ai-tests-learning-full-retraining"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI worldwide",
+      "subtitle": "Models and products, money, policy and chips",
+      "groups": [
+        {
+          "label": "Models and products",
+          "items": [
+            {
+              "headline": "China's first fully AI-made feature film flops at the box office",
+              "summary": "Sanxingdui: Future Past, made with no human actors or camera crew, has taken only about 1.8 million yuan (US$270,000) after three weeks in Chinese cinemas, according to box office tracker Beacon Pro. It is an early sign that audiences are not yet keen to pay for films generated entirely by AI.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/economy/china-economy/article/3374358/no-actors-no-crew-no-ticket-sales-so-obviously-ai"
+            },
+            {
+              "headline": "Chinese labs start stripping hacking skills from open models",
+              "summary": "After several high-profile AI hacking incidents involving US and Chinese firms, China's leading model makers are limiting the cyber capabilities of their most advanced open-weight releases. Tencent says it removed hacking abilities from its latest Hy4 model while keeping its other strengths, raising the question of how much such limits cost in competitiveness.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/tech-trends/article/3374332/can-chinese-ai-companies-curb-cyber-risks-open-weight-models-without-losing-their-edge"
+            }
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            {
+              "headline": "Bessent says Nvidia should look outside for its next CEO",
+              "summary": "US Treasury Secretary Scott Bessent told Fox News that Nvidia needs a dramatic shake-up and its board should hire from outside the company to replace Jensen Huang. Huang resigned on Thursday after reports of extramarital affairs, one with a woman US officials suspect of working for Chinese intelligence. CFO Colette Kress is acting as interim CEO.",
+              "source": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia"
+            },
+            {
+              "headline": "Petition to reinstate Jensen Huang passes 131,000 signatures",
+              "summary": "The Stand with Jensen campaign says its signers include more than 71,000 shareholders and 6,500 current Nvidia employees, along with Elon Musk, Epic's Tim Sweeney and Replit's Amjad Masad. It asks the board to bring Huang back while an independent investigation runs, arguing he was pushed out without due process or evidence.",
+              "source": "Mothership",
+              "url": "https://mothership.sg/2026/11/jensen-huang-open-letter-petition/"
+            }
+          ]
+        },
+        {
+          "label": "Policy and chips",
+          "items": [
+            {
+              "headline": "Congress lines up tighter AI chip export rules after the Nvidia scandal",
+              "summary": "Democrats and Republicans both back tougher limits, with House Speaker Mike Johnson citing growing consensus on restricting chip exports to China and the stalled Remote Access Security Act drawing new interest. Senators including Chuck Schumer and Tim Scott have demanded that Huang and Commerce Secretary Howard Lutnick testify.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+            },
+            {
+              "headline": "US$3 billion of Chinese AI computing projects put at risk",
+              "summary": "Records show Chinese universities, regional computing hubs and state-backed ventures planned more than US$3 billion of AI projects that rely on Nvidia processors under US export controls. With Huang gone and Washington's scrutiny rising, those chips look even harder to get, leaving the projects in doubt.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/nvidia-scrutiny-curbs-put-3b-china-ai-projects-risk"
+            },
+            {
+              "headline": "South Korea vows a crackdown after AI-assisted exam cheating",
+              "summary": "Han Won-seok, who topped the certified tax accountant exam with one wrong answer out of 160, admitted using a hidden camera to send questions to a generative AI tool and reading answers on his phone. The government held an emergency meeting, and anyone caught will lose the qualification and be barred from retaking it.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o"
+            },
+            {
+              "headline": "Questions turn to what Nvidia's security team knew",
+              "summary": "Nvidia's long-time security chief David Reber left in August for health reasons, two and a half months before Huang's exit. TechCrunch asks what the team knew about US scrutiny of Megaspeed and Huang's relationships. Experts say any affair can give a foreign intelligence service leverage, though such risks are hard to spot.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
