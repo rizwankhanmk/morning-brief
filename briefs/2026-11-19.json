@@ -1,0 +1,307 @@
+{
+  "date": "2026-11-19",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "showers",
+      "high": 30,
+      "low": 24
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "sun",
+      "high": 34,
+      "low": 22
+    }
+  ],
+  "lede": "Trump, Xi and Putin sit down together in Shenzhen today, Anthropic starts trading on Nasdaq after pricing its IPO above range, and Singapore offers to help the US check where advanced chips end up while MAS opens a sandbox for AI agents that move money.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 352.45,
+      "change": 0.54,
+      "change_pct": 0.15
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 282.44,
+      "change": 2.24,
+      "change_pct": 0.8
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 66.94,
+      "change": -0.76,
+      "change_pct": -1.12
+    }
+  ],
+  "stocks_note": "Latest completed closes: New York, Wednesday 18 November (AAPL, GOOGL) and SGX, Wednesday 18 November (DBS), via Yahoo Finance. No earnings dates turned up in today's sources.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple has named 45 finalists for its 2026 App Store Awards, covering iPhone, iPad, Mac, Vision Pro, Watch, Apple TV, Apple Arcade and a Cultural Impact category. The iPhone app shortlist is ElevenReader, (Not Boring) Camera and Raylie, while BALL x PIT, DAVE THE DIVER and Gambonanza compete for iPhone game. Winners will be named in the coming weeks.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Senators press Apple, Google and Meta over AI 'nudify' apps",
+              "summary": "Democratic senators Ron Wyden, Ed Markey and Ben Luján have written to the three CEOs saying their safeguards against apps that create nonconsensual nude images fall short. Apple tightened its App Store rules on AI-generated content last month and says such apps have always been banned, but watchdog reports keep finding them.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/18/apple-among-the-companies-facing-pressure-from-us-senators-over-nudify-apps/"
+            },
+            {
+              "headline": "Creator Studio's November updates arrive, with MotionVFX inside Final Cut Pro",
+              "summary": "Subscribers now get MotionVFX's full library of effects, transitions, templates and motion graphics in Final Cut Pro at no extra cost. Pixelmator Pro gains Generate Fill, which edits a selected area from a text description, and Pages, Keynote and Numbers pick up an Intelligent Assistant. Logic Pro's update landed earlier this month.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/18/apple-creator-studio-adds-motionvfx-for-final-cut-pro-new-pixelmator-pro-features-more/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "Apple Card doubles Daily Cash for new users who sign up by 10 December",
+              "summary": "New cardholders can earn up to 6 per cent back for their first year, capped at US$1,000 in bonus cash, before rates fall back to the usual 1, 2 and 3 per cent. Hitting the cap means spending roughly US$33,000 at the top rate. Applications must go through Apple's promotion page.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/18/apple-card-double-daily-cash/"
+            },
+            {
+              "headline": "Apple's redesigned Maps reaches India with directions built for local roads",
+              "summary": "The new map brings more detailed roads, buildings and parks plus over 300 3D landmarks. Spoken directions now use real-world cues such as 'turn right after the petrol pump' for streets without names, and place names appear in both English and the local language. It is the first time India gets the redesign.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/18/apple-rolls-out-all-new-maps-across-india/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Category A COE drops 6.4 per cent but still costs more than Category B",
+          "summary": "Premiums for smaller cars fell to S$130,100 from a record S$139,001, and Category B slid 5.1 per cent to S$125,600. Only the Open category edged up, to S$136,000. Dealers point to weaker showroom traffic and tighter loan rules for private-hire buyers, and expect prices to climb again later.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/transport/most-coe-prices-fall-cat-a-coe-is-down-6-4-but-still-costs-more-than-cat-b"
+        },
+        {
+          "headline": "ERP gantries start coming down ahead of satellite road charging on 1 January",
+          "summary": "LTA says most gantries will be removed or modified by June 2027. Drivers will instead see blue oval 'ERP' markings on the road, two on arterial roads and three on expressways, plus 'ERP Charge Zone' signs, while the on-board unit warns of each charge point, the rate and the amount deducted.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/transport/erp-gantry-removal-under-way-amid-transition-to-satellite-based-charging-from-jan-1"
+        },
+        {
+          "headline": "CPF retirement sums under review for people turning 55 after 2027",
+          "summary": "Acting Manpower Minister Jasmin Lau said the review will keep the sums in step with rising living standards and longer lives. The basic retirement sum is S$110,200 for those turning 55 this year and S$114,100 next year, with the full sum set at twice that amount.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/cpf-retirement-sum/"
+        },
+        {
+          "headline": "Seven men to be charged with cheating Singapore casino dealers",
+          "summary": "Police say the men, aged 27 to 39, placed late bets or claimed other players' winnings, and some stole chips from fellow gamblers. One 31-year-old allegedly raised his hand to collect a S$700 win that was not his; a separate pair cashed in about S$3,000 over five days in March.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/7-men-alleged-casino-crimes/"
+        },
+        {
+          "headline": "Alexandra Hospital will prescribe dance to Parkinson's patients from February",
+          "summary": "Rhythmic dance sessions will become part of treatment to help balance, walking, mood and the sudden freezing many patients experience. No dance experience is needed, and the hospital stresses it is therapy, not a cure. Its Parkinson's caseload tripled from 84 in 2022 to 256 last year.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/health/dancing-will-be-prescribed-for-parkinsons-disease-patients-at-alexandra-hospital"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Security forces kill what police call Kashmir's last active local militant",
+          "summary": "Lashkar-e-Taiba commander Mohammad Lateef Bhat, 22, was cornered in a mosque attic in Kulgam after a two-day search. Officers say he refused to surrender during a video call arranged through the imam, and was shot after breaking out in the morning. Police estimate about 30 Pakistani militants remain active.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/kulgam-encounter-lashkar-commander-lateef-bhat-last-local-terrorist-killed-mosque-standoff-10968840/"
+        },
+        {
+          "headline": "Cyclone Akvan shifts north, putting Odisha and north Andhra on alert",
+          "summary": "The IMD expects the severe cyclonic storm to cross the coast between Machilipatnam and Puri by noon on 20 November, with winds gusting to 110 km/h. Odisha has put 14 districts on alert, shut schools in six, cancelled officials' leave and deployed more than 130 rescue teams.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/cyclone-akvan-odisha-landslide-evacuation-preparations-10968463/"
+        },
+        {
+          "headline": "Ayushman Bharat to reserve 112 treatments for government hospitals, up from 23",
+          "summary": "The National Health Authority plans to add 89 packages, from anaemia, hypertension and diabetes complications to hysterectomies and biopsies, that only public facilities such as community health centres can provide under the scheme. States have until 25 November to comment, and the change could start on 1 December.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/govt-hospitals-to-hike-ayushman-packages-from-23-to-112/articleshow/135971407.cms"
+        },
+        {
+          "headline": "Modi meets Prince William and Catherine as their India visit ends",
+          "summary": "The Prime Minister and the Prince and Princess of Wales discussed widening the India-UK partnership in defence, health and other areas in New Delhi on Wednesday. Modi pointed to the momentum from the Vision 2035 road map and the trade agreement that has now come into force.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/pm-modi-meets-prince-and-princess-of-wales-discusses-boosting-uk-india-ties/article71717432.ece"
+        },
+        {
+          "headline": "Jaishankar in Tokyo says helping partners grow stronger serves India's interests",
+          "summary": "Speaking at the Raisina Dialogue days after the Quad summit, the foreign minister called India and Japan leading nations committed to a free and open Indo-Pacific. He and Defence Minister Rajnath Singh hold 2+2 talks with their Japanese counterparts on Thursday.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/national-interest-priority-jaishankar-japan-10968664/"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Trump, Xi and Putin meet together for the first time in Shenzhen",
+          "summary": "Xi greeted Trump on the tarmac for the Apec summit, and Trump later shook hands with Putin, their first meeting in over a year. The three leaders hold talks on Thursday, with Ukraine, Iran, nuclear weapons, trade and AI all expected on the table. Trump and Putin also meet one-on-one.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo"
+        },
+        {
+          "headline": "UN court gives its verdict on whether Myanmar committed genocide against the Rohingya",
+          "summary": "The International Court of Justice rules on Thursday in the case The Gambia filed seven years ago over the army's 2017 expulsion of the Rohingya from Rakhine State. Individuals have been convicted of genocide before, but no state has ever been found guilty of it by an international court.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o"
+        },
+        {
+          "headline": "Israeli tanks push past Gaza's Yellow Line in a rare ground operation",
+          "summary": "Troops advanced east of Nuseirat refugee camp after evacuation orders, in what Israel calls a targeted raid on a tunnel in the part of Gaza it does not control. Hamas called it a flagrant breach of the October 2025 ceasefire. Israel holds more than 60 per cent of the territory.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
+        },
+        {
+          "headline": "Iran strikes Kuwait and Bahrain after the US hits Qeshm Island",
+          "summary": "Kuwait used its air defences against drones for the first time since September, and Bahrain, home to the US Fifth Fleet, said it repelled its fourth Iranian attack in six days. The US had struck a missile launch site on Qeshm after Iran targeted an American radar post in Bahrain.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island"
+        },
+        {
+          "headline": "Hakeem Jeffries nominated to become the first Black Speaker of the US House",
+          "summary": "House Democrats re-elected him party leader by 251 votes to 11, setting him up for the Speaker vote on 3 January. After the midterms Democrats will hold at least 257 seats, well above the 218 needed, and they also control the Senate. Seven House races are still uncalled.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "PM Lawrence Wong says Singapore will help Washington check how advanced chips are used by companies here, while stressing it will not enforce other countries' export rules. At the FinTech Festival, MAS set out its AI missions for finance, including a synthetic scam dataset built from five banks' data and a sandbox where AI agents can test making payments within set limits.",
+        "sources": [
+          {
+            "name": "Mothership",
+            "url": "https://mothership.sg/2026/11/spore-facilitate-checks-us-chips/"
+          },
+          {
+            "name": "CNA",
+            "url": "https://www.channelnewsasia.com/singapore/singapore-us-semiconductor-mddi-josephine-teo-6560761"
+          },
+          {
+            "name": "Monetary Authority of Singapore",
+            "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-and-future-of-finance-institute-set-out-initiatives-in-support-of-national-ai-missions"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI startups in Singapore and Southeast Asia",
+      "subtitle": "Up to three stories from the past week",
+      "groups": [
+        {
+          "label": "Funding",
+          "items": [
+            {
+              "headline": "Singapore factory robot maker Botsync raises US$11 million led by IvyCap",
+              "summary": "The company, which builds autonomous mobile robots and the SyncOS software that coordinates them, will spend the money on adding AI features to that platform. Capital 2B, AppWorks and Iterative also joined. It follows a Series A extension from SGInnovate in January and takes total funding past US$20 million.",
+              "source": "TechNode",
+              "url": "https://technode.global/2026/11/18/singapores-botsync-raises-11m-million-led-by-ivycap-ventures-for-factory-robots/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI worldwide",
+      "subtitle": "Models and products, money, policy and chips",
+      "groups": [
+        {
+          "label": "Models and products",
+          "items": [
+            {
+              "headline": "Google releases Gemini 4 Neon, a mid-priced model between Hydrogen and Carbon",
+              "summary": "Neon promises near top-tier reasoning at faster speeds, with a one-million-token context window and four thinking levels. It costs US$3 per million input tokens during a promotion, replaces older Pro models in the Gemini app for paying subscribers, and comes in a separate cybersecurity version for vetted defenders.",
+              "source": "Google",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+            },
+            {
+              "headline": "Snapchat lets developers build AR Lenses with Claude Code, Cursor and Codex",
+              "summary": "A new Easy Lens CLI plugs Lens creation into the AI coding assistants developers already use, so they can describe an effect in plain language and let the assistant handle the technical work. Creators in the Lens+ Payouts programme can earn from the results; Snap paid out US$1.8 million last month.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/"
+            }
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            {
+              "headline": "Anthropic prices its IPO at US$83 a share, above the expected range",
+              "summary": "The price, up from a planned US$70 to US$78, reportedly values the company at about US$1.5 trillion fully diluted, against US$965 billion in May. Shares start trading on Nasdaq on Thursday under the ticker ANT, a test of investor appetite after the Nvidia leadership upheaval rattled AI stocks.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+            },
+            {
+              "headline": "Tencent's profit dips as AI spending jumps more than sixfold",
+              "summary": "Capital spending passed US$12 billion in the third quarter as the Chinese group bought computing power to keep up in the country's AI race, squeezing profit and free cash flow. Revenue still rose 8 per cent, and management says spending on AI infrastructure is now close to its peak.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/big-tech/article/3374902/tencent-profit-dips-sixfold-increase-ai-infrastructure-spending-sacrifices-margin"
+            },
+            {
+              "headline": "India's Humyn Labs raises US$47 million to sell robot training data",
+              "summary": "Accel led the US$26 million equity part of the Bengaluru startup's Series A, with US$21 million more in venture debt. Humyn films people doing everyday tasks with its own two-camera rigs in over 20 countries, then labels the footage for American companies teaching robots to work in the physical world.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+            }
+          ]
+        },
+        {
+          "label": "Policy and chips",
+          "items": [
+            {
+              "headline": "Nvidia stops shipping H200 chips to China",
+              "summary": "Interim CEO Colette Kress told analysts that Nvidia's forecast includes no licensed Hopper data centre chips and that shipments to China have ended, without giving a reason. The company had won White House approval to sell the H200 there last December, but about 600,000 chips were reported stuck in Hong Kong awaiting Beijing's approval.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+            },
+            {
+              "headline": "China opens a Huawei-powered data centre built to sell AI computing abroad",
+              "summary": "The cluster in Shantou runs on Huawei's newest Ascend 950DT chips and is aimed at overseas customers, a first step towards Beijing's goal of exporting AI computing power. China Telecom provides the undersea cable links and data centre space, while a local firm runs the business.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/big-tech/article/3374791/chinas-token-export-ambitions-take-shape-new-huawei-powered-data-centre"
+            },
+            {
+              "headline": "US-backed chip and minerals zone in the Philippines meets local resistance",
+              "summary": "Under the Pax Silica initiative, Manila and Washington aim to sign a framework this year for an economic zone at the former Clark Air Base for chipmaking, minerals processing and data centres. Protesters greeted Trump's visit, and an Indigenous Aeta community says it has been told to relocate by December.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
