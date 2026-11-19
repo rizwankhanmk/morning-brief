@@ -1,0 +1,303 @@
+{
+  "date": "2026-11-20",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "showers",
+      "high": 30,
+      "low": 23
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "sun",
+      "high": 32,
+      "low": 20
+    }
+  ],
+  "lede": "The UN's top court finds Myanmar guilty of genocide against the Rohingya, Anthropic ends its first day on Nasdaq 17 per cent up, and Singapore's payment firms line up AI agents that can settle your bills for you.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 349.21,
+      "change": -3.24,
+      "change_pct": -0.92
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 272.66,
+      "change": -9.78,
+      "change_pct": -3.46
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 67.34,
+      "change": 0.4,
+      "change_pct": 0.6
+    }
+  ],
+  "stocks_note": "Latest completed closes: New York, Thursday 19 November (AAPL, GOOGL) and SGX, Thursday 19 November (DBS), via Yahoo Finance. No earnings dates turned up in today's sources.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple says F1 Academy, the all-female racing series, will stream on Apple TV in the United States from 2027, with every qualifying session and race included. It extends the five-year deal that made Apple TV the exclusive US home of Formula 1 this season. Apple has also confirmed its four-day Black Friday to Cyber Monday shopping event, running 27 to 30 November.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Apple says Epic's search terms swept up tens of thousands of irrelevant documents",
+              "summary": "Answering Epic's claim that it withheld more than 122,000 documents in the fight over link-out commissions, Apple argues wildcard terms like 'fee*' caught words such as 'feedback' and 'feeble', and 'commission*' caught the NFL Commissioner. It says at least 95 per cent never mention link-outs and only responsive material should be handed over.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/19/apple-fires-back-at-epic-over-claims-it-withheld-122000-documents/"
+            },
+            {
+              "headline": "UK tribunal lets Apple talk openly about the secret order targeting iCloud encryption",
+              "summary": "The Investigatory Powers Tribunal ruled the Home Office had not shown it would harm national security for Apple to confirm it received a technical capability notice, the order that led it to pull Advanced Data Protection from the UK. Much of the legal challenge by Apple and privacy groups can now be heard in open court.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/19/uk-court-rules-apple-can-share-the-top-secret-order-everyone-already-knew/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "Apple job listings describe an AI agent that can use apps, browse and write code",
+              "summary": "Postings spotted by Bloomberg seek a senior leader for a team building general-purpose computer-use agents that work across apps, browsers, command lines and code, and can hand work to sub-agents. Apple says privacy and security must be central to the design. It follows reports that Siri could become more agent-like as soon as 2027.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/"
+            },
+            {
+              "headline": "Apple will stand trial in France in 2027 over iPhone repair restrictions",
+              "summary": "Advocacy group HOP says Apple faces trial in June 2027 over parts pairing, which it claims made screens, batteries and cameras misbehave after independent repairs on 24 iPhone models. The charge is obstructing repair under French consumer law. Apple calls the allegations baseless and points to restrictions it has since relaxed.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/19/apple-faces-planned-obsolescence-trial/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "MRT reliability slips from its record but stays at three times the target",
+          "summary": "Trains averaged 3.14 million km between delays of more than five minutes over the year to October, down from a record 3.38 million but still well above the one million target. The Circle Line fell most, to 1.97 million, after a platform screen door fault on 3 October. North East Line remains the most reliable.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/transport/mrt-reliability-dipped-slightly-in-october-circle-line-had-worst-performance"
+        },
+        {
+          "headline": "More than 500 MRT escalators will be refurbished, starting 17 December",
+          "summary": "The Land Transport Authority says 290 escalators on the North-South, East-West and North East lines will get new mechanical and electrical parts first, with 237 on the Circle Line to follow later. The units are 15 to 30 years old, and each one will be out of action for roughly four to five months.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/500-escalators-mrt-refurbished/"
+        },
+        {
+          "headline": "One in five etomidate vape offenders reoffended, so penalties now come faster",
+          "summary": "Of 1,544 people caught with etomidate vapes between September 2025 and September 2026, 367 were caught again, some three or more times. Since 1 October, repeat offenders are placed on supervision or sent to the drug rehabilitation centre much sooner, face more surprise tests, and those under 16 attend a 24-week rehabilitation programme.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/moh-and-hsa-tighten-measures-against-etomidate-reoffenders"
+        },
+        {
+          "headline": "Couple charged with lying about their address to get their daughter into a popular school",
+          "summary": "A mother, 33, allegedly gave a vice-principal and the authorities a false home address to secure a Phase 2C place in the 2023 Primary One exercise, and the father, 39, is accused of helping her. A gag order protects the girl and the school. Both are expected to plead guilty on 7 January.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/singaporean-parents-allegedly-lie-daughter-well-known-primary-school/"
+        },
+        {
+          "headline": "235 people investigated over scams that cost victims about S$4.2 million",
+          "summary": "A two-week police operation from 5 to 18 November identified 159 men and 76 women, aged 16 to 93, suspected of acting as scammers or money mules in more than 536 cases. Most involved e-commerce, phishing, job, investment and official-impersonation scams. Money laundering carries up to 10 years' jail and a S$500,000 fine.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/235-people-assisting-police-in-scam-investigations-involving-4-2-million"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Odisha moves nearly three lakh people as Cyclone Akvan nears landfall",
+          "summary": "The weather office expects Akvan to cross the coast between Puri and Gopalpur around Friday noon, with winds of 90 to 100 kmph. By Thursday evening almost 299,000 people had been moved to safety, 2,523 relief camps had opened and 423 rescue teams were in place, with the Coast Guard on standby.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/cyclone-akvan-odisha-braces-for-landfall-3-lakh-evacuated-cm-majhi-holds-midnight-meet/articleshow/136005443.cms"
+        },
+        {
+          "headline": "Modi tells industry leaders tax cuts have not brought more jobs or higher pay",
+          "summary": "Speaking at FICCI's annual meeting, the prime minister listed the corporate tax cut from 30 to 22 per cent, simpler returns and lower GST rates, then asked whether companies had hired more staff or raised salaries. He said business appetite for concessions is never satisfied. Congress responded by telling him to look at his own record.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/bhookh-itni-hai-pet-bharta-hi-nhi-pm-modi-pulls-up-industrialists-over-lack-of-jobs-low-pay-despite-tax-cuts/articleshow/135992230.cms"
+        },
+        {
+          "headline": "UN population report puts India at 1.47 billion and urges investment in its young",
+          "summary": "UNFPA's State of World Population 2026 estimates India's population at 1.47 billion, expected to peak near 1.7 billion in about 40 years. More than one in four Indians are aged 10 to 24, which the agency calls a youth moment worth investing in. China's population is put at 1.41 billion.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/unfpa-puts-indias-population-at-1-47-billion-in-2026-calls-for-investment-in-youth-dividend/articleshow/136004405.cms"
+        },
+        {
+          "headline": "Japanese forces will hold live-fire drills at Indian ranges for the first time",
+          "summary": "At their fourth 2+2 dialogue in Tokyo, Rajnath Singh and S Jaishankar signed a letter of intent with their Japanese counterparts allowing Japan's Self-Defence Forces to train at Indian firing ranges, including with surface-to-ship missiles. Both sides agreed to speed up the arrangements. The previous 2+2 was held in New Delhi in August 2024.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/india-japan-22-dialogue-drills-indian-firing-ranges-rajnath-singh-jaishankar-shinjiro-koizumi-toshimitsu-motegi-10970647/"
+        },
+        {
+          "headline": "Justice Yashwant Varma says his resignation ends the case for removing him",
+          "summary": "In a letter to the Lok Sabha Secretary General answering the inquiry committee's report, the former High Court judge argues removal proceedings became infructuous once he resigned, and that any attempt to continue would have no constitutional basis. He also maintains that stepping down was not an admission of guilt.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "UN's top court finds Myanmar committed genocide against the Rohingya",
+          "summary": "The International Court of Justice ruled by nine votes to six that Myanmar intended to destroy a substantial part of the Rohingya and destroyed evidence to hide it. It is the first time an international court has found a state guilty of genocide. The 2017 crackdown drove more than 700,000 people into Bangladesh.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
+        },
+        {
+          "headline": "Trump, Xi and Putin sign a peace declaration that leaves out Ukraine and Iran",
+          "summary": "The statement from the Shenzhen summit says a nuclear war cannot be won and must not be fought, and lists priorities including UN reform, more oil supply and protecting diplomatic immunity. It offers no denuclearisation framework and does not mention the two wars involving its signatories, which European leaders criticised.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
+        },
+        {
+          "headline": "Putin promises a 'far more painful' answer to Ukraine's strikes on the Crimean Bridge",
+          "summary": "The bridge linking Russia to occupied Crimea was hit for the third time this week early on Thursday, after a missile and drone attack on Tuesday brought down part of its road section. Speaking after the Shenzhen summit, Putin insisted the bridge carries only civilian traffic, which Kyiv disputes.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo"
+        },
+        {
+          "headline": "Venezuela signs a military deal with the US less than a year after Maduro's capture",
+          "summary": "Interim president Delcy Rodriguez signed a defence cooperation agreement with US Defence Secretary Pete Hegseth in Caracas, restoring military ties that Hugo Chavez cut in 2005. Few details have been released. Hegseth said Venezuela had gone from the region's most aggressive threat to a compliant security partner.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo"
+        },
+        {
+          "headline": "US-led group beats Chinese bidders to Kenya's US$60 billion Mrima Hill minerals project",
+          "summary": "Frontier Minerals, a consortium of three American firms, won the tender ahead of seven rivals, including Chinese and Australian companies. The site holds niobium and other critical minerals used in electric vehicles and defence. The group promises to process and refine in Kenya, as Washington tries to loosen China's grip on African supply.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "AXS is working with Visa and Mastercard to let AI agents pay telco, utility and hospital bills, HDB instalments and fines across its network of more than 800 billers, with user-set limits and biometric approval, and a trial with Grab's assistant planned. Separately, LinkedIn data shows Singapore firms with stronger AI skills are growing headcount faster than less AI-ready peers.",
+        "sources": [
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/tech/axs-visa-and-mastercard-partner-to-let-ai-agents-pay-bills-without-multiple-app-log-ins"
+          },
+          {
+            "name": "Business Times",
+            "url": "https://www.businesstimes.com.sg/startups-tech/ai-adoption-raises-headcount-growth-among-singapore-firms-all-sizes-linkedin"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI startups in Singapore and Southeast Asia",
+      "subtitle": "Up to three stories from the past week",
+      "groups": [
+        {
+          "label": "What they're building",
+          "items": [
+            {
+              "headline": "Affinidi and Terminal 3 launch Tenon, a network to keep AI agents in check",
+              "summary": "Temasek-founded Affinidi and Hong Kong's Terminal 3 unveiled Tenon at the Singapore FinTech Festival. It checks each agent's identity and authority, applies company policies, masks sensitive data and logs every action in an audit trail no one can edit. It starts with banks, for tasks like overseas transfers and card disputes.",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/singapore/ai-agents-tenon-security-network-terminal-3-affinidi-6561221"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI worldwide",
+      "subtitle": "Models and products, money, policy and chips",
+      "groups": [
+        {
+          "label": "Models and products",
+          "items": [
+            {
+              "headline": "Gemini on the Mac can now operate apps and websites for you",
+              "summary": "Google has added computer use to its Gemini desktop app for macOS, so the assistant can work through native apps, local files and websites in the background while you watch a live preview in the chat. Google is arriving after OpenAI, Anthropic and Meta, which already offer similar agent features on desktop.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+            },
+            {
+              "headline": "Meta staff say its Muse agent has been mixing up users' private data",
+              "summary": "Internal posts seen by Reuters describe Muse surfacing other people's childcare requests, orders and even bank balances, and one employee said it nudged her about a Signal message she never let it read. Meta says employee testing exists to find such problems and add privacy protections before wider release.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+            },
+            {
+              "headline": "Google's homepage gains a sidebar for your past AI Mode chats",
+              "summary": "Google's search homepage now has a collapsible sidebar listing recent AI Mode searches, where you can pick up an old thread, start a new one, search past conversations or connect a Gemini Notebook. Product vice president Robby Stein showed the change on X, the latest step in folding chat into the classic search page.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+            }
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            {
+              "headline": "Anthropic closes its first trading day up about 17 per cent",
+              "summary": "Shares priced at US$83 jumped to US$111.50 on opening, briefly valuing the Claude maker near US$2 trillion, then settled around US$97 by the close, roughly US$1.76 trillion. The debut came on a weak day for tech, with the Nasdaq Composite down almost 2.3 per cent, and investors are still asking when AI spending pays off.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o"
+            },
+            {
+              "headline": "Alibaba is training its next models on its own chips as cloud sales jump",
+              "summary": "Revenue rose 10 per cent and revenue from outside cloud customers grew 67 per cent, beating expectations. Chief executive Eddie Wu said infrastructure built on Alibaba's home-grown chips is becoming the base of its AI stack and that its next-generation models are trained on them. Free cash outflow widened to about US$5.1 billion.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/big-tech/article/3375093/alibabas-ai-bet-paying-cloud-services-drive-10-revenue-jump"
+            }
+          ]
+        },
+        {
+          "label": "Policy and chips",
+          "items": [
+            {
+              "headline": "US approved nearly 900,000 Nvidia and AMD AI chips for Chinese firms in six months",
+              "summary": "Data released by the House Foreign Affairs Committee shows Commerce licensed 879,000 chips between December 2025 and May 2026, including 150,000 for Tencent, 75,000 for Alibaba and 43,000 for Baidu, out of 3.4 million requested. The unusual disclosure follows the scandal over former Nvidia chief Jensen Huang's affair with an alleged Chinese spy.",
+              "source": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months"
+            },
+            {
+              "headline": "California subpoenas Nvidia over whether China obtained its chips or secrets",
+              "summary": "Attorney general Rob Bonta is investigating whether actions by Nvidia or Jensen Huang let China obtain advanced chips or confidential information, and whether investors were misled. Huang left after his relationship with an executive of Singapore-based Megaspeed, a suspected spy, came to light. Lawmakers want checks on whether Megaspeed diverted chips.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no"
+            },
+            {
+              "headline": "Australian music industry rejects an AI copyright carve-out just for musicians",
+              "summary": "Industry body Aria called a reported plan to spare music from AI training, while letting tech firms use other copyrighted work, unworkable. Senator David Pocock called it divide and conquer. Writers' unions are also alarmed by a separate idea to let AI companies train on Australian data if they buy a permit.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
