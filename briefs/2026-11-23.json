@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-23",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "rain",
+      "high": 31,
+      "low": 24
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "sun",
+      "high": 34,
+      "low": 22
+    }
+  ],
+  "lede": "A rainy Monday in Singapore as PM Wong heads to Australia, COP31 collapses without a deal for the first time since 2009, and Democrats lock in their biggest House majority in over three decades; no new Singapore AI startup news turned up this week.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 342.56,
+      "change": -6.65,
+      "change_pct": -1.9
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 265.29,
+      "change": -7.37,
+      "change_pct": -2.7
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 66.11,
+      "change": -1.23,
+      "change_pct": -1.83
+    }
+  ],
+  "stocks_note": "Latest completed closes: New York, Friday 20 November (AAPL, GOOGL) and SGX, Friday 20 November (DBS), via Yahoo Finance. Markets reopen today. No earnings dates turned up in today's sources.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple's newsroom has had nothing new since 19 November. The post before that, on 18 November, named 45 finalists for the 2026 App Store Awards, spanning iPhone, iPad, Mac, Vision Pro, Apple Watch, Apple TV, Arcade and a Cultural Impact category. Picks include ElevenReader, Things 3, Blue Prince and Letterboxd, and the winners follow in the coming weeks.",
+        "source": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "iOS 27's Connectivity Assist leans on cellular when Wi-Fi turns weak",
+              "summary": "A new iOS 27 setting called Connectivity Assist notices when a Wi-Fi network is slow or barely usable, such as at the edge of your driveway or in a busy café, and quietly tops up with cellular data. It can be switched off per network and stays off while roaming or in Low Data Mode.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/"
+            },
+            {
+              "headline": "Apple tried a two-widget column on the iPhone Duo Lock Screen",
+              "summary": "Code spotted by the leaker pdfu shows Apple tested a 'complication column' along the right edge of the iPhone Duo's Lock Screen, holding two small widgets between the status icons and the camera and torch buttons. It first appeared in iOS 27.1 and has not changed since, so it may have been shelved.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "Gurman: Siri job cuts hit the old system, not the new AI work",
+              "summary": "Bloomberg's Mark Gurman says Apple's recent Siri layoffs fell on staff maintaining the assistant's older infrastructure. He argues Apple's fixed yearly software calendar still makes it slow to answer rivals that ship model updates every few weeks, and does not expect Apple's more capable AI agent before late 2027.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/"
+            },
+            {
+              "headline": "iPhone 18, 18e and new MacBooks expected around February or March",
+              "summary": "According to Gurman, Apple plans an early-2027 wave with the iPhone 18 and 18e, a new entry-level iPad, and refreshed MacBook Neo and MacBook Air models. A second, slightly later batch should bring the iPhone Air 2 and new iPad Air and iPad Pro models, possibly in late March or April.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "PM Wong flies into Western Sydney's new airport to start an Australia visit",
+          "summary": "Lawrence Wong lands today on Singapore Airlines' first flight to Western Sydney International, becoming the first foreign leader to arrive there. In Canberra on 24 November he and Anthony Albanese co-chair the 11th annual leaders' meeting, with supply resilience for food and energy high on the agenda, before he heads to Sydney.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/pm-wong-to-visit-australia-for-leaders-meeting-arrive-on-inaugural-sia-flight-to-new-sydney-airport"
+        },
+        {
+          "headline": "Wong says chips re-exported through Singapore are a 'real concern'",
+          "summary": "Wrapping up his China trip, the Prime Minister welcomed genuine Chinese investment but said using Singapore to dodge other countries' export controls is a problem. Chips booked through Singapore and shipped elsewhere far outnumber those used locally, he said, and Singapore can share information with the US but cannot enforce on its behalf abroad.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/pm-wong-singapore-washing/"
+        },
+        {
+          "headline": "Strokes are rising, and fastest among younger adults",
+          "summary": "Yearly stroke cases climbed from 6,720 to 10,664 between 2013 and 2023, mostly because Singapore is ageing, but age-adjusted rates rose too, by about 8 per cent. Doctors blame salty, processed diets and inactivity, which are pushing up blood pressure, diabetes and obesity in people in their twenties and thirties.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/health/more-stroke-cases-in-ageing-singapore-cases-also-climbing-among-the-young-due-to-poor-diet-lifestyle"
+        },
+        {
+          "headline": "Arrests of girls and young women reach a five-year high",
+          "summary": "MSF says 792 females aged 10 to 20 were arrested in 2025, up about 20 per cent from 662 a year earlier. Cheating led the list, often girls lending bank accounts, Singpass logins or SIM cards to scammers, followed by theft. Officials say friends and boyfriends often draw them into offending.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/community/arrests-of-girls-and-young-women-hit-5-year-high-in-2025-cheating-theft-among-top-offences"
+        },
+        {
+          "headline": "YMCA says a breach may have exposed data on 13,000 people",
+          "summary": "Its Youth For Causes project portal was broken into in October and taken offline on 19 October. Names, schools, full or partial NRIC numbers and contacts of participants, next of kin, teachers and judges were held there. Investigators could not confirm whether data was copied, so YMCA is contacting everyone affected.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/ymca-portal-breached-data-of-13000-people-may-be-affected-says-association"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Tata Sons board faces its listing decision on 26 November",
+          "summary": "The board must choose between the RBI's latest instruction to list as an upper-layer NBFC and a Tata Trusts plan to merge two firms into Tata Sons so it can stay private. Five of six directors favour following the RBI, while Trusts chairman Noel Tata opposes an IPO.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/go-public-or-stay-private-tata-sons-gears-up-for-decision-this-week/articleshow/136083498.cms"
+        },
+        {
+          "headline": "FSSAI moves to prosecute Bisleri over an unsafe water sample",
+          "summary": "A packaged water sample from Bisleri's premises breached bromate limits and, on retesting after an appeal, also showed polynuclear aromatic hydrocarbons. The food regulator has sanctioned prosecution of Bisleri and four other firms, suspended two licences and ordered a recall of Asha Confectionery's chocolate-filled cookies.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/bisleri-water-unsafe-fssai-prosecution-packaged-sample-10974022/"
+        },
+        {
+          "headline": "Manipur hooch deaths reach 17 as the state orders an inquiry",
+          "summary": "Seventeen people have died in five days after drinking suspected spurious liquor in Chandel and nearby districts. A committee led by a principal secretary must report within a month. More than 1,100 people have been screened, 228 are in hospital, 38 on dialysis, and over 4,500 litres of illicit liquor have been seized.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/manipur-hooch-tragedy-death-toll-inquiry-committee-imphal-10973928/"
+        },
+        {
+          "headline": "Kaiga's first reactor restarts after a 600-day overhaul",
+          "summary": "Unit 1 at the Kaiga plant in Karnataka reached criticality again early Sunday after replacing its coolant channels and feeders, giving the 25-year-old reactor a second life. NPCIL says no unit of its fleet has come back faster. Two 700 MW units under construction will take the site to 2,280 MW.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/kaiga-nuclear-unit-1-attains-criticality-again-gets-a-second-life/articleshow/136082986.cms"
+        },
+        {
+          "headline": "Two soldiers killed when a tank runs over them in a Hisar drill",
+          "summary": "Naik Manish Kumar and Naik Ankush Kumar died after a tank hit them during a 32-tank combat exercise at the Army training centre in Bhojraj village on Saturday afternoon. Police say early information suggests dust from the drill blocked the driver's view. Post-mortems were completed on Sunday.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/chandigarh/2-army-soldiers-killed-after-tank-runs-over-them-during-training-exercise-in-haryanas-hisar/articleshow/136080057.cms"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "COP31 ends in Turkey without a main climate deal",
+          "summary": "After running into Sunday, the longest UN climate summit ever closed without agreement. The EU and Pacific islands rejected a text that never named fossil fuels, and poorer countries objected to the lack of firm adaptation money. It is the first collapse of a COP's main deal since Copenhagen in 2009.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+        },
+        {
+          "headline": "Democrats reach 258 House seats, their best result since 1992",
+          "summary": "Chuck Hubbard beat long-serving Republican Virginia Foxx in North Carolina by 330 votes after a recount, giving Democrats at least 258 seats to the Republicans' 173, with four races still open. The party also won the Senate in the midterms.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno"
+        },
+        {
+          "headline": "Suspected drone attack sets a Russian ship ablaze in Benghazi",
+          "summary": "An explosion hit a Russian vessel at Benghazi's naval base at dawn on Sunday while it refuelled on the way home, Libya's eastern government said, reporting no casualties. A commercial ship was also targeted off the coast later in the day, leaving minor injuries. Moscow has not commented.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+        },
+        {
+          "headline": "South Korea's education minister quits over AI-assisted exam cheating",
+          "summary": "Choi Kyo-jin resigned after a top scorer in a national accountancy exam admitted using a hidden camera and phone, days before the university entrance exam. The rushed response included Wi-Fi blocking, doubled supervisors, pencil-only rules and a reward of at least US$75,000 for tip-offs, but teachers called it belated.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        },
+        {
+          "headline": "Netanyahu and Eisenkot end unity talks in Israel without a deal",
+          "summary": "Negotiators for caretaker PM Benjamin Netanyahu's Likud and Gadi Eisenkot's Yashar met in Herzliya on Sunday but stayed split over who would lead the next government and whether far-right minister Itamar Ben-Gvir would keep a seat at the table, leaving Israel's post-election coalition picture open.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "IMDA and China's CAICT have mapped Singapore's AI Verify testing framework against China's new AI risk-management standard, so firms working in both markets can reuse the same safety checks. An education MOU will also set up a joint working group on AI in schools. Separately, experts warn Singapore is exposed to Artex, an open-source AI hacking tool the FBI flagged.",
+        "sources": [
+          {
+            "name": "Mothership",
+            "url": "https://mothership.sg/2026/11/singapore-china-mou/"
+          },
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/tech/askst-ai-tool-artex-hijacked-for-hacking-globally-drawing-fbi-warning-is-singapore-vulnerable"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI startups in Singapore and Southeast Asia",
+      "subtitle": "Up to three stories from the past week",
+      "groups": []
+    },
+    {
+      "title": "AI worldwide",
+      "subtitle": "Models and products, money, policy and chips",
+      "groups": [
+        {
+          "label": "Models and products",
+          "items": [
+            {
+              "headline": "Tencent points to outside safety tests for its new Hy4 model",
+              "summary": "Tencent is promoting independent safety assessments of Hy4, the model it released recently with image understanding and the ability to operate software such as Blender and CAD tools. It is available through Tencent Cloud, OpenRouter and the Yuanbao app, with open weights and a fuller safety report promised later.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment"
+            },
+            {
+              "headline": "Binding of Isaac drops AI-made music from Repentance Plus",
+              "summary": "Creator Edmund McMillen says he had no idea AI-generated music had been used in the latest version of the game, and it has now been removed. It is the latest case of a games studio backing away from generative AI after fans noticed, as players push back on its use in creative work.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+            }
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            {
+              "headline": "Ex-Qwen lead's Pragmatik Labs is valued at US$5 billion",
+              "summary": "Shanghai-based Pragmatik Labs, started this summer by Lin Junyang, who led Alibaba's Qwen models, raised tens of millions of dollars from HyT Capital, CDH and carmaker Geely, Bloomberg reports. That is 2.5 times its August valuation, before it has shipped a product. It is building agents for digital and physical tasks.",
+              "source": "TechNode",
+              "url": "https://technode.com/2026/11/20/ex-qwen-chiefs-pragmatik-labs-raises-funding-at-5-billion-valuation/"
+            },
+            {
+              "headline": "Banks share about US$550 million for underwriting Anthropic's IPO",
+              "summary": "Anthropic's final prospectus shows 22 banks splitting roughly 0.68 per cent of its US$81.3 billion raise, putting Wall Street past US$1 billion in fees from this year's Anthropic and SpaceX listings. Some banks reportedly only learned their cut the night before, a sign of how much leverage giant issuers have.",
+              "source": "Business Times",
+              "url": "https://www.businesstimes.com.sg/international/global/wall-street-banks-set-banner-year-anthropic-spacex-ipos-generate-us1-billion-fees"
+            }
+          ]
+        },
+        {
+          "label": "Policy and chips",
+          "items": [
+            {
+              "headline": "China plans national rules for measuring and billing AI tokens",
+              "summary": "National Data Administration head Liu Liehong says Beijing will set standards for how AI tokens are counted, charged for and quality-checked, and wants to avoid wasteful duplicate buildouts of 'token factories'. Daily token use in China jumped from about 140 trillion in March to over 500 trillion by June. No date was given.",
+              "source": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push"
+            },
+            {
+              "headline": "Datacentre bosses met Australian premiers and ministers 119 times",
+              "summary": "Transparency International Australia counted the meetings across five states and territories over three years, mostly in 2026, while donations from the industry and its lobbyists nearly tripled to A$1.8 million. Queensland's premier led with 13 meetings before fast-tracking approvals and landing a large Anthropic datacentre deal.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds"
+            },
+            {
+              "headline": "Berlin arts venue apologises for hosting Helsing's AI targeting launch",
+              "summary": "Kraftwerk Berlin, home of the Atonal festival, called it a 'serious error of judgment' to rent its hall to German defence startup Helsing for the launch of Clarity, an AI system that uses drone and satellite data to pick targets. The row pits Europe's push for home-grown military AI against Berlin's anti-war culture scene.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex"
+            },
+            {
+              "headline": "OpenAI's chief scientist suggests a yardstick for any AI speed limit",
+              "summary": "Jakub Pachocki argues that perplexity, a measure of how well a model predicts the next token, has stayed a useful gauge of progress while benchmarks go stale. As calls grow to pace frontier AI, he says losses below 0.8 coincided with big jumps in cybersecurity and maths ability. Sam Altman praised the post.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
