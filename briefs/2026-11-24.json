@@ -1,0 +1,303 @@
+{
+  "date": "2026-11-24",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "rain",
+      "high": 32,
+      "low": 24
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "sun",
+      "high": 34,
+      "low": 24
+    }
+  ],
+  "lede": "A rainy Tuesday in Singapore as Nvidia takes back Jensen Huang and its shares soar, India offers flood-hit Nepal a Rs 15,000 crore package, and Singapore and China sign a record 29 deals at their top forum.",
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 349.08,
+      "change": 6.52,
+      "change_pct": 1.9
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 282.1,
+      "change": 16.81,
+      "change_pct": 6.34
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 65.76,
+      "change": -0.35,
+      "change_pct": -0.53
+    }
+  ],
+  "stocks_note": "Latest completed closes: New York, Monday 23 November (AAPL, GOOGL) and SGX, Monday 23 November (DBS), via Yahoo Finance. US tech stocks rallied broadly on Monday as Nvidia reinstated Jensen Huang. No earnings dates turned up in today's sources.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple's newsroom has had nothing new since 19 November, but the company made two announcements on Monday, MacRumors reports. Ted Lasso is renewed for a fifth season, with production reportedly starting on 14 April and no release date yet. And a redesigned Apple Store opens at The Oracle in Reading on 3 December, replacing the old store there and nearby Festival Place.",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/11/23/new-apple-store-at-the-oracle/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "iOS 27.3 brings new features to Music, Safari, Health and more",
+              "summary": "The coming iOS 27.3 update touches six built-in apps. Apple Music gains Selfie Sing for recording karaoke-style clips with on-screen lyrics, Safari adds vertical tabs, an adaptive dark mode and a Global Privacy Control setting, and the Health app is rebuilt with Insights and Longevity tabs on Apple Intelligence iPhones.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/23/ios-27-3-adds-new-features-in-six-iphone-apps-details-here/"
+            },
+            {
+              "headline": "Connecticut says Apple Wallet IDs are 'coming soon'",
+              "summary": "Connecticut, one of the states Apple named as a launch partner for Wallet driver's licences back in 2021, released its own mobile ID app last week, and the app's developer says Apple Wallet support is on the way. The governor's office has set August 2027 as the target for Apple, Google and Samsung wallets.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/23/apple-wallet-id-support-coming-soon-to-connecticut/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "Red HomePod mini 2 and AirPods Max 2 expected around 1 December",
+              "summary": "Bloomberg reports Apple will revive (PRODUCT)RED for World AIDS Day with a red-mesh HomePod mini 2 and a silver AirPods Max 2 with a red Digital Crown, plus red Watch bands and an AirPods wrist strap. Apple has sold no RED devices since early 2025, after 20 years backing the Global Fund.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/23/product-red-homepod-mini-airpods-max/"
+            },
+            {
+              "headline": "Mozilla, Shopify and up to 55,000 EU firms press Brussels over iPhone browsers",
+              "summary": "In an open letter to Ursula von der Leyen, a coalition organised by Open Web Advocacy says Apple's Digital Markets Act changes have not let any browser move its EU users off WebKit. Mozilla says shipping its own engine would need a separate Firefox app. The group wants formal proceedings against Apple.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/23/coalition-of-eu-businesses-challenges-apple/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Singapore and China sign 29 deals, a recent high, at their top forum",
+          "summary": "DPM Gan Kim Yong and Vice-Premier Ding Xuexiang oversaw agreements on trade, finance, science and public health at the 22nd Joint Council for Bilateral Cooperation, up from 27 last year. Gan said upgrading the 2009 free trade agreement, with a focus on digital trade and data flows, could take a year or two.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/singapore-china-reach-29-deals-at-top-bilateral-forum"
+        },
+        {
+          "headline": "Owner-occupiers get a one-off property tax rebate in 2027",
+          "summary": "HDB owner-occupiers get 15 per cent off their 2027 property tax and private home owners 10 per cent, capped at $100, down from a $500 cap this year. One- and two-room flat owners still pay nothing, larger HDB flats will pay about $2 to $4 more a month, and social support thresholds rise from 1 March.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/one-off-property-tax-rebate-for-all-owner-occupied-homes-in-2027"
+        },
+        {
+          "headline": "HDB plans a new Pasir Ris estate but will keep 13ha of nature",
+          "summary": "A forested plot at Pasir Ris Drive 4, zoned for housing since 1980, will become a mix of public and private homes over the next decade. After an environmental study, HDB proposes keeping 8ha of mangrove, seagrass and intertidal habitat plus a 5ha green buffer, and says no brownfield site could match its capacity.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/housing/new-neighbourhood-planned-for-pasir-ris-hdb-to-keep-about-13ha-of-coastal-forested-habitats"
+        },
+        {
+          "headline": "PUB warns of flash flood risk during high tides from Thursday",
+          "summary": "Tides of 3.3m are expected from 26 to 28 November, roughly 10.30am to 1pm, with tides of up to 3.5m around Christmas and in late January. Low-lying coastal spots such as East Coast Park and Pulau Ubin can flood even without rain, and heavy monsoon downpours at the same time would make it worse.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/high-tides-raise-flash-flood-risk-from-nov-26-to-28-during-christmas-period-and-in-late-january"
+        },
+        {
+          "headline": "First man charged under tougher Kpod laws gets nearly four years' jail",
+          "summary": "Derek Khor Boon Chun, 41, was sentenced to three years, 10 months and two weeks' jail plus two strokes of the cane for trafficking etomidate vape pods and other offences. He was caught delivering Kpods in Ang Mo Kio in September 2025 while banned from driving, and faces a further 20-year driving ban.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/ang-mo-kio-kpods-sentence/"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "India offers Nepal a Rs 15,000 crore package after August floods",
+          "summary": "Hosting Nepal's Prime Minister Balendra Shah in Delhi, Narendra Modi announced the package, about US$1.6 billion, for flood reconstruction and long-term development. The two launched a weekly Ayodhya-Janakpur train and advanced hydropower and pipeline projects, and India promised an IIT offshore campus and a start-up incubator in Nepal.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/rs-15000-crore-package-train-to-nepal-pm-modi-announces-as-he-hosts-balen-shah-10974858/"
+        },
+        {
+          "headline": "Pakistani operatives found lurking in defence WhatsApp groups",
+          "summary": "The Border Roads Organisation has warned that Pakistan-based intelligence operatives got into 11 unofficial WhatsApp groups used by defence, paramilitary and civil defence personnel. Using spoofed or compromised Indian numbers, they stayed silent and watched what members shared, in what the advisory calls a targeted cyber-espionage campaign.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/beware-of-pakistan-operatives-in-whatsapp-groups-of-defence-personnel-bro/article71736162.ece"
+        },
+        {
+          "headline": "Centre tells people to keep sensitive work off WhatsApp Web",
+          "summary": "An advisory from the Home Ministry's Indian Cyber Crime Coordination Centre says a live WhatsApp Web session can let attackers read messages, impersonate users and run phishing scams. Closing the tab does not log you out, it warns, so users should sign out manually and avoid shared, office or cyber cafe computers.",
+          "source": "Indian Express",
+          "url": "https://indianexpress.com/article/india/whatsapp-web-log-in-public-computer-account-hijack-warning-i4c-centre-10975127/"
+        },
+        {
+          "headline": "No Winter Session dates as Parliament stays unprorogued past 100 days",
+          "summary": "The Monsoon Session has now gone more than 100 days without being prorogued, a record, and no Winter Session has been called. That session has been skipped only four times: during the Emergency, a dissolved Lok Sabha, Indira Gandhi's assassination and Covid. Talk is growing of a short special session on delimitation.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/no-winter-session-of-parliament-skipped-only-four-times-in-history/article71735258.ece"
+        },
+        {
+          "headline": "Cockroach Janta Party leader says he was stopped from flying to Oxford",
+          "summary": "Saurav Das, the party's co-convener, says immigration officers at Delhi airport stopped him before his 1am flight to London, where he was due to speak at the University of Oxford about its youth movement. He blamed the Modi government but has not said what reason officials gave him.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Iran flogs singer Parastoo Ahmadi for performing without a hijab",
+          "summary": "Ahmadi, 29, and four men from her band and production team were each given 74 lashes in Qom, their lawyers say, over a livestreamed 2024 concert in which she wore a sleeveless dress. A court had convicted them of offending public decency and banned them from performing or travelling for two years.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o"
+        },
+        {
+          "headline": "Russia warns Estonia it is close to 'open war'",
+          "summary": "Moscow summoned Estonia's chargé d'affaires after Tallinn said it would close their border, and accused it of letting Ukrainian drones use its airspace, obstructing Russian shipping and banning grain transit. Estonia denied the drone claim. The warning follows a Ukrainian attack on a Russian ship in the Baltic.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war"
+        },
+        {
+          "headline": "Belgian strike grounds every flight at Brussels and Charleroi",
+          "summary": "An air traffic controllers' walkout against planned austerity cut 404 flights and hit more than 50,000 passengers at Brussels Airport alone, while the Brussels metro stopped and tens of thousands marched. Prime Minister Bart De Wever is still negotiating a budget with coalition partners after the king refused his resignation.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o"
+        },
+        {
+          "headline": "Nigeria boat carrying funeral mourners capsizes, 29 bodies found",
+          "summary": "Rescuers have pulled 50 people alive from the water after the overcrowded boat sank on Friday on its way from Ayama. Police say it developed engine trouble and the operator ignored passengers' pleas to head for land. The government has ordered stricter safety enforcement on inland waterways.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po"
+        },
+        {
+          "headline": "Oxfam says war has turned Gaza into a 'toxic wasteland'",
+          "summary": "Working with the Conflict and Environment Observatory, Oxfam used satellite and open-source data to find signs of contamination across more than 99 per cent of Gaza, from heavy metals and explosive residue to asbestos and dioxins. Israel's embassy in London said the report falls short of professional standards.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "An AI tool that could halve the time pre-school principals spend on staff rosters is one of 14 projects backed by ECDA's new $2 million Early Childhood Innovation Sandbox, shown to Senior Minister of State Goh Pei Ming on Monday. Meanwhile Lasalle College of the Arts is defending a new AI-focused creative media degree, starting August 2027, after hundreds of students and alumni objected online.",
+        "sources": [
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/singapore/community/ai-tool-to-halve-rostering-time-among-govt-funded-innovations-for-pre-schools"
+          },
+          {
+            "name": "Mothership",
+            "url": "https://mothership.sg/2026/11/lasalle-new-ai-course/"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI startups in Singapore and Southeast Asia",
+      "subtitle": "Up to three stories from the past week",
+      "groups": [
+        {
+          "label": "Funding",
+          "items": [
+            {
+              "headline": "Botsync raises US$11 million to take its factory robots to the US",
+              "summary": "The Singapore robotics firm's round was led by India's IvyCap Ventures with Capital 2B, AppWorks, Iterative and others, taking its total past US$20 million. Botsync will add AI features for throughput, predictive maintenance and analytics to SyncOS, its software that coordinates robots, conveyors and storage systems from different vendors.",
+              "source": "e27",
+              "url": "https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI worldwide",
+      "subtitle": "Models and products, money, policy and chips",
+      "groups": [
+        {
+          "label": "Models and products",
+          "items": [
+            {
+              "headline": "Anthropic's Claude Ship lets Claude fix and approve pull requests",
+              "summary": "Two new beta agents join Claude's existing Code Review: PR Steward steps in on failing CI checks, merge conflicts and review comments and notes what it changed, while Claude Approvals can sign off routine changes where a team's policy allows. It is available to Team and Enterprise customers on GitHub repositories.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+            },
+            {
+              "headline": "Zhipu adds GLM-5.4, with vision and a million-token context, to its coding plan",
+              "summary": "Zhipu has put GLM-5.4, which reads images and handles a context window of a million tokens, into its developer coding subscription, giving V2, V3 and team subscribers 50 per cent more usage. It says it scaled up its Loop Transformer approach over three months but has not yet published parameters or benchmarks.",
+              "source": "TechNode",
+              "url": "https://technode.com/2026/11/23/zhipu-rolls-out-glm-5-4-with-vision-and-million-token-context/"
+            },
+            {
+              "headline": "MiniMax says its own model found new cryptographic attacks",
+              "summary": "The Shanghai AI firm published papers and code covering encryption, signatures and hash functions, including recovering 94 private keys in the TII McEliece challenge, 55 of them previously unsolved, with speedups of up to 43,400 times. It stresses the results hit research designs and challenge parameters, not mainstream standards such as AES, RSA or SHA-256.",
+              "source": "TechNode",
+              "url": "https://technode.com/2026/11/23/minimax-publishes-ai-discovered-cryptographic-attacks-with-papers-and-code/"
+            },
+            {
+              "headline": "Nothing's Ear Note earbuds record and summarise conversations",
+              "summary": "The London company's next device pairs earbuds with a microphone-equipped case that records, transcribes and summarises audio in an app, with a Talk button and support for voice chats with AI agents. Carl Pei says it launches on 8 December with the price still undecided, while Nothing's AI watch and glasses are delayed, Bloomberg reports.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
+            }
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            {
+              "headline": "Nvidia brings back Jensen Huang and its shares jump about 30 per cent",
+              "summary": "Eleven days after Huang resigned amid reports of affairs, including one with a former executive of Singapore-based Megaspeed, Nvidia's board unanimously reinstated him on Monday. His return followed a pressure campaign by tech leaders and President Trump, who said he had made the deal, and sent the stock soaring.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+            },
+            {
+              "headline": "Ant Group leads a US$100 million round for humanoid maker Simplexity",
+              "summary": "Simplexity Robotics, founded by former Li Auto executives, is now valued at US$1.6 billion after the pre-Series A round, with Tencent, HSG and Lanchi Ventures investing again. It also unveiled iX, a wheeled humanoid shown making and delivering drinks, fetching objects and guiding visitors.",
+              "source": "TechNode",
+              "url": "https://technode.com/2026/11/23/ant-group-leads-100-million-round-in-humanoid-startup-simplexity-robotics/"
+            }
+          ]
+        },
+        {
+          "label": "Policy and chips",
+          "items": [
+            {
+              "headline": "US moves to blacklist Singapore's Megaspeed over Nvidia chip flows",
+              "summary": "The Commerce Department plans to add the Singapore-based data-centre developer to its entity list after a probe of almost two years into whether it helped Nvidia AI chips reach China. A former Megaspeed executive, Alice Huang, is suspected of spying for Beijing; China denies it and warns against a 'technological blockade'.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
+            },
+            {
+              "headline": "Oregon and Virginia sue SpaceX over Grok's sexual deepfakes",
+              "summary": "The two attorneys general say X and Grok broke consumer protection laws by promising safety while Grok Imagine let users make non-consensual intimate images and child sexual abuse material. Virginia's complaint calls the weak safeguards 'not a failure but a feature'. xAI, which built the tool, has since merged into SpaceX.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
