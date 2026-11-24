@@ -1,0 +1,266 @@
+{
+  "date": "2026-11-25",
+  "weather": [
+    {"city": "Singapore", "icon": "rain", "high": 32, "low": 24},
+    {"city": "Navi Mumbai", "icon": "sun", "high": 34, "low": 23}
+  ],
+  "lede": "A rainy Wednesday in Singapore as PM Wong says the Republic is working with Washington on chip export enforcement, Anthropic's shares slip below their IPO price, and the Akali Dal and BJP reunite for next year's Punjab election.",
+  "stocks": [
+    {"ticker": "AAPL", "name": "Apple", "currency": "US$", "price": 354.07, "change": 4.99, "change_pct": 1.43},
+    {"ticker": "GOOGL", "name": "Alphabet", "currency": "US$", "price": 279.05, "change": -3.05, "change_pct": -1.08},
+    {"ticker": "DBS", "name": "DBS Group", "currency": "S$", "price": 66.24, "change": 0.48, "change_pct": 0.73}
+  ],
+  "stocks_note": "Latest completed closes: New York, Tuesday 24 November (AAPL, GOOGL) and SGX, Tuesday 24 November (DBS), via Yahoo Finance; DBS is compared with Monday's S$65.76 close. US markets are shut on Thursday for Thanksgiving. No earnings dates turned up in today's sources.",
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple's newsroom has posted nothing since 19 November, but the company has announced a session at its SoHo store in New York to mark 20 years of its (RED) partnership against HIV/AIDS, MacRumors reports. Marketing chief Greg Joswiak will join (RED) managing director Kate Charles and Iman on 1 December, World AIDS Day, hosted by Apple senior director Alisha Johnson Wilder.",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/11/24/apple-soho-red-event-new-york/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Walmart quietly pulls Apple Pay from its app and website",
+              "summary": "Only weeks after finally adding it, Walmart no longer lists Apple Pay at checkout in its iPhone app or on its website, not even under the alternative payment options. It is unclear whether this is deliberate or a bug. Apple Pay still works at the tills in Walmart's US stores.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/24/walmart-drops-apple-pay-support-from-its-app-and-website/"
+            },
+            {
+              "headline": "Turning on Siri AI moves Notification Center into the corner",
+              "summary": "Once Siri AI is switched on in iOS 27 and iPadOS 27, swiping down from the middle of the top edge summons Siri rather than Notification Center, ending a habit dating back to iOS 5 in 2011. Notifications now live behind a swipe from the top-left corner, and alerts animate in from there.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/24/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "CAD files point to an iPad Pro-style camera bump for iPhone 18e",
+              "summary": "Engadget says it has seen design files showing a raised housing of about 28 by 35mm that groups the iPhone 18e's single camera, flash and microphone, unlike the separate parts on the 17e. The phone is also tipped to get a 2nm A20 chip and is expected in February or March 2027.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/24/iphone-18e-to-get-redesigned-ipad-pro-style-camera/"
+            },
+            {
+              "headline": "Signal blocks Siri AI and other assistants from reading your chats",
+              "summary": "Signal 8.37 on iOS 27 turns on a Block Siri AI setting by default, stopping screenshots, screen recordings and AI screen-reading; Android gets similar protection. Users can switch it off for good or for ten minutes. Signal is asking Apple, Google and Microsoft for better ways to keep app content away from AI.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/24/signal-blocks-ai-access-to-protect-chats/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "StarHub and M1 promise no mobile price changes until their merger closes",
+          "summary": "Plans from StarHub, M1 and sub-brands such as giga, Circles.Life and MyRepublic will stay at current prices through 2027 until the S$1.1 billion all-share merger is approved, expected in the first half of next year. The combined group would serve 4.1 million mobile and over 750,000 broadband customers, and any later price change goes to public consultation.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/tech/no-change-to-mobile-plan-price-until-completion-of-m1-starhub-merger-in-2027"
+        },
+        {
+          "headline": "PSLE results out: 98.5 per cent can move on to secondary school",
+          "summary": "Of the 40,906 Primary 6 pupils who sat the exam this year, 98.5 per cent qualified for secondary school, MOE and SEAB said. Parents can submit school choices on the S1 Portal until 4.30pm on Monday 30 November, and posting results are tentatively due on 18 December.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/psle-2026-results/"
+        },
+        {
+          "headline": "Singaporean wanted in corruption case caught in Malaysia after four years",
+          "summary": "A Singaporean man in his 30s, allegedly linked to a local corruption case, was arrested in Malaysia on 22 November after entering the country illegally. He is suspected of bribing Malaysian officers to avoid action over his stay. He was handed to Singapore's CPIB in Johor Bahru the next day.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/singapore-man-corruption-arrested-run-four-years/"
+        },
+        {
+          "headline": "Aware study finds abuse often continues after victims leave",
+          "summary": "In interviews with 44 survivors of coercive control, Aware found that 33 of the 38 who tried to separate kept facing abuse afterwards, about 87 per cent. Tactics included withheld maintenance, constant messages, using children as leverage and dragging out divorce cases. The 70-page study was released on 25 November.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/community/its-the-beginning-of-a-different-kind-of-hell-why-abuse-control-may-not-end-after-separation"
+        },
+        {
+          "headline": "Mendaki's S$5 million scheme gives 22,000 students back-to-school vouchers",
+          "summary": "Malay/Muslim students from households with per capita income of S$1,000 or less will each get S$250 in e-vouchers for textbooks, devices and transport under the new Ready for School Scheme. It is paid per child, from primary school to a first degree. Applications open on 1 December and close on 28 February.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/over-22000-students-to-benefit-from-5-million-mendaki-scheme-to-get-kids-ready-for-new-school-year"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "Akali Dal and BJP reunite in Punjab, six years after the farm-law split",
+          "summary": "Amit Shah announced the renewed alliance with SAD chief Sukhbir Badal on Guru Nanak's birth anniversary, naming the Akalis the senior partner and their claimant for chief minister if they win. The pair hope to rebuild a Hindu and farmer coalition against the ruling AAP and Congress in polls due early next year.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/6-years-after-split-akalis-bjp-tie-up-for-punjab-assembly-polls/articleshow/136142279.cms"
+        },
+        {
+          "headline": "US set to propose tariffs on India and 15 others over excess capacity",
+          "summary": "The US Trade Representative is about to publish findings from an eight-month Section 301 probe into alleged industrial overcapacity in 16 economies, including India, China and the EU. Hearings would follow before final tariffs in about 45 days. New Delhi says it has no structural excess capacity and expects little impact.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/trump-set-to-hit-india-china-14-others-with-new-tariffs-after-probe/articleshow/136144220.cms"
+        },
+        {
+          "headline": "Traffic offences could soon raise your motor insurance premium",
+          "summary": "The road transport ministry is working on linking premiums to violations recorded in the previous year, alongside single-premium multi-year policies for cars and two-wheelers. A Supreme Court panel wants a 'no insurance, no fuel' pilot at petrol pumps in Haryana and UP. About 81 per cent of vehicles on the road are insured.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/government-may-link-motor-insurance-premiums-to-traffic-violations/articleshow/136141898.cms"
+        },
+        {
+          "headline": "Thirupparankundram lamp lit at the old spot despite Supreme Court order",
+          "summary": "The Karthigai Deepam was lit only at the traditional site on Tuesday, not at the newly identified pillar the Supreme Court had allowed as a one-time arrangement. The Madurai collector had promised the High Court to comply. BJP and Hindu groups protested at the foothills, while the ruling TVK's allies praised the decision.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/cities/Madurai/karthigai-deepam-lit-only-at-traditional-spot-atop-thirupparankundram-hills/article71738876.ece"
+        },
+        {
+          "headline": "India's first industry-built PSLV aims to fly early next year",
+          "summary": "ISRO chief V Narayanan says PSLV-N1, the first of five rockets an L&T and HAL consortium is building under an Rs 860 crore contract, should launch in the first quarter of 2027. He added that Gaganyaan is in its final phase and the number of space startups has grown to more than 440.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/1st-privately-built-pslv-set-for-launch-early-next-year-isro-chief/articleshow/136143686.cms"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Five stories from the day",
+      "items": [
+        {
+          "headline": "US jury convicts Huawei of trade-secret theft but clears it of racketeering",
+          "summary": "After a two-month trial in Brooklyn, jurors found Huawei guilty on 10 of 12 counts, including conspiracy to steal trade secrets, bank fraud and sanctions violations, but rejected the headline racketeering charge. Huawei said the acquittal vindicated its position. The charges date back to 2019, after Meng Wanzhou's arrest in Canada.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
+        },
+        {
+          "headline": "Sarkozy and Carla Bruni to stand trial over a retracted witness statement",
+          "summary": "The former French president and his wife will be tried next year over how a key witness in the Libyan campaign-funding case, the late Ziad Takieddine, withdrew his accusations in 2020. Sarkozy, who served 20 days of a five-year sentence in that case, denies wrongdoing; his appeal verdict is due next Monday.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o"
+        },
+        {
+          "headline": "Putin vows retaliation as Ukraine keeps hitting Russian refineries",
+          "summary": "Putin said Kyiv was ignoring Trump's request to stop striking Russian oil plants and that a response was inevitable. Kyiv says it will stop only when Moscow does. Industry sources cited by Reuters estimate the drone attacks have cut refinery processing by 45 per cent since late October, prompting fuel sales limits in several regions.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
+        },
+        {
+          "headline": "Colombia's president blames FARC dissidents for Villavicencio car bomb",
+          "summary": "At least 23 people were hurt when a car packed with 80 to 100kg of explosives hit the state government building in Meta province on Monday night. President Abelardo de la Espriella blamed dissident commander Antonio Medina, saying it was revenge for army offensives, and vowed to hunt him down.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast"
+        },
+        {
+          "headline": "Landmine casualties hit a five-year high, led by Myanmar and Syria",
+          "summary": "The Landmine Monitor 2026 report counted 6,929 casualties from mines and unexploded ordnance in 2025, 84 per cent of them civilians and half of those children. Myanmar topped the list for a third year with 1,891 deaths, while Syria's toll rose by more than half as displaced people returned home.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria"
+        }
+      ]
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "PM Lawrence Wong said Singapore is building a mechanism with the US so Washington can enforce its own AI chip export controls, after the US blacklisted Megaspeed and six related firms; Singapore's own probe continues. In Canberra, Singapore and Australia also issued a joint statement on AI and widened their essential-supplies pact to cover semiconductors.",
+        "sources": [
+          {"name": "Straits Times", "url": "https://www.straitstimes.com/singapore/spore-working-with-us-on-chip-export-enforcement-as-megaspeed-probe-continues-pm-wong"},
+          {"name": "Straits Times", "url": "https://www.straitstimes.com/singapore/singapore-australia-expand-essential-supplies-pact-sign-landmark-carbon-storage-agreement"}
+        ]
+      }
+    },
+    {
+      "title": "AI startups in Singapore and Southeast Asia",
+      "subtitle": "Up to three stories from the past week",
+      "groups": [
+        {
+          "label": "Funding",
+          "items": [
+            {
+              "headline": "Everful raises US$48.5 million to use AI agents for factory sourcing",
+              "summary": "The San Francisco and Singapore startup, founded in 2024 by ex-Alibaba executive Sisi Song and Kevin Han, links small retailers with more than 30,000 Chinese factories. Vertex Ventures Southeast Asia and India and January Capital led the Series A. It ships over five million items a month and plans to expand in the US and Europe.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AI worldwide",
+      "subtitle": "Models and products, money, policy and chips",
+      "groups": [
+        {
+          "label": "Models and products",
+          "items": [
+            {
+              "headline": "Meta puts its Muse agent inside Instagram DMs, Singapore included",
+              "summary": "Instagram users can now chat with Muse in a DM thread to ask about a post, catch up on missed conversations, or have it act on shared posts, such as adding a cafe to an itinerary. It can also sort saved posts into folders. The rollout covers the US, Canada, Mexico, Japan and Singapore.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+            },
+            {
+              "headline": "ByteDance opens an invite-only beta of Xiaodou, a personal AI assistant",
+              "summary": "The Doubao team's new app is meant to help users get tasks done proactively, and comes with free usage credits for invited testers. Features proven in Xiaodou will gradually move into the main Doubao chatbot. ByteDance gave no date for open access or for when those features will reach Doubao.",
+              "source": "TechNode",
+              "url": "https://technode.com/2026/11/24/bytedance-opens-invitation-only-beta-for-xiaodou-personal-ai-assistant/"
+            },
+            {
+              "headline": "Tidal will ban fully AI-generated music from 9 December",
+              "summary": "The streaming service plans to delete about 29 million AI-made tracks and reject an estimated 80,000 to 85,000 a day. Its music lead says AI songs were 43 per cent of recent uploads, yet 96 per cent got no plays at all. Songs made with AI assistance will still be accepted.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+            }
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            {
+              "headline": "Anthropic shares sink below their US$83 IPO price",
+              "summary": "The stock traded as low as US$76 on Tuesday, down almost 12 per cent in a day and far from the US$111.50 it opened at on Nasdaq less than a week ago. Investors watch it as a gauge for AI valuations, and a prolonged slide could weigh on private startups and other listings. Nvidia also fell over 7 per cent.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+            },
+            {
+              "headline": "Amazon pays a reported US$7.5 billion for Israeli startup Decart's tech",
+              "summary": "Amazon is taking Decart's optimisation software, which helps AI models run efficiently on different chips, along with its founders and research team. Decart is known for real-time world models such as Oasis 3. The deal should make it easier for customers to run work on Amazon's Trainium chips, which it plans to sell against Nvidia.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+            },
+            {
+              "headline": "Zhihu reveals an indirect stake in DeepSeek through a fund",
+              "summary": "The Chinese Q&A platform said a private equity partnership in which it holds under 30 per cent has bought a low single-digit percentage stake in DeepSeek. It did not say how much it invested or what its effective share is, describing the deal as a way to learn more about AI products and business models.",
+              "source": "TechNode",
+              "url": "https://technode.com/2026/11/24/zhihu-discloses-indirect-investment-in-deepseek-through-fund/"
+            }
+          ]
+        },
+        {
+          "label": "Policy and chips",
+          "items": [
+            {
+              "headline": "UK cyber agency reports a marked rise in AI-driven attacks",
+              "summary": "Britain's National Cyber Security Centre says several intrusions since September used autonomous hacking tools, often free open-source penetration testers, to exploit old weaknesses at speed. None of the flaws were new; most came from years of technical debt. Its advice is that basic security hygiene would have stopped many of them.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+            },
+            {
+              "headline": "Data centres are building their own gas plants to skip the grid queue",
+              "summary": "With grid connections taking up to a decade, US developers have announced over 100 on-site gas power plants for data centres, with more than 115 gigawatts of planned capacity, over double California's peak demand. Few are built yet, but the trend could shape the grid and emissions for decades.",
+              "source": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
