@@ -8,6 +8,7 @@ A daily email brief for Rizwan: today's weather for Singapore and Navi Mumbai, t
 - `build.py` turns `briefs/YYYY-MM-DD.json` into `briefs/YYYY-MM-DD.html` (the email) and `.txt` (plain-text twin), stamps the footer with the real Singapore time, and prints warnings about shape, length, links and repeats. Standard library only. Never change it in a scheduled run.
 - The email must stay fluid and self-contained: the Gmail connector strips `<head>`, `<style>` and remote images, so every style is inline and the weather uses emoji, not images. No heading in the body; the subject line carries the date. The HTML is sent exactly as built, never trimmed.
 - `briefs/2026-10-21.json` is the reference shape. Every day's JSON must use the same keys, section titles, group labels and order.
+- `prune.py` removes archived briefs older than 30 days from the `briefs` branch; the run calls it before each commit. Never change it in a scheduled run.
 - `sources.json` lists feeds to try first, the weather and stock endpoints with their fallbacks, the recipient, and the canonical outlet names. Web search is the fallback for any feed.
 - `PROMPT.md` is the scheduled task. The task itself only says "Read PROMPT.md and do the job it describes".
 
@@ -37,7 +38,7 @@ A daily email brief for Rizwan: today's weather for Singapore and Navi Mumbai, t
 
 ## Git
 
-Scheduled runs commit only `briefs/*`, push to the `briefs` branch before sending the email, and never run twice for the same date (see PROMPT.md). Changes to the template, builder, sources or prompt are made by Rizwan on `main`.
+Scheduled runs commit only `briefs/*`, prune issues older than 30 days, push to the `briefs` branch before sending the email, and never run twice for the same date (see PROMPT.md). Changes to the template, builder, sources or prompt are made by Rizwan on `main`.
 
 ## Trying it locally
 

@@ -49,9 +49,11 @@ Do these steps in order.
    ```
    git checkout -B briefs origin/briefs 2>/dev/null || git checkout -B briefs
    git add briefs/DATE.json briefs/DATE.html briefs/DATE.txt
+   python3 prune.py
    git commit -m "brief: DATE"
    git push origin briefs
    ```
+   `prune.py` removes archived briefs older than 30 days from the branch so the repository only ever holds about a month of issues. Do not delete anything by hand.
    If the push is rejected because `origin/briefs` moved, run `git fetch origin briefs` and check again for `briefs/DATE.json` there. If it is there, another run finished first: stop and send nothing. If not, `git rebase origin/briefs` and push again. Push to `briefs` only, never to `main`.
 
 7. **Send exactly one email** with the Gmail connector's `send_message` tool:
@@ -62,7 +64,7 @@ Do these steps in order.
    If the Gmail connector or its `send_message` tool is not available, do not improvise with drafts or other tools: report it plainly in the session, and send a push notification if that tool exists. If sending fails, retry once, then stop and report the error. The brief is already archived either way.
 
 Rules that always apply:
-- Never edit template.html, build.py, CLAUDE.md, PROMPT.md, sources.json or README.md during a scheduled run. The design and the rules are fixed; you only supply content.
+- Never edit template.html, build.py, prune.py, CLAUDE.md, PROMPT.md, sources.json or README.md during a scheduled run. The design and the rules are fixed; you only supply content.
 - Do not send to anyone except the recipient, and never more than one email per run.
 - If a whole category of sources is unreachable, still build and send the brief with what you have and say so plainly in the lede.
 - Use the original outlet as the source, never an aggregator, roundup, newsletter or syndicated press release. If you can only find a story on an aggregator, search for the original report; if there is none, drop the story.

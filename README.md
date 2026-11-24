@@ -62,4 +62,4 @@ Edit `template.html` (and the few colour tokens at the top of `build.py` if you 
 - `briefs/YYYY-MM-DD.html` — the email as sent
 - `briefs/YYYY-MM-DD.txt` — plain-text version
 
-Daily runs push to the `briefs` branch, so `main` only ever contains changes I made myself. The `briefs` branch also carries an old copy of the builder and template; that is harmless, because each run builds on a fresh checkout of `main` before switching branches to commit.
+Daily runs push to the `briefs` branch, so `main` only ever contains changes I made myself. Each run also removes issues older than 30 days from that branch (`prune.py`), so the branch holds about a month of briefs; older ones remain in git history. The `briefs` branch also carries an old copy of the builder and template; that is harmless, because each run builds on a fresh checkout of `main` before switching branches to commit.
