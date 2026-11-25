@@ -1,0 +1,31 @@
+Good morning. This is your brief for Thursday, 26 November 2026.
+
+Weather: Singapore 32 and 23 degrees with rain; Navi Mumbai 34 and 23 degrees with sun.
+
+Singapore lands in the top band of Washington's new excess-capacity tariffs, S&P puts Nvidia's credit rating under review over Jensen Huang, and civil servants get a 1.55-month year-end bonus on the back of a 6 per cent growth forecast.
+
+Today, US markets are shut for Thanksgiving, so the holdings will not move until a half-day session on Friday; in Singapore, AIA Hyrox opens its four-day run.
+
+On US excess-capacity tariffs: Washington has proposed extra tariffs of 15 to 20 per cent on 14 economies after its Section 301 probe, with China, Vietnam and Singapore at the top. India faces 17 per cent, rising to 25 without a trade deal. Hearings are on 25 January, so levies would start around February.
+
+On Nvidia after Huang's return: Jensen Huang is back as CEO after resigning on 12 November, but the shares have given back much of Monday's rally. S&P now has Nvidia's AA rating under review for weak oversight and no succession plan, which could raise borrowing costs for the AI build-out it guarantees.
+
+Apple closed at 355.58, up 0.4 percent.
+
+Alphabet closed at 273.10, down 2.1 percent.
+
+DBS Group closed at 65.44, down 1.2 percent.
+
+In Apple: Thirty-two states and Microsoft side with Epic before Apple's Supreme Court hearing. Apple climbs to fourth in Latin America as the region's phone market shrinks by a quarter. 1Password discloses a breach that exposed names and emails but not vaults.
+
+In Singapore: Civil servants get a 1.55-month year-end bonus as growth forecast rises to 6 per cent. HealthHub absorbs the three cluster apps and shows how busy each polyclinic is. Singapore and Japan make their naval exercise a regular fixture.
+
+In India: US proposes a 17 per cent extra tariff on India, rising to 25 without a deal. Supreme Court says long trial delays can justify bail even under UAPA. Ministers told to stay home as Parliament may sit before 15 December.
+
+In World: Wall Street claws back from a 3 per cent drop as AI worries persist. Fuel tanker fire on a Cairo ring road kills 31. Israeli judges suggest dropping the bribery charge against Netanyahu.
+
+Today's explainer, What key man risk is, and why a credit agency cares about one CEO. Key man risk is the danger that a company depends so heavily on one person that losing them would damage the business. It is usually a worry for small firms. S&P has now applied it to Nvidia, a company worth trillions, after Jensen Huang resigned and was reinstated within eleven days with no successor in place. Why would a credit agency care? A rating measures how likely a borrower is to repay. S&P says Nvidia's finances are strong, but weak board oversight and no succession plan make the future less predictable. A cut from AA to AA- would barely touch Nvidia itself. It matters because Nvidia guarantees loans for data-centre builders that cannot borrow cheaply alone, so their costs rise with its rating. The takeaway for governance: a board's job includes planning for the day the founder is gone. When it has not, lenders price that gap in, and so does everyone who borrows on its name.
+
+In AI worldwide: ChatGPT merges Chat and Work under one usage meter. Apple pulls MiniMax's Talkie companion app worldwide. Amazon and Meta reportedly talk about letting Muse shop on Amazon.
+
+That's the brief. Links are in the email.

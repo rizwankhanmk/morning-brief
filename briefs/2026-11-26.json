@@ -1,0 +1,328 @@
+{
+  "date": "2026-11-26",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "rain",
+      "high": 32,
+      "low": 23
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "sun",
+      "high": 34,
+      "low": 23
+    }
+  ],
+  "lede": "Singapore lands in the top band of Washington's new excess-capacity tariffs, S&P puts Nvidia's credit rating under review over Jensen Huang, and civil servants get a 1.55-month year-end bonus on the back of a 6 per cent growth forecast.",
+  "today": "US markets are shut for Thanksgiving, so the holdings will not move until a half-day session on Friday; in Singapore, AIA Hyrox opens its four-day run.",
+  "threads": [
+    {
+      "id": "us-301-tariffs",
+      "title": "US excess-capacity tariffs",
+      "started": "2026-11-25",
+      "day": 2,
+      "status": "Washington has proposed extra tariffs of 15 to 20 per cent on 14 economies after its Section 301 probe, with China, Vietnam and Singapore at the top. India faces 17 per cent, rising to 25 without a trade deal. Hearings are on 25 January, so levies would start around February."
+    },
+    {
+      "id": "nvidia-huang",
+      "title": "Nvidia after Huang's return",
+      "started": "2026-11-24",
+      "day": 2,
+      "status": "Jensen Huang is back as CEO after resigning on 12 November, but the shares have given back much of Monday's rally. S&P now has Nvidia's AA rating under review for weak oversight and no succession plan, which could raise borrowing costs for the AI build-out it guarantees."
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 355.58,
+      "change": 1.51,
+      "change_pct": 0.43
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 273.1,
+      "change": -5.95,
+      "change_pct": -2.13
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 65.44,
+      "change": -0.8,
+      "change_pct": -1.21
+    }
+  ],
+  "indices": [
+    {
+      "ticker": "STI",
+      "name": "Straits Times Index",
+      "price": 4930.83,
+      "change": -28.04,
+      "change_pct": -0.57
+    },
+    {
+      "ticker": "S&P 500",
+      "name": "S&P 500",
+      "price": 7182.78,
+      "change": -18.31,
+      "change_pct": -0.25
+    }
+  ],
+  "stocks_note": "Closes from Wednesday 25 November in New York (AAPL, GOOGL, S&P 500) and on SGX (DBS, STI), taken from Yahoo Finance and StockAnalysis because the usual price feed was rate-limited. US markets are closed today for Thanksgiving. No earnings dates for your holdings turned up in today's sources.",
+  "applied": [],
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "The Newsroom has posted nothing in the last three days. Apple's own news this week is a new iPhone 18 Pro Max advert in which a toy cyclops runs itself flat while the phone stays at half charge. Apple rates the phone at up to 30 hours of typical use and 40 hours of streaming video.",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Thirty-two states and Microsoft side with Epic before Apple's Supreme Court hearing",
+              "summary": "Nine amicus briefs now back Epic in Apple's appeal against the civil contempt ruling over its 27 per cent fee on outside payment links. A Utah-led brief joined by 31 states and DC accuses Apple of bad faith, and Spotify, Match and Microsoft filed together. Oral arguments are set for 11 January.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/25/major-developers-legal-experts-and-32-states-back-epic-in-apples-scotus-appeal/",
+              "why": "You hold AAPL: the ruling decides how much Apple can charge on purchases routed outside the App Store."
+            },
+            {
+              "headline": "Apple climbs to fourth in Latin America as the region's phone market shrinks by a quarter",
+              "summary": "Counterpoint says smartphone shipments in Latin America fell 24 per cent in the third quarter as memory costs pushed prices up. Apple's shipments dropped only 10 per cent, the smallest fall among the top five, lifting its share from 7 to 9 per cent. Counterpoint expects supply limits to last through 2027.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/25/report-apple-gains-ground-as-latin-american-smartphone-shipments-plunge-24-in-q3/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "1Password discloses a breach that exposed names and emails but not vaults",
+              "summary": "An attacker used a hijacked employee GitHub account on 19 November to push code that pulled some customer names, email addresses and account provisioning tokens. Vaults and their keys were untouched. 1Password lengthened email recovery codes to 10 characters and warns users to expect phishing; nothing needs changing in accounts.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/25/1password-security-breach/"
+            },
+            {
+              "headline": "Apps are slipping ads into iPhone notifications despite Apple's rules",
+              "summary": "Apple's guidelines require explicit opt-in for promotional push notifications and ban ads in Live Activities, yet apps such as McDonald's, Skip and AliExpress appear to ignore them. Readers also flagged DoorDash prompts that quietly re-enable offers. Apple itself recently pushed a Paramount+ deal through the App Store.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/25/apple-has-an-iphone-notifications-problem/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership",
+      "items": [
+        {
+          "headline": "Civil servants get a 1.55-month year-end bonus as growth forecast rises to 6 per cent",
+          "summary": "The Public Service Division raised the bonus from 1.3 months last year, bringing 2026's variable pay to two months. Junior grades get a further S$300 or S$600. The payout reflects a growth forecast now around 6 per cent, up from 4.5 to 5.5, helped by AI-related investment.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/civil-servants-to-receive-1-55-month-year-end-bonus"
+        },
+        {
+          "headline": "HealthHub absorbs the three cluster apps and shows how busy each polyclinic is",
+          "summary": "The refreshed app books slots at all 28 polyclinics with a green, amber and red availability guide, pays bills across institutions in one go with PayNow, Apple Pay or Google Pay, and arranges doorstep medicine deliveries. The NHG Health, NUHS and SingHealth apps close by February 2027; 200,000 people have already used it.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/health/polyclinic-appointments-healthcare-payments-will-be-easier-under-enhanced-healthhub-app"
+        },
+        {
+          "headline": "Singapore and Japan make their naval exercise a regular fixture",
+          "summary": "After the first Exercise Singapan off Japan in August, Defence Minister Chan Chun Sing and his counterpart Koizumi Shinjiro agreed to hold it regularly and consider submarine rescue drills. They also discussed maritime security and Japan's support for the defence ministers' meetings Singapore will chair in 2027.",
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/singapore/japan-defence-exercise-singapan-navy-chan-chun-sing-6580986"
+        },
+        {
+          "headline": "Environment Council wants producers to pay for all packaging, not just drink cans",
+          "summary": "The Singapore Environment Council proposes extending producer fees beyond the drink container return scheme to plastic, paper, glass and metal packaging, which makes up a third of household waste. Semakau landfill fills by 2035. The government says it will first see how the container scheme performs before going further.",
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/singapore/fees-packaging-waste-singapore-environment-council-6580806"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Four stories from the day",
+      "items": [
+        {
+          "headline": "US proposes a 17 per cent extra tariff on India, rising to 25 without a deal",
+          "summary": "The US Trade Representative wants new levies of 15 to 20 per cent on 14 economies over alleged excess capacity, citing India's production incentive schemes in steel, solar and electronics. Pharma and phones are exempt. Delhi rejects the charge and is pushing to sign a trade deal before January hearings.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/trump-slaps-new-tariffs-on-14-nations-india-faces-additional-17/articleshow/136174724.cms",
+          "thread": "us-301-tariffs",
+          "why": "Singapore sits in the top band with China and Vietnam, so this touches both of your home economies at once."
+        },
+        {
+          "headline": "Supreme Court says long trial delays can justify bail even under UAPA",
+          "summary": "A bench of Justices Dipankar Datta and Sheel Nagu held that the right to a speedy trial cannot be overridden by strict special laws, freeing a government doctor jailed for over four years on alleged Naxal links. The ruling comes amid open disagreement between benches over bail in terror cases.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/bail-to-be-granted-under-uapa-when-there-is-delay-in-trial-says-supreme-court/articleshow/136172749.cms"
+        },
+        {
+          "headline": "Ministers told to stay home as Parliament may sit before 15 December",
+          "summary": "Cabinet ministers have been asked to avoid foreign travel because Parliament could be recalled at three days' notice. The government is expected to bring a constitutional amendment to implement women's reservation from 2029 and enlarge the Lok Sabha by about half, though its plans on delimitation are still unclear.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/cabinet-ministers-advised-to-avoid-foreign-travel-parliament-session-likely-by-december-15/articleshow/136172691.cms"
+        },
+        {
+          "headline": "YouTube removed more videos uploaded from India than from anywhere else",
+          "summary": "YouTube took down 3.44 million videos uploaded from India between April and June, up 28 per cent on the quarter and almost a third of the global total. Separately, Indian courts and agencies sent Google 61 per cent more removal requests in six months, most of them from police.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/india-tops-in-videos-removed-from-youtube/articleshow/136174794.cms"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Four stories from the day",
+      "items": [
+        {
+          "headline": "Wall Street claws back from a 3 per cent drop as AI worries persist",
+          "summary": "AI stocks dragged US indices sharply lower in the morning before a partial recovery; the S&P 500 closed down 0.25 per cent and the Nasdaq 0.6 per cent. Nvidia ended 3.4 per cent lower, Amazon fell 3 per cent and Anthropic stayed below its US$83 listing price.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+          "why": "GOOGL fell 2.1 per cent in the same sell-off while AAPL edged up, a split worth watching on Friday."
+        },
+        {
+          "headline": "Fuel tanker fire on a Cairo ring road kills 31",
+          "summary": "A tanker overturned and burst into flames on a busy stretch of highway in Cairo's Warraq district on Wednesday evening, killing 31 people and injuring 21, the health ministry says. State media report a falling high-voltage cable made the driver lose control. Prosecutors have opened an investigation.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o"
+        },
+        {
+          "headline": "Israeli judges suggest dropping the bribery charge against Netanyahu",
+          "summary": "In an unusual step, Jerusalem judges told the attorney general that conviction in the main bribery case looked unlikely, doubted a second case was criminal and suggested a plea deal in the third. Netanyahu called for the trial to end immediately; the attorney general says she will consider it.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o"
+        },
+        {
+          "headline": "Record king tides flood the California coast",
+          "summary": "Super El Nino conditions pushed tides to all-time highs in Los Angeles, Santa Barbara and La Jolla on Wednesday, flooding coastal roads and businesses and closing beaches in Monterey. Part of a damaged pier in Pacifica fell into the sea, though San Francisco reported only minor impacts.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides"
+        }
+      ]
+    },
+    {
+      "title": "Explainer",
+      "subtitle": "One idea from today's news, in plain words",
+      "brief": {
+        "label": "What key man risk is, and why a credit agency cares about one CEO",
+        "summary": "Key man risk is the danger that a company depends so heavily on one person that losing them would damage the business. It is usually a worry for small firms. S&P has now applied it to Nvidia, a company worth trillions, after Jensen Huang resigned and was reinstated within eleven days with no successor in place.\nWhy would a credit agency care? A rating measures how likely a borrower is to repay. S&P says Nvidia's finances are strong, but weak board oversight and no succession plan make the future less predictable. A cut from AA to AA- would barely touch Nvidia itself. It matters because Nvidia guarantees loans for data-centre builders that cannot borrow cheaply alone, so their costs rise with its rating.\nThe takeaway for governance: a board's job includes planning for the day the founder is gone. When it has not, lenders price that gap in, and so does everyone who borrows on its name.",
+        "sources": [
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+          },
+          {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "Resorts World Sentosa launched Symbiosis, a two-year AI living lab backed by IMDA and the Tourism Board, with S$5 million for at least ten projects, from toilet-cleaning robots to AI avatars that train staff. Microsoft is putting up to US$1.5 million into a shared platform linking the robots and systems, which officials hope to reuse in hospitals and airports.",
+        "sources": [
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/tech/rws-to-test-ai-across-its-hotels-and-attractions-in-5-million-push"
+          },
+          {
+            "name": "CNA",
+            "url": "https://www.channelnewsasia.com/singapore/ai-robotics-tourism-hotel-attractions-rws-6577641"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI worldwide",
+      "subtitle": "Models and products, money, policy and chips",
+      "groups": [
+        {
+          "label": "Models and products",
+          "items": [
+            {
+              "headline": "ChatGPT merges Chat and Work under one usage meter",
+              "summary": "OpenAI has begun rolling out a combined Chat and Work experience to some Pro subscribers, with a single shared allowance across ChatGPT and a wider rollout in December. The Instant model stays unlimited. OpenAI admits its heaviest users may hit limits sooner, which subscribers have complained about.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+            },
+            {
+              "headline": "Apple pulls MiniMax's Talkie companion app worldwide",
+              "summary": "Talkie, the AI companion app from Chinese startup MiniMax, has been removed from Apple's App Store in every market after media reports that its AI-generated characters produced sexual content, according to the South China Morning Post. It is a setback for one of the best-known Chinese consumer AI apps abroad.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
+              "confidence": "unverified"
+            }
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            {
+              "headline": "Amazon and Meta reportedly talk about letting Muse shop on Amazon",
+              "summary": "Two months after Amazon blocked Meta's Muse agent from checking out on its store, the companies have held several rounds of talks, Fortune reports. The sticking points are how search results appear and how advertising works. Amazon worries outside agents weaken its ties with shoppers and its ad business.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+              "confidence": "single-source"
+            },
+            {
+              "headline": "Dutch AI chipmaker Axelera seeks US$400 million",
+              "summary": "Axelera AI, based in the Netherlands, is looking to raise about US$400 million in new funding, Tech in Asia reports. The startup has built three generations of inference chips, including the air-cooled Titania design, and is one of Europe's few serious contenders in AI hardware.",
+              "source": "Tech in Asia",
+              "url": "https://www.techinasia.com/news/dutch-ai-chip-startup-axelera-seeks-400m-funding",
+              "confidence": "unverified"
+            }
+          ]
+        },
+        {
+          "label": "Policy and chips",
+          "items": [
+            {
+              "headline": "Huawei sets up patent teams for chips and AI to build a rival to Nvidia's ecosystem",
+              "summary": "Huawei has created dedicated patent teams for semiconductors and artificial intelligence as it tries to win an overseas foothold for its own computing ecosystem, the South China Morning Post reports. It follows a licensing deal in October under which Qualcomm pays for more than 680 Huawei patents.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/big-tech/article/3375756/huawei-forms-patent-teams-chips-and-ai-eyeing-ecosystem-rival-nvidia",
+              "confidence": "unverified"
+            },
+            {
+              "headline": "FCC lets SpaceX launch up to a million AI data-centre satellites",
+              "summary": "The regulator approved SpaceX's Starmind constellation, the first sign-off for a full fleet of chip-carrying satellites powered by sunlight. SpaceX must launch one by 2033 and reach a million by 2040. The FCC deferred its request to park dead satellites in graveyard orbits, citing missing detail.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+            },
+            {
+              "headline": "New York bans AI chatbot toys for five years",
+              "summary": "Governor Kathy Hochul signed a law banning the making and sale of toys with built-in AI chatbots, following California. Fines reach US$15,000 a day. A Common Sense Media study found tested toys claimed to love children, promised to keep secrets and in one case role-played a mass shooting.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+            },
+            {
+              "headline": "Forty-two state attorneys general try to stop Character.ai selling users' chats",
+              "summary": "Character.ai, in Chapter 11 since October, plans to auction chat histories from more than 21 million US accounts, including 2.1 million minors, on 1 December. The only disclosed bidder is a Delaware shell formed on 13 November. The states say the company promised never to sell personal data.",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

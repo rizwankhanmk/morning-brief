@@ -1,0 +1,30 @@
+{
+  "updated": "2026-11-26",
+  "threads": [
+    {
+      "id": "us-301-tariffs",
+      "title": "US excess-capacity tariffs",
+      "started": "2026-11-25",
+      "last": "2026-11-26",
+      "day": 2,
+      "status": "Washington has proposed extra tariffs of 15 to 20 per cent on 14 economies after its Section 301 probe, with China, Vietnam and Singapore at the top. India faces 17 per cent, rising to 25 without a trade deal. Hearings are on 25 January, so levies would start around February.",
+      "history": [
+        {"date": "2026-11-25", "note": "US said to be preparing tariffs on India and 15 others after its excess-capacity probe."},
+        {"date": "2026-11-26", "note": "USTR proposes 15 to 20 per cent levies; India 17 per cent, Singapore in the top band."}
+      ]
+    },
+    {
+      "id": "nvidia-huang",
+      "title": "Nvidia after Huang's return",
+      "started": "2026-11-24",
+      "last": "2026-11-26",
+      "day": 2,
+      "status": "Jensen Huang is back as CEO after resigning on 12 November, but the shares have given back much of Monday's rally. S&P now has Nvidia's AA rating under review for weak oversight and no succession plan, which could raise borrowing costs for the AI build-out it guarantees.",
+      "history": [
+        {"date": "2026-11-24", "note": "Board reinstates Huang as CEO; shares jump about 31 per cent."},
+        {"date": "2026-11-26", "note": "S&P puts Nvidia's AA rating on review over governance and key man risk."}
+      ]
+    }
+  ],
+  "retired": []
+}
