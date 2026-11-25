@@ -4,10 +4,13 @@ MORNING BRIEF, Wednesday, 21 October 2026
 ☀️ Navi Mumbai: 36° / 26°
 
 Singapore is dealing with haze and showers while the government puts S$45 million behind factory AI, Jio's record IPO opens for bidding in India, and Anthropic's compute and policy moves keep making news ahead of its November listing.
+Today: Bidding opens for Jio Platforms' US$3.2 billion IPO, and the N95 mask stockpile reaches supermarket shelves as the haze continues.
 
 AAPL  US$339.50  -3.44 (-1.00%)
 GOOGL  US$340.28  -3.90 (-1.13%)
 DBS  S$74.43  -0.02 (-0.03%)
+STI  5,404.02  -7.98 (-0.15%)
+S&P 500  7,712.57  +21.84 (+0.28%)
 Latest completed closes: New York, Tuesday 20 October (AAPL, GOOGL) and SGX, Tuesday 20 October (DBS), via Yahoo Finance. No earnings dates turned up in today's sources.
 
 APPLE
@@ -161,4 +164,4 @@ Alibaba says chips using its RISC-V design have shipped more than 6 billion unit
 Damo Academy's chief scientist told the RISC-V Summit in Shenzhen that chips built on its XuanTie designs have passed six billion cumulative units, a company-reported figure. It also unveiled the E908A automotive core with ASIL-D safety support and promised a C950A chip for autonomous driving by the end of 2027.
 Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3371402/alibabas-risc-v-ip-powers-over-6-billion-shipped-chips-tech-giant-targets-ai-autos
 
-Built by your morning-brief agent at 12:53am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
+Built by your morning-brief agent at 12:32am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.

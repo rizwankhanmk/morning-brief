@@ -57,6 +57,7 @@ SECTION_COLOURS = {
 #   {"_brief": True} -> a 'brief' paragraph, no items
 #   {"_total": n}    -> exactly n items across the groups
 #   {"_max": n}      -> between 1 and n items across the groups
+#   "_weekly": d     -> the section is only expected on weekday d (0 = Monday); other days may omit it
 #   {label: n, ...}  -> exactly n items in each named group
 EXPECTED = {
     "Apple": {"9to5Mac": 2, "MacRumors": 2},
@@ -64,7 +65,7 @@ EXPECTED = {
     "India": 5,
     "World": 5,
     "AI in Singapore": {"_brief": True},
-    "AI startups in Singapore and Southeast Asia": {"_max": 3},
+    "AI startups in Singapore and Southeast Asia": {"_max": 5, "_weekly": 0},  # Mondays (weekday 0); allowed on other days
     "AI worldwide": {"_total": 8},
 }
 GROUP_LABELS = {
@@ -129,7 +130,30 @@ def render_weather(weather) -> str:
     return "            " + "".join(blocks)
 
 
-def render_stocks(stocks, note) -> str:
+def render_today(today: str) -> str:
+    if not today:
+        return ""
+    return (f"""
+            <p style="margin:-14px 0 26px 0;font-family:{FONT};font-size:14px;line-height:1.5;color:{INK};">"""
+            f"""<span style="font-weight:600;">Today</span>&nbsp; {esc(today)}</p>""")
+
+
+def render_indices(indices) -> str:
+    if not indices:
+        return ""
+    parts = []
+    for s in indices:
+        pct = float(s["change_pct"])
+        colour = UP if pct >= 0 else DOWN
+        arrow = "&#9650;" if pct >= 0 else "&#9660;"
+        parts.append(f"""<span style="white-space:nowrap;"><span style="font-weight:600;color:{INK};">{esc(s['ticker'])}</span> {float(s['price']):,.2f} """
+                     f"""<span style="color:{colour};">{arrow} {pct:+.2f}%</span></span>""")
+    sep = """<span style="color:{HAIR};">&nbsp;&nbsp;|&nbsp;&nbsp;</span>""".replace("{HAIR}", "#C7C7CC")
+    return f"""
+            <p style="margin:0 0 8px 0;font-family:{FONT};font-size:12px;line-height:1.6;color:{SOFT};">{sep.join(parts)}</p>"""
+
+
+def render_stocks(stocks, note, indices=None) -> str:
     cells = []
     width = f"{100 // max(len(stocks), 1)}%"
     for s in stocks:
@@ -150,7 +174,7 @@ def render_stocks(stocks, note) -> str:
             <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:0 0 6px 0;">
               <tr>{''.join(cells)}
               </tr>
-            </table>
+            </table>{render_indices(indices)}
             <p style="margin:0 0 26px 0;font-family:{FONT};font-size:12px;line-height:1.5;color:#8E8E93;">{esc(note)}</p>"""
 
 
@@ -225,9 +249,14 @@ def render_text(data, footer) -> str:
     lines = [f"MORNING BRIEF, {nice_date(data['date'])}", ""]
     for w in data.get("weather", []):
         lines.append(f"{WEATHER_EMOJI.get(w.get('icon',''),'')} {w['city']}: {int(round(float(w['high'])))}° / {int(round(float(w['low'])))}°")
-    lines += ["", data.get("lede", ""), ""]
+    lines += ["", data.get("lede", "")]
+    if data.get("today"):
+        lines.append("Today: " + data["today"])
+    lines.append("")
     for s in data["stocks"]:
         lines.append(f"{s['ticker']}  {s.get('currency','')}{float(s['price']):,.2f}  {float(s['change']):+.2f} ({float(s['change_pct']):+.2f}%)")
+    for s in data.get("indices", []):
+        lines.append(f"{s['ticker']}  {float(s['price']):,.2f}  {float(s['change']):+.2f} ({float(s['change_pct']):+.2f}%)")
     lines += [data.get("stocks_note", ""), ""]
     for section in data["sections"]:
         lines += [section["title"].upper(), ""]
@@ -293,7 +322,9 @@ def check_counts(data):
         else:
             if n != want:
                 warn(f"{title}: {n} items, expected {want}")
-    missing = [t for t in EXPECTED if t not in seen]
+    weekday = date.fromisoformat(data["date"]).weekday()
+    missing = [t for t in EXPECTED if t not in seen
+               and not (isinstance(EXPECTED[t], dict) and "_weekly" in EXPECTED[t] and EXPECTED[t]["_weekly"] != weekday)]
     if missing:
         warn(f"missing sections: {missing}")
     if seen != [t for t in EXPECTED if t in seen]:
@@ -302,6 +333,11 @@ def check_counts(data):
 
 def check_writing(data):
     lo, hi = ITEM_WORDS
+    today = data.get("today", "")
+    if today and not 8 <= len(today.split()) <= 45:
+        warn(f"today line is {len(today.split())} words, want one sentence of 8 to 45")
+    if today and "!" in today:
+        warn("today line uses an exclamation mark")
     for section in data["sections"]:
         title = section["title"]
         brief = section.get("official") or section.get("brief")
@@ -376,8 +412,8 @@ def main(path: str, previous: str | None):
         TEMPLATE.replace("{{TITLE}}", esc(f"Morning brief, {nice_date(data['date'])}"))
         .replace("{{DATE_LINE}}", esc(nice_date(data["date"])))
         .replace("{{WEATHER}}", render_weather(data.get("weather", [])))
-        .replace("{{LEDE}}", esc(data.get("lede", "")))
-        .replace("{{STOCKS}}", render_stocks(data["stocks"], data.get("stocks_note", "")))
+        .replace("{{LEDE}}", esc(data.get("lede", "")) + "</p>" + render_today(data.get("today", "")).lstrip("\n") + "<p style=\"display:none;\">")
+        .replace("{{STOCKS}}", render_stocks(data["stocks"], data.get("stocks_note", ""), data.get("indices", [])))
         .replace("{{SECTIONS}}", "".join(render_section(s) for s in data["sections"]))
         .replace("{{FOOTER}}", esc(footer))
     )

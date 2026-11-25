@@ -15,6 +15,7 @@
     }
   ],
   "lede": "Singapore is dealing with haze and showers while the government puts S$45 million behind factory AI, Jio's record IPO opens for bidding in India, and Anthropic's compute and policy moves keep making news ahead of its November listing.",
+  "today": "Bidding opens for Jio Platforms' US$3.2 billion IPO, and the N95 mask stockpile reaches supermarket shelves as the haze continues.",
   "stocks": [
     {
       "ticker": "AAPL",
@@ -39,6 +40,22 @@
       "price": 74.43,
       "change": -0.02,
       "change_pct": -0.03
+    }
+  ],
+  "indices": [
+    {
+      "ticker": "STI",
+      "name": "Straits Times Index",
+      "price": 5404.02,
+      "change": -7.98,
+      "change_pct": -0.15
+    },
+    {
+      "ticker": "S&P 500",
+      "name": "S&P 500",
+      "price": 7712.57,
+      "change": 21.84,
+      "change_pct": 0.28
     }
   ],
   "stocks_note": "Latest completed closes: New York, Tuesday 20 October (AAPL, GOOGL) and SGX, Tuesday 20 October (DBS), via Yahoo Finance. No earnings dates turned up in today's sources.",

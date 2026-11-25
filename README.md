@@ -2,7 +2,7 @@
 
 A Claude scheduled task that emails me a morning brief every day and archives each issue in this repo.
 
-Each issue has: today's weather for Singapore and Navi Mumbai, AAPL, GOOGL and DBS closing prices, a paragraph on what Apple announced plus two stories each from 9to5Mac and MacRumors, five Singapore stories, five from India, five from the rest of the world, a paragraph on AI in Singapore, up to three AI startup stories from Singapore and Southeast Asia, and eight AI stories from around the world grouped into models and products, money, and policy and chips. Every story is a 3 to 5 line summary with the source name as a link.
+Each issue has: today's weather for Singapore and Navi Mumbai, a one-line "today" of what to watch, AAPL, GOOGL and DBS closing prices with the STI and S&P 500, a paragraph on what Apple announced plus two stories each from 9to5Mac and MacRumors, five Singapore stories, five from India, five from the rest of the world, a paragraph on AI in Singapore, eight AI stories from around the world grouped into models and products, money, and policy and chips, and on Mondays a roundup of AI startups in Singapore and Southeast Asia. Every story is a 3 to 5 line summary with the source name as a link.
 
 The design never changes between issues: it lives in `template.html`, and `build.py` only fills in the content.
 
@@ -28,10 +28,10 @@ Put your address in `recipient` in `sources.json`.
 1. Go to https://claude.ai/code/routines and click **New task**, then **Set up manually**.
 2. Name it `Morning brief`.
 3. Prompt: the single line `Read PROMPT.md in this repository and do the job it describes.` The real instructions live in `PROMPT.md`, so later edits on `main` take effect without touching the task.
-4. Model: pick the strongest model offered. The default model keeps bending the length and "send the HTML unchanged" rules.
+4. Model: Opus gives the best writing. Sonnet is the cost-saving option now that the builder enforces the length rules; try it for a week and compare.
 5. Trigger: **Schedule**, daily, **7:15 am** Singapore time. Keep it on a minute no other task of yours uses; two tasks on the same minute have coincided with missed runs.
 6. **Advanced settings > General > Repository**: select `rizwankhanmk/morning-brief`.
-7. **Cloud environment**: click the environment name, open its settings, set **Network access** to **Full**. (The default only allows package registries, so the news sites would be blocked. You can tighten this to a custom list later; the hosts are in `sources.json` plus `query1.finance.yahoo.com`, `api.open-meteo.com` and `api.met.no`.)
+7. **Cloud environment**: click the environment name, open its settings, set **Network access** to **Full**. (The default only allows package registries, so the news sites would be blocked. You can tighten this to a custom list later; the hosts are in `sources.json` plus `query1.finance.yahoo.com`, `api.met.no` and `api.open-meteo.com`.)
 8. **Connectors** tab: keep **Gmail**, remove everything else.
 9. **Notifications**: turn on both push and email, so a run that could not send still reaches you.
 10. Click **Create**, then **Run now** on the task page.
@@ -42,6 +42,10 @@ Open the run from the task page and read the transcript. A green tick only means
 
 Then check your inbox, and look for the `briefs` branch on GitHub.
 
+## How a run works
+
+`fetch.py` pulls the weather, the five quotes and every feed in one call and prints a digest. The model reads that digest, picks the stories, reads only those article pages (`fetch.py article`), writes the day's JSON, builds, archives and sends. That keeps a run to roughly 15 tool calls and a few minutes.
+
 ## How a run protects itself
 
 - It stops before doing anything if `briefs/DATE.json` already exists on the `briefs` branch, so a manual "Run now" and the schedule cannot both send.
@@ -50,7 +54,7 @@ Then check your inbox, and look for the `briefs` branch on GitHub.
 
 ## Weather
 
-The top line shows today's high and low for Singapore and Navi Mumbai with a weather emoji, fetched from Open-Meteo (free, no key). Open-Meteo rate-limits the shared cloud address some days, so met.no is the fallback; both are in `sources.json`.
+The top line shows today's high and low for Singapore and Navi Mumbai with a weather emoji, fetched from Open-Meteo (free, no key). met.no is the primary source and Open-Meteo the fallback, because Open-Meteo rate-limits the shared cloud address most mornings; both are in `sources.json`.
 
 ## Changing the design or the rules
 
