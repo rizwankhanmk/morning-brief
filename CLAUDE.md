@@ -16,7 +16,7 @@ A daily email brief for Rizwan, built from a fixed template and sent by a schedu
 
 ## Shape of an issue
 
-Top: weather, `lede` (one sentence), `today` (one sentence, 8 to 45 words), `threads` (the "Still developing" strip: id, title, day, status), `stocks` (AAPL, GOOGL, DBS), `indices` (STI, S&P 500), `stocks_note`, `applied` (phrases from replies, shown in the footer).
+Top: weather, `lede` (one sentence), `today` (one sentence, 8 to 45 words), `threads` (the "Still developing" strip: id, title, day, status), `stocks` (AAPL, GOOGL, DBS), `indices` (STI, S&P 500), `stocks_note`, `applied` (phrases from replies, shown in the footer), `failures` (the fetch FAILURES lines, for the next day's comparison; not rendered).
 
 | Section | Mon to Fri | Sat and Sun |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ Item fields: `headline`, `summary` (35 to 60 words), `source`, `url`, and option
 
 ## Git
 
-Scheduled runs commit only `briefs/*` and `docs/index.html`, prune issues older than 30 days, push to the `briefs` branch before sending, and never run twice for the same date (see PROMPT.md). Everything else is changed by Rizwan on `main`.
+Scheduled runs commit `briefs/*`, `docs/index.html` and a fresh copy of the tool files from `main` (so the `briefs` branch's tooling never goes stale), prune issues older than 30 days, push to the `briefs` branch before sending, and never run twice for the same date (see PROMPT.md). Everything else is changed by Rizwan on `main`.
 
 ## Trying it locally
 

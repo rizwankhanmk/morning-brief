@@ -172,18 +172,56 @@ def parse_yahoo(data: dict) -> dict:
             "prev_date": datetime.fromtimestamp(t0, tz).strftime("%A %-d %B")}
 
 
+STOOQ = "https://stooq.com/q/d/l/?s={sym}&i=d"  # daily CSV: Date,Open,High,Low,Close,Volume
+
+
+def parse_stooq(raw: bytes) -> dict:
+    rows = [r.split(",") for r in raw.decode("utf-8", "ignore").strip().splitlines()[1:] if r.count(",") >= 4]
+    rows = [r for r in rows if r[4] not in ("", "N/D")]
+    if len(rows) < 2:
+        raise ValueError("fewer than two closes")
+    (d0, *_, c0, _v0), (d1, *_, c1, _v1) = rows[-2], rows[-1]
+    prev, last = float(c0), float(c1)
+    return {"price": round(last, 2), "prev": round(prev, 2), "change": round(last - prev, 2),
+            "change_pct": round((last - prev) / prev * 100, 2),
+            "close_date": datetime.fromisoformat(d1).strftime("%A %-d %B"),
+            "prev_date": datetime.fromisoformat(d0).strftime("%A %-d %B")}
+
+
+def quote_one(t: dict):
+    """Yahoo (two hosts, one retry on 429), then Stooq where it carries the symbol."""
+    import time
+    errs = []
+    for host in ("query1", "query2"):
+        url = SOURCES["stocks"]["yahoo_chart"].format(yahoo=t["yahoo"]).replace("query1", host)
+        raw, err = try_get(url)
+        if err and "429" in err:
+            time.sleep(2.5)
+            raw, err = try_get(url)
+        if err:
+            errs.append(f"yahoo {host}: {err}")
+            continue
+        try:
+            return parse_yahoo(json.loads(raw)), None
+        except Exception as e:
+            errs.append(f"yahoo {host}: {type(e).__name__}: {str(e)[:60]}")
+    if t.get("stooq"):
+        raw, err = try_get(STOOQ.format(sym=t["stooq"]))
+        if not err:
+            try:
+                return parse_stooq(raw), None
+            except Exception as e:
+                err = f"{type(e).__name__}: {str(e)[:60]}"
+        errs.append(f"stooq: {err}")
+    return None, "; ".join(errs)
+
+
 def fetch_quotes(entries: list, failures: list, kind: str) -> list:
     out = []
     for t in entries:
-        url = SOURCES["stocks"]["yahoo_chart"].format(yahoo=t["yahoo"])
-        raw, err = try_get(url)
+        q, err = quote_one(t)
         if err:
             failures.append(f"{kind} {t['display']}: {err}")
-            continue
-        try:
-            q = parse_yahoo(json.loads(raw))
-        except Exception as e:
-            failures.append(f"{kind} {t['display']}: {type(e).__name__}: {str(e)[:80]}")
             continue
         out.append({"ticker": t["display"], "name": t["name"], "currency": t.get("currency", ""), **q})
     return out
@@ -258,6 +296,28 @@ def parse_feed(raw: bytes) -> list:
     return items
 
 
+ITEM_RX = re.compile(r"(?is)<item[\s>].*?</item>")
+FIELD_RX = {k: re.compile(rf"(?is)<{k}[^>]*>(.*?)</{k}>") for k in ("title", "link", "pubDate", "description")}
+CDATA = re.compile(r"(?s)<!\[CDATA\[(.*?)\]\]>")
+
+
+def parse_feed_lenient(raw: bytes) -> list:
+    """Regex pass for feeds whose XML does not parse (unescaped ampersands, stray bytes)."""
+    text = raw.decode("utf-8", "ignore")
+    items = []
+    for block in ITEM_RX.findall(text):
+        f = {}
+        for k, rx in FIELD_RX.items():
+            m = rx.search(block)
+            v = m.group(1) if m else ""
+            cm = CDATA.search(v)
+            f[k] = (cm.group(1) if cm else v).strip()
+        if not f["title"]:
+            continue
+        items.append({"title": clean(f["title"], 200), "link": f["link"], "date": parse_date(f["pubDate"]), "desc": clean(f["description"])})
+    return items
+
+
 def fetch_feed(key: str, url: str):
     raw, err = try_get(url)
     if err:
@@ -265,7 +325,9 @@ def fetch_feed(key: str, url: str):
     try:
         items = parse_feed(raw)
     except ET.ParseError as e:
-        return key, url, None, f"not a feed ({e})"
+        items = parse_feed_lenient(raw)
+        if not items:
+            return key, url, None, f"not a feed ({e})"
     return key, url, items, None
 
 

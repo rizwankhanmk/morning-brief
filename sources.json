@@ -60,13 +60,15 @@
         "display": "AAPL",
         "yahoo": "AAPL",
         "name": "Apple",
-        "currency": "US$"
+        "currency": "US$",
+        "stooq": "aapl.us"
       },
       {
         "display": "GOOGL",
         "yahoo": "GOOGL",
         "name": "Alphabet",
-        "currency": "US$"
+        "currency": "US$",
+        "stooq": "googl.us"
       },
       {
         "display": "DBS",
@@ -88,9 +90,11 @@
         "display": "S&P 500",
         "yahoo": "^GSPC",
         "name": "S&P 500",
-        "currency": ""
+        "currency": "",
+        "stooq": "^spx"
       }
-    ]
+    ],
+    "_fallbacks": "fetch.py tries Yahoo query1, then query2 (one retry after a 429), then Stooq daily CSV where a 'stooq' symbol is given. DBS and the STI have no Stooq symbol, so they fall back to web search."
   },
   "apple_official": [
     "https://www.apple.com/newsroom/rss-feed.rss"
