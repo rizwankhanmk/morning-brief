@@ -22,7 +22,7 @@ from zoneinfo import ZoneInfo
 ROOT = pathlib.Path(__file__).resolve().parent
 BRIEFS = ROOT / "briefs"
 KEEP = {"2026-10-21"}  # the reference brief that CLAUDE.md points at
-NAME = re.compile(r"^(\d{4}-\d{2}-\d{2})\.(json|html|txt)$")
+NAME = re.compile(r"^(\d{4}-\d{2}-\d{2})\.(json|html|txt|short\.txt|spoken\.txt)$")
 
 
 def main(days: int, dry_run: bool):

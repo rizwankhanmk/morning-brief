@@ -1,0 +1,37 @@
+Good morning. This is your brief for Wednesday, 21 October 2026.
+
+Weather: Singapore 32 and 25 degrees with rain; Navi Mumbai 36 and 26 degrees with sun.
+
+Singapore is dealing with haze and showers while the government puts S$45 million behind factory AI, Jio's record IPO opens for bidding in India, and Anthropic's compute and policy moves keep making news ahead of its November listing.
+
+Today, Bidding opens for Jio Platforms' US$3.2 billion IPO, and the N95 mask stockpile reaches supermarket shelves as the haze continues.
+
+On The haze: Smoke from Sumatra fires has kept the PSI in the unhealthy range on and off for a week. The health ministry has released its N95 stockpile to retailers, and the government is pressing Indonesia over which companies' land is burning.
+
+On Anthropic's listing: Anthropic is expected to list in November. This week brought its draft safety bill, reports of strained cloud partnerships, and a new Singapore office with nine local roles.
+
+Apple closed at 339.50, down 1.0 percent.
+
+Alphabet closed at 340.28, down 1.1 percent.
+
+DBS Group closed at 74.43, down 0.0 percent.
+
+In The week in five: Haze returned and the government went after the companies behind it. Jio Platforms opened India's largest ever IPO. Anthropic spent the week preparing the ground for its listing.
+
+In The week ahead: Jio Platforms' IPO closes and allotments follow. Haze readings, and whether the N95 stockpile holds. Anthropic's listing timetable and any pricing range.
+
+In Apple: Apple revokes eight web certificates scammers could abuse, but Macs may still trust them. iPhone Duo review: a compact foldable that changes the iPhone shape. Loop Capital drops Apple to Hold on weaker iPhone outlook.
+
+In Singapore: Why Singapore finds it hard to pin haze fires on specific companies. MOH releases its N95 mask stockpile to help retailers meet haze demand. COE premiums climb again in first tender after the system review was announced.
+
+In India: Jio Platforms opens bidding for a US$3.2 billion IPO. SBI confirms 3,897 customer records surfaced on the dark web. Delhi Police seek a three-day custody extension for two CJP leaders.
+
+In World: Russia frees US citizen Stephen Hubbard as a Trump envoy meets Putin. France argues over who is to blame for some of its worst urban unrest in decades. Musk confirms Tesla and SpaceX are weighing a merger.
+
+Today's explainer, What an inference engine does, and why DeepSeek gave one away. Training a model is the expensive part everyone talks about. Serving it, which is called inference, is the part that costs money every single day. An inference engine is the software that takes a trained model and answers requests as cheaply and quickly as possible: it batches many users' prompts together, keeps the right numbers in the right memory, and skips work it can predict. DeepSeek's DeepInfer is that software for its own models, released free under an open licence. Two things make that interesting. It runs on Huawei's Ascend chips as well as Nvidia's, which makes Chinese hardware a little more usable for everyone. And it pushes down the price of serving open models, which is the fight DeepSeek wants: if open models are cheap to run, closed rivals have to compete on something other than cost. For a product person the takeaway is simple: model quality gets the headlines, but serving cost decides what you can afford to ship.
+
+In AI startups in Singapore and Southeast Asia: Genie Health, from ex-PropertyGuru CEO Hari Krishnan, raises US$3 million seed. Moonshot AI, maker of Kimi, appears to be setting up in Singapore.
+
+In AI worldwide: DeepSeek open-sources an internal framework for running models cheaply. Google joins Amazon in helping PyTorch developers leave Nvidia GPUs. OpenAI will sell its top models on Google Cloud.
+
+That's the brief. Links are in the email.

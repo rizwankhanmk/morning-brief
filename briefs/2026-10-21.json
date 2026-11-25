@@ -16,6 +16,22 @@
   ],
   "lede": "Singapore is dealing with haze and showers while the government puts S$45 million behind factory AI, Jio's record IPO opens for bidding in India, and Anthropic's compute and policy moves keep making news ahead of its November listing.",
   "today": "Bidding opens for Jio Platforms' US$3.2 billion IPO, and the N95 mask stockpile reaches supermarket shelves as the haze continues.",
+  "threads": [
+    {
+      "id": "haze-2026",
+      "title": "The haze",
+      "started": "2026-10-14",
+      "day": 8,
+      "status": "Smoke from Sumatra fires has kept the PSI in the unhealthy range on and off for a week. The health ministry has released its N95 stockpile to retailers, and the government is pressing Indonesia over which companies' land is burning."
+    },
+    {
+      "id": "anthropic-ipo",
+      "title": "Anthropic's listing",
+      "started": "2026-10-16",
+      "day": 6,
+      "status": "Anthropic is expected to list in November. This week brought its draft safety bill, reports of strained cloud partnerships, and a new Singapore office with nine local roles."
+    }
+  ],
   "stocks": [
     {
       "ticker": "AAPL",
@@ -59,7 +75,70 @@
     }
   ],
   "stocks_note": "Latest completed closes: New York, Tuesday 20 October (AAPL, GOOGL) and SGX, Tuesday 20 October (DBS), via Yahoo Finance. No earnings dates turned up in today's sources.",
+  "applied": [
+    "more Singapore business, as you asked on Monday"
+  ],
   "sections": [
+    {
+      "title": "The week in five",
+      "subtitle": "Fridays: the five stories that mattered this week",
+      "items": [
+        {
+          "headline": "Haze returned and the government went after the companies behind it",
+          "summary": "After a short respite the smoke came back over Singapore, PSI readings spent several days in the unhealthy range, and the health ministry pushed its N95 stockpile to retailers. Ministers said publicly that they are pressing Indonesia over which firms' concessions are burning, a harder line than in past haze seasons.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/environment/why-is-it-hard-for-singapore-to-pin-haze-fires-on-specific-companies"
+        },
+        {
+          "headline": "Jio Platforms opened India's largest ever IPO",
+          "summary": "Reliance's digital arm opened bidding for a US$3.2 billion listing, the biggest in Indian history, with retail investors allotted a large tranche. Demand on the first day was strong despite a soft week for the Sensex, and the pricing sets a marker for every other Indian tech company thinking about going public.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/jio-platforms-opens-bidding-for-us32b-ipo"
+        },
+        {
+          "headline": "Anthropic spent the week preparing the ground for its listing",
+          "summary": "A draft federal safety bill, a Singapore office with nine roles, and reports of friction with its cloud partners all landed in five days. Taken together they read as a company shaping the regulatory and operational story investors will hear in November, with compute supply the open question.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+        },
+        {
+          "headline": "Russia freed Stephen Hubbard as talks with Washington resumed",
+          "summary": "The 74-year-old teacher walked free in St Petersburg while envoy Steve Witkoff met Vladimir Putin, with no prisoner swap. Trump said he asked for it personally. It is the second American released in two months and came as both sides said technical talks on Ukraine would continue.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o"
+        },
+        {
+          "headline": "Open models got cheaper to run, from both sides of the Pacific",
+          "summary": "DeepSeek open-sourced its inference engine, Google and Amazon shipped tools to move PyTorch code off Nvidia GPUs, and OpenAI put its models on Google Cloud. Different motives, same effect: the cost of serving a model is falling faster than the cost of training one, and Nvidia's software moat is being tested.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals"
+        }
+      ]
+    },
+    {
+      "title": "The week ahead",
+      "subtitle": "Sundays: what to watch in the coming days",
+      "items": [
+        {
+          "headline": "Jio Platforms' IPO closes and allotments follow",
+          "summary": "Bidding for the US$3.2 billion listing runs through the week, with allotment and the listing date to follow. Watch the subscription multiple on the final day; it will set the tone for the other Indian tech IPOs queued behind it, and for how retail investors feel about the Sensex after a soft week.",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/jio-platforms-opens-bidding-for-us32b-ipo"
+        },
+        {
+          "headline": "Haze readings, and whether the N95 stockpile holds",
+          "summary": "The NEA's daily PSI forecast is the number to check each morning. The health ministry said masks would reach all major supermarkets progressively; if shelves empty again this week, expect pressure for a second release and more detail on which Indonesian concessions are burning.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/10/moh-releases-n95-masks-stockpile/"
+        },
+        {
+          "headline": "Anthropic's listing timetable and any pricing range",
+          "summary": "With a November debut expected, a public filing or price range could land any day. The things to read in it: the size of the compute commitments to Google and Amazon, how much revenue runs through those two partners, and whether the Singapore office appears in the regional plans.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+        }
+      ]
+    },
     {
       "title": "Apple",
       "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
@@ -94,7 +173,8 @@
               "headline": "Loop Capital drops Apple to Hold on weaker iPhone outlook",
               "summary": "The analyst firm cut Apple from Buy to Hold, arguing the company is unlikely to recover an estimated 13 million iPhone units trimmed from its second-half 2026 plans. The call is relayed through an Investing.com report.",
               "source": "MacRumors",
-              "url": "https://www.macrumors.com/2026/10/21/loop-capital-cuts-apple-rating-over-iphone-sales-outlook/"
+              "url": "https://www.macrumors.com/2026/10/21/loop-capital-cuts-apple-rating-over-iphone-sales-outlook/",
+              "why": "You hold AAPL: one analyst downgrade on iPhone outlook, two weeks before results."
             },
             {
               "headline": "UK regulator proposes easing the way for Apple Pay rivals",
@@ -114,13 +194,16 @@
           "headline": "Why Singapore finds it hard to pin haze fires on specific companies",
           "summary": "Enforcement of the haze law is held back by cross-border investigations and the difficulty of gathering evidence. Experts discuss how the law could be strengthened as smoke from the region returns to Singapore skies this week.",
           "source": "Straits Times",
-          "url": "https://www.straitstimes.com/singapore/environment/why-is-it-difficult-to-identify-companies-linked-to-fires-how-can-spores-haze-law-be-strengthened"
+          "url": "https://www.straitstimes.com/singapore/environment/why-is-it-difficult-to-identify-companies-linked-to-fires-how-can-spores-haze-law-be-strengthened",
+          "thread": "haze-2026"
         },
         {
           "headline": "MOH releases its N95 mask stockpile to help retailers meet haze demand",
           "summary": "The Ministry of Health has opened up its stock of N95 or equivalent masks so retailers can keep up with public demand during the haze. Pet owners are also seeing effects, with some vets reporting up to 15 per cent more eye and breathing cases.",
           "source": "Mothership",
-          "url": "https://mothership.sg/2026/10/moh-releases-n95-masks-stockpile-haze/"
+          "url": "https://mothership.sg/2026/10/moh-releases-n95-masks-stockpile-haze/",
+          "thread": "haze-2026",
+          "why": "Worth a box of N95s at home before the shelves clear again."
         },
         {
           "headline": "COE premiums climb again in first tender after the system review was announced",
@@ -133,12 +216,6 @@
           "summary": "The new money builds on the S$125 million used in 2023 to set up the Coastal Protection and Flood Management Research Programme. It extends work on defending a low-lying island against rising seas and heavier rain.",
           "source": "Straits Times",
           "url": "https://www.straitstimes.com/singapore/environment/singapore-invests-another-135m-for-coastal-protection-flood-resilience-research"
-        },
-        {
-          "headline": "Police: at least S$83,000 lost to fake Simba telco websites since March",
-          "summary": "Police say at least 62 people have lost a combined S$83,000 since March to fake Simba sites that bought sponsored search results above the real one. Victims typed in card details and approved one-time passwords, then found unauthorised charges. The advice: type the official address rather than clicking the top ad.",
-          "source": "Straits Times",
-          "url": "https://www.straitstimes.com/singapore/at-least-83000-lost-in-phishing-scams-linked-to-fake-simba-websites-since-march-police"
         }
       ]
     },
@@ -163,12 +240,6 @@
           "summary": "Delhi Police asked a court on Wednesday for three more days of judicial custody for Saurav Das and Ashutosh Ranka, among 14 people detained on 13 October after allegedly entering Jantar Mantar a day after it was denotified as a protest site. The two had earlier withdrawn a High Court challenge to a two-day extension.",
           "source": "The Hindu",
           "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-seeks-3-day-custody-extension-of-cjp-leaders-das-ranka/article71607464.ece"
-        },
-        {
-          "headline": "Bengaluru-Mumbai Vande Bharat sleeper may launch on 1 November",
-          "summary": "The 16-coach train, built for up to 160 kmph and routed through Pune and Solapur, could cut the overnight journey from about 24 hours to 16. Fares are reported to range from Rs 2,600 to Rs 4,250 depending on class, roughly a fifth above the Rajdhani, with a 1 November start still to be confirmed.",
-          "source": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/bengaluru-mumbai-vande-bharat-sleeper-train-may-launch-on-november-1-journey-time-may-fall-from-24-hours-to-16-and-fares-could-range-from-rs-2600-to-rs-4250/articleshow/135085906.cms"
         },
         {
           "headline": "Tamil Nadu on alert as a new Bay of Bengal system keeps heavy rain going until 26 October",
@@ -201,18 +272,26 @@
           "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o"
         },
         {
-          "headline": "Sudan army drone strikes reportedly kill more than 300 people",
-          "summary": "Two army drone strikes in West Kordofan and the disputed Abyei area are reported to have killed more than 300 people in total. One hit people boarding a truck after a funeral near al-Dabab, the other a market the army says supplies fuel to the RSF. The tolls come from local sources and neither side has given its own account.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo"
-        },
-        {
           "headline": "Iran's enriched uranium resurfaces as a sticking point in talks with the US",
           "summary": "Tehran insists enrichment is its right under the Non-Proliferation Treaty, while Washington wants a meaningful cut in capacity and part of the stockpile moved abroad. Iran calls the material a national asset but has not ruled out diluting it at home under monitors. The IAEA's last estimate was about 440 kg enriched to 60 percent.",
           "source": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks"
         }
       ]
+    },
+    {
+      "title": "Explainer",
+      "subtitle": "One idea from today's news, in plain words",
+      "brief": {
+        "label": "What an inference engine does, and why DeepSeek gave one away",
+        "summary": "Training a model is the expensive part everyone talks about. Serving it, which is called inference, is the part that costs money every single day. An inference engine is the software that takes a trained model and answers requests as cheaply and quickly as possible: it batches many users' prompts together, keeps the right numbers in the right memory, and skips work it can predict.\nDeepSeek's DeepInfer is that software for its own models, released free under an open licence. Two things make that interesting. It runs on Huawei's Ascend chips as well as Nvidia's, which makes Chinese hardware a little more usable for everyone. And it pushes down the price of serving open models, which is the fight DeepSeek wants: if open models are cheap to run, closed rivals have to compete on something other than cost.\nFor a product person the takeaway is simple: model quality gets the headlines, but serving cost decides what you can afford to ship.",
+        "sources": [
+          {
+            "name": "South China Morning Post",
+            "url": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals"
+          }
+        ]
+      }
     },
     {
       "title": "AI in Singapore",
@@ -302,7 +381,10 @@
               "headline": "Anthropic's cloud partnerships are reportedly getting messy before its November IPO",
               "summary": "Google, Amazon and Microsoft increasingly see Anthropic as a competitor, and the company says they have not supplied all the compute it asked for even as its infrastructure bill balloons. Nearly half its sales last year ran through Amazon and Google, a dependence that investors will be weighing ahead of next month's listing.",
               "source": "TechCrunch",
-              "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+              "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+              "thread": "anthropic-ipo",
+              "confidence": "single-source",
+              "counter": "Anthropic's own filing frames the same facts as planned capacity growth rather than a shortfall."
             }
           ]
         },
@@ -313,7 +395,9 @@
               "headline": "Anthropic pitches an AI safety bill with a judge-approval step",
               "summary": "Anthropic's draft federal bill, first reported by Politico, would let the government block a frontier model only for a foreseeable, imminent risk of more than US$1 billion in damage or 50 or more deaths, and only after the Commerce Department persuades a judge in Washington. No agency could act alone. Critics say the bar is far too high.",
               "source": "TechCrunch",
-              "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+              "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+              "thread": "anthropic-ipo",
+              "why": "AI governance is on your course list; this bill is the clearest current example of industry drafting its own rules."
             },
             {
               "headline": "China sets up a state-owned firm in Xiongan to manage national data for AI",
@@ -325,7 +409,8 @@
               "headline": "Alibaba says chips using its RISC-V design have shipped more than 6 billion units",
               "summary": "Damo Academy's chief scientist told the RISC-V Summit in Shenzhen that chips built on its XuanTie designs have passed six billion cumulative units, a company-reported figure. It also unveiled the E908A automotive core with ASIL-D safety support and promised a C950A chip for autonomous driving by the end of 2027.",
               "source": "South China Morning Post",
-              "url": "https://www.scmp.com/tech/big-tech/article/3371402/alibabas-risc-v-ip-powers-over-6-billion-shipped-chips-tech-giant-targets-ai-autos"
+              "url": "https://www.scmp.com/tech/big-tech/article/3371402/alibabas-risc-v-ip-powers-over-6-billion-shipped-chips-tech-giant-targets-ai-autos",
+              "confidence": "single-source"
             }
           ]
         }

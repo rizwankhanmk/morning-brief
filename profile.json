@@ -1,0 +1,17 @@
+{
+  "_note": "Who the brief is for. The run reads this to write the 'For you' lines, the Today line and the stocks note. Edit freely; keep it short. Nothing here is sent anywhere except into your own brief.",
+  "name": "Rizwan",
+  "based_in": "Singapore",
+  "family_in": "Navi Mumbai, India",
+  "doing": "Master of Business in AI at Singapore Management University, graduating 2026",
+  "goals": [
+    "Land an AI role in Singapore after graduation (product, strategy or applied AI; labs, big tech and well-funded startups)",
+    "Follow how AI policy and chips shape Singapore's position between the US and China",
+    "Keep up with Apple's platform and product moves"
+  ],
+  "holdings": ["AAPL", "GOOGL", "DBS"],
+  "watchlist": ["Anthropic", "Nvidia", "Grab", "Sea Group", "DeepSeek"],
+  "course_topics": ["LLM applications", "AI product management", "AI governance and risk", "data strategy"],
+  "likes": ["specific numbers", "what changed since yesterday", "why it matters for Singapore"],
+  "dislikes": ["rumours presented as news", "filler", "stories repeated day after day without anything new"]
+}

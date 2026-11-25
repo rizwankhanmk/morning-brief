@@ -2,7 +2,11 @@
 
 A Claude scheduled task that emails me a morning brief every day and archives each issue in this repo.
 
-Each issue has: today's weather for Singapore and Navi Mumbai, a one-line "today" of what to watch, AAPL, GOOGL and DBS closing prices with the STI and S&P 500, a paragraph on what Apple announced plus two stories each from 9to5Mac and MacRumors, five Singapore stories, five from India, five from the rest of the world, a paragraph on AI in Singapore, eight AI stories from around the world grouped into models and products, money, and policy and chips, and on Mondays a roundup of AI startups in Singapore and Southeast Asia. Every story is a 3 to 5 line summary with the source name as a link.
+Each issue has: the weather for Singapore and Navi Mumbai, a one-line "today" of what to watch, a "still developing" strip for running stories, AAPL, GOOGL and DBS closes with the STI and S&P 500, Apple news, four stories each from Singapore, India and the world, a daily explainer that teaches one idea from the news, a paragraph on AI in Singapore, and eight AI stories from around the world. Weekends are lighter. Mondays add a startups roundup, Fridays open with the week in five, Sundays with the week ahead. Up to three items a day carry a "for you" line drawn from `profile.json`; shaky items carry a confidence tag.
+
+You steer it by replying to any issue: "more India business", "follow Zhipu", "stop the Apple rumours", "less World". The next run reads replies and applies them.
+
+Every issue is also written as a six-line chat digest and a two-minute spoken script, and the `briefs` branch carries `docs/index.html`, a searchable archive with thread timelines and price charts.
 
 The design never changes between issues: it lives in `template.html`, and `build.py` only fills in the content.
 
@@ -44,7 +48,11 @@ Then check your inbox, and look for the `briefs` branch on GitHub.
 
 ## How a run works
 
-`fetch.py` pulls the weather, the five quotes and every feed in one call and prints a digest. The model reads that digest, picks the stories, reads only those article pages (`fetch.py article`), writes the day's JSON, builds, archives and sends. That keeps a run to roughly 15 tool calls and a few minutes.
+`fetch.py` pulls the weather, the five quotes and every feed in one call and prints a digest. The run reads your replies and the memory files from the `briefs` branch, picks the stories from the digest, reads only those article pages (`fetch.py article`), writes the day's JSON plus `threads.json` and `preferences.json`, builds, prunes, rebuilds the archive page, pushes and sends. About 15 to 20 tool calls.
+
+## The archive page
+
+`docs/index.html` on the `briefs` branch is a single file with every issue of the last month, full-text search, the running threads and price charts. Open it from a local clone, or turn on GitHub Pages for the `briefs` branch with `/docs` as the folder (GitHub Pages on a private repository needs a paid GitHub plan; the file works fine opened locally).
 
 ## How a run protects itself
 
@@ -58,7 +66,7 @@ The top line shows today's high and low for Singapore and Navi Mumbai with a wea
 
 ## Changing the design or the rules
 
-Edit `template.html` (and the few colour tokens at the top of `build.py` if you change colours), run `python3 build.py briefs/2026-10-21.json`, open the HTML, and commit to `main`. The next run picks it up. The content rules are in `PROMPT.md` and `CLAUDE.md`; the expected counts and word ranges are near the top of `build.py`.
+Edit `profile.json` to change what the "for you" lines and the Today line pay attention to. Edit `template.html` (and the few colour tokens at the top of `build.py` if you change colours), run `python3 build.py briefs/2026-10-21.json`, open the HTML, and commit to `main`. The next run picks it up. The content rules are in `PROMPT.md` and `CLAUDE.md`; the expected counts and word ranges are near the top of `build.py`.
 
 ## Where things land
 
