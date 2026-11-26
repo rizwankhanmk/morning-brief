@@ -1,0 +1,181 @@
+MORNING BRIEF, Friday, 27 November 2026
+
+🌧️ Singapore: 31° / 24°
+☀️ Navi Mumbai: 34° / 22°
+
+A wet Friday in Singapore as Nvidia pauses server shipments to the Republic and three neighbours, Singapore pushes back on Washington's claim that CPF savings feed excess capacity, and India calls a special Parliament sitting for its delimitation bill.
+Today: India's Cabinet meets to clear the amended Delimitation Bill, Apple's four-day Black Friday gift card offer starts, and Wall Street reopens for a shortened post-Thanksgiving session.
+
+STILL DEVELOPING
+Chip curbs reach Southeast Asia (day 3): US rules now cover who uses AI chips in regional data centres, not just where they ship. Washington moved to blacklist Singapore's Megaspeed, Singapore says it is cooperating on enforcement, and Nvidia has paused server shipments to Singapore, Malaysia, Thailand and Indonesia for an unspecified period.
+US excess-capacity tariffs (day 3): Washington has proposed extra tariffs of up to 20 per cent on 14 economies, Singapore among the highest, and 17 per cent on India. Singapore rejects the findings, including the claim that CPF savings suppress consumption, and will argue its case before the 25 January hearings.
+Nvidia after Huang's return (day 3): Jensen Huang is back as chief executive and S&P has Nvidia's AA rating under review over governance. US officials now say they found no firm proof Alice Huang spied for Beijing, while Nvidia is tightening checks on its Southeast Asian partners.
+India's delimitation bill (day 2): Parliament sits from 30 November to 3 December to take up an amended delimitation bill, reportedly with 50 per cent more Lok Sabha seats and a women's quota by 2029. The opposition, which defeated the earlier version in April, now has fewer seats after defections.
+
+AAPL  US$355.58  +1.51 (+0.43%)
+GOOGL  US$273.10  -5.95 (-2.13%)
+DBS  S$65.85  +0.41 (+0.63%)
+STI  4,962.64  +31.81 (+0.65%)
+S&P 500  7,182.78  -18.31 (-0.25%)
+US markets were shut on Thursday for Thanksgiving, so AAPL, GOOGL and the S&P 500 still show Wednesday 25 November's close; DBS and the STI are Thursday 26 November closes on SGX. Taken from StockAnalysis and Investing.com because Yahoo was rate-limited again. No earnings dates for your holdings turned up.
+
+THE WEEK IN FIVE
+
+Nvidia took Jensen Huang back, then had to answer for it
+Huang returned as chief executive on Monday and the shares jumped about 30 per cent, then gave much of it back. S&P has put Nvidia's AA rating under review over board independence and key man risk, and US officials now say they found no firm proof Alice Huang was spying for Beijing.
+Source: TechCrunch — https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/  [Part of: Nvidia after Huang's return]
+
+Washington proposed new tariffs, with Singapore in the top band
+After its Section 301 probe into excess capacity, the US proposed extra levies of up to 20 per cent on 14 economies, Singapore included, and 17 per cent on India. Singapore called the findings wrong and said it was very disappointed. Hearings are set for 25 January, so nothing bites before February.
+Source: CNA — https://www.channelnewsasia.com/singapore/singapore-us-tariffs-meti-trump-6583911  [Part of: US excess-capacity tariffs]
+
+Anthropic listed, rose 17 per cent, then slipped below its offer price
+Anthropic's Nasdaq debut last Friday closed about 17 per cent up, and its founders sold close to US$2 billion of shares. By Tuesday the stock had fallen below its US$83 offer price as the AI sell-off spread, a cooler reception that other AI firms planning listings will be watching.
+Source: TechCrunch — https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
+
+Singapore and China deepened ties as Washington leaned harder
+Leaders agreed last Friday to start talks on upgrading the bilateral free trade agreement, and this week's top-level council signed 29 deals, a recent high. The same week brought US tariffs and chip pressure, which shows how carefully Singapore is balancing between its two largest partners.
+Source: Straits Times — https://www.straitstimes.com/singapore/singapore-china-reach-29-deals-at-top-bilateral-forum
+
+Chip export rules started to land on Singapore directly
+The US moved to blacklist Singapore's Megaspeed over Nvidia chip flows, PM Wong said Singapore is working with Washington on enforcement, and Nvidia has now paused server shipments to Singapore, Malaysia, Thailand and Indonesia while it checks who is using the chips.
+Source: BBC News — https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo  [Part of: Chip curbs reach Southeast Asia]
+
+APPLE
+
+From Apple
+The Newsroom has posted nothing in the past three days. Apple has announced Apple Kukatpally, its first Hyderabad store and seventh in India, opening on 10 December at 5pm, with a wallpaper and playlist to mark it. Its Black Friday gift card offer runs from 27 to 30 November, adding a US$25 card on some third-party accessories for the first time.
+Sources: MacRumors https://www.macrumors.com/2026/11/25/apple-store-kukatpally-hyderabad-india/
+
+9to5Mac
+
+South Korea's competition regulator moves to formal proceedings over Apple Intelligence ads
+The Fair Trade Commission's investigators say Apple's iPhone 16 marketing concealed or downplayed that features such as personal-context Siri, Genmoji and Image Playground would arrive late. Their findings now go to the full commission. Apple has already settled a US$250 million class action in America and faced scrutiny in Brazil over the same campaign.
+Source: 9to5Mac — https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads/
+
+Judge orders Apple to hand Epic a sample of 3,200 withheld documents
+Epic says Apple held back more than 122,000 documents about how it set its proposed 5 to 15 per cent commission on outside payments, producing only 632. Apple says the agreed search terms swept in tax, medical and product secrets. The court's compromise is a random sample of 3,200 for Epic to review.
+Source: 9to5Mac — https://9to5mac.com/2026/11/26/judge-orders-apple-to-produce-3200-documents-in-epic-games-dispute/
+
+MacRumors
+
+iPhone tops China's Singles' Day sales even as the market shrinks
+Counterpoint says Apple led China's smartphone sales over the Singles' Day period although its sales fell 8 per cent, against a 17 per cent drop for the whole market. Six of the ten bestsellers were iPhones, led by the 18 Pro Max. Huawei was the only big brand to grow, up 29 per cent.
+For you: You hold AAPL: China share held up, but Huawei's 29 per cent growth is the number to watch next quarter.
+Source: MacRumors — https://www.macrumors.com/2026/11/26/iphones-dominate-china-singles-day-sales/
+
+Kodak-branded SlideTag puts a colour E Ink photo screen on a Find My tracker
+Licensee Reto's US$34.99 SlideTag works with Apple's Find My and Google's Find Hub and shows up to 12 photos on a 1.54-inch colour E Ink screen. It is larger than an AirTag, lacks Ultra Wideband precision finding and is only splash resistant. Designs are sold blind, as collectibles.
+Source: MacRumors — https://www.macrumors.com/2026/11/26/kodak-launches-airtag-rival/
+
+SINGAPORE
+
+DPM Gan says CPF does not hold down spending, and the US tariff case surprised him
+Washington's report cited financial repression and savings promotion as reasons for its proposed 20 per cent levy on Singapore. Gan Kim Yong said CPF exists because of an ageing population and no natural resources, pointed to CDC vouchers as proof Singapore encourages spending, and said Singapore must explain the scheme to the US.
+For you: Tariffs over savings policy put Singapore's trade-hub role between the US and China under direct pressure.
+Counter-view: Analysts quoted by CNA expect limited near-term impact, since the rate is not final and some products may be excluded.
+Source: CNA — https://www.channelnewsasia.com/singapore/us-singapore-trump-tariffs-cpf-scheme-dpm-gan-6584361  [Part of: US excess-capacity tariffs]
+
+Rajah & Tann fined S$247,000 after staff brushed off breach warnings
+The privacy regulator says the law firm's cybersecurity manager dismissed three vendor alerts in July 2023, mistaking an attacker's data transfer for testing and backups. Personal data of more than 100,000 people was stolen, including NRIC numbers, bank details and insurance information. The fine was cut from S$317,000.
+Source: Straits Times — https://www.straitstimes.com/singapore/top-law-firm-rajah-tann-fined-247k-for-data-breach-cybersecurity-staff-brushed-off-warnings
+
+Families with several problems will get one caseworker and one plan from 2029
+The social and family ministry accepted all 19 recommendations of its family services review. Nine programmes covering family support, domestic violence and youth offending will merge into a One Family Service across seven regions, starting with three in 2029. About one in five families now deals with more than one programme.
+Source: Straits Times — https://www.straitstimes.com/singapore/community/one-stop-social-service-model-to-be-introduced-from-2029-msf
+
+IC address stickers will show the full NRIC number from 1 December
+ICA says partial NRIC numbers are not reliable for telling people apart, so new and replacement address stickers will carry the full number, letting it be matched against the card. Existing stickers stay valid. It is part of the government's wider move away from masked NRIC numbers.
+Source: Straits Times — https://www.straitstimes.com/singapore/full-nric-number-to-be-displayed-on-address-stickers-from-dec-1-ica
+
+INDIA
+
+Parliament recalled from 30 November to pass an amended delimitation bill
+Lok Sabha sits from 30 November and Rajya Sabha from 2 December, both ending 3 December, 104 days after the monsoon session adjourned. The Cabinet clears the bill today; reported changes include 50 per cent more Lok Sabha seats and the 1971 census freeze extended 25 years. Congress calls it an assault on the Constitution.
+Source: The Hindu — https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece  [Part of: India's delimitation bill]
+
+Supreme Court gives FSSAI four months to bring in front-of-pack warning labels
+The court told the food regulator to frame rules within four months, after which companies get a year to comply. Packs high in sugar, saturated fat or salt will carry red hexagonal warnings. The bench criticised the regulator's reluctance and called unhealthy packaged food part of a public health crisis.
+Source: Times of India — https://timesofindia.indiatimes.com/india/supreme-court-sets-timer-for-fssai-companies-to-implement-warning-labels/articleshow/136203147.cms
+
+Pension and health cover for 1.5 million gig workers expected by year end
+The government is likely to announce a pension, health insurance, maternity benefits and life and disability cover for gig workers registered on the e-Shram portal, covering staff of Swiggy, Zomato, Uber and others. One funding model under discussion has platforms paying 2 per cent of turnover into the fund.
+Source: Times of India — https://timesofindia.indiatimes.com/india/pension-insurance-for-15-lakh-gig-workers-likely-by-year-end/articleshow/136203177.cms  [Single source]
+
+Supreme Court quashes Bihar's early release of former MP Anand Mohan
+Bihar had changed its prison rules to drop a bar on remission for those convicted of killing a public servant, clearing the way for Anand Mohan's release in the 1994 lynching of district magistrate G Krishnaiah. The court struck down the amendment, calling the state's move illegal.
+Source: Times of India — https://timesofindia.indiatimes.com/india/bihar-move-illegal-says-supreme-court-quashes-premature-release-of-former-mp-anand-mohan/articleshow/136205451.cms
+
+WORLD
+
+Two Italian technicians killed in a drone strike in Kuwait that Iran denies
+The pair worked for Rheinmetall at an air defence station. Kuwait and Italy blame Iranian drones, and Italy says the drone was Iranian-made. Iran's foreign minister called the incident suspicious and offered to help investigate. It follows Iranian drone attacks on a Kuwaiti airbase hosting US forces a week ago.
+Source: BBC News — https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o  [Contested]
+
+EU leaders clash over a 45 billion euro Ukraine loan at budget summit
+Germany's Friedrich Merz wants all 27 members to back the 2027 loan and has threatened to veto the next seven-year budget otherwise. Slovakia, Hungary and Czechia want to opt out. Berlin is also trying to shield future Ukraine funding from a possible Marine Le Pen presidency in France next year.
+Source: The Guardian — https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks
+
+UK net migration falls to 77,000, lowest since 1997 outside the pandemic
+Official figures for the year to June show 738,000 arrivals and 661,000 departures, down from a 944,000 peak in 2023. Tighter rules on care workers, family reunion and student sponsorship drove the drop. Indians were still the most common nationality among new arrivals.
+Source: The Guardian — https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic
+
+Trump calls pre-election growth figures fake after an upward revision
+The Commerce Department revised third-quarter growth up to 4.3 per cent from 3.4 per cent. Trump, whose party lost heavily on 3 November, said without evidence the earlier number was a purposeful error and demanded an investigation. Such revisions are routine and scheduled; the average gap is about half a percentage point.
+Source: Al Jazeera — https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation
+
+EXPLAINER
+
+What an end-user export control is, and why it reached Singapore
+Most export controls are about destinations: you may not ship this chip to that country. An end-user control goes further and asks who actually uses the chip, wherever it sits. That matters for AI because computing power can be rented remotely. A Chinese company does not need Nvidia servers in Shanghai if it can log into a data centre in Johor or Singapore.
+That was the gap. One think tank estimates remote data centres like these supply about a quarter of China's AI computing power. Earlier this month the US Commerce Department extended its rules to cover the users of advanced computing in cloud and colocation facilities, not just where hardware is shipped. Nvidia has now told Dell, Super Micro and others to pause server shipments to Singapore, Malaysia, Thailand and Indonesia while it checks whether its regional partners comply.
+For Singapore the cost is real: data centres and cloud are part of its pitch as a neutral hub, and know-your-customer checks on compute buyers now become part of doing that business.
+The takeaway for AI governance: control is moving from the box to the account.
+Sources: TechCrunch https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/; Tech in Asia https://www.techinasia.com/news/nvidia-halts-server-shipments-sea-curbs
+
+AI IN SINGAPORE
+
+Nvidia has paused server shipments to Singapore and three neighbours while it checks compliance with US rules, a blow to local data centre plans. Singtel will be the first private firm to use the GovTech and JTC platform that lets robots and AI agents work with building systems, at its new One Comcentre. Chingay 2027 floats and music were co-created with AI tools.
+Sources: Mothership https://mothership.sg/2026/11/nvidia-shipments-halt/; Straits Times https://www.straitstimes.com/tech/govtech-jtc-system-to-enable-secure-robot-operations-at-revamped-singtel-comcentre; Straits Times https://www.straitstimes.com/singapore/community/singaporeans-co-create-chingay-2027-floats-costumes-and-music-with-help-from-ai-tools
+
+AI WORLDWIDE
+
+Models and products
+
+Nothing's Ear Note earbuds record, transcribe and summarise conversations
+The London company's new buds, out on 8 December, record calls while the charging case records meetings and produces AI transcripts and summaries through an app. Carl Pei calls it a first step toward a hardware context layer for AI. It joins a growing field of note-taking gadgets from Amazon's Bee to Plaud.
+Source: The Verge — https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal
+
+Google patent describes AI-generated video feeds starring the viewer
+A rejected Google patent called My Channel would use viewing history, location and demographic data to prompt a model to generate personalised videos and ads, even casting a digital avatar of the user as the lead. Google could appeal or refile. It shows where personalised generative media could head, and the privacy questions with it.
+Source: The Verge — https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent
+
+Researcher says MiniMax opened links in messages users sent it
+A security researcher flagged unauthorised access to data sent to the Chinese AI company MiniMax, whose Talkie app Apple just removed. MiniMax says its security system stored links from messages passed through other providers and opened some to scan them for threats. The details rest on the feed summary so far.
+Source: Tech in Asia — https://www.techinasia.com/news/researcher-flags-unauthorized-access-data-minimax  [Unverified]
+
+Money
+
+Jack Ma visits Alibaba's T-Head chip unit ahead of its Hong Kong listing
+Alibaba's co-founder made a rare appearance at T-Head on Thursday as the chip unit prepares a closely watched initial public offering in Hong Kong. The visit signals how central home-grown AI chips have become to Alibaba's strategy as Beijing pushes for self-reliance and US curbs tighten.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3375954/alibaba-founder-jack-ma-visits-t-head-chip-unit-self-reliance-gains-urgency  [Unverified]
+
+SoftBank's credit risk climbs as investors question its AI bets
+The cost of insuring SoftBank's debt has risen as investors weigh its heavy exposure to OpenAI and AI infrastructure. Separately, SoftBank and OpenAI agreed to put US$1 billion together into SB Energy, which builds power for data centres. Only the feed summary was available.
+Source: Tech in Asia — https://www.techinasia.com/news/softbanks-credit-risk-rises-as-investors-question-ai-bets  [Unverified]
+
+Policy and chips
+
+UBS expects Chinese chips to take 88 per cent of China's AI market by 2028
+UBS forecasts China's yearly AI accelerator shipments rising almost sixfold between 2025 and 2030 to more than 10 million units, with Cambricon and Biren among the winners as Nvidia's position in China weakens. The forecast is the bank's own and depends on domestic manufacturing keeping up.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount  [Unverified]
+
+Amodei calls claims that Anthropic would hand control to AI absurd
+After Sam Altman and Meta's Alexandr Wang warned against a handover of society to AI, Anthropic's chief executive wrote that governance by AI is a bad idea. He separated automating specific tasks, such as driving or writing software, from giving up human control, and suggested drawing a line at unsupervised recursive self-improvement.
+Source: TechCrunch — https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/
+
+US officials find no firm evidence Alice Huang spied on Nvidia's chief
+A classified review found no proof Beijing directed Alice Huang to spy on Jensen Huang, the Wall Street Journal reported, and officials allowed their relationship may have been genuine. That eases one worry around Huang's return, though records show firms linked to her listed US$270 million of AI servers in China.
+Source: South China Morning Post — https://www.scmp.com/news/world/united-states-canada/article/3375812/us-finds-no-evidence-china-told-tech-exec-spy-nvidias-jensen-huang-report-says  [Unverified; Part of: Nvidia after Huang's return]
+
+Built by your morning-brief agent at 7:20am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.

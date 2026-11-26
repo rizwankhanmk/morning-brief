@@ -1,0 +1,35 @@
+Good morning. This is your brief for Friday, 27 November 2026.
+
+Weather: Singapore 31 and 24 degrees with rain; Navi Mumbai 34 and 22 degrees with sun.
+
+A wet Friday in Singapore as Nvidia pauses server shipments to the Republic and three neighbours, Singapore pushes back on Washington's claim that CPF savings feed excess capacity, and India calls a special Parliament sitting for its delimitation bill.
+
+Today, India's Cabinet meets to clear the amended Delimitation Bill, Apple's four-day Black Friday gift card offer starts, and Wall Street reopens for a shortened post-Thanksgiving session.
+
+On Chip curbs reach Southeast Asia: US rules now cover who uses AI chips in regional data centres, not just where they ship. Washington moved to blacklist Singapore's Megaspeed, Singapore says it is cooperating on enforcement, and Nvidia has paused server shipments to Singapore, Malaysia, Thailand and Indonesia for an unspecified period.
+
+On US excess-capacity tariffs: Washington has proposed extra tariffs of up to 20 per cent on 14 economies, Singapore among the highest, and 17 per cent on India. Singapore rejects the findings, including the claim that CPF savings suppress consumption, and will argue its case before the 25 January hearings.
+
+On Nvidia after Huang's return: Jensen Huang is back as chief executive and S&P has Nvidia's AA rating under review over governance. US officials now say they found no firm proof Alice Huang spied for Beijing, while Nvidia is tightening checks on its Southeast Asian partners.
+
+Apple closed at 355.58, up 0.4 percent.
+
+Alphabet closed at 273.10, down 2.1 percent.
+
+DBS Group closed at 65.85, up 0.6 percent.
+
+In The week in five: Nvidia took Jensen Huang back, then had to answer for it. Washington proposed new tariffs, with Singapore in the top band. Anthropic listed, rose 17 per cent, then slipped below its offer price.
+
+In Apple: South Korea's competition regulator moves to formal proceedings over Apple Intelligence ads. Judge orders Apple to hand Epic a sample of 3,200 withheld documents. iPhone tops China's Singles' Day sales even as the market shrinks.
+
+In Singapore: DPM Gan says CPF does not hold down spending, and the US tariff case surprised him. Rajah & Tann fined S$247,000 after staff brushed off breach warnings. Families with several problems will get one caseworker and one plan from 2029.
+
+In India: Parliament recalled from 30 November to pass an amended delimitation bill. Supreme Court gives FSSAI four months to bring in front-of-pack warning labels. Pension and health cover for 1.5 million gig workers expected by year end.
+
+In World: Two Italian technicians killed in a drone strike in Kuwait that Iran denies. EU leaders clash over a 45 billion euro Ukraine loan at budget summit. UK net migration falls to 77,000, lowest since 1997 outside the pandemic.
+
+Today's explainer, What an end-user export control is, and why it reached Singapore. Most export controls are about destinations: you may not ship this chip to that country. An end-user control goes further and asks who actually uses the chip, wherever it sits. That matters for AI because computing power can be rented remotely. A Chinese company does not need Nvidia servers in Shanghai if it can log into a data centre in Johor or Singapore. That was the gap. One think tank estimates remote data centres like these supply about a quarter of China's AI computing power. Earlier this month the US Commerce Department extended its rules to cover the users of advanced computing in cloud and colocation facilities, not just where hardware is shipped. Nvidia has now told Dell, Super Micro and others to pause server shipments to Singapore, Malaysia, Thailand and Indonesia while it checks whether its regional partners comply. For Singapore the cost is real: data centres and cloud are part of its pitch as a neutral hub, and know-your-customer checks on compute buyers now become part of doing that business. The takeaway for AI governance: control is moving from the box to the account.
+
+In AI worldwide: Nothing's Ear Note earbuds record, transcribe and summarise conversations. Google patent describes AI-generated video feeds starring the viewer. Researcher says MiniMax opened links in messages users sent it.
+
+That's the brief. Links are in the email.

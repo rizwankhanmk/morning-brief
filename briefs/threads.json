@@ -1,28 +1,88 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "threads": [
+    {
+      "id": "sea-chip-curbs",
+      "title": "Chip curbs reach Southeast Asia",
+      "started": "2026-11-24",
+      "last": "2026-11-27",
+      "day": 3,
+      "status": "US rules now cover who uses AI chips in regional data centres, not just where they ship. Washington moved to blacklist Singapore's Megaspeed, Singapore says it is cooperating on enforcement, and Nvidia has paused server shipments to Singapore, Malaysia, Thailand and Indonesia for an unspecified period.",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "note": "US moves to blacklist Singapore's Megaspeed over Nvidia chip flows."
+        },
+        {
+          "date": "2026-11-25",
+          "note": "PM Wong says Singapore is working with Washington on chip export enforcement."
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Nvidia pauses server shipments to Singapore, Malaysia, Thailand and Indonesia."
+        }
+      ]
+    },
     {
       "id": "us-301-tariffs",
       "title": "US excess-capacity tariffs",
       "started": "2026-11-25",
-      "last": "2026-11-26",
-      "day": 2,
-      "status": "Washington has proposed extra tariffs of 15 to 20 per cent on 14 economies after its Section 301 probe, with China, Vietnam and Singapore at the top. India faces 17 per cent, rising to 25 without a trade deal. Hearings are on 25 January, so levies would start around February.",
+      "last": "2026-11-27",
+      "day": 3,
+      "status": "Washington has proposed extra tariffs of up to 20 per cent on 14 economies, Singapore among the highest, and 17 per cent on India. Singapore rejects the findings, including the claim that CPF savings suppress consumption, and will argue its case before the 25 January hearings.",
       "history": [
-        {"date": "2026-11-25", "note": "US said to be preparing tariffs on India and 15 others after its excess-capacity probe."},
-        {"date": "2026-11-26", "note": "USTR proposes 15 to 20 per cent levies; India 17 per cent, Singapore in the top band."}
+        {
+          "date": "2026-11-25",
+          "note": "US said to be preparing tariffs on India and 15 others after its excess-capacity probe."
+        },
+        {
+          "date": "2026-11-26",
+          "note": "USTR proposes 15 to 20 per cent levies; India 17 per cent, Singapore in the top band."
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Singapore says it is very disappointed; DPM Gan rejects the CPF argument."
+        }
       ]
     },
     {
       "id": "nvidia-huang",
       "title": "Nvidia after Huang's return",
       "started": "2026-11-24",
-      "last": "2026-11-26",
-      "day": 2,
-      "status": "Jensen Huang is back as CEO after resigning on 12 November, but the shares have given back much of Monday's rally. S&P now has Nvidia's AA rating under review for weak oversight and no succession plan, which could raise borrowing costs for the AI build-out it guarantees.",
+      "last": "2026-11-27",
+      "day": 3,
+      "status": "Jensen Huang is back as chief executive and S&P has Nvidia's AA rating under review over governance. US officials now say they found no firm proof Alice Huang spied for Beijing, while Nvidia is tightening checks on its Southeast Asian partners.",
       "history": [
-        {"date": "2026-11-24", "note": "Board reinstates Huang as CEO; shares jump about 31 per cent."},
-        {"date": "2026-11-26", "note": "S&P puts Nvidia's AA rating on review over governance and key man risk."}
+        {
+          "date": "2026-11-24",
+          "note": "Board reinstates Huang as CEO; shares jump about 31 per cent."
+        },
+        {
+          "date": "2026-11-26",
+          "note": "S&P puts Nvidia's AA rating on review over governance and key man risk."
+        },
+        {
+          "date": "2026-11-27",
+          "note": "US officials find no firm proof Alice Huang spied for Beijing."
+        }
+      ]
+    },
+    {
+      "id": "india-delimitation",
+      "title": "India's delimitation bill",
+      "started": "2026-11-26",
+      "last": "2026-11-27",
+      "day": 2,
+      "status": "Parliament sits from 30 November to 3 December to take up an amended delimitation bill, reportedly with 50 per cent more Lok Sabha seats and a women's quota by 2029. The opposition, which defeated the earlier version in April, now has fewer seats after defections.",
+      "history": [
+        {
+          "date": "2026-11-26",
+          "note": "Ministers told to stay in India as Parliament may sit before 15 December."
+        },
+        {
+          "date": "2026-11-27",
+          "note": "Special sitting called from 30 November to 3 December for the amended bill."
+        }
       ]
     }
   ],

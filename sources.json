@@ -1,7 +1,10 @@
 {
-  "_note": "RSS/Atom feeds to try first. If a feed fails or returns nothing fresh, fall back to web search for that section. Edit freely.",
+  "_note": "Feeds to try first. If a feed fails or has nothing fresh, use web search for that section. Edit freely; the builder reads outlet_names and outlet_aliases, nothing else.",
+  "recipient": "rizwan.13mk@gmail.com",
   "weather": {
     "api": "https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone={tz}&forecast_days=1",
+    "fallback_api": "https://api.met.no/weatherapi/locationforecast/2.0/compact?lat={lat}&lon={lon}",
+    "fallback_note": "met.no needs a User-Agent header (curl -A 'morning-brief/1.0'). Take the max and min of air_temperature over today's hours in the city's time zone, and the icon from the most common next_6_hours symbol_code in daylight hours. If both APIs fail, web-search '{city} weather today' and read the high, low and sky.",
     "cities": [
       {
         "city": "Singapore",
@@ -26,7 +29,20 @@
       "80-82": "showers",
       "95-99": "thunder"
     },
-    "fallback": "web search '{city} weather today' and read today's high, low and sky",
+    "metno_icon_map": {
+      "clearsky": "sun",
+      "fair": "partly-cloudy",
+      "partlycloudy": "partly-cloudy",
+      "cloudy": "cloudy",
+      "fog": "haze",
+      "lightrainshowers": "showers",
+      "rainshowers": "showers",
+      "lightrain": "showers",
+      "rain": "rain",
+      "heavyrain": "rain",
+      "heavyrainshowers": "rain",
+      "*thunder*": "thunder"
+    },
     "emoji": {
       "sun": "☀️",
       "partly-cloudy": "🌤️",
@@ -35,7 +51,8 @@
       "rain": "🌧️",
       "thunder": "⛈️",
       "haze": "🌫️"
-    }
+    },
+    "_order": "met.no first (reliable from the cloud), Open-Meteo second (shared-IP daily limit is hit most mornings). fetch.py does this automatically."
   },
   "stocks": {
     "tickers": [
@@ -43,13 +60,15 @@
         "display": "AAPL",
         "yahoo": "AAPL",
         "name": "Apple",
-        "currency": "US$"
+        "currency": "US$",
+        "stooq": "aapl.us"
       },
       {
         "display": "GOOGL",
         "yahoo": "GOOGL",
         "name": "Alphabet",
-        "currency": "US$"
+        "currency": "US$",
+        "stooq": "googl.us"
       },
       {
         "display": "DBS",
@@ -59,51 +78,160 @@
       }
     ],
     "yahoo_chart": "https://query1.finance.yahoo.com/v8/finance/chart/{yahoo}?range=5d&interval=1d",
-    "fallback": "web search '{name} stock close' and read the latest regular-session close"
+    "fallback": "web search '{name} stock close' and read the latest regular-session close",
+    "indices": [
+      {
+        "display": "STI",
+        "yahoo": "^STI",
+        "name": "Straits Times Index",
+        "currency": ""
+      },
+      {
+        "display": "S&P 500",
+        "yahoo": "^GSPC",
+        "name": "S&P 500",
+        "currency": "",
+        "stooq": "^spx"
+      }
+    ],
+    "_fallbacks": "fetch.py tries Yahoo query1, then query2 (one retry after a 429), then Stooq daily CSV where a 'stooq' symbol is given. DBS and the STI have no Stooq symbol, so they fall back to web search."
   },
   "apple_official": [
     "https://www.apple.com/newsroom/rss-feed.rss"
   ],
-  "apple_other": [
-    "https://feeds.macrumors.com/MacRumors-All",
-    "https://appleinsider.com/rss/news",
-    "https://www.theverge.com/apple/rss/index.xml"
-  ],
   "apple_9to5mac": [
     "https://9to5mac.com/feed/"
   ],
+  "apple_macrumors": [
+    "https://feeds.macrumors.com/MacRumors-All"
+  ],
   "singapore": [
     "https://www.straitstimes.com/news/singapore/rss.xml",
-    "https://mothership.sg/feed/"
+    "https://mothership.sg/feed/",
+    "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10416"
   ],
   "india": [
     "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
     "https://www.thehindu.com/news/national/feeder/default.rss",
-    "https://feeds.feedburner.com/ndtvnews-top-stories"
+    "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "https://indianexpress.com/section/india/feed/"
   ],
   "world": [
     "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "https://feeds.npr.org/1004/rss.xml",
+    "https://www.theguardian.com/world/rss",
     "https://www.aljazeera.com/xml/rss/all.xml"
   ],
   "ai_singapore": [
-    "https://www.straitstimes.com/tech/rss.xml",
+    "https://www.businesstimes.com.sg/rss/technology",
     "web search: 'Singapore AI' past 2 days"
   ],
-  "ai_singapore_startups": [
+  "ai_startups_sea": [
     "https://www.techinasia.com/feed",
-    "https://e27.co/feed/",
-    "https://www.dealstreetasia.com/feed/",
-    "web search: 'Singapore AI startup raises' past 2 days",
-    "web search: 'Singapore AI startup hiring' past 2 days"
+    "https://vulcanpost.com/feed/",
+    "https://www.businesstimes.com.sg/rss/startups-tech",
+    "web search: 'Singapore AI startup raises' past 7 days",
+    "web search: 'Southeast Asia AI startup Singapore office OR hiring OR launch' past 7 days"
   ],
-  "ai_usa": [
+  "ai_worldwide": [
     "https://techcrunch.com/category/artificial-intelligence/feed/",
     "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-    "https://www.technologyreview.com/feed/"
-  ],
-  "ai_china_world": [
+    "https://www.technologyreview.com/feed/",
     "https://www.scmp.com/rss/36/feed",
-    "web search: 'China AI' past 2 days"
-  ]
+    "https://www.techinasia.com/feed",
+    "web search: 'China AI' past 2 days",
+    "web search: 'AI regulation OR export controls OR data centre' past 2 days"
+  ],
+  "_feed_notes": {
+    "removed": "NPR (403 from the cloud), e27 (403/503), DealStreetAsia (503, paywalled), AppleInsider and The Verge Apple (not used by the prompt). Straits Times tech feed (404 on 8 and 9 Nov) and KrASIA (returned an error page on 9 Nov).",
+    "unverified": "The CNA, Business Times and Indian Express URLs have not been confirmed from a scheduled run yet. Drop any that keep failing.",
+    "techinasia": "Article pages cannot be fetched from the cloud. Use the headline and description in the feed, and confirm details on another outlet or the company's own announcement.",
+    "startups": "The startups section runs on Mondays only, as a weekly roundup of 3 to 5 stories from the past 7 days."
+  },
+  "outlet_names": [
+    "Apple Newsroom",
+    "9to5Mac",
+    "MacRumors",
+    "Straits Times",
+    "Mothership",
+    "CNA",
+    "AsiaOne",
+    "Business Times",
+    "Today",
+    "The Online Citizen",
+    "People Matters",
+    "Times of India",
+    "The Hindu",
+    "NDTV",
+    "Indian Express",
+    "Hindustan Times",
+    "Mint",
+    "Economic Times",
+    "Deccan Herald",
+    "BBC News",
+    "The Guardian",
+    "Al Jazeera",
+    "Reuters",
+    "Associated Press",
+    "NPR",
+    "New York Times",
+    "Washington Post",
+    "Financial Times",
+    "Bloomberg",
+    "Wall Street Journal",
+    "CNBC",
+    "CNN",
+    "Euronews",
+    "TechCrunch",
+    "The Verge",
+    "MIT Technology Review",
+    "Wired",
+    "Ars Technica",
+    "The Information",
+    "Axios",
+    "South China Morning Post",
+    "Tech in Asia",
+    "Vulcan Post",
+    "KrASIA",
+    "e27",
+    "DealStreetAsia",
+    "TechNode",
+    "Nikkei Asia",
+    "Caixin",
+    "Rest of World",
+    "Monetary Authority of Singapore",
+    "Prime Minister's Office",
+    "Enterprise Singapore",
+    "IMDA",
+    "GovTech",
+    "A*STAR"
+  ],
+  "outlet_aliases": {
+    "BBC": "BBC News",
+    "SCMP": "South China Morning Post",
+    "The Straits Times": "Straits Times",
+    "ST": "Straits Times",
+    "The Business Times": "Business Times",
+    "BT": "Business Times",
+    "Channel NewsAsia": "CNA",
+    "channelnewsasia": "CNA",
+    "TOI": "Times of India",
+    "The Times of India": "Times of India",
+    "Guardian": "The Guardian",
+    "FT": "Financial Times",
+    "WSJ": "Wall Street Journal",
+    "NYT": "New York Times",
+    "AP": "Associated Press",
+    "Tech Crunch": "TechCrunch",
+    "MAS": "Monetary Authority of Singapore",
+    "PMO": "Prime Minister's Office"
+  },
+  "today": {
+    "_note": "One sentence under the lede: what to watch today. Sources to try, newest first.",
+    "web_search": [
+      "earnings today OR tomorrow Apple Alphabet DBS Nvidia",
+      "economic calendar today Fed ECB MAS RBI decision",
+      "Singapore today events parliament announcement"
+    ],
+    "calendar": "If a Google Calendar tool is available in the session, include up to two of today's own events by title and time. If it is not available, skip it without comment."
+  }
 }
