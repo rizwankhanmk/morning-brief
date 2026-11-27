@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "threads": [
     {
       "id": "sea-chip-curbs",
       "title": "Chip curbs reach Southeast Asia",
       "started": "2026-11-24",
-      "last": "2026-11-27",
-      "day": 3,
-      "status": "US rules now cover who uses AI chips in regional data centres, not just where they ship. Washington moved to blacklist Singapore's Megaspeed, Singapore says it is cooperating on enforcement, and Nvidia has paused server shipments to Singapore, Malaysia, Thailand and Indonesia for an unspecified period.",
+      "last": "2026-11-28",
+      "day": 4,
+      "status": "US licence rules now cover advanced chips bound for Singapore, Malaysia, Thailand and Indonesia, and Washington moved to blacklist Megaspeed. Reports say Nvidia paused server shipments to the four, but Singapore says that halt is unconfirmed, and chip sellers are refusing neocloud deals tied to China.",
       "history": [
         {
           "date": "2026-11-24",
@@ -20,6 +20,10 @@
         {
           "date": "2026-11-27",
           "note": "Nvidia pauses server shipments to Singapore, Malaysia, Thailand and Indonesia."
+        },
+        {
+          "date": "2026-11-28",
+          "note": "Singapore says reports of an Nvidia shipment halt are unconfirmed."
         }
       ]
     },
@@ -27,9 +31,9 @@
       "id": "us-301-tariffs",
       "title": "US excess-capacity tariffs",
       "started": "2026-11-25",
-      "last": "2026-11-27",
-      "day": 3,
-      "status": "Washington has proposed extra tariffs of up to 20 per cent on 14 economies, Singapore among the highest, and 17 per cent on India. Singapore rejects the findings, including the claim that CPF savings suppress consumption, and will argue its case before the 25 January hearings.",
+      "last": "2026-11-28",
+      "day": 4,
+      "status": "Washington proposes a levy of up to 20 per cent on Singapore, replacing the current 12.5 per cent and hitting about S$9.4 billion of exports. Singapore disputes the 168-page case, including its CPF argument; written comments are due 5 January and hearings start 25 January.",
       "history": [
         {
           "date": "2026-11-25",
@@ -42,6 +46,10 @@
         {
           "date": "2026-11-27",
           "note": "Singapore says it is very disappointed; DPM Gan rejects the CPF argument."
+        },
+        {
+          "date": "2026-11-28",
+          "note": "Close reading of the 168-page US case finds weak evidence on CPF and labour protections."
         }
       ]
     },
@@ -71,9 +79,9 @@
       "id": "india-delimitation",
       "title": "India's delimitation bill",
       "started": "2026-11-26",
-      "last": "2026-11-27",
-      "day": 2,
-      "status": "Parliament sits from 30 November to 3 December to take up an amended delimitation bill, reportedly with 50 per cent more Lok Sabha seats and a women's quota by 2029. The opposition, which defeated the earlier version in April, now has fewer seats after defections.",
+      "last": "2026-11-28",
+      "day": 3,
+      "status": "Cabinet has cleared a new amendment that raises every state's Lok Sabha seats by half, to a maximum of 850, freezes state shares until 2051 and starts the women's quota in 2029. DMK, NCP (SP) and YSRCP now lean towards backing it before the 30 November sitting.",
       "history": [
         {
           "date": "2026-11-26",
@@ -82,6 +90,10 @@
         {
           "date": "2026-11-27",
           "note": "Special sitting called from 30 November to 3 December for the amended bill."
+        },
+        {
+          "date": "2026-11-28",
+          "note": "Cabinet clears the 132nd amendment and a fresh delimitation bill; DMK signals support."
         }
       ]
     }

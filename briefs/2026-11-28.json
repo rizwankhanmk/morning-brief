@@ -1,0 +1,304 @@
+{
+  "date": "2026-11-28",
+  "weather": [
+    {
+      "city": "Singapore",
+      "icon": "rain",
+      "high": 31,
+      "low": 24
+    },
+    {
+      "city": "Navi Mumbai",
+      "icon": "sun",
+      "high": 34,
+      "low": 22
+    }
+  ],
+  "lede": "A wet Saturday in Singapore, as India's cabinet clears a bigger delimitation bill ahead of Monday's sitting, OpenAI countersues Apple over trade secrets, and a close look at Washington's tariff case against Singapore finds it thin in places.",
+  "today": "Spain's campaign closes before Sunday's general election, India's MPs head to Delhi for Monday's special sitting on delimitation, and Singapore's ban on holding a phone while driving starts on Tuesday.",
+  "threads": [
+    {
+      "id": "us-301-tariffs",
+      "title": "US excess-capacity tariffs",
+      "day": 4,
+      "status": "Washington proposes a levy of up to 20 per cent on Singapore, replacing the current 12.5 per cent and hitting about S$9.4 billion of exports. Singapore disputes the 168-page case, including its CPF argument; written comments are due 5 January and hearings start 25 January."
+    },
+    {
+      "id": "sea-chip-curbs",
+      "title": "Chip curbs reach Southeast Asia",
+      "day": 4,
+      "status": "US licence rules now cover advanced chips bound for Singapore, Malaysia, Thailand and Indonesia, and Washington moved to blacklist Megaspeed. Reports say Nvidia paused server shipments to the four, but Singapore says that halt is unconfirmed, and chip sellers are refusing neocloud deals tied to China."
+    },
+    {
+      "id": "india-delimitation",
+      "title": "India's delimitation bill",
+      "day": 3,
+      "status": "Cabinet has cleared a new amendment that raises every state's Lok Sabha seats by half, to a maximum of 850, freezes state shares until 2051 and starts the women's quota in 2029. DMK, NCP (SP) and YSRCP now lean towards backing it before the 30 November sitting."
+    },
+    {
+      "id": "nvidia-huang",
+      "title": "Nvidia after Huang's return",
+      "day": 3,
+      "status": "Jensen Huang is back as chief executive and S&P has Nvidia's AA rating under review over governance. US officials now say they found no firm proof Alice Huang spied for Beijing, while Nvidia is tightening checks on its Southeast Asian partners."
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "currency": "US$",
+      "price": 358.54,
+      "change": 2.96,
+      "change_pct": 0.83
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "currency": "US$",
+      "price": 274.96,
+      "change": 1.86,
+      "change_pct": 0.68
+    },
+    {
+      "ticker": "DBS",
+      "name": "DBS Group",
+      "currency": "S$",
+      "price": 66.15,
+      "change": 0.3,
+      "change_pct": 0.46
+    }
+  ],
+  "indices": [
+    {
+      "ticker": "STI",
+      "name": "Straits Times Index",
+      "price": 4995.23,
+      "change": 32.59,
+      "change_pct": 0.66
+    },
+    {
+      "ticker": "S&P 500",
+      "name": "S&P 500",
+      "price": 7297.49,
+      "change": 114.71,
+      "change_pct": 1.6
+    }
+  ],
+  "stocks_note": "All are Friday 27 November closes: New York's shortened Black Friday session for AAPL, GOOGL and the S&P 500, compared with Wednesday, and SGX for DBS and the STI. Taken from StockAnalysis and Investing.com because Yahoo was rate-limited again. Benzinga lists Apple's next results for 28 January and Alphabet's for 3 February.",
+  "applied": [],
+  "failures": [
+    "stock AAPL: yahoo query1: HTTP 429; yahoo query2: HTTP 429; stooq: ValueError: fewer than two closes",
+    "stock GOOGL: yahoo query1: HTTP 429; yahoo query2: HTTP 429; stooq: ValueError: fewer than two closes",
+    "stock DBS: yahoo query1: HTTP 429; yahoo query2: HTTP 429",
+    "index STI: yahoo query1: HTTP 429; yahoo query2: HTTP 429",
+    "index S&P 500: yahoo query1: HTTP 429; yahoo query2: HTTP 429; stooq: ValueError: fewer than two closes",
+    "feed apple_official https://www.apple.com/newsroom/rss-feed.rss: reachable but nothing in the last 72h"
+  ],
+  "sections": [
+    {
+      "title": "Apple",
+      "subtitle": "Official news in brief, then 9to5Mac and MacRumors",
+      "official": {
+        "label": "From Apple",
+        "summary": "Apple's Newsroom has posted nothing in the past three days. Apple did announce that its Chermside store in Brisbane, shut for renovation since late April, reopens on Friday 11 December at 9am with a new design and a dedicated Apple Pickup counter for online orders. Its four-day Black Friday to Cyber Monday offer is now live in most markets.",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/11/27/apple-chermside-reopening-date/"
+      },
+      "groups": [
+        {
+          "label": "9to5Mac",
+          "items": [
+            {
+              "headline": "Chile's competition watchdog sues Apple and seeks an US$80 million fine",
+              "summary": "Chile's FNE says Apple has abused its dominance in iOS app distribution since at least 2019 by banning sideloading and rival stores and forcing in-app purchases through its own system. Its 50-page complaint leans on rulings in Brazil, the EU, Australia, Japan and the US, and asks the court to order App Store changes.",
+              "source": "9to5Mac",
+              "url": "https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/"
+            }
+          ]
+        },
+        {
+          "label": "MacRumors",
+          "items": [
+            {
+              "headline": "iPhone's share of US smartphone shipments climbs to 57 per cent",
+              "summary": "US shipments fell 9 per cent a year earlier in the third quarter, but Apple was the only major brand not to decline, lifting its share from 50 to 57 per cent, Counterpoint says. Rising memory costs hit cheap Android phones hardest; Motorola's share fell four points to 8 per cent.",
+              "source": "MacRumors",
+              "url": "https://www.macrumors.com/2026/11/27/iphone-share-us-smartphone-market-rises/",
+              "why": "Gaining share while the market shrinks props up iPhone revenue, the bulk of AAPL's earnings, going into the holiday quarter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "subtitle": "Straits Times and Mothership first",
+      "items": [
+        {
+          "headline": "A close reading of Washington's 168-page tariff case against Singapore",
+          "summary": "The proposed levy of up to 20 per cent would replace today's 12.5 per cent and cover about S$9.4 billion of exports. Mothership finds the report's CPF argument rests on a US 401(k) study with a broken link and overlooks CPF Life and SkillsFuture jobseeker support. Comments close 5 January; hearings start 25 January.",
+          "source": "Mothership",
+          "url": "https://mothership.sg/2026/11/us-tariffs-cpf-singapore/",
+          "thread": "us-301-tariffs",
+          "counter": "USTR maintains that high mandatory savings and thin labour protections suppress consumption and wages in Singapore."
+        },
+        {
+          "headline": "Holding a phone while driving becomes an offence from 1 December",
+          "summary": "Drivers may still touch a mounted phone or hold one when stopped. The same Road Traffic Act changes add a purposeful endangerment offence carrying up to 15 years' jail and a lifetime driving ban, raise penalties for dangerous driving causing grievous hurt, and make speed limiters compulsory for mid-sized lorries.",
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/singapore/new-road-traffic-rules-december-1-mobile-phone-driving-6587261"
+        },
+        {
+          "headline": "Cremation and burial fees rise in January for the first time in over 25 years",
+          "summary": "Cremation for citizens and PRs goes from S$100 to S$175, compulsory burial from S$315 to S$400, and a standard niche from S$500 to S$600. Inland ash scattering drops to S$200 to encourage the land-saving option, and families on ComCare or ComLink+ will pay nothing for essential services.",
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/singapore/community/cremation-burial-to-cost-more-from-2027-ash-scattering-will-be-cheaper"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "subtitle": "Major national outlets",
+      "items": [
+        {
+          "headline": "Cabinet clears a reworked delimitation bill, with DMK now leaning towards it",
+          "summary": "The 132nd amendment raises every state's Lok Sabha seats by half, lifting the cap from 550 to 850, freezes each state's share until 2051, and starts the one-third women's quota in 2029. Written to answer southern states' fears, it has drawn DMK, NCP (SP) and YSRCP towards backing it on 30 November.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/cabinet-clears-bills-to-raise-50-lok-sabha-seats-across-states-freeze-delimitation-till-2051/articleshow/136232892.cms",
+          "thread": "india-delimitation",
+          "why": "Maharashtra's 48 Lok Sabha seats would rise to 72 under a uniform 50 per cent increase, Navi Mumbai's constituency map included."
+        },
+        {
+          "headline": "Fashion brands move about US$254 million of orders from Bangladesh, mostly to India",
+          "summary": "Factory owners say Zara, H&M, Marks & Spencer and others diverted nearly a tenth of a month's orders between 1 and 18 November as labour unrest hit Bangladesh's garment industry. India gains a week on delivery times, and Indian textile shares such as Gokaldas Exports jumped as much as 11 per cent.",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
+          "confidence": "single-source",
+          "counter": "A Bangladeshi union leader says brands already price in unrest and the shift may be an excuse to squeeze costs."
+        },
+        {
+          "headline": "Food regulator moves to prosecute Bisleri for a second time in a week",
+          "summary": "FSSAI has sanctioned prosecution after a sample from Bisleri's Jalpaiguri plant in West Bengal tested positive for coliform bacteria, days after a Goa sample failed on bromate and hydrocarbons. Bisleri says its water is safe. Nationwide sampling of packaged drinking water is due to finish in one to two months.",
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/bisleri-in-fresh-trouble-after-goa-fssai-finds-bacteria-in-west-bengal-water-sample/articleshow/136232845.cms"
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "subtitle": "Major international outlets",
+      "items": [
+        {
+          "headline": "US aircraft disable a Singapore-bound ship trying to run the Iran blockade",
+          "summary": "CENTCOM says it struck the stern of the Palau-flagged Pacific Archer in the Gulf of Oman after it left Bandar Abbas; the crew was unharmed. It is at least the 15th ship disabled since April. Iran's navy chief vowed to break the blockade, and the IRGC claimed a tanker hit a mine.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade"
+        },
+        {
+          "headline": "Zelensky calls Trump's friendship with Putin strange as peace talks stall",
+          "summary": "In a BBC interview, Ukraine's president called Putin a killer who cannot be anyone's friend and said late US anti-ballistic missiles were costing lives. Talks in Abu Dhabi made no progress and should resume in December, while civilian deaths from Russian strikes are at a record high.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+        },
+        {
+          "headline": "Cyber incident takes Britain's benefits and pensions portal offline",
+          "summary": "The Department for Work and Pensions shut its public systems late on Thursday after unusual activity, leaving people unable to claim universal credit or check pensions. Regular payments are still going out, the National Cyber Security Centre is investigating, and ministers say there is no sign data was taken.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline"
+        }
+      ]
+    },
+    {
+      "title": "Explainer",
+      "subtitle": "One idea from today's news, in plain words",
+      "brief": {
+        "label": "What a trade secret is, and why Apple and OpenAI are fighting over people",
+        "summary": "A patent is public: you publish how your invention works and in return get about 20 years of exclusive rights. A trade secret is the opposite deal. Anything with value because competitors do not know it, such as a supplier list, a hardware roadmap or the tuning behind a product, is protected for as long as you keep it secret and take reasonable steps to guard it. There is no registration and no expiry, but once it leaks, the protection is largely gone.\nThat is why trade secret fights tend to be about people and files rather than inventions. Apple sued OpenAI in July, saying former staff carried engineering details into OpenAI's device work. On Friday OpenAI countered that a worker who returned to Apple took its hardware plans with him, that Apple pressures suppliers working with OpenAI, and that Apple's practice of letting staff mix work and personal accounts lets it watch people after they leave. OpenAI says about 400 Apple employees have joined it; Apple's case goes to trial in July 2027.\nThe hard part for a court is that experience itself cannot be owned. An engineer may take skills and general know-how to a rival, but not documents or specific secrets. Much of the evidence is therefore forensic: what was downloaded, when, and to which account.\nFor anyone building AI products, or moving between AI companies, the lesson is practical: keep a clean line between what you know and what you were given, and expect hardware and device teams to be the most closely policed in the industry right now.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up"
+          },
+          {
+            "name": "9to5Mac",
+            "url": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI in Singapore",
+      "brief": {
+        "summary": "Singapore says reports that Nvidia has halted server shipments to the Republic are unconfirmed, as new US licence rules take hold. At the Asia Future Summit, leaders from Temus, AWS, OCBC and Trip.com said hiring now favours problem-solving and AI fluency over degrees. NTUC Health is training seniors to run an AI fall-risk scan across its 27 active ageing centres.",
+        "sources": [
+          {
+            "name": "Tech in Asia",
+            "url": "https://www.techinasia.com/news/singapore-reports-nvidia-shipment-halt-unconfirmed"
+          },
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/tech/firms-look-for-creative-problem-solving-relationship-building-skills-in-ai-era-panel"
+          },
+          {
+            "name": "Straits Times",
+            "url": "https://www.straitstimes.com/singapore/health/seniors-tap-ai-to-help-peers-stay-on-their-feet"
+          }
+        ]
+      }
+    },
+    {
+      "title": "AI worldwide",
+      "subtitle": "Models and products, money, policy and chips",
+      "groups": [
+        {
+          "label": "Models and products",
+          "items": [
+            {
+              "headline": "Tencent publishes AI drug discovery work in Nature",
+              "summary": "Tencent has published a paper in Nature on using AI to automate parts of drug discovery, which the SCMP calls a breakthrough for the company as it speeds up AI work in the life sciences. We could not read the full article or confirm the paper's details independently, so treat the scale of the claim with care.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/tech-trends/article/3376082/chinas-tencent-makes-ai-drug-discovery-breakthrough-nature-paper",
+              "confidence": "unverified"
+            },
+            {
+              "headline": "Android's Gemini can now build home-screen widgets from a prompt",
+              "summary": "Create My Widget, a beta Gemini feature rolling out to Pixel phones this month, makes a widget in about 20 seconds from a description. The Verge's tester found many are really shortcuts that hand a prompt to Gemini, fun for simple tasks but unable to show live bus arrivals.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+            }
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            {
+              "headline": "Goldman Sachs starts Unitree Robotics at sell and sees 48 per cent downside",
+              "summary": "Goldman began covering the Chinese humanoid robot maker with a sell rating, arguing its valuation has run ahead of its ability to turn an early hardware lead into lasting profits. Unitree's shares have already fallen sharply since their August debut. We could only see the SCMP summary, not the note itself.",
+              "source": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/big-tech/article/3376095/why-goldman-sachs-gives-unitree-robotics-sell-rating-and-sees-48-downside",
+              "confidence": "unverified"
+            }
+          ]
+        },
+        {
+          "label": "Policy and chips",
+          "items": [
+            {
+              "headline": "42 US state attorneys general try to stop Character.AI selling users' chats",
+              "summary": "Character.AI, in Chapter 11 since October, plans to sell chat histories from more than 21 million US accounts, 2.1 million of them minors'. The AGs say the buyer, set up on 13 November, need not honour privacy policies or allow deletion. New state chatbot laws take effect on 1 January.",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+              "why": "A live case for your AI governance course: privacy promises may not survive once user data becomes an asset in bankruptcy."
+            },
+            {
+              "headline": "Belgium orders Google to stop building a datacentre it lacks a permit for",
+              "summary": "Wallonia inspectors found Google's 3-hectare datacentre near Charleroi almost finished although its revised permit, which would draw 600 cubic metres of Sambre river water an hour for cooling, was revoked in August over drought concerns. About 300 workers were told to stop; Belgium's council of state rules on 7 January.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

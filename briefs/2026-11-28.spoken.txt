@@ -1,0 +1,33 @@
+Good morning. This is your brief for Saturday, 28 November 2026.
+
+Weather: Singapore 31 and 24 degrees with rain; Navi Mumbai 34 and 22 degrees with sun.
+
+A wet Saturday in Singapore, as India's cabinet clears a bigger delimitation bill ahead of Monday's sitting, OpenAI countersues Apple over trade secrets, and a close look at Washington's tariff case against Singapore finds it thin in places.
+
+Today, Spain's campaign closes before Sunday's general election, India's MPs head to Delhi for Monday's special sitting on delimitation, and Singapore's ban on holding a phone while driving starts on Tuesday.
+
+On US excess-capacity tariffs: Washington proposes a levy of up to 20 per cent on Singapore, replacing the current 12.5 per cent and hitting about S$9.4 billion of exports. Singapore disputes the 168-page case, including its CPF argument; written comments are due 5 January and hearings start 25 January.
+
+On Chip curbs reach Southeast Asia: US licence rules now cover advanced chips bound for Singapore, Malaysia, Thailand and Indonesia, and Washington moved to blacklist Megaspeed. Reports say Nvidia paused server shipments to the four, but Singapore says that halt is unconfirmed, and chip sellers are refusing neocloud deals tied to China.
+
+On India's delimitation bill: Cabinet has cleared a new amendment that raises every state's Lok Sabha seats by half, to a maximum of 850, freezes state shares until 2051 and starts the women's quota in 2029. DMK, NCP (SP) and YSRCP now lean towards backing it before the 30 November sitting.
+
+Apple closed at 358.54, up 0.8 percent.
+
+Alphabet closed at 274.96, up 0.7 percent.
+
+DBS Group closed at 66.15, up 0.5 percent.
+
+In Apple: Chile's competition watchdog sues Apple and seeks an US$80 million fine. iPhone's share of US smartphone shipments climbs to 57 per cent.
+
+In Singapore: A close reading of Washington's 168-page tariff case against Singapore. Holding a phone while driving becomes an offence from 1 December. Cremation and burial fees rise in January for the first time in over 25 years.
+
+In India: Cabinet clears a reworked delimitation bill, with DMK now leaning towards it. Fashion brands move about US$254 million of orders from Bangladesh, mostly to India. Food regulator moves to prosecute Bisleri for a second time in a week.
+
+In World: US aircraft disable a Singapore-bound ship trying to run the Iran blockade. Zelensky calls Trump's friendship with Putin strange as peace talks stall. Cyber incident takes Britain's benefits and pensions portal offline.
+
+Today's explainer, What a trade secret is, and why Apple and OpenAI are fighting over people. A patent is public: you publish how your invention works and in return get about 20 years of exclusive rights. A trade secret is the opposite deal. Anything with value because competitors do not know it, such as a supplier list, a hardware roadmap or the tuning behind a product, is protected for as long as you keep it secret and take reasonable steps to guard it. There is no registration and no expiry, but once it leaks, the protection is largely gone. That is why trade secret fights tend to be about people and files rather than inventions. Apple sued OpenAI in July, saying former staff carried engineering details into OpenAI's device work. On Friday OpenAI countered that a worker who returned to Apple took its hardware plans with him, that Apple pressures suppliers working with OpenAI, and that Apple's practice of letting staff mix work and personal accounts lets it watch people after they leave. OpenAI says about 400 Apple employees have joined it; Apple's case goes to trial in July 2027. The hard part for a court is that experience itself cannot be owned. An engineer may take skills and general know-how to a rival, but not documents or specific secrets. Much of the evidence is therefore forensic: what was downloaded, when, and to which account. For anyone building AI products, or moving between AI companies, the lesson is practical: keep a clean line between what you know and what you were given, and expect hardware and device teams to be the most closely policed in the industry right now.
+
+In AI worldwide: Tencent publishes AI drug discovery work in Nature. Android's Gemini can now build home-screen widgets from a prompt. Goldman Sachs starts Unitree Robotics at sell and sees 48 per cent downside.
+
+That's the brief. Links are in the email.

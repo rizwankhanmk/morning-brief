@@ -1,0 +1,129 @@
+MORNING BRIEF, Saturday, 28 November 2026
+
+🌧️ Singapore: 31° / 24°
+☀️ Navi Mumbai: 34° / 22°
+
+A wet Saturday in Singapore, as India's cabinet clears a bigger delimitation bill ahead of Monday's sitting, OpenAI countersues Apple over trade secrets, and a close look at Washington's tariff case against Singapore finds it thin in places.
+Today: Spain's campaign closes before Sunday's general election, India's MPs head to Delhi for Monday's special sitting on delimitation, and Singapore's ban on holding a phone while driving starts on Tuesday.
+
+STILL DEVELOPING
+US excess-capacity tariffs (day 4): Washington proposes a levy of up to 20 per cent on Singapore, replacing the current 12.5 per cent and hitting about S$9.4 billion of exports. Singapore disputes the 168-page case, including its CPF argument; written comments are due 5 January and hearings start 25 January.
+Chip curbs reach Southeast Asia (day 4): US licence rules now cover advanced chips bound for Singapore, Malaysia, Thailand and Indonesia, and Washington moved to blacklist Megaspeed. Reports say Nvidia paused server shipments to the four, but Singapore says that halt is unconfirmed, and chip sellers are refusing neocloud deals tied to China.
+India's delimitation bill (day 3): Cabinet has cleared a new amendment that raises every state's Lok Sabha seats by half, to a maximum of 850, freezes state shares until 2051 and starts the women's quota in 2029. DMK, NCP (SP) and YSRCP now lean towards backing it before the 30 November sitting.
+Nvidia after Huang's return (day 3): Jensen Huang is back as chief executive and S&P has Nvidia's AA rating under review over governance. US officials now say they found no firm proof Alice Huang spied for Beijing, while Nvidia is tightening checks on its Southeast Asian partners.
+
+AAPL  US$358.54  +2.96 (+0.83%)
+GOOGL  US$274.96  +1.86 (+0.68%)
+DBS  S$66.15  +0.30 (+0.46%)
+STI  4,995.23  +32.59 (+0.66%)
+S&P 500  7,297.49  +114.71 (+1.60%)
+All are Friday 27 November closes: New York's shortened Black Friday session for AAPL, GOOGL and the S&P 500, compared with Wednesday, and SGX for DBS and the STI. Taken from StockAnalysis and Investing.com because Yahoo was rate-limited again. Benzinga lists Apple's next results for 28 January and Alphabet's for 3 February.
+
+APPLE
+
+From Apple
+Apple's Newsroom has posted nothing in the past three days. Apple did announce that its Chermside store in Brisbane, shut for renovation since late April, reopens on Friday 11 December at 9am with a new design and a dedicated Apple Pickup counter for online orders. Its four-day Black Friday to Cyber Monday offer is now live in most markets.
+Sources: MacRumors https://www.macrumors.com/2026/11/27/apple-chermside-reopening-date/
+
+9to5Mac
+
+Chile's competition watchdog sues Apple and seeks an US$80 million fine
+Chile's FNE says Apple has abused its dominance in iOS app distribution since at least 2019 by banning sideloading and rival stores and forcing in-app purchases through its own system. Its 50-page complaint leans on rulings in Brazil, the EU, Australia, Japan and the US, and asks the court to order App Store changes.
+Source: 9to5Mac — https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/
+
+MacRumors
+
+iPhone's share of US smartphone shipments climbs to 57 per cent
+US shipments fell 9 per cent a year earlier in the third quarter, but Apple was the only major brand not to decline, lifting its share from 50 to 57 per cent, Counterpoint says. Rising memory costs hit cheap Android phones hardest; Motorola's share fell four points to 8 per cent.
+For you: Gaining share while the market shrinks props up iPhone revenue, the bulk of AAPL's earnings, going into the holiday quarter.
+Source: MacRumors — https://www.macrumors.com/2026/11/27/iphone-share-us-smartphone-market-rises/
+
+SINGAPORE
+
+A close reading of Washington's 168-page tariff case against Singapore
+The proposed levy of up to 20 per cent would replace today's 12.5 per cent and cover about S$9.4 billion of exports. Mothership finds the report's CPF argument rests on a US 401(k) study with a broken link and overlooks CPF Life and SkillsFuture jobseeker support. Comments close 5 January; hearings start 25 January.
+Counter-view: USTR maintains that high mandatory savings and thin labour protections suppress consumption and wages in Singapore.
+Source: Mothership — https://mothership.sg/2026/11/us-tariffs-cpf-singapore/  [Part of: US excess-capacity tariffs]
+
+Holding a phone while driving becomes an offence from 1 December
+Drivers may still touch a mounted phone or hold one when stopped. The same Road Traffic Act changes add a purposeful endangerment offence carrying up to 15 years' jail and a lifetime driving ban, raise penalties for dangerous driving causing grievous hurt, and make speed limiters compulsory for mid-sized lorries.
+Source: CNA — https://www.channelnewsasia.com/singapore/new-road-traffic-rules-december-1-mobile-phone-driving-6587261
+
+Cremation and burial fees rise in January for the first time in over 25 years
+Cremation for citizens and PRs goes from S$100 to S$175, compulsory burial from S$315 to S$400, and a standard niche from S$500 to S$600. Inland ash scattering drops to S$200 to encourage the land-saving option, and families on ComCare or ComLink+ will pay nothing for essential services.
+Source: Straits Times — https://www.straitstimes.com/singapore/community/cremation-burial-to-cost-more-from-2027-ash-scattering-will-be-cheaper
+
+INDIA
+
+Cabinet clears a reworked delimitation bill, with DMK now leaning towards it
+The 132nd amendment raises every state's Lok Sabha seats by half, lifting the cap from 550 to 850, freezes each state's share until 2051, and starts the one-third women's quota in 2029. Written to answer southern states' fears, it has drawn DMK, NCP (SP) and YSRCP towards backing it on 30 November.
+For you: Maharashtra's 48 Lok Sabha seats would rise to 72 under a uniform 50 per cent increase, Navi Mumbai's constituency map included.
+Source: Times of India — https://timesofindia.indiatimes.com/india/cabinet-clears-bills-to-raise-50-lok-sabha-seats-across-states-freeze-delimitation-till-2051/articleshow/136232892.cms  [Part of: India's delimitation bill]
+
+Fashion brands move about US$254 million of orders from Bangladesh, mostly to India
+Factory owners say Zara, H&M, Marks & Spencer and others diverted nearly a tenth of a month's orders between 1 and 18 November as labour unrest hit Bangladesh's garment industry. India gains a week on delivery times, and Indian textile shares such as Gokaldas Exports jumped as much as 11 per cent.
+Counter-view: A Bangladeshi union leader says brands already price in unrest and the shift may be an excuse to squeeze costs.
+Source: The Hindu — https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece  [Single source]
+
+Food regulator moves to prosecute Bisleri for a second time in a week
+FSSAI has sanctioned prosecution after a sample from Bisleri's Jalpaiguri plant in West Bengal tested positive for coliform bacteria, days after a Goa sample failed on bromate and hydrocarbons. Bisleri says its water is safe. Nationwide sampling of packaged drinking water is due to finish in one to two months.
+Source: Times of India — https://timesofindia.indiatimes.com/india/bisleri-in-fresh-trouble-after-goa-fssai-finds-bacteria-in-west-bengal-water-sample/articleshow/136232845.cms
+
+WORLD
+
+US aircraft disable a Singapore-bound ship trying to run the Iran blockade
+CENTCOM says it struck the stern of the Palau-flagged Pacific Archer in the Gulf of Oman after it left Bandar Abbas; the crew was unharmed. It is at least the 15th ship disabled since April. Iran's navy chief vowed to break the blockade, and the IRGC claimed a tanker hit a mine.
+Source: Al Jazeera — https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade
+
+Zelensky calls Trump's friendship with Putin strange as peace talks stall
+In a BBC interview, Ukraine's president called Putin a killer who cannot be anyone's friend and said late US anti-ballistic missiles were costing lives. Talks in Abu Dhabi made no progress and should resume in December, while civilian deaths from Russian strikes are at a record high.
+Source: BBC News — https://www.bbc.co.uk/news/articles/c820q9wgrpyyo
+
+Cyber incident takes Britain's benefits and pensions portal offline
+The Department for Work and Pensions shut its public systems late on Thursday after unusual activity, leaving people unable to claim universal credit or check pensions. Regular payments are still going out, the National Cyber Security Centre is investigating, and ministers say there is no sign data was taken.
+Source: The Guardian — https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline
+
+EXPLAINER
+
+What a trade secret is, and why Apple and OpenAI are fighting over people
+A patent is public: you publish how your invention works and in return get about 20 years of exclusive rights. A trade secret is the opposite deal. Anything with value because competitors do not know it, such as a supplier list, a hardware roadmap or the tuning behind a product, is protected for as long as you keep it secret and take reasonable steps to guard it. There is no registration and no expiry, but once it leaks, the protection is largely gone.
+That is why trade secret fights tend to be about people and files rather than inventions. Apple sued OpenAI in July, saying former staff carried engineering details into OpenAI's device work. On Friday OpenAI countered that a worker who returned to Apple took its hardware plans with him, that Apple pressures suppliers working with OpenAI, and that Apple's practice of letting staff mix work and personal accounts lets it watch people after they leave. OpenAI says about 400 Apple employees have joined it; Apple's case goes to trial in July 2027.
+The hard part for a court is that experience itself cannot be owned. An engineer may take skills and general know-how to a rival, but not documents or specific secrets. Much of the evidence is therefore forensic: what was downloaded, when, and to which account.
+For anyone building AI products, or moving between AI companies, the lesson is practical: keep a clean line between what you know and what you were given, and expect hardware and device teams to be the most closely policed in the industry right now.
+Sources: Al Jazeera https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up; 9to5Mac https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/
+
+AI IN SINGAPORE
+
+Singapore says reports that Nvidia has halted server shipments to the Republic are unconfirmed, as new US licence rules take hold. At the Asia Future Summit, leaders from Temus, AWS, OCBC and Trip.com said hiring now favours problem-solving and AI fluency over degrees. NTUC Health is training seniors to run an AI fall-risk scan across its 27 active ageing centres.
+Sources: Tech in Asia https://www.techinasia.com/news/singapore-reports-nvidia-shipment-halt-unconfirmed; Straits Times https://www.straitstimes.com/tech/firms-look-for-creative-problem-solving-relationship-building-skills-in-ai-era-panel; Straits Times https://www.straitstimes.com/singapore/health/seniors-tap-ai-to-help-peers-stay-on-their-feet
+
+AI WORLDWIDE
+
+Models and products
+
+Tencent publishes AI drug discovery work in Nature
+Tencent has published a paper in Nature on using AI to automate parts of drug discovery, which the SCMP calls a breakthrough for the company as it speeds up AI work in the life sciences. We could not read the full article or confirm the paper's details independently, so treat the scale of the claim with care.
+Source: South China Morning Post — https://www.scmp.com/tech/tech-trends/article/3376082/chinas-tencent-makes-ai-drug-discovery-breakthrough-nature-paper  [Unverified]
+
+Android's Gemini can now build home-screen widgets from a prompt
+Create My Widget, a beta Gemini feature rolling out to Pixel phones this month, makes a widget in about 20 seconds from a description. The Verge's tester found many are really shortcuts that hand a prompt to Gemini, fun for simple tasks but unable to show live bus arrivals.
+Source: The Verge — https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini
+
+Money
+
+Goldman Sachs starts Unitree Robotics at sell and sees 48 per cent downside
+Goldman began covering the Chinese humanoid robot maker with a sell rating, arguing its valuation has run ahead of its ability to turn an early hardware lead into lasting profits. Unitree's shares have already fallen sharply since their August debut. We could only see the SCMP summary, not the note itself.
+Source: South China Morning Post — https://www.scmp.com/tech/big-tech/article/3376095/why-goldman-sachs-gives-unitree-robotics-sell-rating-and-sees-48-downside  [Unverified]
+
+Policy and chips
+
+42 US state attorneys general try to stop Character.AI selling users' chats
+Character.AI, in Chapter 11 since October, plans to sell chat histories from more than 21 million US accounts, 2.1 million of them minors'. The AGs say the buyer, set up on 13 November, need not honour privacy policies or allow deletion. New state chatbot laws take effect on 1 January.
+For you: A live case for your AI governance course: privacy promises may not survive once user data becomes an asset in bankruptcy.
+Source: The Verge — https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats
+
+Belgium orders Google to stop building a datacentre it lacks a permit for
+Wallonia inspectors found Google's 3-hectare datacentre near Charleroi almost finished although its revised permit, which would draw 600 cubic metres of Sambre river water an hour for cooling, was revoked in August over drought concerns. About 300 workers were told to stop; Belgium's council of state rules on 7 January.
+Source: The Guardian — https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits
+
+Built by your morning-brief agent at 7:20am Singapore time. Prices from Yahoo Finance; summaries written from the linked sources.
